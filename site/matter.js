@@ -54,7 +54,7 @@ void main(){
   gl_FragColor=vec4(color,alpha);
 }`;
 
-const geo=new THREE.IcosahedronGeometry(2.55,6);
+const geo=new THREE.IcosahedronGeometry(2.55,4);
 const pointsMat=new THREE.ShaderMaterial({transparent:true,depthWrite:false,blending:THREE.AdditiveBlending,uniforms:{uTime:{value:0},uPointer:{value:new THREE.Vector2()},uScroll:{value:0},uEnergy:{value:0},uColor:{value:new THREE.Color('#d9ff3f')}},vertexShader,fragmentShader});
 const matter=new THREE.Points(geo,pointsMat);root.add(matter);
 
@@ -81,7 +81,7 @@ function resize(){renderer.setPixelRatio(Math.min(devicePixelRatio||1,1.75));ren
 addEventListener('resize',resize);
 
 function animate(){
-  const t=clock.getElapsedTime();
+  const t=reduceMotion?0:clock.getElapsedTime();
   pointer.current.lerp(pointer.target,.07);scroll.current+=(scroll.target-scroll.current)*.045;
   pointsMat.uniforms.uTime.value=t;pointsMat.uniforms.uPointer.value.copy(pointer.current);pointsMat.uniforms.uScroll.value=scroll.current;
   pointsMat.uniforms.uEnergy.value+=(energyTarget-pointsMat.uniforms.uEnergy.value)*.055;
