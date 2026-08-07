@@ -3,97 +3,176 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="theme-color" content="#080a09" />
-  <title>THEARD — Attention Engine</title>
+  <meta name="theme-color" content="#060706" />
   <meta name="description" content="THEARD — AI content engine, commerce automation and live experiences." />
+  <title>THEARD — Attention Engine</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div class="boot" id="boot" aria-hidden="true">
-    <div class="boot-kicker">THEARD / SYSTEM 2026</div>
-    <div class="boot-title">ALLOCATING<br>ATTENTION FIELD</div>
-    <div class="boot-track"><i></i></div>
-    <div class="boot-row"><span>CONTENT</span><span>COMMERCE</span><span>LIVE</span></div>
+    <div class="boot__top">ALLOCATING ATTENTION FIELD</div>
+    <div class="boot__word">THEARD</div>
+    <div class="boot__track"><i></i></div>
+    <div class="boot__bottom"><span>AI CONTENT ENGINE</span><span>2026 / TAIWAN</span></div>
   </div>
+
   <canvas id="field" aria-hidden="true"></canvas>
   <div class="grain" aria-hidden="true"></div>
-  <div class="cursor" id="cursor" aria-hidden="true"></div>
+  <div class="cursor" id="cursor" aria-hidden="true"><i></i></div>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+
   <header class="hud">
-    <button class="menu-btn" id="menuBtn">MENU</button>
-    <a class="brand" href="#home">// THEARD / 2026</a>
-    <div class="online"><i></i> FIELD ONLINE</div>
+    <button class="hud__menu" id="menuBtn" type="button">MENU</button>
+    <a class="hud__brand" href="#home">THEARD / 2026</a>
+    <div class="hud__meta">AI CONTENT ENGINE / TAIWAN</div>
   </header>
+
   <aside class="menu" id="menu" aria-hidden="true">
-    <div class="menu-top"><span>// NAVIGATION</span><button id="menuClose">CLOSE ×</button></div>
-    <nav>
+    <div class="menu__top"><span>// NAVIGATION — THEARD / 2026</span><button id="menuClose" type="button">CLOSE ×</button></div>
+    <nav class="menu__nav">
       <a href="#home"><span>//01</span><b>HOME</b><em>CURRENT ↗</em></a>
       <a href="#system"><span>//02</span><b>SYSTEM</b><em>OPEN ↗</em></a>
-      <a href="#production"><span>//03</span><b>PRODUCTION</b><em>OPEN ↗</em></a>
+      <a href="#work"><span>//03</span><b>WORK</b><em>OPEN ↗</em></a>
       <a href="#live"><span>//04</span><b>LIVE</b><em>OPEN ↗</em></a>
+      <a href="ticket.html"><span>//05</span><b>TICKET</b><em>OPEN ↗</em></a>
     </nav>
-    <div class="menu-bottom"><span>AI CONTENT ENGINE / AFFILIATE AUTOMATION</span><span>TAIWAN / REMOTE</span></div>
+    <div class="menu__bottom"><span>CONTENT / COMMERCE / AUTOMATION</span><span>REMOTE / TAIWAN</span></div>
   </aside>
+
   <main>
-    <section class="hero section" id="home">
-      <div class="top-note reveal">AI CONTENT ENGINE / COMMERCE AUTOMATION / TAIWAN</div>
-      <div class="hero-copy">
-        <h1 class="reveal drift"><span>TURN</span><span>ATTENTION</span><span class="outline">INTO SIGNAL.</span></h1>
-        <div class="hero-side reveal">
-          <p>THEARD 把主題、文案、商品、發布與回饋拆成一條可以被驗證、優化、放大的內容生產流程。</p>
-          <a href="#system">ENTER THE SYSTEM ↓</a>
+    <section id="home" class="hero scene">
+      <a class="skip" href="#work">SKIP EXPERIENCE / VIEW SYSTEMS ↘</a>
+      <div class="hero__eyebrow">//00 AI CONTENT ENGINE / AFFILIATE AUTOMATION</div>
+      <div class="hero__grid">
+        <div class="hero__title-wrap">
+          <div class="hero__kicker">ATTENTION / DATA / DECISION</div>
+          <h1 class="hero__title" data-drift>
+            <span>THEARD</span>
+            <span class="outline">ATTENTION</span>
+            <span>ENGINE</span>
+          </h1>
+        </div>
+        <div class="hero__copy">
+          <p>把熱門主題、內容生成、商品推薦、驗證與發布，組成一條可以持續學習的商業內容系統。</p>
+          <a class="text-link" href="#system">ENTER THE FIELD ↓</a>
         </div>
       </div>
-      <div class="disturb">SCROLL / MOVE TO DISTURB</div>
-      <div class="ticker"><span>CONTENT AGENT — PRODUCT AGENT — TOPIC ROTATION — URL VALIDATION — THREADS PUBLISHER — ANALYTICS — CONTENT AGENT — PRODUCT AGENT — TOPIC ROTATION — URL VALIDATION — THREADS PUBLISHER — ANALYTICS — </span></div>
+      <div class="hero__status"><span>LIGHTWEIGHT EXPERIENCE ACTIVE</span><span>SCROLL / MOVE TO DISTURB</span></div>
     </section>
-    <section class="section chapter" id="system">
-      <div class="chapter-label reveal">//02 SYSTEM</div>
-      <div class="split reveal">
-        <h2>ONE PIPELINE.<br><em>MANY DECISIONS.</em></h2>
-        <p>這不是「叫 AI 幫我寫一篇文」。資料先進入策略層，再由不同 Agent 分工；每一次輸出都先被檢查，再決定要不要發佈。</p>
+
+    <section id="system" class="statement scene">
+      <div class="scene__label">//01 PRODUCT OWNERSHIP / DESIGN JUDGMENT / END-TO-END DELIVERY</div>
+      <div class="statement__grid">
+        <h2>TECHNICAL<br><span>DEPTH.</span></h2>
+        <div class="statement__copy">
+          <p>THEARD 不是單一的 AI 文案工具。它把資料、策略、內容、商品、連結與發布切成獨立模組，讓每一步都可以檢查、替換與優化。</p>
+          <p>真正的目標不是「自動發文」，而是建立一條能把注意力轉成有意義行動的內容管線。</p>
+          <a class="text-link" href="#work">SEE SELECTED SYSTEMS ↓</a>
+        </div>
       </div>
-      <div class="pipeline reveal">
-        <article><small>01</small><b>TOPICS</b><span>rotation + score</span></article><i>→</i>
-        <article class="active"><small>02</small><b>CONTENT</b><span>voice + hook</span></article><i>→</i>
-        <article><small>03</small><b>PRODUCT</b><span>match + dedupe</span></article><i>→</i>
-        <article><small>04</small><b>VERIFY</b><span>links + rules</span></article><i>→</i>
-        <article class="active"><small>05</small><b>PUBLISH</b><span>guarded API</span></article>
-      </div>
-    </section>
-    <section class="section chapter" id="production">
-      <div class="chapter-label reveal">//03 DAILY PRODUCTION</div>
-      <div class="split reveal">
-        <h2>PRODUCTION,<br><em>NOT POSTING.</em></h2>
-        <p>每天先做可審核的內容產物，再把真正發佈留到最後一步。這讓我們可以把錯誤、重複與不適合的商品攔在送出之前。</p>
-      </div>
-      <div class="cards">
-        <article class="reveal"><span>01</span><h3>SELECT</h3><p>挑今天值得講的主題，不把帳號變成重複廣告牆。</p><b>topic → intent</b></article>
-        <article class="reveal"><span>02</span><h3>GENERATE</h3><p>Content Agent 產生像真人分享的繁體中文 Threads 文案。</p><b>intent → caption</b></article>
-        <article class="reveal"><span>03</span><h3>MATCH</h3><p>Product Agent 挑四個真正相關的商品，兼顧分類與去重。</p><b>caption → products</b></article>
-        <article class="reveal"><span>04</span><h3>VERIFY</h3><p>最後檢查連結、禁用詞、重複內容與發佈狀態。</p><b>payload → state</b></article>
+      <div class="system-line" aria-hidden="true">
+        <span>TOPIC</span><i>→</i><span>CONTENT</span><i>→</i><span>PRODUCT</span><i>→</i><span>VERIFY</span><i>→</i><span>PUBLISH</span>
       </div>
     </section>
-    <section class="section live" id="live">
-      <div class="chapter-label reveal">//04 THEARD LIVE / 001</div>
-      <div class="live-head reveal">
-        <h2>FROM<br><span>SCREEN</span><br>TO ROOM.</h2>
+
+    <section id="work" class="work scene">
+      <div class="scene__label">// THE ATTENTION REEL</div>
+      <div class="work__head">
+        <h2>SELECTED<br>Systems.</h2>
+        <p>每個模組都可以獨立運作，也能接成完整 pipeline。向下捲動，會像查看 case study 一樣逐一進入系統。</p>
+      </div>
+
+      <article class="case" data-accent="01">
+        <div class="case__meta">//02 01 / CONTENT AGENT / THEARD</div>
+        <div class="case__grid">
+          <div>
+            <h3>Content<br>Agent</h3>
+            <p>從 Topic 與帳號語氣出發，產生適合 Threads 的繁體中文內容，並保留防重複與品質檢查。</p>
+            <a class="text-link" href="#case-product">OPEN NEXT SYSTEM ↘</a>
+          </div>
+          <div class="case__visual visual--text" aria-hidden="true">
+            <span>INPUT</span><strong>租屋桌面整理</strong>
+            <span>VOICE</span><strong>自然 / 分享 / 非硬廣</strong>
+            <span>OUTPUT</span><strong>最近才發現，桌面順眼很多，工作也真的比較能專心。</strong>
+          </div>
+        </div>
+      </article>
+
+      <article class="case" id="case-product" data-accent="02">
+        <div class="case__meta">//03 02 / PRODUCT AGENT / AFFILIATE</div>
+        <div class="case__grid">
+          <div>
+            <h3>Product<br>Agent</h3>
+            <p>依主題相關性、近期使用紀錄與商品分類挑選商品，避免每篇都推同一組內容。</p>
+            <a class="text-link" href="#case-publish">OPEN NEXT SYSTEM ↘</a>
+          </div>
+          <div class="case__visual visual--product" aria-hidden="true">
+            <div><small>01</small><b>DESK STORAGE</b><em>RELEVANCE 94</em></div>
+            <div><small>02</small><b>CABLE CONTROL</b><em>RELEVANCE 89</em></div>
+            <div><small>03</small><b>LIGHTING</b><em>RELEVANCE 82</em></div>
+            <div><small>04</small><b>ROOM ORGANIZER</b><em>RELEVANCE 77</em></div>
+          </div>
+        </div>
+      </article>
+
+      <article class="case" id="case-publish" data-accent="03">
+        <div class="case__meta">//04 03 / PUBLISHER PIPELINE / THREADS</div>
+        <div class="case__grid">
+          <div>
+            <h3>Guarded<br>Publish</h3>
+            <p>所有內容先經過 preview、URL、數量與狀態檢查。只有 READY_TO_PUBLISH 才能進入 API 發布流程。</p>
+            <a class="text-link" href="#live">ENTER LIVE EXPERIENCE ↘</a>
+          </div>
+          <div class="case__visual visual--terminal" aria-hidden="true">
+            <code>$ python scripts/publisher_pipeline.py</code>
+            <code>CHECK caption ........ PASS</code>
+            <code>CHECK products ....... PASS</code>
+            <code>CHECK reply urls ...... PASS</code>
+            <code>STATE ................. READY_TO_PUBLISH</code>
+            <code class="ok">THREADS API ............ GUARDED</code>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section id="live" class="live scene">
+      <div class="scene__label">//05 THEARD LIVE / 001 / SYSTEM → ROOM</div>
+      <div class="live__grid">
         <div>
-          <p>我們正在規劃第一次 THEARD 實體活動。把 AI 內容系統、商業化與現場交流放在同一個空間裡。</p>
+          <p class="live__kicker">CONTENT × AI × COMMERCE</p>
+          <h2>FROM<br><span>SCREEN</span><br>TO ROOM.</h2>
+        </div>
+        <div class="live__copy">
+          <p>我們正在規劃 THEARD 的第一場實體活動，把 AI 內容系統、商業化思考與現場工作坊放進同一個空間。</p>
           <dl>
             <div><dt>DATE</dt><dd>TBA / 2026</dd></div>
             <div><dt>LOCATION</dt><dd>TAIWAN / TBA</dd></div>
             <div><dt>FORMAT</dt><dd>LIVE BUILD + WORKSHOP</dd></div>
           </dl>
+          <a class="text-link dark-link" href="ticket.html">OPEN ELECTRONIC PASS ↗</a>
         </div>
       </div>
-      <a class="ticket reveal" href="#live" aria-label="THEARD LIVE ticket preview">
-        <div class="ticket-main"><div><span>THEARD LIVE</span><span>001 / 2026</span></div><strong>ADMIT<br>ONE</strong><footer><span>CONTENT × AI × COMMERCE</span><span>TAIWAN / TBA</span></footer></div>
-        <div class="ticket-stub"><span>ENTRY</span><b>001</b><i></i><small>PASS PREVIEW</small></div>
+
+      <a class="ticket" href="ticket.html" aria-label="Open THEARD electronic ticket demo">
+        <div class="ticket__main">
+          <div class="ticket__top"><span>THEARD LIVE</span><span>001 / 2026</span></div>
+          <strong>ADMIT<br>ONE</strong>
+          <div class="ticket__bottom"><span>CONTENT × AI × COMMERCE</span><span>TAIWAN / TBA</span></div>
+        </div>
+        <div class="ticket__stub"><span>ENTRY</span><b>001</b><i></i><small>PASS / DEMO</small></div>
       </a>
-      <p class="ticket-note reveal">電子票券會沿用同一套視覺系統：唯一票號、QR Code、手機出示與列印版。</p>
     </section>
-    <footer class="site-footer"><div><strong>THEARD</strong><span>ATTENTION ENGINE / 2026</span></div><a href="https://github.com/xieyaozhong/theard">GITHUB ↗</a></footer>
+
+    <section class="finale scene">
+      <div class="scene__label">//06 SYSTEM COMPLETE</div>
+      <h2>AMBITIOUS<br>IDEAS,<br><span>SHIPPED.</span></h2>
+      <div class="finale__bottom">
+        <p>THEARD / ATTENTION ENGINE / 2026</p>
+        <div><a href="https://github.com/xieyaozhong/theard">GITHUB ↗</a><a href="#home">BACK TO TOP ↑</a></div>
+      </div>
+    </section>
   </main>
+
   <script src="app.js"></script>
 </body>
 </html>
