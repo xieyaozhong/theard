@@ -29,25 +29,18 @@ for(let i=0;i<count;i++){
   const u=i/Math.max(count-1,1),y=1-u*2,rr=Math.sqrt(Math.max(0,1-y*y)),theta=golden*i;
   const nx=Math.cos(theta)*rr,ny=y,nz=Math.sin(theta)*rr,seed=rnd(i,2.31);attrs.seed[i]=seed;
   const homeR=2.38+(seed-.5)*.18;write(attrs.home,i,nx*homeR,ny*homeR,nz*homeR);
-
   const torusA=theta,torusB=golden*i*2.17,R=2.35,r=.48+(seed-.5)*.16;
   write(attrs.system,i,(R+r*Math.cos(torusB))*Math.cos(torusA),(r*Math.sin(torusB))*.9,(R+r*Math.cos(torusB))*Math.sin(torusA));
-
   const sx=(u-.5)*5.5,phase=u*Math.PI*9.0,band=(rnd(i,4.6)-.5)*.58;
   write(attrs.content,i,sx,Math.sin(phase)*.82+band,Math.cos(phase*.83)*.65+(seed-.5)*.75);
-
   const g=i%4,cx=(g%2?1:-1)*1.55,cy=(g>1?-1:1)*1.05,mini=.72+(seed-.5)*.14;
   write(attrs.product,i,cx+nx*mini,cy+ny*mini,nz*mini*.9);
-
   const fy=(u-.5)*4.8,fr=.26+Math.pow(Math.abs(u-.5)*2,.85)*2.25,fa=theta*1.7;
   write(attrs.publish,i,Math.cos(fa)*fr,fy,Math.sin(fa)*fr);
-
   const pa=theta,pr=2.55+(rnd(i,7.4)-.5)*.38,pdepth=(rnd(i,8.2)-.5)*.58;
   write(attrs.live,i,Math.cos(pa)*pr,Math.sin(pa)*pr,pdepth);
-
   const finaleR=2.75+.42*Math.sin(theta*3.0)+(seed-.5)*.18;
   write(attrs.finale,i,nx*finaleR,ny*finaleR,nz*finaleR);
-
   const sr=5.5+rnd(i,9.7)*6.5,sa=rnd(i,10.3)*Math.PI*2,sp=Math.acos(rnd(i,11.1)*2-1);
   write(attrs.scatter,i,Math.sin(sp)*Math.cos(sa)*sr,Math.cos(sp)*sr,Math.sin(sp)*Math.sin(sa)*sr);
 }
@@ -118,7 +111,7 @@ void main(){
   gl_FragColor=vec4(color,a);
 }`;
 
-const material=new THREE.ShaderMaterial({transparent:true,depthWrite:false,blending:THREE.AdditiveBlending,uniforms:{uTime:{value:0},uState:{value:0},uIntro:{value:0},uEnergy:{value:0},uPointer:{value:new THREE.Vector2()},uColor:{value:new THREE.Color('#d9ff3f')}},vertexShader,fragmentShader});
+const material=new THREE.ShaderMaterial({transparent:true,depthWrite:false,blending:THREE.NormalBlending,uniforms:{uTime:{value:0},uState:{value:0},uIntro:{value:0},uEnergy:{value:0},uPointer:{value:new THREE.Vector2()},uColor:{value:new THREE.Color('#d9ff3f')}},vertexShader,fragmentShader});
 const matter=new THREE.Points(geometry,material);root.add(matter);
 
 const starGeo=new THREE.BufferGeometry(),starCount=mobile?120:360,starPos=new Float32Array(starCount*3);
@@ -143,6 +136,7 @@ const xStates=mobile?[0,0,0,0,0,0,0]:[1.2,1.35,.9,.65,.85,0,.55];
 const scaleStates=mobile?[.84,.82,.78,.8,.8,.82,.82]:[1,1,.93,.94,.92,.9,.96];
 function sample(arr,s){const a=Math.floor(clamp(s,0,arr.length-1)),b=Math.min(a+1,arr.length-1),t=clamp(s-a);return THREE.MathUtils.lerp(arr[a],arr[b],t)}
 function clamp(v,min=0,max=1){return Math.max(min,Math.min(max,v))}
+function smoothRange(v,a,b){return clamp((v-a)/(b-a))}
 
 function animate(){
   requestAnimationFrame(animate);if(!visible)return;
@@ -156,14 +150,14 @@ function animate(){
   material.uniforms.uPointer.value.copy(pointer.current);
   material.uniforms.uEnergy.value+=(energyTarget-material.uniforms.uEnergy.value)*.07;
 
-  const liveMix=smoothRange(currentState,4.45,5.35);colorTarget.copy(acid).lerp(ink,liveMix*.92);colorCurrent.lerp(colorTarget,.055);material.uniforms.uColor.value.copy(colorCurrent);
+  const liveIn=smoothRange(currentState,4.4,5.0),liveOut=1-smoothRange(currentState,5.0,5.72),liveMix=Math.min(liveIn,liveOut);
+  colorTarget.copy(acid).lerp(ink,liveMix*.9);colorCurrent.lerp(colorTarget,.06);material.uniforms.uColor.value.copy(colorCurrent);
   const px=pointer.current.x,py=pointer.current.y;
   const x=sample(xStates,currentState)+(coarse?0:px*.09),sc=sample(scaleStates,currentState);
   root.position.x+=(x-root.position.x)*.045;root.position.y+=((coarse?0:py*.05)-root.position.y)*.045;root.scale.setScalar(sc);
   root.rotation.y=(reduced?0:t*.028)+Math.sin(t*.22)*.075+currentState*.055+(coarse?0:px*.045);
   root.rotation.x=Math.sin(t*.17)*.035+(coarse?0:py*.035);
   root.rotation.z=Math.sin(currentState*.72)*.045;
-
   camera.position.x=(reduced?0:Math.sin(t*.19)*.095)+Math.sin(currentState*.62)*.035;
   camera.position.y=reduced?0:Math.cos(t*.16)*.052;
   camera.position.z=(mobile?10.1:9.15)+Math.sin(currentState*.5)*.16;
@@ -171,7 +165,6 @@ function animate(){
   stars.rotation.y=reduced?0:t*.0016+currentState*.018;
   renderer.render(scene,camera);
 }
-function smoothRange(v,a,b){return clamp((v-a)/(b-a))}
 
 resize();animate();
 window.__THEARD_WEBGL__={renderer,scene,camera,get state(){return currentState}};
