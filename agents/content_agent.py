@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 
 OPENINGS = (
     "最近才發現，{topic}其實不用一次全部改完。",
-    "房間順眼很多，常常只是先把{topic}整理對。",
+    "房間順眼很多，常常只是先把{topic}處理順。",
     "如果空間不大，我會先從{topic}開始調整。",
     "租屋最有感的改變，往往藏在{topic}這種小地方。",
     "不用大改房間，把{topic}處理好就差很多。",
