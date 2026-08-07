@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#090b0b">
+  <title>THEARD — Threads × Shopee Affiliate AI</title>
+  <meta name="description" content="Threads × Shopee Affiliate AI automation system showcase.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <canvas id="field" aria-hidden="true"></canvas>
+  <div class="grain" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="brand" href="#home">THEARD / 2026</a>
+    <nav>
+      <a href="#home">//01 HOME</a>
+      <a href="#system">//02 SYSTEM</a>
+      <a href="#flow">//03 FLOW</a>
+      <a href="#stack">//04 STACK</a>
+    </nav>
+    <div class="status"><i></i> SYSTEM READY</div>
+  </header>
+
+  <main>
+    <section id="home" class="hero section">
+      <div class="eyebrow reveal">AI CONTENT ENGINE / AFFILIATE AUTOMATION / TAIWAN</div>
+      <div class="hero-grid">
+        <div>
+          <h1 class="reveal"><span>TURN</span><span>ATTENTION</span><span class="accent">INTO SIGNAL.</span></h1>
+          <p class="lead reveal">把主題、內容、商品、連結與發布流程拆成可驗證的 Agent，讓 Threads 導購從一次性的手工作業變成可維護的內容系統。</p>
+        </div>
+        <aside class="hero-aside reveal">
+          <div class="meta-line"><span>MODE</span><b>DRY RUN DEFAULT</b></div>
+          <div class="meta-line"><span>LANGUAGE</span><b>ZH-TW</b></div>
+          <div class="meta-line"><span>OUTPUT</span><b>3 POSTS / DAY</b></div>
+          <div class="meta-line"><span>PRODUCTS</span><b>4 / POST</b></div>
+          <a class="enter" href="#system">ENTER THE SYSTEM ↓</a>
+        </aside>
+      </div>
+      <div class="ticker" aria-hidden="true"><span>CONTENT AGENT — PRODUCT AGENT — TOPIC ROTATION — URL VALIDATION — THREADS PUBLISHER — ANALYTICS — CONTENT AGENT — PRODUCT AGENT — TOPIC ROTATION — URL VALIDATION — THREADS PUBLISHER — ANALYTICS — </span></div>
+    </section>
+
+    <section id="system" class="section numbered">
+      <div class="section-index reveal">//02 SYSTEM ARCHITECTURE</div>
+      <div class="split">
+        <h2 class="reveal">One pipeline.<br><em>Many decisions.</em></h2>
+        <p class="reveal">系統不是「叫 AI 寫一篇文」而已。資料先進入策略層，再由 Content Agent 與 Product Agent 分工，發布前經過 URL、內容與狀態檢查。真正的 API 呼叫被留在最後，而且預設關閉。</p>
+      </div>
+      <div class="architecture reveal">
+        <div class="node"><small>01</small><strong>TOPICS</strong><span>rotation + score</span></div>
+        <div class="arrow">→</div>
+        <div class="node hot"><small>02</small><strong>CONTENT AGENT</strong><span>caption generation</span></div>
+        <div class="arrow">→</div>
+        <div class="node"><small>03</small><strong>PRODUCT AGENT</strong><span>match + dedupe</span></div>
+        <div class="arrow">→</div>
+        <div class="node"><small>04</small><strong>VALIDATION</strong><span>links + policy</span></div>
+        <div class="arrow">→</div>
+        <div class="node hot"><small>05</small><strong>PUBLISH</strong><span>guarded API</span></div>
+      </div>
+    </section>
+
+    <section id="flow" class="section numbered">
+      <div class="section-index reveal">//03 DAILY PRODUCTION</div>
+      <div class="split">
+        <h2 class="reveal">Production,<br><em>not posting.</em></h2>
+        <p class="reveal">每天先產生三份可審核 preview。只有在 caption、四個商品與四個 reply URL 都通過檢查後，狀態才會進入 <code>READY_TO_PUBLISH</code>。</p>
+      </div>
+      <div class="cards">
+        <article class="card reveal"><span>01</span><h3>SELECT</h3><p>Smart Topic Selector 依 priority、last_used 與歷史資料挑選主題。</p><b>topic → intent</b></article>
+        <article class="card reveal"><span>02</span><h3>GENERATE</h3><p>Content Agent 生成一行台灣 Threads 語感文案，不把主文寫成廣告。</p><b>intent → caption</b></article>
+        <article class="card reveal"><span>03</span><h3>MATCH</h3><p>Product Agent 從 active products 中挑四個商品，優先分散分類與避免近期重複。</p><b>caption → products</b></article>
+        <article class="card reveal"><span>04</span><h3>VERIFY</h3><p>Pipeline 檢查數量、URL、禁用詞與重複 hash，失敗就 BLOCKED。</p><b>payload → state</b></article>
+      </div>
+    </section>
+
+    <section id="stack" class="section numbered final">
+      <div class="section-index reveal">//04 BUILD / DEPLOY / EVOLVE</div>
+      <div class="split">
+        <h2 class="reveal">Built to be<br><em>changed safely.</em></h2>
+        <p class="reveal">目前核心只依賴 Python 標準函式庫，資料存成 JSON；展示頁則是原生 HTML / CSS / JavaScript。這讓專案容易搬移、測試，也方便之後替換成資料庫、LLM API 或分析儀表板。</p>
+      </div>
+      <div class="stack-grid reveal">
+        <div><span>RUNTIME</span><strong>PYTHON 3.11+</strong></div>
+        <div><span>DATA</span><strong>JSON / FILE-BASED</strong></div>
+        <div><span>PUBLISH</span><strong>THREADS GRAPH API</strong></div>
+        <div><span>SHOWCASE</span><strong>VANILLA WEB</strong></div>
+        <div><span>CI</span><strong>GITHUB ACTIONS</strong></div>
+        <div><span>SAFETY</span><strong>DRY-RUN FIRST</strong></div>
+      </div>
+      <footer>
+        <div><strong>THEARD</strong><span>Threads × Shopee Affiliate AI</span></div>
+        <a href="https://github.com/xieyaozhong/theard">OPEN REPOSITORY ↗</a>
+      </footer>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

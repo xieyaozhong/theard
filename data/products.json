@@ -1,0 +1,90 @@
+[
+  {
+    "id": "product-001",
+    "title": "雙層桌面收納架",
+    "category": "桌面整理",
+    "affiliate_url": "https://shopee.tw/search?keyword=product-001",
+    "affiliate_short_url": "",
+    "tags": ["桌面", "收納", "小房間"],
+    "last_used": "",
+    "use_count": 0,
+    "active": true
+  },
+  {
+    "id": "product-002",
+    "title": "免打孔牆面置物架",
+    "category": "牆面",
+    "affiliate_url": "https://shopee.tw/search?keyword=product-002",
+    "affiliate_short_url": "",
+    "tags": ["租屋", "牆面", "收納"],
+    "last_used": "",
+    "use_count": 0,
+    "active": true
+  },
+  {
+    "id": "product-003",
+    "title": "窄型床邊推車",
+    "category": "床邊",
+    "affiliate_url": "https://shopee.tw/search?keyword=product-003",
+    "affiliate_short_url": "",
+    "tags": ["床邊", "小房間", "推車"],
+    "last_used": "",
+    "use_count": 0,
+    "active": true
+  },
+  {
+    "id": "product-004",
+    "title": "桌下理線固定夾",
+    "category": "桌面整理",
+    "affiliate_url": "https://shopee.tw/search?keyword=product-004",
+    "affiliate_short_url": "",
+    "tags": ["理線", "桌面", "租屋"],
+    "last_used": "",
+    "use_count": 0,
+    "active": true
+  },
+  {
+    "id": "product-005",
+    "title": "折疊收納箱",
+    "category": "收納",
+    "affiliate_url": "https://shopee.tw/search?keyword=product-005",
+    "affiliate_short_url": "",
+    "tags": ["收納", "衣物", "租屋"],
+    "last_used": "",
+    "use_count": 0,
+    "active": true
+  },
+  {
+    "id": "product-006",
+    "title": "磁吸小夜燈",
+    "category": "燈光",
+    "affiliate_url": "https://shopee.tw/search?keyword=product-006",
+    "affiliate_short_url": "",
+    "tags": ["小夜燈", "床邊", "租屋"],
+    "last_used": "",
+    "use_count": 0,
+    "active": true
+  },
+  {
+    "id": "product-007",
+    "title": "門後免釘掛勾",
+    "category": "租屋用品",
+    "affiliate_url": "https://shopee.tw/search?keyword=product-007",
+    "affiliate_short_url": "",
+    "tags": ["掛勾", "免打孔", "租屋"],
+    "last_used": "",
+    "use_count": 0,
+    "active": true
+  },
+  {
+    "id": "product-008",
+    "title": "透明抽屜收納盒",
+    "category": "收納",
+    "affiliate_url": "https://shopee.tw/search?keyword=product-008",
+    "affiliate_short_url": "",
+    "tags": ["抽屜", "桌面", "收納"],
+    "last_used": "",
+    "use_count": 0,
+    "active": true
+  }
+]

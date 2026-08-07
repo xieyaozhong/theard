@@ -1,0 +1,2 @@
+# Core project uses only Python standard-library modules.
+# Tested with Python 3.13; CI runs on Python 3.12.
