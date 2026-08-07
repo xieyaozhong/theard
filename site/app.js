@@ -3,9 +3,6 @@ const clamp=(v,min=0,max=1)=>Math.max(min,Math.min(max,v));
 const coarse=matchMedia('(pointer:coarse)').matches;
 const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-function ensureCss(href){if(!document.querySelector(`link[href="${href}"]`)){const l=document.createElement('link');l.rel='stylesheet';l.href=href;document.head.appendChild(l)}}
-ensureCss('matter.css');ensureCss('motion.css');
-
 const boot=$('#boot');
 setTimeout(()=>{boot?.classList.add('done');document.documentElement.classList.add('entered')},1380);
 
@@ -34,12 +31,10 @@ function setHudLabel(label){if(!hudMeta||hudMeta.textContent===label)return;hudM
 function updateScrollState(){
   rafPending=false;const now=performance.now(),y=scrollY,dt=Math.max(now-lastT,16),velocity=clamp(Math.abs(y-lastY)/dt,0,2.4);lastY=y;lastT=now;targetY=y;
   document.documentElement.style.setProperty('--scroll-velocity',velocity.toFixed(3));document.body.classList.add('is-scrolling');clearTimeout(scrollTimer);scrollTimer=setTimeout(()=>document.body.classList.remove('is-scrolling'),120);
-
   const max=Math.max(document.documentElement.scrollHeight-innerHeight,1),page=clamp(y/max);if(progress)progress.style.height=`${page*100}%`;document.documentElement.style.setProperty('--scroll-progress',page.toFixed(4));
   const center=innerHeight*.5;let bestScene=null,bestSceneDist=Infinity;
   scenes.forEach(scene=>{const r=scene.getBoundingClientRect(),local=clamp((innerHeight-r.top)/(innerHeight+r.height));scene.style.setProperty('--scene-progress',local.toFixed(4));const d=Math.abs((r.top+r.height*.5)-center);if(r.bottom>0&&r.top<innerHeight&&d<bestSceneDist){bestSceneDist=d;bestScene=scene}});
   if(bestScene!==activeScene){activeScene=bestScene;scenes.forEach(scene=>scene.classList.toggle('is-active',scene===activeScene));if(activeScene)setHudLabel(sceneNames.get(activeScene)||'THEARD / 2026')}
-
   let bestCase=null,bestCaseDist=Infinity;
   cases.forEach(card=>{const r=card.getBoundingClientRect(),p=clamp((innerHeight-r.top)/(innerHeight+r.height)),d=Math.abs((r.top+r.height*.48)-center),yy=(.5-p)*22,scale=.982+Math.sin(p*Math.PI)*.018;card.style.setProperty('--case-y',`${yy.toFixed(2)}px`);card.style.setProperty('--case-scale',scale.toFixed(4));if(r.bottom>0&&r.top<innerHeight&&d<bestCaseDist){bestCaseDist=d;bestCase=card}});
   if(bestCase!==activeCase){activeCase=bestCase;cases.forEach(card=>card.classList.toggle('is-current',card===activeCase))}
@@ -53,4 +48,4 @@ if(!coarse&&!reduced){$$('.case__visual').forEach(panel=>{panel.addEventListener
 
 const hero=$('.hero');if(hero&&!$('.matter-readout',hero)){const readout=document.createElement('div');readout.className='matter-readout';readout.innerHTML='<span>THREE.JS / GLSL / SCROLL TIMELINE</span><b>PERSISTENT MATTER ACTIVE</b>';hero.appendChild(readout)}
 
-import('./matter.js').catch(err=>{document.documentElement.classList.add('webgl-fallback');console.warn('THEARD WebGL enhancement unavailable; base experience remains active.',err)});
+import('./matter.js?v=20260807-3').catch(err=>{document.documentElement.classList.add('webgl-fallback');console.warn('THEARD WebGL enhancement unavailable; base experience remains active.',err)});
