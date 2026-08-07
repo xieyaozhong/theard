@@ -1,91 +1,177 @@
 import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.161.0/build/three.module.js';
 
 const canvas=document.getElementById('field');
-const hero=document.getElementById('home');
-if(!canvas||!hero) throw new Error('THEARD WebGL stage missing');
+if(!canvas) throw new Error('THEARD WebGL stage missing');
 
-const reduceMotion=matchMedia('(prefers-reduced-motion: reduce)').matches;
+const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
 const coarse=matchMedia('(pointer:coarse)').matches;
 const mobile=innerWidth<700||coarse;
 const renderer=new THREE.WebGLRenderer({canvas,alpha:true,antialias:!mobile,powerPreference:'high-performance'});
-const pixelCap=mobile?1.15:1.5;
+const pixelCap=mobile?1.05:1.5;
 renderer.setPixelRatio(Math.min(devicePixelRatio||1,pixelCap));
 renderer.outputColorSpace=THREE.SRGBColorSpace;
 renderer.setClearColor(0x000000,0);
 
 const scene=new THREE.Scene();
-const camera=new THREE.PerspectiveCamera(mobile?48:44,1,.1,100);
-camera.position.set(0,0,mobile?9.8:9.1);
-
+const camera=new THREE.PerspectiveCamera(mobile?49:43,1,.1,100);
 const root=new THREE.Group();scene.add(root);
-const pointer={target:new THREE.Vector2(),current:new THREE.Vector2()};
 const clock=new THREE.Clock();
-let heroVisible=true,heroProgress=0,energyTarget=.07,baseX=0,baseScale=1,stageW=innerWidth,stageH=innerHeight;
+const pointer={target:new THREE.Vector2(),current:new THREE.Vector2()};
+let targetState=0,currentState=0,energyTarget=.05,stageW=innerWidth,stageH=innerHeight,visible=!document.hidden;
+
+const count=mobile?960:2400;
+const attrs={home:new Float32Array(count*3),system:new Float32Array(count*3),content:new Float32Array(count*3),product:new Float32Array(count*3),publish:new Float32Array(count*3),live:new Float32Array(count*3),finale:new Float32Array(count*3),scatter:new Float32Array(count*3),seed:new Float32Array(count)};
+const golden=Math.PI*(3-Math.sqrt(5));
+const rnd=(i,k=1)=>{const x=Math.sin((i+1)*12.9898*k)*43758.5453123;return x-Math.floor(x)};
+const write=(arr,i,x,y,z)=>{arr[i*3]=x;arr[i*3+1]=y;arr[i*3+2]=z};
+
+for(let i=0;i<count;i++){
+  const u=i/Math.max(count-1,1),y=1-u*2,rr=Math.sqrt(Math.max(0,1-y*y)),theta=golden*i;
+  const nx=Math.cos(theta)*rr,ny=y,nz=Math.sin(theta)*rr,seed=rnd(i,2.31);attrs.seed[i]=seed;
+  const homeR=2.38+(seed-.5)*.18;write(attrs.home,i,nx*homeR,ny*homeR,nz*homeR);
+
+  const torusA=theta,torusB=golden*i*2.17,R=2.35,r=.48+(seed-.5)*.16;
+  write(attrs.system,i,(R+r*Math.cos(torusB))*Math.cos(torusA),(r*Math.sin(torusB))*.9,(R+r*Math.cos(torusB))*Math.sin(torusA));
+
+  const sx=(u-.5)*5.5,phase=u*Math.PI*9.0,band=(rnd(i,4.6)-.5)*.58;
+  write(attrs.content,i,sx,Math.sin(phase)*.82+band,Math.cos(phase*.83)*.65+(seed-.5)*.75);
+
+  const g=i%4,cx=(g%2?1:-1)*1.55,cy=(g>1?-1:1)*1.05,mini=.72+(seed-.5)*.14;
+  write(attrs.product,i,cx+nx*mini,cy+ny*mini,nz*mini*.9);
+
+  const fy=(u-.5)*4.8,fr=.26+Math.pow(Math.abs(u-.5)*2,.85)*2.25,fa=theta*1.7;
+  write(attrs.publish,i,Math.cos(fa)*fr,fy,Math.sin(fa)*fr);
+
+  const pa=theta,pr=2.55+(rnd(i,7.4)-.5)*.38,pdepth=(rnd(i,8.2)-.5)*.58;
+  write(attrs.live,i,Math.cos(pa)*pr,Math.sin(pa)*pr,pdepth);
+
+  const finaleR=2.75+.42*Math.sin(theta*3.0)+(seed-.5)*.18;
+  write(attrs.finale,i,nx*finaleR,ny*finaleR,nz*finaleR);
+
+  const sr=5.5+rnd(i,9.7)*6.5,sa=rnd(i,10.3)*Math.PI*2,sp=Math.acos(rnd(i,11.1)*2-1);
+  write(attrs.scatter,i,Math.sin(sp)*Math.cos(sa)*sr,Math.cos(sp)*sr,Math.sin(sp)*Math.sin(sa)*sr);
+}
+
+const geometry=new THREE.BufferGeometry();
+geometry.setAttribute('position',new THREE.BufferAttribute(attrs.home,3));
+geometry.setAttribute('aSystem',new THREE.BufferAttribute(attrs.system,3));
+geometry.setAttribute('aContent',new THREE.BufferAttribute(attrs.content,3));
+geometry.setAttribute('aProduct',new THREE.BufferAttribute(attrs.product,3));
+geometry.setAttribute('aPublish',new THREE.BufferAttribute(attrs.publish,3));
+geometry.setAttribute('aLive',new THREE.BufferAttribute(attrs.live,3));
+geometry.setAttribute('aFinale',new THREE.BufferAttribute(attrs.finale,3));
+geometry.setAttribute('aScatter',new THREE.BufferAttribute(attrs.scatter,3));
+geometry.setAttribute('aSeed',new THREE.BufferAttribute(attrs.seed,1));
 
 const vertexShader=`
+attribute vec3 aSystem;
+attribute vec3 aContent;
+attribute vec3 aProduct;
+attribute vec3 aPublish;
+attribute vec3 aLive;
+attribute vec3 aFinale;
+attribute vec3 aScatter;
+attribute float aSeed;
 uniform float uTime;
-uniform vec2 uPointer;
-uniform float uScroll;
+uniform float uState;
+uniform float uIntro;
 uniform float uEnergy;
+uniform vec2 uPointer;
 varying float vPulse;
-varying float vDepth;
+varying float vSeed;
+vec3 morphState(float s){
+  if(s<1.0){float t=smoothstep(0.0,1.0,s);return mix(position,aSystem,t);}
+  if(s<2.0){float t=smoothstep(0.0,1.0,s-1.0);return mix(aSystem,aContent,t);}
+  if(s<3.0){float t=smoothstep(0.0,1.0,s-2.0);return mix(aContent,aProduct,t);}
+  if(s<4.0){float t=smoothstep(0.0,1.0,s-3.0);return mix(aProduct,aPublish,t);}
+  if(s<5.0){float t=smoothstep(0.0,1.0,s-4.0);return mix(aPublish,aLive,t);}
+  float t=smoothstep(0.0,1.0,clamp(s-5.0,0.0,1.0));return mix(aLive,aFinale,t);
+}
 void main(){
-  vec3 p=position;
-  vec3 n=normalize(position);
-  float wave=sin(p.x*2.15+uTime*1.05)*0.10+sin(p.y*2.8-uTime*.78)*0.07+sin(p.z*3.3+uTime*.55)*0.05;
-  vec2 local=p.xy/3.0;
-  float d=distance(local,uPointer*0.62);
-  float disturb=smoothstep(.82,.0,d)*uEnergy;
-  p+=n*(wave+disturb*.50);
-  p.xy+=(local-uPointer*0.62)*disturb*.06;
-  p*=1.0+sin(uTime*.55)*.016+uScroll*.018;
-  vPulse=disturb+wave*1.35;
-  vDepth=p.z;
-  gl_Position=projectionMatrix*modelViewMatrix*vec4(p,1.0);
-  gl_PointSize=(2.0+disturb*2.2)*(8.0/-gl_Position.z);
+  vec3 target=morphState(clamp(uState,0.0,6.0));
+  float intro=smoothstep(0.0,1.0,uIntro);
+  vec3 p=mix(aScatter,target,intro);
+  vec3 n=normalize(p+vec3(.0001));
+  float wave=(sin(p.x*1.55+uTime*.82+aSeed*4.0)+sin(p.y*2.1-uTime*.61))*0.045;
+  p+=n*wave;
+  vec2 q=p.xy/3.3;
+  float d=distance(q,uPointer*.78);
+  float disturb=smoothstep(.72,.02,d)*uEnergy;
+  p+=n*disturb*.42;
+  p.xy+=(q-uPointer*.78)*disturb*.055;
+  vPulse=disturb+abs(wave)*2.0;
+  vSeed=aSeed;
+  vec4 mv=modelViewMatrix*vec4(p,1.0);
+  gl_Position=projectionMatrix*mv;
+  gl_PointSize=(1.65+aSeed*1.35+disturb*2.4)*(8.5/max(1.0,-mv.z));
 }`;
+
 const fragmentShader=`
 uniform vec3 uColor;
 varying float vPulse;
-varying float vDepth;
+varying float vSeed;
 void main(){
   vec2 c=gl_PointCoord-.5;
-  float alpha=smoothstep(.5,.08,length(c));
-  vec3 color=uColor+vec3(max(vPulse,0.0)*.12);
-  alpha*=.42+max(vPulse,0.0)*.22+clamp(vDepth*.018,-.05,.05);
-  gl_FragColor=vec4(color,alpha);
+  float a=smoothstep(.5,.08,length(c));
+  vec3 color=uColor+vec3(vSeed*.055+vPulse*.13);
+  a*=.34+vSeed*.22+vPulse*.35;
+  gl_FragColor=vec4(color,a);
 }`;
 
-const detail=mobile?3:4;
-const geo=new THREE.IcosahedronGeometry(2.5,detail);
-const pointsMat=new THREE.ShaderMaterial({transparent:true,depthWrite:false,blending:THREE.AdditiveBlending,uniforms:{uTime:{value:0},uPointer:{value:new THREE.Vector2()},uScroll:{value:0},uEnergy:{value:0},uColor:{value:new THREE.Color('#d9ff3f')}},vertexShader,fragmentShader});
-const matter=new THREE.Points(geo,pointsMat);root.add(matter);
+const material=new THREE.ShaderMaterial({transparent:true,depthWrite:false,blending:THREE.AdditiveBlending,uniforms:{uTime:{value:0},uState:{value:0},uIntro:{value:0},uEnergy:{value:0},uPointer:{value:new THREE.Vector2()},uColor:{value:new THREE.Color('#d9ff3f')}},vertexShader,fragmentShader});
+const matter=new THREE.Points(geometry,material);root.add(matter);
 
-const shell=new THREE.Mesh(new THREE.IcosahedronGeometry(2.58,mobile?2:3),new THREE.MeshBasicMaterial({color:0x7d8b77,wireframe:true,transparent:true,opacity:mobile?.04:.055,depthWrite:false}));root.add(shell);
-const halo=new THREE.Mesh(new THREE.SphereGeometry(3.28,mobile?18:28,mobile?14:20),new THREE.MeshBasicMaterial({color:0xd9ff3f,transparent:true,opacity:mobile?.014:.022,side:THREE.BackSide,depthWrite:false}));root.add(halo);
-
-const starGeo=new THREE.BufferGeometry();const starCount=reduceMotion?120:(mobile?170:420);const starPos=new Float32Array(starCount*3);
-for(let i=0;i<starCount;i++){const r=7+Math.random()*12,theta=Math.random()*Math.PI*2,phi=Math.acos(2*Math.random()-1);starPos[i*3]=r*Math.sin(phi)*Math.cos(theta);starPos[i*3+1]=r*Math.sin(phi)*Math.sin(theta);starPos[i*3+2]=r*Math.cos(phi)-4;}
+const starGeo=new THREE.BufferGeometry(),starCount=mobile?120:360,starPos=new Float32Array(starCount*3);
+for(let i=0;i<starCount;i++){const r=8+rnd(i,12.4)*12,a=rnd(i,13.7)*Math.PI*2,p=Math.acos(rnd(i,14.9)*2-1);starPos[i*3]=Math.sin(p)*Math.cos(a)*r;starPos[i*3+1]=Math.cos(p)*r;starPos[i*3+2]=Math.sin(p)*Math.sin(a)*r-5}
 starGeo.setAttribute('position',new THREE.BufferAttribute(starPos,3));
-const stars=new THREE.Points(starGeo,new THREE.PointsMaterial({color:0xb9c4b4,size:mobile?.014:.017,transparent:true,opacity:mobile?.15:.22,depthWrite:false}));scene.add(stars);
+const stars=new THREE.Points(starGeo,new THREE.PointsMaterial({color:0xaeb8aa,size:.018,transparent:true,opacity:.16,depthWrite:false}));scene.add(stars);
 
-function clamp(v,min,max){return Math.max(min,Math.min(max,v));}
-function viewportHeight(){return window.visualViewport?.height||innerHeight;}
-function updateHeroState(){const r=hero.getBoundingClientRect();heroVisible=r.bottom>0&&r.top<viewportHeight();heroProgress=clamp(-r.top/Math.max(r.height,1),0,1);canvas.classList.toggle('matter-hidden',!heroVisible);if(!heroVisible){pointer.target.set(0,0);energyTarget=.04;}}
+const anchorEls=[document.getElementById('home'),document.getElementById('system'),document.querySelector('.case'),document.getElementById('case-product'),document.getElementById('case-publish'),document.getElementById('live'),document.querySelector('.finale')].filter(Boolean);
+let anchors=[];
+function measureAnchors(){anchors=anchorEls.map(el=>{const r=el.getBoundingClientRect();return r.top+scrollY+r.height*.5});updateTimeline();}
+function updateTimeline(){if(!anchors.length)return;const y=scrollY+innerHeight*.5;if(y<=anchors[0]){targetState=0;return}if(y>=anchors[anchors.length-1]){targetState=6;return}for(let i=0;i<anchors.length-1;i++){if(y>=anchors[i]&&y<=anchors[i+1]){const t=(y-anchors[i])/Math.max(anchors[i+1]-anchors[i],1);targetState=i+t;break}}}
 
-const heroObserver=new IntersectionObserver(entries=>{heroVisible=entries.some(e=>e.isIntersecting);canvas.classList.toggle('matter-hidden',!heroVisible)},{threshold:.02});heroObserver.observe(hero);
+if(!coarse&&!reduced){addEventListener('pointermove',e=>{pointer.target.x=(e.clientX/innerWidth)*2-1;pointer.target.y=-((e.clientY/innerHeight)*2-1);energyTarget=.58},{passive:true});addEventListener('pointerleave',()=>{pointer.target.set(0,0);energyTarget=.05})}
+addEventListener('scroll',updateTimeline,{passive:true});
 
-if(!coarse){addEventListener('pointermove',e=>{if(!heroVisible)return;const r=hero.getBoundingClientRect();const x=clamp((e.clientX-r.left)/r.width,0,1)*2-1;const y=-(clamp((e.clientY-r.top)/Math.max(r.height,1),0,1)*2-1);pointer.target.set(x,y);energyTarget=.38},{passive:true});addEventListener('pointerleave',()=>{pointer.target.set(0,0);energyTarget=.07})}
-addEventListener('scroll',updateHeroState,{passive:true});
-
-function resize(){stageW=innerWidth;stageH=viewportHeight();baseX=stageW>1100?1.05:stageW>800?.45:0;baseScale=stageW<640?.76:stageW<980?.9:1;renderer.setPixelRatio(Math.min(devicePixelRatio||1,pixelCap));renderer.setSize(stageW,stageH,false);camera.aspect=stageW/stageH;camera.fov=stageW<640?50:stageW<980?47:44;camera.updateProjectionMatrix();updateHeroState()}
+function resize(){stageW=innerWidth;stageH=window.visualViewport?.height||innerHeight;renderer.setPixelRatio(Math.min(devicePixelRatio||1,pixelCap));renderer.setSize(stageW,stageH,false);camera.aspect=stageW/stageH;camera.updateProjectionMatrix();measureAnchors()}
 addEventListener('resize',resize,{passive:true});window.visualViewport?.addEventListener('resize',resize,{passive:true});
+document.addEventListener('visibilitychange',()=>visible=!document.hidden);
 
-function animate(){const t=reduceMotion?0:clock.getElapsedTime();pointer.current.lerp(pointer.target,coarse?.04:.07);pointsMat.uniforms.uTime.value=t;pointsMat.uniforms.uPointer.value.copy(pointer.current);pointsMat.uniforms.uScroll.value=heroProgress;pointsMat.uniforms.uEnergy.value+=(energyTarget-pointsMat.uniforms.uEnergy.value)*.065;energyTarget+=(.07-energyTarget)*.035;
-  const px=pointer.current.x,py=pointer.current.y,idleYaw=reduceMotion?0:Math.sin(t*.16)*.085;
-  root.rotation.y+=(idleYaw+px*.08-root.rotation.y)*.04;root.rotation.x+=(py*.055-root.rotation.x)*.04;root.rotation.z+=(px*-.024-root.rotation.z)*.035;
-  root.position.x+=(baseX+px*.08-root.position.x)*.045;root.position.y+=(py*.045-root.position.y)*.045;root.scale.setScalar(baseScale*(1+heroProgress*.012));
-  shell.rotation.y=reduceMotion?0:t*.014;shell.rotation.x=reduceMotion?0:t*.009;halo.scale.setScalar(1+(reduceMotion?0:Math.sin(t*.3)*.014));stars.rotation.y=reduceMotion?0:t*.0018;camera.position.z=mobile?9.8:9.1;
-  if(heroVisible||!mobile)renderer.render(scene,camera);requestAnimationFrame(animate)}
+const acid=new THREE.Color('#d9ff3f'),ink=new THREE.Color('#151813'),colorTarget=new THREE.Color(),colorCurrent=acid.clone();
+const xStates=mobile?[0,0,0,0,0,0,0]:[1.2,1.35,.9,.65,.85,0,.55];
+const scaleStates=mobile?[.84,.82,.78,.8,.8,.82,.82]:[1,1,.93,.94,.92,.9,.96];
+function sample(arr,s){const a=Math.floor(clamp(s,0,arr.length-1)),b=Math.min(a+1,arr.length-1),t=clamp(s-a);return THREE.MathUtils.lerp(arr[a],arr[b],t)}
+function clamp(v,min=0,max=1){return Math.max(min,Math.min(max,v))}
 
-resize();animate();window.__THEARD_WEBGL__={renderer,scene,camera};
+function animate(){
+  requestAnimationFrame(animate);if(!visible)return;
+  const t=reduced?3:clock.getElapsedTime();
+  currentState+=(targetState-currentState)*.045;
+  pointer.current.lerp(pointer.target,.07);
+  energyTarget+=(.045-energyTarget)*.025;
+  material.uniforms.uTime.value=t;
+  material.uniforms.uState.value=currentState;
+  material.uniforms.uIntro.value=reduced?1:clamp((t-.78)/1.62);
+  material.uniforms.uPointer.value.copy(pointer.current);
+  material.uniforms.uEnergy.value+=(energyTarget-material.uniforms.uEnergy.value)*.07;
+
+  const liveMix=smoothRange(currentState,4.45,5.35);colorTarget.copy(acid).lerp(ink,liveMix*.92);colorCurrent.lerp(colorTarget,.055);material.uniforms.uColor.value.copy(colorCurrent);
+  const px=pointer.current.x,py=pointer.current.y;
+  const x=sample(xStates,currentState)+(coarse?0:px*.09),sc=sample(scaleStates,currentState);
+  root.position.x+=(x-root.position.x)*.045;root.position.y+=((coarse?0:py*.05)-root.position.y)*.045;root.scale.setScalar(sc);
+  root.rotation.y=(reduced?0:t*.028)+Math.sin(t*.22)*.075+currentState*.055+(coarse?0:px*.045);
+  root.rotation.x=Math.sin(t*.17)*.035+(coarse?0:py*.035);
+  root.rotation.z=Math.sin(currentState*.72)*.045;
+
+  camera.position.x=(reduced?0:Math.sin(t*.19)*.095)+Math.sin(currentState*.62)*.035;
+  camera.position.y=reduced?0:Math.cos(t*.16)*.052;
+  camera.position.z=(mobile?10.1:9.15)+Math.sin(currentState*.5)*.16;
+  camera.lookAt(0,0,0);
+  stars.rotation.y=reduced?0:t*.0016+currentState*.018;
+  renderer.render(scene,camera);
+}
+function smoothRange(v,a,b){return clamp((v-a)/(b-a))}
+
+resize();animate();
+window.__THEARD_WEBGL__={renderer,scene,camera,get state(){return currentState}};
