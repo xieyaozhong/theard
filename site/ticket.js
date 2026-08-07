@@ -1,0 +1,7 @@
+const $=s=>document.querySelector(s);const params=new URLSearchParams(location.search);const attendee=$('#attendee'),tier=$('#tier'),ticketId=$('#ticketId'),stubId=$('#stubId'),qr=$('#qr');
+function safe(value,fallback){return (value||'').trim().slice(0,28)||fallback}function makeId(){const alphabet='ABCDEFGHJKLMNPQRSTUVWXYZ23456789';let tail='';for(let i=0;i<6;i++)tail+=alphabet[Math.floor(Math.random()*alphabet.length)];return `THD-2026-${tail}`}
+function qrPayload(id){const base=location.href.split('?')[0].replace(/ticket\.html$/,'');return `${base}verify.html?ticket=${encodeURIComponent(id)}`}
+function renderQr(id){qr.innerHTML='';if(window.QRCode){new QRCode(qr,{text:qrPayload(id),width:128,height:128,colorDark:'#090b09',colorLight:'#f4f6f1',correctLevel:QRCode.CorrectLevel.M})}else{qr.innerHTML='<div class="qr-fallback">QR</div>'}}
+function apply(nameValue,tierValue,idValue){const name=safe(nameValue,'GUEST').toUpperCase();const pass=safe(tierValue,'GENERAL').toUpperCase();const id=safe(idValue,makeId()).toUpperCase();attendee.textContent=name;tier.textContent=pass;ticketId.textContent=id;stubId.textContent=id;renderQr(id);history.replaceState(null,'',`?name=${encodeURIComponent(name)}&tier=${encodeURIComponent(pass)}&id=${encodeURIComponent(id)}`)}
+apply(params.get('name'),params.get('tier'),params.get('id'));
+$('#ticketForm')?.addEventListener('submit',e=>{e.preventDefault();apply($('#nameInput').value,$('#tierInput').value,makeId())});$('#printBtn')?.addEventListener('click',()=>print());
