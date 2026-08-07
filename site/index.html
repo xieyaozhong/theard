@@ -1,156 +1,99 @@
 <!doctype html>
 <html lang="zh-Hant">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#070909">
-  <title>THEARD — Attention Engine / Live Experience</title>
-  <meta name="description" content="THEARD 是一套把內容、商品、發布與現場活動串成一條可驗證流程的 AI content engine。">
-  <link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#080a09" />
+  <title>THEARD — Attention Engine</title>
+  <meta name="description" content="THEARD — AI content engine, commerce automation and live experiences." />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div class="boot" id="boot" aria-hidden="true">
-    <div class="boot-code">THEARD / SYSTEM 2026</div>
-    <div class="boot-title">ALLOCATING<br>CONTENT FIELD</div>
-    <div class="boot-progress"><i></i></div>
-    <div class="boot-meta"><span>CONTENT</span><span>COMMERCE</span><span>LIVE</span></div>
+    <div class="boot-kicker">THEARD / SYSTEM 2026</div>
+    <div class="boot-title">ALLOCATING<br>ATTENTION FIELD</div>
+    <div class="boot-track"><i></i></div>
+    <div class="boot-row"><span>CONTENT</span><span>COMMERCE</span><span>LIVE</span></div>
   </div>
-
   <canvas id="field" aria-hidden="true"></canvas>
   <div class="grain" aria-hidden="true"></div>
-  <div class="cursor" id="cursor" aria-hidden="true"><span></span></div>
-
+  <div class="cursor" id="cursor" aria-hidden="true"></div>
   <header class="hud">
-    <button class="menu-trigger" id="menuTrigger" aria-controls="menuPanel" aria-expanded="false">MENU</button>
-    <a class="hud-brand" href="#home">// THEARD / 2026</a>
-    <div class="hud-status"><i></i> FIELD ONLINE</div>
+    <button class="menu-btn" id="menuBtn">MENU</button>
+    <a class="brand" href="#home">// THEARD / 2026</a>
+    <div class="online"><i></i> FIELD ONLINE</div>
   </header>
-
-  <aside class="menu-panel" id="menuPanel" aria-hidden="true">
-    <div class="menu-head"><span>// NAVIGATION</span><button id="menuClose">CLOSE ×</button></div>
-    <nav class="menu-nav">
+  <aside class="menu" id="menu" aria-hidden="true">
+    <div class="menu-top"><span>// NAVIGATION</span><button id="menuClose">CLOSE ×</button></div>
+    <nav>
       <a href="#home"><span>//01</span><b>HOME</b><em>CURRENT ↗</em></a>
       <a href="#system"><span>//02</span><b>SYSTEM</b><em>OPEN ↗</em></a>
       <a href="#production"><span>//03</span><b>PRODUCTION</b><em>OPEN ↗</em></a>
       <a href="#live"><span>//04</span><b>LIVE</b><em>OPEN ↗</em></a>
-      <a href="ticket.html"><span>//05</span><b>TICKET</b><em>DEMO ↗</em></a>
     </nav>
-    <div class="menu-foot"><span>AI CONTENT ENGINE / AFFILIATE AUTOMATION</span><span>TAIWAN / REMOTE</span></div>
+    <div class="menu-bottom"><span>AI CONTENT ENGINE / AFFILIATE AUTOMATION</span><span>TAIWAN / REMOTE</span></div>
   </aside>
-
   <main>
     <section class="hero section" id="home">
-      <div class="hero-kicker reveal">AI CONTENT ENGINE / PRODUCT MATCHING / LIVE EXPERIENCE</div>
-      <div class="hero-type" data-drift=".06">
-        <span class="reveal">TURN</span>
-        <span class="outline reveal">ATTENTION</span>
-        <span class="reveal">INTO ACTION.</span>
-      </div>
-      <div class="hero-bottom">
-        <p class="hero-copy reveal">我們把內容生成、商品推薦、發布驗證與實體活動，做成同一套可以被追蹤、測試、持續優化的系統。</p>
-        <div class="hero-data reveal">
-          <div><span>MODE</span><b>DRY-RUN FIRST</b></div>
-          <div><span>LANGUAGE</span><b>ZH-TW</b></div>
-          <div><span>LIVE</span><b>THEARD / 001</b></div>
+      <div class="top-note reveal">AI CONTENT ENGINE / COMMERCE AUTOMATION / TAIWAN</div>
+      <div class="hero-copy">
+        <h1 class="reveal drift"><span>TURN</span><span>ATTENTION</span><span class="outline">INTO SIGNAL.</span></h1>
+        <div class="hero-side reveal">
+          <p>THEARD 把主題、文案、商品、發布與回饋拆成一條可以被驗證、優化、放大的內容生產流程。</p>
+          <a href="#system">ENTER THE SYSTEM ↓</a>
         </div>
       </div>
-      <div class="move-note">SCROLL / MOVE TO DISTURB</div>
+      <div class="disturb">SCROLL / MOVE TO DISTURB</div>
+      <div class="ticker"><span>CONTENT AGENT — PRODUCT AGENT — TOPIC ROTATION — URL VALIDATION — THREADS PUBLISHER — ANALYTICS — CONTENT AGENT — PRODUCT AGENT — TOPIC ROTATION — URL VALIDATION — THREADS PUBLISHER — ANALYTICS — </span></div>
     </section>
-
-    <section class="section statement" id="system">
-      <div class="section-label reveal">//01 SYSTEM / CONTENT BECOMES INFRASTRUCTURE</div>
-      <div class="statement-grid">
-        <h2 class="reveal">Not a posting tool.<br><em>A decision field.</em></h2>
-        <div class="statement-copy reveal">
-          <p>主題、文案、商品、連結與發布狀態都不是散落的步驟，而是可以被記錄與驗證的資料。</p>
-          <a href="#production">ENTER THE PIPELINE ↓</a>
-        </div>
+    <section class="section chapter" id="system">
+      <div class="chapter-label reveal">//02 SYSTEM</div>
+      <div class="split reveal">
+        <h2>ONE PIPELINE.<br><em>MANY DECISIONS.</em></h2>
+        <p>這不是「叫 AI 幫我寫一篇文」。資料先進入策略層，再由不同 Agent 分工；每一次輸出都先被檢查，再決定要不要發佈。</p>
       </div>
-      <div class="system-rail reveal" aria-label="System architecture">
-        <article><small>01</small><strong>TOPIC</strong><span>rotation / score</span></article>
-        <i>→</i>
-        <article class="active"><small>02</small><strong>CONTENT</strong><span>agent / variation</span></article>
-        <i>→</i>
-        <article><small>03</small><strong>PRODUCT</strong><span>match / dedupe</span></article>
-        <i>→</i>
-        <article><small>04</small><strong>VERIFY</strong><span>url / policy / state</span></article>
-        <i>→</i>
-        <article class="active"><small>05</small><strong>PUBLISH</strong><span>guarded / record</span></article>
+      <div class="pipeline reveal">
+        <article><small>01</small><b>TOPICS</b><span>rotation + score</span></article><i>→</i>
+        <article class="active"><small>02</small><b>CONTENT</b><span>voice + hook</span></article><i>→</i>
+        <article><small>03</small><b>PRODUCT</b><span>match + dedupe</span></article><i>→</i>
+        <article><small>04</small><b>VERIFY</b><span>links + rules</span></article><i>→</i>
+        <article class="active"><small>05</small><b>PUBLISH</b><span>guarded API</span></article>
       </div>
     </section>
-
-    <section class="section production" id="production">
-      <div class="section-label reveal">//02 PRODUCTION / THREE PREVIEWS BEFORE ONE DECISION</div>
-      <div class="production-head">
-        <h2 class="reveal">Build the post<br><em>before it exists.</em></h2>
-        <div class="metric reveal"><b>03</b><span>DAILY PREVIEWS</span></div>
+    <section class="section chapter" id="production">
+      <div class="chapter-label reveal">//03 DAILY PRODUCTION</div>
+      <div class="split reveal">
+        <h2>PRODUCTION,<br><em>NOT POSTING.</em></h2>
+        <p>每天先做可審核的內容產物，再把真正發佈留到最後一步。這讓我們可以把錯誤、重複與不適合的商品攔在送出之前。</p>
       </div>
-      <div class="production-grid">
-        <article class="reveal"><span>01 / SELECT</span><h3>Find the angle.</h3><p>依近期使用紀錄與 priority 挑出今天最值得說的主題。</p><code>topic → intent</code></article>
-        <article class="reveal"><span>02 / GENERATE</span><h3>Shape the voice.</h3><p>產生一行自然的台灣 Threads 文案，維持生活感，不把主文寫成廣告。</p><code>intent → caption</code></article>
-        <article class="reveal"><span>03 / MATCH</span><h3>Connect intent.</h3><p>四個商品對應同一個情境，但盡量分散類別並避開近期重複。</p><code>caption → products</code></article>
-        <article class="reveal"><span>04 / VERIFY</span><h3>Earn the publish.</h3><p>連結、格式與狀態全部通過才進入 READY_TO_PUBLISH。</p><code>payload → state</code></article>
+      <div class="cards">
+        <article class="reveal"><span>01</span><h3>SELECT</h3><p>挑今天值得講的主題，不把帳號變成重複廣告牆。</p><b>topic → intent</b></article>
+        <article class="reveal"><span>02</span><h3>GENERATE</h3><p>Content Agent 產生像真人分享的繁體中文 Threads 文案。</p><b>intent → caption</b></article>
+        <article class="reveal"><span>03</span><h3>MATCH</h3><p>Product Agent 挑四個真正相關的商品，兼顧分類與去重。</p><b>caption → products</b></article>
+        <article class="reveal"><span>04</span><h3>VERIFY</h3><p>最後檢查連結、禁用詞、重複內容與發佈狀態。</p><b>payload → state</b></article>
       </div>
     </section>
-
     <section class="section live" id="live">
-      <div class="live-glow" aria-hidden="true"></div>
-      <div class="section-label reveal">//03 THEARD LIVE / 001 / PHYSICAL EVENT</div>
-      <div class="live-hero">
+      <div class="chapter-label reveal">//04 THEARD LIVE / 001</div>
+      <div class="live-head reveal">
+        <h2>FROM<br><span>SCREEN</span><br>TO ROOM.</h2>
         <div>
-          <p class="live-tag reveal">CONTENT × AI × COMMERCE</p>
-          <h2 class="reveal">FROM<br><span>SCREEN</span><br>TO ROOM.</h2>
-        </div>
-        <div class="live-copy reveal">
-          <p>我們計畫把這套系統帶到線下：用一場現場活動拆解內容如何被設計、測試、轉換，再讓參與者直接看到從 Topic 到 Post、從商品到導購的完整流程。</p>
+          <p>我們正在規劃第一次 THEARD 實體活動。把 AI 內容系統、商業化與現場交流放在同一個空間裡。</p>
           <dl>
-            <div><dt>EVENT</dt><dd>THEARD LIVE / 001</dd></div>
             <div><dt>DATE</dt><dd>TBA / 2026</dd></div>
-            <div><dt>LOCATION</dt><dd>TAIWAN / VENUE TBA</dd></div>
+            <div><dt>LOCATION</dt><dd>TAIWAN / TBA</dd></div>
             <div><dt>FORMAT</dt><dd>LIVE BUILD + WORKSHOP</dd></div>
           </dl>
         </div>
       </div>
-
-      <div class="ticket-stage reveal">
-        <a class="ticket-preview" href="ticket.html" aria-label="Open electronic ticket demo">
-          <div class="ticket-left">
-            <div class="ticket-top"><span>THEARD LIVE</span><span>001 / 2026</span></div>
-            <strong>ADMIT<br>ONE</strong>
-            <div class="ticket-bottom"><span>CONTENT × AI × COMMERCE</span><span>TAIWAN / TBA</span></div>
-          </div>
-          <div class="ticket-stub">
-            <span>ENTRY</span><b>001</b><small>THD-LIVE-001</small>
-          </div>
-        </a>
-        <div class="ticket-copy">
-          <span>// ELECTRONIC ACCESS PASS</span>
-          <h3>一張票，也是一個互動介面。</h3>
-          <p>手機出示、票號、QR、票種與列印版面都已設計；之後接上報名／付款／核銷後端即可成為正式活動票務。</p>
-          <a class="cta" href="ticket.html">OPEN TICKET DEMO ↗</a>
-        </div>
-      </div>
+      <a class="ticket reveal" href="#live" aria-label="THEARD LIVE ticket preview">
+        <div class="ticket-main"><div><span>THEARD LIVE</span><span>001 / 2026</span></div><strong>ADMIT<br>ONE</strong><footer><span>CONTENT × AI × COMMERCE</span><span>TAIWAN / TBA</span></footer></div>
+        <div class="ticket-stub"><span>ENTRY</span><b>001</b><i></i><small>PASS PREVIEW</small></div>
+      </a>
+      <p class="ticket-note reveal">電子票券會沿用同一套視覺系統：唯一票號、QR Code、手機出示與列印版。</p>
     </section>
-
-    <section class="section matter">
-      <div class="section-label reveal">//04 SYSTEM COMPLETE / READY TO EVOLVE</div>
-      <div class="matter-grid">
-        <h2 class="reveal">Ambitious ideas,<br><em>made tangible.</em></h2>
-        <div class="matter-list reveal">
-          <div><span>RUNTIME</span><b>PYTHON 3.11+</b></div>
-          <div><span>DATA</span><b>JSON / FILE-BASED</b></div>
-          <div><span>PUBLISH</span><b>THREADS GRAPH API</b></div>
-          <div><span>SHOWCASE</span><b>VANILLA WEB / CANVAS</b></div>
-          <div><span>LIVE</span><b>E-TICKET / QR READY</b></div>
-        </div>
-      </div>
-      <footer>
-        <div><strong>THEARD</strong><span>ATTENTION ENGINE / 2026</span></div>
-        <div class="footer-links"><a href="ticket.html">E-TICKET ↗</a><a href="https://github.com/xieyaozhong/theard">GITHUB ↗</a></div>
-      </footer>
-    </section>
+    <footer class="site-footer"><div><strong>THEARD</strong><span>ATTENTION ENGINE / 2026</span></div><a href="https://github.com/xieyaozhong/theard">GITHUB ↗</a></footer>
   </main>
-
   <script src="app.js"></script>
 </body>
 </html>
