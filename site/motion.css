@@ -1,0 +1,84 @@
+/* Motion language inspired by immersive creative-development portfolios.
+   Original implementation for THEARD — no source code or assets copied. */
+:root{--motion-ease:cubic-bezier(.16,.84,.2,1);--scene-p:0;--scroll-velocity:0}
+html{background:#060706}
+body{overscroll-behavior-y:none}
+.scene{overflow:clip;transform:translateZ(0)}
+.scene:after{content:"";position:absolute;inset:0;pointer-events:none;z-index:0;background:linear-gradient(110deg,transparent 0 57%,rgba(217,255,63,.018) 72%,transparent 86%);opacity:0;transform:translate3d(-10%,0,0);transition:opacity .7s var(--motion-ease),transform 1.2s var(--motion-ease)}
+.scene.is-active:after{opacity:1;transform:none}
+.scene>*{position:relative;z-index:2}
+
+/* Loader exits as a physical panel rather than a simple fade. */
+.boot{will-change:transform;overflow:hidden}
+.boot:after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:var(--acid);transform:scaleX(0);transform-origin:left;animation:bootLine 1.25s var(--motion-ease) forwards}
+.boot.done{transform:translate3d(0,-102%,0)}
+.boot__word{transform-origin:left center;animation:bootWord 1.15s var(--motion-ease) both}
+@keyframes bootLine{to{transform:scaleX(1)}}
+@keyframes bootWord{0%{opacity:.12;transform:translateY(16px) scaleX(.94)}100%{opacity:1;transform:none}}
+
+/* Hero is revealed line-by-line once the field has been allocated. */
+.hero__title{overflow:visible}
+.hero__title span{display:block;will-change:transform,opacity;transform:translate3d(0,118%,0) skewY(3deg);opacity:0;transition:transform 1.08s var(--motion-ease),opacity .7s ease}
+html.entered .hero__title span{transform:none;opacity:1}
+html.entered .hero__title span:nth-child(1){transition-delay:.04s}
+html.entered .hero__title span:nth-child(2){transition-delay:.13s}
+html.entered .hero__title span:nth-child(3){transition-delay:.22s}
+.hero__eyebrow,.hero__copy,.hero__status,.skip{opacity:0;transform:translateY(16px);transition:opacity .7s ease,transform .8s var(--motion-ease)}
+html.entered .hero__eyebrow,html.entered .hero__copy,html.entered .hero__status,html.entered .skip{opacity:1;transform:none}
+html.entered .hero__eyebrow{transition-delay:.22s}
+html.entered .hero__copy{transition-delay:.32s}
+html.entered .hero__status,html.entered .skip{transition-delay:.46s}
+
+/* Section copy enters with a clipped, editorial movement. */
+.scene__label,.statement h2,.work__head h2,.case h3,.live h2,.finale h2{will-change:transform,opacity,clip-path}
+.scene__label.reveal,.statement__grid.reveal,.work__head.reveal,.case__grid.reveal,.case__meta.reveal,.live__grid.reveal,.ticket.reveal,.finale h2.reveal,.finale__bottom.reveal{transform:translate3d(0,42px,0);opacity:0;clip-path:inset(0 0 18% 0);transition:transform 1.05s var(--motion-ease),opacity .72s ease,clip-path 1.05s var(--motion-ease)}
+.reveal.visible{transform:none!important;opacity:1!important;clip-path:inset(0)!important}
+
+/* The work section behaves like a reel: one case carries the focus at a time. */
+.case{--case-focus:.24;opacity:calc(.42 + var(--case-focus)*.58);transition:opacity .65s ease}
+.case__grid{transform:translate3d(0,var(--case-y,0),0) scale(var(--case-scale,1));transform-origin:center center;transition:filter .5s ease}
+.case:not(.is-current) .case__grid{filter:saturate(.72) brightness(.78)}
+.case.is-current{--case-focus:1}
+.case.is-current .case__grid{filter:none}
+.case__meta:before{content:"";display:inline-block;width:0;height:1px;background:var(--acid);vertical-align:middle;margin-right:0;transition:width .75s var(--motion-ease),margin-right .75s var(--motion-ease)}
+.case.is-current .case__meta:before{width:42px;margin-right:12px}
+.case__visual{will-change:transform}
+
+/* Progress and HUD feel like an instrument panel, not a generic navbar. */
+.progress{transform-origin:top;transition:box-shadow .3s ease}
+body.is-scrolling .progress{box-shadow:0 0 24px rgba(217,255,63,.62)}
+.hud__meta{transition:opacity .22s ease,transform .32s var(--motion-ease)}
+.hud__meta.changing{opacity:.1;transform:translateY(-5px)}
+
+/* Full-screen menu items enter like stacked title cards. */
+.menu__nav a{transform:translate3d(0,34px,0);opacity:0;transition:transform .7s var(--motion-ease),opacity .45s ease,padding-left .3s var(--motion-ease),color .3s}
+.menu.open .menu__nav a{transform:none;opacity:1}
+.menu.open .menu__nav a:nth-child(1){transition-delay:.06s}
+.menu.open .menu__nav a:nth-child(2){transition-delay:.10s}
+.menu.open .menu__nav a:nth-child(3){transition-delay:.14s}
+.menu.open .menu__nav a:nth-child(4){transition-delay:.18s}
+.menu.open .menu__nav a:nth-child(5){transition-delay:.22s}
+
+/* Persistent matter can breathe through dark scenes. */
+.statement,.work,.finale{background-color:rgba(6,7,6,.875)!important;backdrop-filter:blur(.6px)}
+.work{background:linear-gradient(180deg,rgba(6,7,6,.82),rgba(6,7,6,.91))!important}
+
+@media(max-width:980px){
+  .statement,.work,.finale{background-color:rgba(6,7,6,.93)!important}
+  .scene:after{display:none}
+  .case{opacity:1}
+  .case:not(.is-current) .case__grid{filter:none}
+  .hero__title span{transform:translateY(54px);skew:none}
+}
+@media(max-width:640px){
+  .hero{min-height:calc(var(--app-vh,1vh)*100)}
+  .scene{min-height:calc(var(--app-vh,1vh)*100)}
+  .hud{padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right));padding-top:max(16px,env(safe-area-inset-top))}
+  .hero__status{bottom:max(18px,env(safe-area-inset-bottom))}
+}
+@media(prefers-reduced-motion:reduce){
+  .hero__title span,.hero__eyebrow,.hero__copy,.hero__status,.skip,.menu__nav a{opacity:1!important;transform:none!important;transition:none!important}
+  .scene:after{display:none}
+  .case{opacity:1}
+  .case__grid{transform:none!important;filter:none!important}
+}
