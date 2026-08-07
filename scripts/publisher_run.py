@@ -42,6 +42,16 @@ def main() -> None:
         raise SystemExit(2)
 
     previews = load_json(PREVIEW / "daily.json")
+    demo_urls = [
+        product["reply_url"]
+        for post in previews
+        for product in post["products"]
+        if "keyword=product-" in product.get("reply_url", "")
+    ]
+    if demo_urls:
+        print("Refusing real publish: demo Shopee URLs must be replaced with verified product/affiliate links")
+        raise SystemExit(3)
+
     results = []
     for post in previews:
         main_result = publish_text(post["caption"])
