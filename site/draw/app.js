@@ -7,7 +7,7 @@ const rare=['GENERAL PASS','GENERAL PASS','GENERAL PASS','GENERAL PASS','GENERAL
 let state={original:[...balanced],remaining:[...balanced],history:[]};
 let spinning=false;
 let petEngine=null;
-const petsReady=import('./pets.js?v=2').then(m=>{petEngine=m.default||m;return petEngine}).catch(err=>{console.warn('Pixel companion module unavailable',err);return null});
+const petsReady=import('./pets.js?v=3').then(m=>{petEngine=m.default||m;return petEngine}).catch(err=>{console.warn('Pixel companion module unavailable',err);return null});
 
 const poolCount=$('#poolCount'),drawnCount=$('#drawnCount'),drawBtn=$('#drawBtn'),reelWindow=$('#reelWindow'),reel=$('#reel'),ticketStage=$('#ticketStage'),ticket=$('#ticket'),ticketName=$('#ticketName'),ticketCode=$('#ticketCode'),ticketZone=$('#ticketZone'),stubNo=$('#stubNo'),historyEl=$('#history'),machineMessage=$('#machineMessage'),statusText=$('#statusText'),flash=$('#flash');
 const configDialog=$('#configDialog'),configBtn=$('#configBtn'),resetBtn=$('#resetBtn'),poolInput=$('#poolInput'),savePoolBtn=$('#savePoolBtn');
@@ -30,7 +30,7 @@ function zoneFor(name,index){const map={'GENERAL PASS':'G','EARLY ACCESS':'E','C
 
 function render(){poolCount.textContent=pad(state.remaining.length);drawnCount.textContent=pad(state.history.length);drawBtn.disabled=spinning||state.remaining.length===0;statusText.textContent=state.remaining.length?'SYSTEM READY':'POOL EMPTY';machineMessage.textContent=state.remaining.length?'INSERT INTENTION / RECEIVE ACCESS':'POOL EMPTY / EDIT OR RESET';renderHistory()}
 function renderHistory(){if(!state.history.length){historyEl.innerHTML='<div class="history-empty">NO ENTRY RECORDS / WAITING FOR FIRST DRAW</div>';return}historyEl.innerHTML=state.history.slice().reverse().map((item,i)=>`<div class="history-item"><span>${String(state.history.length-i).padStart(2,'0')}</span><b>${escapeHtml(item.name)}${item.pet?`<small class="pet-history">PET / ${escapeHtml(item.pet.name)} · ${escapeHtml(item.pet.species)}</small>`:''}</b><code>${escapeHtml(item.code)}</code><span>${escapeHtml(item.time)}</span></div>`).join('')}
-function escapeHtml(s){return String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
+function escapeHtml(s){return String(s).replace(/[&<>'\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[c]))}
 
 function reelRows(center){const source=state.remaining.length?state.remaining:state.original;const values=[];for(let i=0;i<5;i++)values.push(i===2?center:source[randIndex(source.length)]||'THEARD LIVE');reel.innerHTML=values.map((v,i)=>`<div class="reel-row ${i===2?'active':'ghost'}">${escapeHtml(v)}</div>`).join('')}
 
