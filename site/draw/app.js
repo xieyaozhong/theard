@@ -1,69 +1,44 @@
-const $=(s,p=document)=>p.querySelector(s);
-const $$=(s,p=document)=>[...p.querySelectorAll(s)];
-const STORAGE='theard.passdraw.v2';
-const LEGACY_STORAGE='theard.passdraw.v1';
-const balanced=['GENERAL PASS','GENERAL PASS','GENERAL PASS','GENERAL PASS','GENERAL PASS','GENERAL PASS','EARLY ACCESS','EARLY ACCESS','EARLY ACCESS','CREATOR PASS','CREATOR PASS','PARTNER PASS'];
-const rare=['GENERAL PASS','GENERAL PASS','GENERAL PASS','GENERAL PASS','GENERAL PASS','EARLY ACCESS','EARLY ACCESS','EARLY ACCESS','CREATOR PASS','CREATOR PASS','PARTNER PASS','SECRET ACCESS'];
-let state={original:[...balanced],remaining:[...balanced],history:[]};
-let spinning=false;
-let petEngine=null;
-const petsReady=import('./pets.js?v=3').then(m=>{petEngine=m.default||m;return petEngine}).catch(err=>{console.warn('Pixel companion module unavailable',err);return null});
-
-const poolCount=$('#poolCount'),drawnCount=$('#drawnCount'),drawBtn=$('#drawBtn'),reelWindow=$('#reelWindow'),reel=$('#reel'),ticketStage=$('#ticketStage'),ticket=$('#ticket'),ticketName=$('#ticketName'),ticketCode=$('#ticketCode'),ticketZone=$('#ticketZone'),stubNo=$('#stubNo'),historyEl=$('#history'),machineMessage=$('#machineMessage'),statusText=$('#statusText'),flash=$('#flash');
+const $=(s,p=document)=>p.querySelector(s);const $$=(s,p=document)=>[...p.querySelectorAll(s)];
+const STORAGE='theard.passdraw.v3',LEGACY=['theard.passdraw.v2','theard.passdraw.v1'];
+const RARITIES=['COMMON','UNCOMMON','RARE','EPIC','LEGENDARY','MYTHIC'];
+const PASS_CATALOG={
+'GENERAL PASS':{rarity:'COMMON',zone:'G'},'DAY PASS':{rarity:'COMMON',zone:'D'},
+'EARLY ACCESS':{rarity:'UNCOMMON',zone:'E'},'EXPLORER PASS':{rarity:'UNCOMMON',zone:'X'},
+'CREATOR PASS':{rarity:'RARE',zone:'C'},'WORKSHOP PASS':{rarity:'RARE',zone:'W'},
+'PARTNER PASS':{rarity:'EPIC',zone:'P'},'BACKSTAGE PASS':{rarity:'EPIC',zone:'B'},
+'FOUNDER PASS':{rarity:'LEGENDARY',zone:'F'},'SECRET ACCESS':{rarity:'LEGENDARY',zone:'S'},
+'ZERO PASS':{rarity:'MYTHIC',zone:'Z'},'BLACK SIGNAL':{rarity:'MYTHIC',zone:'Ø'}
+};
+function makePool(spec){const out=[];spec.forEach(([name,count])=>{for(let i=0;i<count;i++)out.push({name,rarity:(PASS_CATALOG[name]?.rarity||'COMMON')})});return out}
+const balanced=makePool([['GENERAL PASS',10],['DAY PASS',6],['EARLY ACCESS',5],['EXPLORER PASS',4],['CREATOR PASS',4],['WORKSHOP PASS',3],['PARTNER PASS',2],['BACKSTAGE PASS',1],['FOUNDER PASS',1],['SECRET ACCESS',1],['ZERO PASS',1]]);
+const collector=makePool([['GENERAL PASS',4],['DAY PASS',3],['EARLY ACCESS',4],['EXPLORER PASS',3],['CREATOR PASS',4],['WORKSHOP PASS',3],['PARTNER PASS',3],['BACKSTAGE PASS',2],['FOUNDER PASS',2],['SECRET ACCESS',2],['ZERO PASS',1],['BLACK SIGNAL',1]]);
+let state={original:balanced.map(x=>({...x})),remaining:balanced.map(x=>({...x})),history:[]},spinning=false,petEngine=null;
+const petsReady=import('./pets.js?v=4').then(m=>{petEngine=m.default||m;return petEngine}).catch(err=>{console.warn('Pixel companion module unavailable',err);return null});
+function ensureCss(href){if(!document.querySelector(`link[href="${href}"]`)){const l=document.createElement('link');l.rel='stylesheet';l.href=href;document.head.appendChild(l)}}ensureCss('rarity.css?v=4');
+const poolCount=$('#poolCount'),drawnCount=$('#drawnCount'),drawBtn=$('#drawBtn'),reelWindow=$('#reelWindow'),reel=$('#reel'),ticketStage=$('#ticketStage'),ticket=$('#ticket'),ticketName=$('#ticketName'),ticketCode=$('#ticketCode'),ticketZone=$('#ticketZone'),stubNo=$('#stubNo'),historyEl=$('#history'),machineMessage=$('#machineMessage'),statusText=$('#statusText'),flash=$('#flash'),machine=$('#machine');
 const configDialog=$('#configDialog'),configBtn=$('#configBtn'),resetBtn=$('#resetBtn'),poolInput=$('#poolInput'),savePoolBtn=$('#savePoolBtn');
-
-async function load(){
-  try{
-    const raw=localStorage.getItem(STORAGE)||localStorage.getItem(LEGACY_STORAGE);
-    const saved=raw?JSON.parse(raw):null;
-    if(saved&&Array.isArray(saved.original)&&Array.isArray(saved.remaining)&&Array.isArray(saved.history))state=saved;
-  }catch{}
-  const pets=await petsReady;
-  if(pets){if(pets.retrofit(state.history))save();pets.bootPet(state.history)}
-  render();
-}
-function save(){localStorage.setItem(STORAGE,JSON.stringify(state))}
-function pad(n){return String(n).padStart(2,'0')}
+let rarityBadge=null,rarityReadout=null;
+function normalizePass(x){if(typeof x==='string')return{name:x.toUpperCase(),rarity:PASS_CATALOG[x.toUpperCase()]?.rarity||'COMMON'};const name=String(x?.name||'GENERAL PASS').toUpperCase(),r=String(x?.rarity||PASS_CATALOG[name]?.rarity||'COMMON').toUpperCase();return{name,rarity:RARITIES.includes(r)?r:'COMMON'}}
+function normalizeState(saved){if(!saved)return;state.original=(saved.original||[]).map(normalizePass);state.remaining=(saved.remaining||[]).map(normalizePass);state.history=(saved.history||[]).map((h,i)=>({...h,name:String(h.name||'GENERAL PASS').toUpperCase(),rarity:String(h.rarity||PASS_CATALOG[String(h.name||'').toUpperCase()]?.rarity||'COMMON').toUpperCase()}));if(!state.original.length)state.original=balanced.map(x=>({...x}));if(!state.remaining.length&&!state.history.length)state.remaining=state.original.map(x=>({...x}))}
+function ensureRarityUI(){if(rarityBadge)return;const title=$('.ticket-title');rarityBadge=document.createElement('span');rarityBadge.className='pass-rarity-badge';rarityBadge.textContent='COMMON / ENTRY';title?.appendChild(rarityBadge);rarityReadout=document.createElement('div');rarityReadout.className='rarity-readout';rarityReadout.innerHTML='<div class="c"><span>COMMON</span><b>STANDARD</b></div><div class="u"><span>UNCOMMON</span><b>ACCESS+</b></div><div class="r"><span>RARE</span><b>CREATOR</b></div><div class="e"><span>EPIC</span><b>BACKSTAGE</b></div><div class="l"><span>LEGENDARY</span><b>FOUNDER</b></div><div class="m"><span>MYTHIC</span><b>ZERO</b></div>';$('.machine-top')?.after(rarityReadout)}
+async function load(){try{let raw=localStorage.getItem(STORAGE);if(!raw)for(const k of LEGACY){raw=localStorage.getItem(k);if(raw)break}normalizeState(raw?JSON.parse(raw):null)}catch{}ensureRarityUI();const pets=await petsReady;if(pets){if(pets.retrofit(state.history))save();pets.bootPet(state.history)}render()}
+function save(){localStorage.setItem(STORAGE,JSON.stringify(state))}function pad(n){return String(n).padStart(2,'0')}
 function randIndex(max){if(max<=1)return 0;if(globalThis.crypto?.getRandomValues){const a=new Uint32Array(1);globalThis.crypto.getRandomValues(a);return a[0]%max}return Math.floor(Math.random()*max)}
-function code(){const chars='ABCDEFGHJKLMNPQRSTUVWXYZ23456789';let out='';for(let i=0;i<6;i++)out+=chars[randIndex(chars.length)];return `THD-001-${out}`}
-function zoneFor(name,index){const map={'GENERAL PASS':'G','EARLY ACCESS':'E','CREATOR PASS':'C','PARTNER PASS':'P','SECRET ACCESS':'X'};const key=map[name]||name.replace(/[^A-Z0-9]/gi,'').slice(0,1).toUpperCase()||'A';return `${key}-${String(index).padStart(2,'0')}`}
-
-function render(){poolCount.textContent=pad(state.remaining.length);drawnCount.textContent=pad(state.history.length);drawBtn.disabled=spinning||state.remaining.length===0;statusText.textContent=state.remaining.length?'SYSTEM READY':'POOL EMPTY';machineMessage.textContent=state.remaining.length?'INSERT INTENTION / RECEIVE ACCESS':'POOL EMPTY / EDIT OR RESET';renderHistory()}
-function renderHistory(){if(!state.history.length){historyEl.innerHTML='<div class="history-empty">NO ENTRY RECORDS / WAITING FOR FIRST DRAW</div>';return}historyEl.innerHTML=state.history.slice().reverse().map((item,i)=>`<div class="history-item"><span>${String(state.history.length-i).padStart(2,'0')}</span><b>${escapeHtml(item.name)}${item.pet?`<small class="pet-history">PET / ${escapeHtml(item.pet.name)} · ${escapeHtml(item.pet.species)}</small>`:''}</b><code>${escapeHtml(item.code)}</code><span>${escapeHtml(item.time)}</span></div>`).join('')}
+function code(){const chars='ABCDEFGHJKLMNPQRSTUVWXYZ23456789';let out='';for(let i=0;i<6;i++)out+=chars[randIndex(chars.length)];return`THD-001-${out}`}
+function zoneFor(pass,index){const z=PASS_CATALOG[pass.name]?.zone||pass.name.replace(/[^A-Z0-9]/g,'').slice(0,1)||'A';return`${z}-${String(index).padStart(2,'0')}`}
 function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-
-function reelRows(center){const source=state.remaining.length?state.remaining:state.original;const values=[];for(let i=0;i<5;i++)values.push(i===2?center:source[randIndex(source.length)]||'THEARD LIVE');reel.innerHTML=values.map((v,i)=>`<div class="reel-row ${i===2?'active':'ghost'}">${escapeHtml(v)}</div>`).join('')}
-
-let audioCtx=null;
-function tone(freq=440,duration=.045,type='square',gain=.018,delay=0){try{audioCtx ||= new (window.AudioContext||window.webkitAudioContext)();const osc=audioCtx.createOscillator(),g=audioCtx.createGain();osc.type=type;osc.frequency.value=freq;g.gain.setValueAtTime(0,audioCtx.currentTime+delay);g.gain.linearRampToValueAtTime(gain,audioCtx.currentTime+delay+.005);g.gain.exponentialRampToValueAtTime(.0001,audioCtx.currentTime+delay+duration);osc.connect(g);g.connect(audioCtx.destination);osc.start(audioCtx.currentTime+delay);osc.stop(audioCtx.currentTime+delay+duration+.01)}catch{}}
-function printSound(){tone(720,.07,'square',.02);tone(910,.06,'square',.014,.08);tone(1220,.09,'square',.012,.15);tone(1460,.08,'triangle',.009,.24)}
-function hatchSound(){tone(360,.08,'square',.012);tone(540,.07,'square',.012,.09);tone(820,.09,'triangle',.013,.18);tone(1180,.12,'triangle',.01,.29)}
-
-async function draw(){
-  if(spinning||!state.remaining.length)return;
-  spinning=true;render();ticketStage.classList.remove('open');ticket.setAttribute('aria-hidden','true');reelWindow.classList.add('spinning');machineMessage.textContent='RANDOMIZING ACCESS CLASS...';statusText.textContent='DRAWING';tone(180,.08,'square',.014);
-  const duration=1450,start=performance.now();let last=0;
-  await new Promise(resolve=>{function frame(now){const elapsed=now-start,progress=Math.min(elapsed/duration,1),gap=42+Math.pow(progress,2.5)*150;if(now-last>gap){last=now;const label=state.remaining[randIndex(state.remaining.length)];reelRows(label);tone(210+Math.random()*150,.028,'square',.006)}if(progress<1)requestAnimationFrame(frame);else resolve()}requestAnimationFrame(frame)});
-
-  const index=randIndex(state.remaining.length),name=state.remaining.splice(index,1)[0],serial=state.history.length+1,id=code(),zone=zoneFor(name,serial),time=new Date().toLocaleTimeString('zh-TW',{hour:'2-digit',minute:'2-digit',hour12:false});
-  const pets=await petsReady;
-  const pet=pets?.generatePet(id,name,serial)||null;
-  const entry={name,code:id,zone,time,pet};state.history.push(entry);save();
-
-  reelRows(name);reelWindow.classList.remove('spinning');ticketName.textContent=name;ticketCode.textContent=id;ticketZone.textContent=zone;stubNo.textContent=String(serial).padStart(3,'0');machineMessage.textContent=pet?'PASS AUTHORIZED / HATCHING COMPANION':'PASS AUTHORIZED / PRINTING';flash.classList.remove('fire');void flash.offsetWidth;flash.classList.add('fire');printSound();
-  if(pet&&pets){setTimeout(()=>{pets.revealPet(pet,{animate:true});hatchSound()},90)}
-  setTimeout(()=>{ticketStage.classList.add('open');ticket.setAttribute('aria-hidden','false');machineMessage.textContent=pet?'TAKE YOUR PASS / MEET YOUR COMPANION':'TAKE YOUR PASS / GOOD LUCK';statusText.textContent=pet?'PET BONDED':'PASS PRINTED'},180);
-  setTimeout(()=>{spinning=false;render()},950);
-}
-
-drawBtn.addEventListener('click',draw);
-addEventListener('keydown',e=>{if((e.key==='Enter'||e.code==='Space')&&!configDialog.open&&!['TEXTAREA','BUTTON'].includes(document.activeElement?.tagName)){e.preventDefault();draw()}});
-
-configBtn.addEventListener('click',()=>{poolInput.value=state.original.join('\n');configDialog.showModal();tone(520,.04,'square',.01)});
-$$('[data-preset]').forEach(btn=>btn.addEventListener('click',()=>{poolInput.value=(btn.dataset.preset==='rare'?rare:balanced).join('\n');tone(620,.04,'square',.01)}));
-savePoolBtn.addEventListener('click',async e=>{const entries=poolInput.value.split(/\r?\n/).map(v=>v.trim().toUpperCase()).filter(Boolean).slice(0,100);if(!entries.length){e.preventDefault();poolInput.focus();return}state={original:[...entries],remaining:[...entries],history:[]};save();ticketStage.classList.remove('open');reelRows('POOL UPDATED');render();(await petsReady)?.hidePet();tone(760,.05,'square',.015);tone(1020,.06,'square',.01,.07)});
-resetBtn.addEventListener('click',async()=>{if(!confirm('重置抽取紀錄並把所有票放回票池？'))return;state.remaining=[...state.original];state.history=[];save();ticketStage.classList.remove('open');reelRows('SYSTEM RESET');render();(await petsReady)?.hidePet();tone(280,.06,'square',.012);tone(190,.08,'square',.01,.08)});
-
-function updateClock(){const now=new Date();$('#clock').textContent=[now.getHours(),now.getMinutes(),now.getSeconds()].map(v=>String(v).padStart(2,'0')).join(':')}
-setInterval(updateClock,1000);updateClock();
-load();
+function render(){poolCount.textContent=pad(state.remaining.length);drawnCount.textContent=pad(state.history.length);drawBtn.disabled=spinning||state.remaining.length===0;statusText.textContent=state.remaining.length?'SYSTEM READY':'POOL EMPTY';if(!spinning)machineMessage.textContent=state.remaining.length?'INSERT INTENTION / RECEIVE ACCESS':'POOL EMPTY / EDIT OR RESET';renderHistory()}
+function renderHistory(){if(!state.history.length){historyEl.innerHTML='<div class="history-empty">NO ENTRY RECORDS / WAITING FOR FIRST DRAW</div>';return}historyEl.innerHTML=state.history.slice().reverse().map((item,i)=>`<div class="history-item"><span>${String(state.history.length-i).padStart(2,'0')}</span><b>${escapeHtml(item.name)} <em class="rarity-history ${String(item.rarity).toLowerCase()}">${escapeHtml(item.rarity)}</em>${item.pet?`<small class="pet-history">PET / ${escapeHtml(item.pet.name)} · ${escapeHtml(item.pet.species)} · ${escapeHtml(item.pet.rarity)}</small>`:''}</b><code>${escapeHtml(item.code)}</code><span>${escapeHtml(item.time)}</span></div>`).join('')}
+function reelRows(center,rarity=''){const src=state.remaining.length?state.remaining:state.original,vals=[];for(let i=0;i<5;i++){const p=i===2?{name:center,rarity}:src[randIndex(src.length)]||{name:'THEARD LIVE',rarity:''};vals.push(p)}reel.innerHTML=vals.map((p,i)=>`<div class="reel-row ${i===2?'active':'ghost'}">${escapeHtml(p.name)}${i===2&&p.rarity?` <small>/ ${escapeHtml(p.rarity)}</small>`:''}</div>`).join('')}
+let audioCtx=null;function tone(freq=440,duration=.045,type='square',gain=.018,delay=0){try{audioCtx||=new(window.AudioContext||window.webkitAudioContext)();const o=audioCtx.createOscillator(),g=audioCtx.createGain();o.type=type;o.frequency.value=freq;g.gain.setValueAtTime(0,audioCtx.currentTime+delay);g.gain.linearRampToValueAtTime(gain,audioCtx.currentTime+delay+.005);g.gain.exponentialRampToValueAtTime(.0001,audioCtx.currentTime+delay+duration);o.connect(g);g.connect(audioCtx.destination);o.start(audioCtx.currentTime+delay);o.stop(audioCtx.currentTime+delay+duration+.01)}catch{}}
+function printSound(){tone(720,.07,'square',.02);tone(910,.06,'square',.014,.08);tone(1220,.09,'square',.012,.15)}function hatchSound(){tone(360,.08,'square',.012);tone(540,.07,'square',.012,.09);tone(820,.09,'triangle',.013,.18);tone(1180,.12,'triangle',.01,.29)}
+function raritySound(r){const map={COMMON:[520],UNCOMMON:[620,820],RARE:[700,940,1180],EPIC:[520,760,1050,1380],LEGENDARY:[440,660,880,1320,1760],MYTHIC:[330,495,742,1110,1665,2220]};(map[r]||map.COMMON).forEach((f,i)=>tone(f,.09,i%2?'triangle':'square',.012,i*.07))}
+function applyRarity(pass){ensureRarityUI();ticket.className='ticket';ticket.classList.add(`rarity-${pass.rarity.toLowerCase()}`);rarityBadge.textContent=`${pass.rarity} / ENTRY`;[...machine.classList].filter(c=>c.startsWith('rarity-hit-')).forEach(c=>machine.classList.remove(c));if(pass.rarity!=='COMMON')machine.classList.add(`rarity-hit-${pass.rarity.toLowerCase()}`)}
+async function draw(){if(spinning||!state.remaining.length)return;spinning=true;render();ticketStage.classList.remove('open');ticket.setAttribute('aria-hidden','true');reelWindow.classList.add('spinning');machineMessage.textContent='RANDOMIZING ACCESS CLASS...';statusText.textContent='DRAWING';tone(180,.08,'square',.014);const duration=1500,start=performance.now();let last=0;await new Promise(resolve=>{function frame(now){const e=now-start,p=Math.min(e/duration,1),gap=40+Math.pow(p,2.5)*155;if(now-last>gap){last=now;const choice=state.remaining[randIndex(state.remaining.length)];reelRows(choice.name);tone(210+Math.random()*170,.028,'square',.006)}p<1?requestAnimationFrame(frame):resolve()}requestAnimationFrame(frame)});
+const idx=randIndex(state.remaining.length),pass=state.remaining.splice(idx,1)[0],serial=state.history.length+1,id=code(),zone=zoneFor(pass,serial),time=new Date().toLocaleTimeString('zh-TW',{hour:'2-digit',minute:'2-digit',hour12:false});const pets=await petsReady,pet=pets?.generatePet(id,pass.name,serial)||null;const entry={name:pass.name,rarity:pass.rarity,code:id,zone,time,pet};state.history.push(entry);save();reelRows(pass.name,pass.rarity);reelWindow.classList.remove('spinning');ticketName.textContent=pass.name;ticketCode.textContent=id;ticketZone.textContent=zone;stubNo.textContent=String(serial).padStart(3,'0');applyRarity(pass);machineMessage.textContent=pet?`${pass.rarity} PASS / HATCHING COMPANION`:`${pass.rarity} PASS / PRINTING`;flash.classList.remove('fire');void flash.offsetWidth;flash.classList.add('fire');printSound();raritySound(pass.rarity);if(pet&&pets)setTimeout(()=>{pets.revealPet(pet,{animate:true});hatchSound()},110);setTimeout(()=>{ticketStage.classList.add('open');ticket.setAttribute('aria-hidden','false');machineMessage.textContent=`${pass.rarity} PASS BONDED / TAKE YOUR TICKET`;statusText.textContent=pass.rarity==='MYTHIC'?'MYTHIC SIGNAL':pet?'PET BONDED':'PASS PRINTED'},190);setTimeout(()=>{spinning=false;render()},1050)}
+drawBtn.addEventListener('click',draw);addEventListener('keydown',e=>{if((e.key==='Enter'||e.code==='Space')&&!configDialog.open&&!['TEXTAREA','BUTTON'].includes(document.activeElement?.tagName)){e.preventDefault();draw()}});
+function poolToText(pool){return pool.map(p=>`${p.name} :: ${p.rarity}`).join('\n')}function parsePool(text){return text.split(/\r?\n/).map(v=>v.trim()).filter(Boolean).slice(0,120).map(line=>{const [rawName,rawRarity]=line.split('::').map(s=>s.trim()),name=rawName.toUpperCase(),r=(rawRarity||PASS_CATALOG[name]?.rarity||'COMMON').toUpperCase();return{name,rarity:RARITIES.includes(r)?r:'COMMON'}})}
+configBtn.addEventListener('click',()=>{poolInput.value=poolToText(state.original);configDialog.showModal();tone(520,.04,'square',.01)});$$('[data-preset]').forEach(btn=>btn.addEventListener('click',()=>{poolInput.value=poolToText(btn.dataset.preset==='rare'?collector:balanced);tone(620,.04,'square',.01)}));
+savePoolBtn.addEventListener('click',async e=>{const entries=parsePool(poolInput.value);if(!entries.length){e.preventDefault();poolInput.focus();return}state={original:entries.map(x=>({...x})),remaining:entries.map(x=>({...x})),history:[]};save();ticketStage.classList.remove('open');reelRows('POOL UPDATED');render();(await petsReady)?.hidePet();tone(760,.05,'square',.015);tone(1020,.06,'square',.01,.07)});
+resetBtn.addEventListener('click',async()=>{if(!confirm('重置抽取紀錄並把所有票放回票池？'))return;state.remaining=state.original.map(x=>({...x}));state.history=[];save();ticketStage.classList.remove('open');reelRows('SYSTEM RESET');render();(await petsReady)?.hidePet();tone(280,.06,'square',.012);tone(190,.08,'square',.01,.08)});
+function updateClock(){const n=new Date();$('#clock').textContent=[n.getHours(),n.getMinutes(),n.getSeconds()].map(v=>String(v).padStart(2,'0')).join(':')}setInterval(updateClock,1000);updateClock();load();
