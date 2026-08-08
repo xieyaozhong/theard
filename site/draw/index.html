@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#070907" />
+  <title>THEARD LIVE — PASS DRAW</title>
+  <meta name="description" content="THEARD LIVE premium pixel admission pass draw machine." />
+  <link rel="stylesheet" href="styles.css?v=1" />
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <div class="scanlines" aria-hidden="true"></div>
+  <div class="pixel-grid" aria-hidden="true"></div>
+
+  <header class="hud">
+    <a class="back" href="../">← THEARD</a>
+    <div class="hud-brand">
+      <span>THEARD LIVE / 001</span>
+      <b>PASS DRAW SYSTEM</b>
+    </div>
+    <div class="status"><i></i><span id="statusText">SYSTEM READY</span></div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <div>
+        <p class="eyebrow">// RANDOMIZED ENTRY PROTOCOL</p>
+        <h1>DRAW<br><span>YOUR</span><br>PASS.</h1>
+      </div>
+      <div class="intro-copy">
+        <p>獨立於 THEARD 主網站的入場券抽取器。保留沉浸式質感，但把互動語言切換成像素機台、票券列印與現場抽獎。</p>
+        <div class="mini-stats">
+          <div><span>POOL</span><b id="poolCount">00</b></div>
+          <div><span>DRAWN</span><b id="drawnCount">00</b></div>
+          <div><span>MODE</span><b>NO REPEAT</b></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="machine-wrap">
+      <div class="machine" id="machine">
+        <div class="machine-top">
+          <div><span>THEARD INDUSTRIES</span><b>PX–001</b></div>
+          <div class="leds" aria-hidden="true"><i></i><i></i><i></i></div>
+        </div>
+
+        <div class="screen-shell">
+          <div class="screen-bezel">
+            <div class="screen-head">
+              <span>PASS SELECTOR / LIVE</span>
+              <span id="clock">00:00:00</span>
+            </div>
+
+            <div class="reel-window" id="reelWindow" aria-live="polite">
+              <div class="reel-fade reel-fade-top"></div>
+              <div class="reel" id="reel">
+                <div class="reel-row ghost">WAITING FOR INPUT</div>
+                <div class="reel-row ghost">THEARD LIVE / 001</div>
+                <div class="reel-row active">PRESS DRAW PASS</div>
+                <div class="reel-row ghost">NO REPEAT PROTOCOL</div>
+                <div class="reel-row ghost">ENTRY SYSTEM READY</div>
+              </div>
+              <div class="reel-fade reel-fade-bottom"></div>
+              <div class="crosshair" aria-hidden="true"></div>
+            </div>
+
+            <div class="screen-foot">
+              <span id="machineMessage">INSERT INTENTION / RECEIVE ACCESS</span>
+              <span>CRC OK</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="printer">
+          <div class="printer-label">THERMAL PASS OUTPUT</div>
+          <div class="slot"><i></i></div>
+          <div class="ticket-stage" id="ticketStage">
+            <article class="ticket" id="ticket" aria-hidden="true">
+              <div class="ticket-cut left"></div>
+              <div class="ticket-cut right"></div>
+              <div class="ticket-main">
+                <div class="ticket-top"><span>THEARD LIVE</span><span>ADMIT ONE</span></div>
+                <div class="ticket-title">
+                  <small>ACCESS CLASS</small>
+                  <strong id="ticketName">CREATOR PASS</strong>
+                </div>
+                <div class="ticket-meta">
+                  <div><span>EVENT</span><b>001 / 2026</b></div>
+                  <div><span>ZONE</span><b id="ticketZone">A-01</b></div>
+                  <div><span>STATUS</span><b>VALID</b></div>
+                </div>
+                <div class="ticket-code">
+                  <span id="ticketCode">THD-001-XXXX</span>
+                  <i aria-hidden="true"></i>
+                </div>
+              </div>
+              <div class="ticket-stub">
+                <span>ENTRY</span>
+                <b id="stubNo">001</b>
+                <div class="pixel-qr" aria-hidden="true"></div>
+                <small>KEEP THIS PASS</small>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div class="controls">
+          <button class="draw-btn" id="drawBtn" type="button">
+            <span class="btn-label">DRAW PASS</span>
+            <span class="btn-sub">PRESS / ENTER</span>
+          </button>
+          <button class="util-btn" id="configBtn" type="button">EDIT POOL</button>
+          <button class="util-btn" id="resetBtn" type="button">RESET</button>
+        </div>
+
+        <div class="machine-bottom">
+          <span>LOCAL ONLY / NO DATA UPLOAD</span>
+          <span>THEARD PIXEL SYSTEM © 2026</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="history-section">
+      <div class="section-label">// DRAW LOG</div>
+      <div class="history-head">
+        <h2>RECENT<br>ENTRIES.</h2>
+        <p>每次抽取都會從目前票池移除，避免現場抽到重複票。資料只存在這台裝置的瀏覽器。</p>
+      </div>
+      <div class="history" id="history"></div>
+    </section>
+  </main>
+
+  <dialog class="config-dialog" id="configDialog">
+    <form method="dialog" class="config-panel" id="configForm">
+      <div class="config-head">
+        <div><span>// POOL EDITOR</span><h2>ENTRY PASSES</h2></div>
+        <button value="cancel" aria-label="關閉">×</button>
+      </div>
+      <p>每行一張票。重複輸入同名票就會增加該票的數量；抽出後會從剩餘票池移除。</p>
+      <textarea id="poolInput" spellcheck="false" aria-label="票池內容"></textarea>
+      <div class="preset-row">
+        <button type="button" data-preset="balanced">BALANCED</button>
+        <button type="button" data-preset="rare">WITH SECRET PASS</button>
+      </div>
+      <div class="config-actions">
+        <button value="cancel" class="secondary">CANCEL</button>
+        <button value="default" id="savePoolBtn" class="primary">SAVE POOL</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div class="flash" id="flash" aria-hidden="true"></div>
+  <script src="app.js?v=1"></script>
+</body>
+</html>
