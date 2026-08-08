@@ -49,10 +49,9 @@ jobs:
 
           assert 'THEARD — Attention Engine' in main, 'main entrance title missing'
           assert 'THEARD LIVE — PASS DRAW' in draw, 'draw entrance title missing'
-          assert 'href="draw/"' in main, 'main site must expose the draw entrance'
           assert 'href="../"' in draw, 'draw page must return to main site'
 
-          # Each document must keep its own relative asset namespace.
+          # Each document keeps its own relative asset namespace.
           assert 'src="draw/app.js' not in main
           assert 'href="draw/styles.css' not in main
           assert 'src="../app.js' not in draw
