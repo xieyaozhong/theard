@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-08-08T20:11:00+08:00",
+  "mode": "SEEDED / AUTO PIPELINE READY",
+  "signals": [
+    {
+      "title": "AI 降低軟體創作門檻，開發者需求反而擴大",
+      "source": "Business Insider / Atlassian",
+      "score": 96,
+      "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8"
+    },
+    {
+      "title": "AI 從工具走向科學共同研究者",
+      "source": "Wall Street Journal",
+      "score": 93,
+      "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41"
+    },
+    {
+      "title": "AI 能力快速上升，但治理、評估與制度仍在追趕",
+      "source": "AI Index 2026",
+      "score": 89,
+      "url": "https://arxiv.org/abs/2606.15708"
+    }
+  ],
+  "articles": [
+    {
+      "topic": "AI 降低軟體創作門檻，開發者需求反而擴大",
+      "mode": "AUTO / DEEP DIVE",
+      "angle": "LABOR × SOFTWARE × ACCESS",
+      "title": "AI 沒有先消滅開發者，而是先改變了誰有資格成為開發者",
+      "dek": "真正值得注意的，不是 AI 能不能取代一段程式碼，而是當製作軟體的成本下降，整個市場會不會反而需要更多人參與建造。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "過去談 AI 與程式設計，問題常被簡化成『工程師會不會被取代』。但近期企業端出現另一種訊號：當自然語言、代理工具與自動化程式設計降低開發門檻，更多原本不被視為軟體團隊的人開始直接參與建造工具、流程與內部系統。結果可能不是軟體工作消失，而是軟體生產從少數專業團隊向更多職能擴散。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "這背後其實是供給曲線的改變。當寫出第一版產品的成本下降，市場不一定只會用同樣的人做更多事；它也可能產生大量以前因為太貴而根本不會被做的軟體。小型內部工具、個人化工作流、短生命週期應用與高度垂直的產品，都可能因成本下降而變得合理。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "如果這個方向持續，工程師的價值會從『能不能把需求寫成程式』逐漸移向『能不能定義問題、設計系統、驗證品質、管理風險』。程式碼本身的稀缺性下降，不代表工程能力失去價值；反而可能讓架構判斷、產品理解與整合能力變得更稀缺。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "但需求增加不代表所有角色都會受益。重複、局部、可驗證的工作仍會被快速壓縮，初階工作也可能被重新定義。真正的分水嶺不是『會不會用 AI』，而是能否在 AI 產生大量候選方案後，仍然做出正確的取捨。"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "如果每個部門都能開始製作自己的軟體，那麼下一個最重要的能力，究竟是寫程式，還是判斷哪些東西根本不值得被做出來？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "BUSINESS INSIDER",
+          "title": "AI was meant to replace software developers. It's creating more instead.",
+          "url": "https://www.businessinsider.com/atlassian-q4-2026-earnings-ai-surprise-more-software-developers-2026-8"
+        }
+      ]
+    },
+    {
+      "topic": "AI 從工具走向科學共同研究者",
+      "mode": "AUTO / DEEP DIVE",
+      "angle": "SCIENCE × DISCOVERY × JUDGMENT",
+      "title": "下一階段的 AI 競爭，不是誰回答得更快，而是誰先找到人類沒想到的問題",
+      "dek": "當 AI 開始在數學與科學研究中提出非直覺路徑，價值就從『自動化已知工作』往『擴張可探索空間』移動。",
+      "sections": [
+        {
+          "label": "01 / FROM ANSWER TO DISCOVERY",
+          "text": "生成式 AI 最早被大規模使用時，核心價值是把既有知識更快地整理、轉譯與重組。但科學研究要求的不是只回答已知問題，而是辨認哪些假設值得挑戰、哪些異常值得追、哪些搜尋路徑可能藏著新結構。當 AI 能在這些位置產生有用候選，它就從助手開始接近研究夥伴。"
+        },
+        {
+          "label": "02 / WHY IT MATTERS",
+          "text": "科學的瓶頸很多時候不是算力，而是探索空間過大。人類研究者會因訓練背景、時間與直覺而偏好某些方向；機器則能以完全不同的方式排列可能性。真正強的系統，不是取代直覺，而是提供一個與人類偏誤不同的第二套搜尋機制。"
+        },
+        {
+          "label": "03 / CENTAUR SCIENCE",
+          "text": "因此更可能出現的不是『AI 科學家』與『人類科學家』二選一，而是新的混合工作流：機器大量探索、提出異常與候選，人類決定什麼值得相信、如何設計驗證，以及結果對世界意味著什麼。這種分工會重新定義研究效率，也會重新定義研究責任。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "科學領域尤其不能把漂亮答案當成發現。不可重現的結果、資料偏誤、錯誤因果與評估漏洞，都可能被更高速地放大。能力越強，驗證機制越不能只是最後一道流程，而必須成為整個研究系統的一部分。"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "當提出假說的成本趨近於零，未來真正稀缺的，會不會不再是『好點子』，而是設計出能快速淘汰錯誤點子的驗證制度？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "WALL STREET JOURNAL",
+          "title": "Move 37 Is the Moment AI Changes Everything",
+          "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41"
+        }
+      ]
+    },
+    {
+      "topic": "AI 能力快速上升，但治理、評估與制度仍在追趕",
+      "mode": "AUTO / DEEP DIVE",
+      "angle": "CAPABILITY × GOVERNANCE × TRUST",
+      "title": "AI 最危險的速度差，可能不是模型與人，而是能力與制度",
+      "dek": "模型能力進步可以用月份計算，但組織的治理、教育、採購與風險制度通常用年計算；真正的落差正在這裡形成。",
+      "sections": [
+        {
+          "label": "01 / THE SPEED GAP",
+          "text": "當 AI 能力快速提升，外界很容易把注意力集中在基準測試、模型排名與新功能。但真正進入組織之後，系統是否可靠往往取決於另一組較慢的東西：誰負責驗證、錯誤如何追蹤、資料如何治理、什麼任務必須保留人工決策。能力進步如果快於制度學習，風險就會累積在看不見的工作流程裡。"
+        },
+        {
+          "label": "02 / EVALUATION IS INFRASTRUCTURE",
+          "text": "評估不應只是模型發布前的一張成績表，而是部署後持續運作的基礎設施。不同組織有不同失敗成本，因此同一個模型在不同場景下可能有完全不同的可接受程度。真正成熟的 AI 採用，不是找到『最強模型』，而是知道什麼錯誤可以容忍、什麼錯誤一次都不能發生。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "當模型逐漸能執行更長的任務鏈，風險也從單一回答是否正確，變成整段行動序列是否偏離目標。這會讓觀測性、權限邊界、回滾機制與人工批准變成產品設計的一部分，而不是法務或資安部門最後才加入的附屬條件。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "治理也可能被做成另一種阻力。如果每一次實驗都需要完整審批，組織反而無法累積實際經驗。比較合理的方向是分層自治：低風險工作快速試驗，高風險行動要求更強的證據、權限與人工確認。"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "如果模型能力每季都在改變，我們還能不能用一年更新一次的制度，去管理一個每幾週就換一次能力邊界的系統？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "AI INDEX 2026",
+          "title": "Artificial Intelligence Index Report 2026",
+          "url": "https://arxiv.org/abs/2606.15708"
+        }
+      ]
+    }
+  ]
+}
