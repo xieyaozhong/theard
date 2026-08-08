@@ -1,0 +1,42 @@
+name: Refresh trend editorial
+
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trend-editorial
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - name: Generate fresh trend editorial
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+        run: python scripts/generate_trend_article.py
+
+      - name: Commit refreshed public data
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- site/data/trend-article.json; then
+            echo "Trend payload unchanged."
+            exit 0
+          fi
+          git config user.name "theard-trend-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/trend-article.json
+          git commit -m "Refresh trend editorial"
+          git push origin HEAD:main
