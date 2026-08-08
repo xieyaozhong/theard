@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <meta name="theme-color" content="#070907" />
   <title>THEARD LIVE — PASS DRAW</title>
-  <meta name="description" content="THEARD LIVE premium pixel admission pass draw machine." />
-  <link rel="stylesheet" href="styles.css?v=1" />
+  <meta name="description" content="THEARD LIVE premium pixel admission pass draw machine with personal digital companions." />
+  <link rel="stylesheet" href="styles.css?v=2" />
 </head>
 <body>
   <div class="noise" aria-hidden="true"></div>
@@ -17,7 +17,7 @@
     <a class="back" href="../">← THEARD</a>
     <div class="hud-brand">
       <span>THEARD LIVE / 001</span>
-      <b>PASS DRAW SYSTEM</b>
+      <b>PASS DRAW + COMPANION</b>
     </div>
     <div class="status"><i></i><span id="statusText">SYSTEM READY</span></div>
   </header>
@@ -25,15 +25,15 @@
   <main>
     <section class="intro">
       <div>
-        <p class="eyebrow">// RANDOMIZED ENTRY PROTOCOL</p>
+        <p class="eyebrow">// RANDOMIZED ENTRY + COMPANION PROTOCOL</p>
         <h1>DRAW<br><span>YOUR</span><br>PASS.</h1>
       </div>
       <div class="intro-copy">
-        <p>獨立於 THEARD 主網站的入場券抽取器。保留沉浸式質感，但把互動語言切換成像素機台、票券列印與現場抽獎。</p>
+        <p>每位參加者抽到入場券的同一刻，也會同步孵化一隻專屬電子寵物。牠的外型、名字、屬性與個性由你的唯一票號生成，之後重新開啟仍會是同一隻。</p>
         <div class="mini-stats">
           <div><span>POOL</span><b id="poolCount">00</b></div>
           <div><span>DRAWN</span><b id="drawnCount">00</b></div>
-          <div><span>MODE</span><b>NO REPEAT</b></div>
+          <div><span>MODE</span><b>PET BOND</b></div>
         </div>
       </div>
     </section>
@@ -48,7 +48,7 @@
         <div class="screen-shell">
           <div class="screen-bezel">
             <div class="screen-head">
-              <span>PASS SELECTOR / LIVE</span>
+              <span>PASS SELECTOR / COMPANION LINK</span>
               <span id="clock">00:00:00</span>
             </div>
 
@@ -58,8 +58,8 @@
                 <div class="reel-row ghost">WAITING FOR INPUT</div>
                 <div class="reel-row ghost">THEARD LIVE / 001</div>
                 <div class="reel-row active">PRESS DRAW PASS</div>
+                <div class="reel-row ghost">PERSONAL PET GUARANTEED</div>
                 <div class="reel-row ghost">NO REPEAT PROTOCOL</div>
-                <div class="reel-row ghost">ENTRY SYSTEM READY</div>
               </div>
               <div class="reel-fade reel-fade-bottom"></div>
               <div class="crosshair" aria-hidden="true"></div>
@@ -67,13 +67,13 @@
 
             <div class="screen-foot">
               <span id="machineMessage">INSERT INTENTION / RECEIVE ACCESS</span>
-              <span>CRC OK</span>
+              <span>PET LINK READY</span>
             </div>
           </div>
         </div>
 
         <div class="printer">
-          <div class="printer-label">THERMAL PASS OUTPUT</div>
+          <div class="printer-label">THERMAL PASS OUTPUT / COMPANION ID EMBEDDED</div>
           <div class="slot"><i></i></div>
           <div class="ticket-stage" id="ticketStage">
             <article class="ticket" id="ticket" aria-hidden="true">
@@ -107,7 +107,7 @@
 
         <div class="controls">
           <button class="draw-btn" id="drawBtn" type="button">
-            <span class="btn-label">DRAW PASS</span>
+            <span class="btn-label">DRAW + HATCH</span>
             <span class="btn-sub">PRESS / ENTER</span>
           </button>
           <button class="util-btn" id="configBtn" type="button">EDIT POOL</button>
@@ -115,17 +115,17 @@
         </div>
 
         <div class="machine-bottom">
-          <span>LOCAL ONLY / NO DATA UPLOAD</span>
+          <span>LOCAL ONLY / PET GENOME STORED ON DEVICE</span>
           <span>THEARD PIXEL SYSTEM © 2026</span>
         </div>
       </div>
     </section>
 
     <section class="history-section">
-      <div class="section-label">// DRAW LOG</div>
+      <div class="section-label">// DRAW + COMPANION LOG</div>
       <div class="history-head">
-        <h2>RECENT<br>ENTRIES.</h2>
-        <p>每次抽取都會從目前票池移除，避免現場抽到重複票。資料只存在這台裝置的瀏覽器。</p>
+        <h2>RECENT<br>BONDS.</h2>
+        <p>每次抽取都會從目前票池移除，並建立一組不可分割的 PASS × PET 配對。這台裝置會記住最近抽出的票與電子寵物。</p>
       </div>
       <div class="history" id="history"></div>
     </section>
@@ -137,7 +137,7 @@
         <div><span>// POOL EDITOR</span><h2>ENTRY PASSES</h2></div>
         <button value="cancel" aria-label="關閉">×</button>
       </div>
-      <p>每行一張票。重複輸入同名票就會增加該票的數量；抽出後會從剩餘票池移除。</p>
+      <p>每行一張票。重複輸入同名票就會增加該票的數量；每一張被抽出的票都會獲得自己的電子寵物。</p>
       <textarea id="poolInput" spellcheck="false" aria-label="票池內容"></textarea>
       <div class="preset-row">
         <button type="button" data-preset="balanced">BALANCED</button>
@@ -151,6 +151,6 @@
   </dialog>
 
   <div class="flash" id="flash" aria-hidden="true"></div>
-  <script src="app.js?v=1"></script>
+  <script src="app.js?v=2"></script>
 </body>
 </html>
