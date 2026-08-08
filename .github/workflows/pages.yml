@@ -26,6 +26,41 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+
+      - name: Verify isolated entrances
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f site/index.html
+          test -f site/styles.css
+          test -f site/app.js
+          test -f site/matter.js
+          test -f site/draw/index.html
+          test -f site/draw/styles.css
+          test -f site/draw/app.js
+          test -f site/draw/pets.js
+          test -f site/draw/rarity.css
+
+          python - <<'PY'
+          from pathlib import Path
+
+          main = Path('site/index.html').read_text(encoding='utf-8')
+          draw = Path('site/draw/index.html').read_text(encoding='utf-8')
+
+          assert 'THEARD — Attention Engine' in main, 'main entrance title missing'
+          assert 'THEARD LIVE — PASS DRAW' in draw, 'draw entrance title missing'
+          assert 'href="draw/"' in main, 'main site must expose the draw entrance'
+          assert 'href="../"' in draw, 'draw page must return to main site'
+
+          # Each document must keep its own relative asset namespace.
+          assert 'src="draw/app.js' not in main
+          assert 'href="draw/styles.css' not in main
+          assert 'src="../app.js' not in draw
+          assert 'href="../styles.css' not in draw
+
+          print('Entrance isolation check passed: / and /draw/ are independent.')
+          PY
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload site artifact
