@@ -1,4 +1,4 @@
-const PET_CSS='pets.css?v=2';
+const PET_CSS='pets.css?v=3';
 if(!document.querySelector(`link[href="${PET_CSS}"]`)){const l=document.createElement('link');l.rel='stylesheet';l.href=PET_CSS;document.head.appendChild(l)}
 
 const SPECIES=['VOID CAT','SPARK BUN','MOSS BLOB','ORB MOTH','TINY GOLEM','GLITCH FOX'];
@@ -52,13 +52,20 @@ function drawSpecies(ctx,pet,r){const p=PALETTES[pet.paletteIndex];drawBackgroun
 export function drawPet(canvas,pet){if(!canvas||!pet)return;canvas.width=24;canvas.height=24;const ctx=canvas.getContext('2d');ctx.imageSmoothingEnabled=false;ctx.clearRect(0,0,24,24);const r=rng(pet.seed);drawSpecies(ctx,pet,r)}
 
 let ui=null;
-function ensureUI(){if(ui)return ui;const machine=document.querySelector('.machine'),screenShell=document.querySelector('.screen-shell'),ticketMain=document.querySelector('.ticket-main');if(!machine||!screenShell||!ticketMain)return null;
-  const bay=document.createElement('section');bay.className='pet-bay';bay.innerHTML=`<div class="pet-vault"><div class="pet-screen"><canvas class="pet-canvas" id="petCanvas" width="24" height="24"></canvas><span class="pet-placeholder">NO COMPANION SIGNAL</span></div></div><div class="pet-data"><span class="pet-kicker">// PERSONAL DIGITAL COMPANION</span><h3 class="pet-name" id="petName">WAITING...</h3><div class="pet-stats"><div class="pet-stat"><span>SPECIES</span><b id="petSpecies">—</b></div><div class="pet-stat"><span>ELEMENT</span><b id="petElement">—</b></div><div class="pet-stat"><span>PERSONALITY</span><b id="petTemper">—</b></div><div class="pet-stat"><span>RARITY</span><b id="petRarity">—</b></div><div class="pet-stat"><span>BOND</span><b>LV.01</b></div><div class="pet-stat"><span>STATE</span><b>HATCHED</b></div></div><div class="pet-id">COMPANION ID / <b id="petId">—</b></div></div>`;screenShell.after(bay);
-  const chip=document.createElement('div');chip.className='ticket-pet-chip';chip.innerHTML='<canvas width="24" height="24"></canvas><div>PET<strong>—</strong></div>';ticketMain.appendChild(chip);
-  ui={bay,canvas:bay.querySelector('#petCanvas'),name:bay.querySelector('#petName'),species:bay.querySelector('#petSpecies'),element:bay.querySelector('#petElement'),temper:bay.querySelector('#petTemper'),rarity:bay.querySelector('#petRarity'),id:bay.querySelector('#petId'),chip,chipCanvas:chip.querySelector('canvas'),chipName:chip.querySelector('strong')};return ui}
+function ensureUI(){
+  if(ui)return ui;
+  const machineWrap=document.querySelector('.machine-wrap'),historySection=document.querySelector('.history-section');
+  if(!machineWrap||!historySection)return null;
+  const bay=document.createElement('section');
+  bay.className='pet-bay pet-bay--standalone';
+  bay.innerHTML=`<div class="pet-bay__label">// PERSONAL DIGITAL COMPANION</div><div class="pet-bay__inner"><div class="pet-vault"><div class="pet-screen"><canvas class="pet-canvas" id="petCanvas" width="24" height="24"></canvas><span class="pet-placeholder">NO COMPANION SIGNAL</span></div></div><div class="pet-data"><span class="pet-kicker">PASS × PET BOND</span><h3 class="pet-name" id="petName">WAITING...</h3><div class="pet-stats"><div class="pet-stat"><span>SPECIES</span><b id="petSpecies">—</b></div><div class="pet-stat"><span>ELEMENT</span><b id="petElement">—</b></div><div class="pet-stat"><span>PERSONALITY</span><b id="petTemper">—</b></div><div class="pet-stat"><span>RARITY</span><b id="petRarity">—</b></div><div class="pet-stat"><span>BOND</span><b>LV.01</b></div><div class="pet-stat"><span>STATE</span><b>HATCHED</b></div></div><div class="pet-id">COMPANION ID / <b id="petId">—</b></div></div></div>`;
+  historySection.parentNode.insertBefore(bay,historySection);
+  ui={bay,canvas:bay.querySelector('#petCanvas'),name:bay.querySelector('#petName'),species:bay.querySelector('#petSpecies'),element:bay.querySelector('#petElement'),temper:bay.querySelector('#petTemper'),rarity:bay.querySelector('#petRarity'),id:bay.querySelector('#petId')};
+  return ui;
+}
 
-export function revealPet(pet,{animate=true}={}){const x=ensureUI();if(!x||!pet)return;x.name.textContent=pet.name;x.species.textContent=pet.species;x.element.textContent=pet.element;x.temper.textContent=pet.temperament;x.rarity.textContent=pet.rarity;x.rarity.className=`pet-rarity--${pet.rarity}`;x.id.textContent=pet.id;x.chipName.textContent=pet.name;drawPet(x.canvas,pet);drawPet(x.chipCanvas,pet);x.bay.classList.remove('awake','hatching');void x.bay.offsetWidth;if(animate){x.bay.classList.add('hatching');setTimeout(()=>{x.bay.classList.remove('hatching');x.bay.classList.add('awake')},760)}else{x.bay.classList.add('awake')}}
-export function hidePet(){const x=ensureUI();if(!x)return;x.bay.classList.remove('awake','hatching');x.name.textContent='WAITING...';x.species.textContent=x.element.textContent=x.temper.textContent=x.rarity.textContent=x.id.textContent='—';x.chipName.textContent='—';[x.canvas,x.chipCanvas].forEach(c=>c.getContext('2d').clearRect(0,0,c.width,c.height))}
+export function revealPet(pet,{animate=true}={}){const x=ensureUI();if(!x||!pet)return;x.name.textContent=pet.name;x.species.textContent=pet.species;x.element.textContent=pet.element;x.temper.textContent=pet.temperament;x.rarity.textContent=pet.rarity;x.rarity.className=`pet-rarity--${pet.rarity}`;x.id.textContent=pet.id;drawPet(x.canvas,pet);x.bay.classList.remove('awake','hatching');void x.bay.offsetWidth;if(animate){x.bay.classList.add('hatching');setTimeout(()=>{x.bay.classList.remove('hatching');x.bay.classList.add('awake')},760)}else{x.bay.classList.add('awake')}}
+export function hidePet(){const x=ensureUI();if(!x)return;x.bay.classList.remove('awake','hatching');x.name.textContent='WAITING...';x.species.textContent=x.element.textContent=x.temper.textContent=x.rarity.textContent=x.id.textContent='—';x.canvas.getContext('2d').clearRect(0,0,x.canvas.width,x.canvas.height)}
 export function retrofit(history=[]){let changed=false;history.forEach((entry,i)=>{if(!entry.pet&&entry.code){entry.pet=generatePet(entry.code,entry.name,i+1);changed=true}});return changed}
 export function bootPet(history=[]){ensureUI();if(history.length){const last=history[history.length-1];if(last.pet)revealPet(last.pet,{animate:false})}}
 
