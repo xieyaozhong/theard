@@ -1,54 +1,70 @@
 {
-  "generated_at": "2026-08-09T03:00:58+08:00",
+  "generated_at": "2026-08-09T05:48:18+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "\"Code was never the hard part\" is an insult to all programmers",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "403 pts / 263 comments",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "364 pts / 175 comments",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "context": "High-engagement technology discussion"
+    },
     {
       "title": "Timeline of the OpenAI accidental attack against Hugging Face",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "219 pts / 232 comments",
+      "traffic": "275 pts / 290 comments",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "133 pts / 206 comments",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A domain can now say it is for sale, in DNS",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "231 pts / 104 comments",
+      "score": 89,
+      "traffic": "295 pts / 123 comments",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "303 pts / 98 comments",
+      "score": 89,
+      "traffic": "340 pts / 106 comments",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "\"Code was never the hard part\" is an insult to all programmers",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "137 pts / 98 comments",
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Fastmail offers EU data region",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "128 pts / 68 comments",
+      "score": 88,
+      "traffic": "261 pts / 119 comments",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "LinkedIn Feed Blocker",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "138 pts / 80 comments",
+      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "桃園機場航班",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "林志玲",
@@ -59,27 +75,11 @@
       "context": ""
     },
     {
-      "title": "LinkedIn Feed Blocker",
+      "title": "Can Intel finally beat ARM on performance per Watt?",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "65 pts / 42 comments",
-      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "66 pts / 53 comments",
-      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "77 pts / 34 comments",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "traffic": "111 pts / 39 comments",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
       "context": "High-engagement technology discussion"
     },
     {
@@ -101,9 +101,81 @@
   ],
   "articles": [
     {
-      "topic": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "topic": "\"Code was never the hard part\" is an insult to all programmers",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「\"Code was never the hard part\" is an insult to all programmers」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「\"Code was never the hard part\" is an insult to all programmers」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "\"Code was never the hard part\" is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"
+        }
+      ]
+    },
+    {
+      "topic": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
+        }
+      ]
+    },
+    {
+      "topic": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Timeline of the OpenAI accidental attack against Hugging Face」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -133,78 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Timeline of the OpenAI accidental attack against Hugging Face",
           "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-        }
-      ]
-    },
-    {
-      "topic": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「US Military's cyber command unit grapples with cluster of deaths by suicide」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「US Military's cyber command unit grapples with cluster of deaths by suicide」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide"
-        }
-      ]
-    },
-    {
-      "topic": "A domain can now say it is for sale, in DNS",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「A domain can now say it is for sale, in DNS」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A domain can now say it is for sale, in DNS」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "A domain can now say it is for sale, in DNS",
-          "url": "https://specification.website/spec/foundations/for-sale-dns/"
         }
       ]
     }
