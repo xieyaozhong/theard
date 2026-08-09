@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-09T21:17:21+08:00",
+  "generated_at": "2026-08-09T23:49:23+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
-    {
-      "title": "明天的天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%B8%9B%E5%BC%B1%E7%82%BA%E8%BC%95%E9%A2%B1-%E4%BC%B0%E6%98%8E%E5%A4%A9%E5%87%8C%E6%99%A8%E8%87%B3%E6%B8%85%E6%99%A8%E8%A7%A3%E9%99%A4%E6%B5%B7%E8%AD%A6-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D%E3%80%90%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91-011931666.html",
-      "context": "颱風白海豚減弱為輕颱估明天凌晨至清晨解除海警氣象署說明最新颱風路徑、影響範圍【不斷更新】"
-    },
     {
       "title": "My server is a phone now",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "389 pts / 167 comments",
+      "traffic": "428 pts / 196 comments",
       "url": "https://seg6.space/posts/phone-server/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "253 pts / 159 comments",
-      "url": "https://shopify.engineering/scaling-inventory-reservations",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "201 pts / 120 comments",
+      "traffic": "217 pts / 143 comments",
       "url": "https://os8088.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Mea Culpa – Dark Hours",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "211 pts / 90 comments",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "103 pts / 45 comments",
+      "traffic": "120 pts / 53 comments",
       "url": "https://github.com/jmarshall23/msword",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "weather tomorrow",
+      "title": "華 倫 巴菲特",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.koreaherald.com/article/10835045",
-      "context": "Temperatures ease; heavy rain forecast for east coast"
+      "url": "https://tw.news.yahoo.com/%E6%B3%A2%E5%85%8B%E5%A4%8F%E7%B5%82%E6%96%BC%E9%96%8B%E5%A7%8B%E8%B2%B7%E8%82%A1%E4%BA%86-%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%82%B3%E4%BA%BA-%E5%87%BA%E6%89%8B%E8%B2%B7%E5%85%A5200%E5%84%84%E7%BE%8E%E5%85%83-%E4%B8%BB%E8%A6%81%E9%8E%96%E5%AE%9A%E9%80%99%E6%AA%94%E8%82%A1%E7%A5%A8-104701848.html",
+      "context": "波克夏終於開始買股了！「巴菲特傳人」出手買入200億美元 主要鎖定這檔股票"
     },
     {
-      "title": "Everything You Do Is Being Recorded",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "61 pts / 35 comments",
-      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "context": "High-engagement technology discussion"
+      "title": "蔡阿嘎",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E8%A2%AB%E8%94%A1%E9%98%BF%E5%98%8E%E9%96%8B%E9%99%A42%E5%B9%B4-%E8%98%BF%E6%8B%89%E7%AA%81-ig%E6%9B%AC%E7%89%B9%E6%96%AF%E6%8B%89-%E9%82%84po%E7%89%87-%E5%81%9A%E6%AD%A3%E6%B4%BE%E7%9A%84%E4%BA%BA-141633596.html",
+      "context": "被蔡阿嘎開除2年！蘿拉突「IG曬特斯拉」還PO片：做正派的人"
     },
     {
       "title": "There Are Magic Hexagons of Every Order",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "83 pts / 15 comments",
+      "score": 84,
+      "traffic": "131 pts / 20 comments",
       "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "You might want to build your WebApp in Canvas instead of HTML",
+      "title": "Uber SubmitQueue: a high-performance speculative merge queue",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "33 pts / 33 comments",
-      "url": "https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/",
+      "score": 83,
+      "traffic": "53 pts / 34 comments",
+      "url": "https://github.com/uber/submitqueue/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The Grid That Doubles the Strength of the Ground",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "48 pts / 8 comments",
+      "score": 83,
+      "traffic": "92 pts / 19 comments",
       "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "arsenal vs dortmund",
+      "title": "直升機",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.walesonline.co.uk/sport/football/football-news/how-watch-arsenal-vs-dortmund-34428715",
-      "context": "How to watch Arsenal vs Dortmund for free - TV channel and YouTube stream"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.nytimes.com/2026/08/08/us/two-killed-wildfire-helicopter-crash.html",
+      "context": "Two Killed in Firefighting Helicopter Crash Near Utah Wildfire"
     },
     {
-      "title": "華倫·巴菲特",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E6%B3%A2%E5%85%8B%E5%A4%8F%E7%B5%82%E6%96%BC%E9%96%8B%E5%A7%8B%E8%B2%B7%E8%82%A1%E4%BA%86-%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%82%B3%E4%BA%BA-%E5%87%BA%E6%89%8B%E8%B2%B7%E5%85%A5200%E5%84%84%E7%BE%8E%E5%85%83-%E4%B8%BB%E8%A6%81%E9%8E%96%E5%AE%9A%E9%80%99%E6%AA%94%E8%82%A1%E7%A5%A8-104701848.html",
-      "context": "波克夏終於開始買股了！「巴菲特傳人」出手買入200億美元 主要鎖定這檔股票"
+      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "49 pts / 25 comments",
+      "url": "https://halfhill.com/byte/1998-12_alpha.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "46 pts / 13 comments",
+      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。颱風白海豚減弱為輕颱估明天凌晨至清晨解除海警氣象署說明最新颱風路徑、影響範圍【不斷更新】。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%B8%9B%E5%BC%B1%E7%82%BA%E8%BC%95%E9%A2%B1-%E4%BC%B0%E6%98%8E%E5%A4%A9%E5%87%8C%E6%99%A8%E8%87%B3%E6%B8%85%E6%99%A8%E8%A7%A3%E9%99%A4%E6%B5%B7%E8%AD%A6-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E3%80%81%E5%BD%B1%E9%9F%BF%E7%AF%84%E5%9C%8D%E3%80%90%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91-011931666.html"
-        }
-      ]
-    },
-    {
       "topic": "My server is a phone now",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「My server is a phone now」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "topic": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Shopify replaced Redis with MySQL for inventory reservations–and it scaled」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Os8088: A powerful Mac-like OS for the IBM XT, 286, 386」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Shopify replaced Redis with MySQL for inventory reservations–and it scaled」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Os8088: A powerful Mac-like OS for the IBM XT, 286, 386」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-          "url": "https://shopify.engineering/scaling-inventory-reservations"
+          "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+          "url": "https://os8088.com/"
+        }
+      ]
+    },
+    {
+      "topic": "Mea Culpa – Dark Hours",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Mea Culpa – Dark Hours」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Mea Culpa – Dark Hours」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Mea Culpa – Dark Hours",
+          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html"
         }
       ]
     }
