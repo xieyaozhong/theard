@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-09T15:18:55+08:00",
+  "generated_at": "2026-08-09T17:58:55+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Fastmail offers EU data region",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "381 pts / 192 comments",
+      "traffic": "417 pts / 215 comments",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "_for-sale DNS records",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "383 pts / 141 comments",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "My server is a phone now",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "263 pts / 99 comments",
+      "score": 89,
+      "traffic": "330 pts / 131 comments",
       "url": "https://seg6.space/posts/phone-server/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "157 pts / 88 comments",
+      "score": 88,
+      "traffic": "199 pts / 113 comments",
       "url": "https://shopify.engineering/scaling-inventory-reservations",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "131 pts / 55 comments",
+      "score": 87,
+      "traffic": "174 pts / 90 comments",
       "url": "https://os8088.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Improving Heuristics for A* Pathfinding",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "186 pts / 19 comments",
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "重陽 節",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "106 pts / 23 comments",
-      "url": "http://longbets.org/601/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Incentives are for losers",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "78 pts / 35 comments",
-      "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Dithered QR Codes",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "140 pts / 15 comments",
-      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "81 pts / 26 comments",
+      "score": 86,
+      "traffic": "124 pts / 94 comments",
       "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "中国男子篮球职业联赛",
+      "title": "Improving Heuristics for A* Pathfinding",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "231 pts / 22 comments",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "144 pts / 61 comments",
+      "url": "http://longbets.org/601/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Dithered QR Codes",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "203 pts / 17 comments",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "74 pts / 23 comments",
+      "url": "https://github.com/jmarshall23/msword",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "華爾街",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://news.china.com/socialgd/10000169/20260807/49661280.html",
-      "context": "大学生球员成CBA选秀主角 高校体育培育沃土"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "軍事演習",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.rti.org.tw/jp/news?uid=3&pid=225011",
+      "context": "蕭・副総統、高雄の「都市強靭性演習」を視察 対応力の強化に期待"
+    },
+    {
+      "title": "現金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "context": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "_for-sale DNS records",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「_for-sale DNS records」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「_for-sale DNS records」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "_for-sale DNS records",
-          "url": "https://specification.website/spec/foundations/for-sale-dns/"
-        }
-      ]
-    },
-    {
       "topic": "My server is a phone now",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「My server is a phone now」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "My server is a phone now",
           "url": "https://seg6.space/posts/phone-server/"
+        }
+      ]
+    },
+    {
+      "topic": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Shopify replaced Redis with MySQL for inventory reservations–and it scaled」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Shopify replaced Redis with MySQL for inventory reservations–and it scaled」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+          "url": "https://shopify.engineering/scaling-inventory-reservations"
         }
       ]
     }
