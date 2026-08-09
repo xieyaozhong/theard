@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-09T12:38:48+08:00",
+  "generated_at": "2026-08-09T15:18:55+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Fastmail offers EU data region",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "350 pts / 174 comments",
+      "traffic": "381 pts / 192 comments",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": "_for-sale DNS records",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "368 pts / 136 comments",
+      "traffic": "383 pts / 141 comments",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "My server is a phone now",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "184 pts / 75 comments",
+      "score": 88,
+      "traffic": "263 pts / 99 comments",
       "url": "https://seg6.space/posts/phone-server/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "徐莉玲",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://stars.udn.com/star/story/120661/9679917",
-      "context": "台玻夫人徐莉玲稱長子因童年陰影抑鬱亡 兒媳譚以欣出聲打臉了"
-    },
-    {
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "97 pts / 59 comments",
+      "score": 87,
+      "traffic": "157 pts / 88 comments",
       "url": "https://shopify.engineering/scaling-inventory-reservations",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "熱帶性低氣壓",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E6%96%B0%E7%86%B1%E5%B8%B6%E4%BD%8E%E5%A3%93%E7%94%9F%E6%88%90-%E6%9C%80%E5%BF%AB%E4%BB%8A%E6%99%9A%E5%8D%87%E7%82%BA%E9%A2%B1%E9%A2%A8-%E7%90%B5%E9%B7%BA-%E6%81%90%E4%B8%89%E9%A2%B1%E5%85%B1%E8%88%9E-023044278.html",
-      "context": "新熱帶低壓生成！最快今晚升為颱風「琵鷺」 恐三颱共舞"
-    },
-    {
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "92 pts / 35 comments",
+      "score": 85,
+      "traffic": "131 pts / 55 comments",
       "url": "https://os8088.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Improving Heuristics for A* Pathfinding",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "123 pts / 15 comments",
+      "score": 85,
+      "traffic": "186 pts / 19 comments",
       "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "title": "重陽 節",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "105 pts / 24 comments",
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "traffic": "106 pts / 23 comments",
+      "url": "http://longbets.org/601/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Making difficulty curves in games",
+      "title": "Incentives are for losers",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "78 pts / 35 comments",
+      "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Dithered QR Codes",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "140 pts / 15 comments",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "80 pts / 32 comments",
-      "url": "http://www.davetech.co.uk/difficultycurves",
+      "traffic": "81 pts / 26 comments",
+      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "光 通訊",
+      "title": "中国男子篮球职业联赛",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://cmnews.com.tw/article/suwanzhen-c2f47799-9386-11f1-af48-fd772435afa1",
-      "context": "統新(6426)亮燈漲停，獲利撐得起187元嗎？-蘇宛真"
-    },
-    {
-      "title": "風",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.yahoo.co.jp/pickup/6591062",
-      "context": "台風15号 東から西に本州横断か"
+      "url": "https://news.china.com/socialgd/10000169/20260807/49661280.html",
+      "context": "大学生球员成CBA选秀主角 高校体育培育沃土"
     }
   ],
   "articles": [
