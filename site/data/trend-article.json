@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-10T03:04:11+08:00",
+  "generated_at": "2026-08-10T05:50:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Mea Culpa – Dark Hours",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "405 pts / 189 comments",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Ask HN: What are you working on? (August 2026)",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "53 pts / 180 comments",
+      "score": 91,
+      "traffic": "131 pts / 471 comments",
       "url": "https://news.ycombinator.com/item?id=49233423",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
+      "title": "Mea Culpa – Dark Hours",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "502 pts / 227 comments",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "梅 賽 德 斯 賓 士",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3",
+      "context": "Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo"
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "203 pts / 106 comments",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Saying No",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "144 pts / 65 comments",
-      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+      "traffic": "97 pts / 79 comments",
+      "url": "https://rozumem.xyz/posts/19",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "蔡阿嘎",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E8%A2%AB%E8%94%A1%E9%98%BF%E5%98%8E%E9%96%8B%E9%99%A42%E5%B9%B4-%E8%98%BF%E6%8B%89%E7%AA%81-ig%E6%9B%AC%E7%89%B9%E6%96%AF%E6%8B%89-%E9%82%84po%E7%89%87-%E5%81%9A%E6%AD%A3%E6%B4%BE%E7%9A%84%E4%BA%BA-141633596.html",
-      "context": "被蔡阿嘎開除2年！蘿拉突「IG曬特斯拉」還PO片：做正派的人"
-    },
-    {
-      "title": "華 倫 巴菲特",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E6%B3%A2%E5%85%8B%E5%A4%8F%E7%B5%82%E6%96%BC%E9%96%8B%E5%A7%8B%E8%B2%B7%E8%82%A1%E4%BA%86-%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%82%B3%E4%BA%BA-%E5%87%BA%E6%89%8B%E8%B2%B7%E5%85%A5200%E5%84%84%E7%BE%8E%E5%85%83-%E4%B8%BB%E8%A6%81%E9%8E%96%E5%AE%9A%E9%80%99%E6%AA%94%E8%82%A1%E7%A5%A8-104701848.html",
-      "context": "波克夏終於開始買股了！「巴菲特傳人」出手買入200億美元 主要鎖定這檔股票"
-    },
-    {
-      "title": "There Are Magic Hexagons of Every Order",
+      "title": "Taxi drivers rarely die of Alzheimer's",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "157 pts / 24 comments",
-      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+      "score": 86,
+      "traffic": "106 pts / 86 comments",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "京元電子",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "title": "Cool URIs Don't Change (1998)",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "76 pts / 30 comments",
-      "url": "https://kibotronics.net/unlisted/lilly-machines/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "FCC moves to ban Lidar-equipped foreign drones from US",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "61 pts / 32 comments",
-      "url": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+      "score": 85,
+      "traffic": "135 pts / 28 comments",
+      "url": "https://www.w3.org/Provider/Style/URI",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "黃仁勳",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E7%8B%82%E8%AE%9A%E8%8F%AF%E8%8E%8E-%E9%80%A3%E6%96%B0%E6%AD%8C%E9%83%BD%E7%9F%A5%E9%81%93-%E5%A5%B9%E5%BE%97%E7%9F%A5%E8%BA%AB%E5%88%86%E5%BE%8C%E6%80%A5%E5%AF%84%E6%89%8B%E5%AF%AB%E4%BF%A1%E8%87%B4%E8%AC%9D-084356545.html",
-      "context": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%BB%8D%E8%A6%81%E8%B5%B7%E9%A3%9B%E4%BA%86-2035%E5%B9%B4%E5%87%BA%E8%B2%A8%E4%B8%8A%E7%9C%8B1300%E8%90%AC%E5%8F%B0-%E8%87%AA%E5%8B%95%E5%8C%96%E5%B1%95%E5%80%92%E6%95%B8-3%E6%AA%94%E9%A3%86%E9%80%BE2%E6%88%90-%E6%B3%95%E4%BA%BA%E6%90%B6%E5%85%88%E5%8D%A1%E4%BD%8D-030500694.html",
+      "context": "機器人大軍要起飛了！2035年出貨上看1300萬台 自動化展倒數「3檔飆逾2成」法人搶先卡位"
     },
     {
-      "title": "伺服 器",
+      "title": "Is it all just vapourware?",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "49 pts / 50 comments",
+      "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "吳子嘉",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/ai%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%9C%80%E6%B1%82%E6%97%BA-%E9%80%992%E6%AA%94%E4%BB%A3%E5%B7%A5%E5%A4%A7%E5%BB%A0-%E5%96%AE%E5%91%A8%E8%A2%AB%E5%A4%96%E8%B3%87%E7%8B%82%E6%8E%8314-5%E8%90%AC%E5%BC%B5-%E9%B4%BB%E6%B5%B7%E6%B3%95%E8%AA%AA%E5%89%8D%E5%A4%95%E7%8D%B2%E6%8C%B9%E6%B3%A8158%E5%84%84%E5%85%83-133000148.html",
-      "context": "AI伺服器需求旺！「這2檔代工大廠」單周被外資狂掃14.5萬張 鴻海法說前夕獲挹注158億元"
+      "url": "https://www.chinatimes.com/realtimenews/20260809002888-260407",
+      "context": "2026選戰「這縣市」藍軍穩贏吳子嘉：綠營恐一屍五命- 政治"
     },
     {
-      "title": "散步",
+      "title": "巴巴 萬 加",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://udn.com/news/story/7266/9680440",
-      "context": "效果比散步還好！復健科醫師揭「1動作」：在家就能降血壓"
+      "url": "https://tw.news.yahoo.com/2026%E7%9B%B2%E7%9C%BC%E9%BE%8D%E5%A9%865%E9%A0%90%E8%A8%80%E8%A2%AB%E7%A8%B1%E4%B8%AD2%E5%80%8B-%E6%9C%AA%E5%AF%A6%E7%8F%BE%E7%9A%84-%E9%80%99%E9%A0%85-%E7%89%BD%E6%B6%89%E5%8F%B0%E7%81%A3-151500505.html",
+      "context": "2026盲眼龍婆5預言被稱中2個 未實現的「這項」牽涉台灣"
+    },
+    {
+      "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "42 pts / 27 comments",
+      "url": "https://github.com/yegors/deGDID",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Mea Culpa – Dark Hours",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Mea Culpa – Dark Hours」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Mea Culpa – Dark Hours」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Mea Culpa – Dark Hours",
-          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html"
-        }
-      ]
-    },
-    {
       "topic": "Ask HN: What are you working on? (August 2026)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Ask HN: What are you working on? (August 2026)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
+      "topic": "Mea Culpa – Dark Hours",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Analyzing data from Silicon Valley ventures and founders prosecuted for fraud」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Mea Culpa – Dark Hours」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Analyzing data from Silicon Valley ventures and founders prosecuted for fraud」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Mea Culpa – Dark Hours」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
-          "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981"
+          "title": "Mea Culpa – Dark Hours",
+          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html"
+        }
+      ]
+    },
+    {
+      "topic": "梅 賽 德 斯 賓 士",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「梅 賽 德 斯 賓 士」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「梅 賽 德 斯 賓 士」推到更高的注意力位置。Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "GOOGLE TRENDS / TW",
+          "title": "梅 賽 德 斯 賓 士",
+          "url": "https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3"
         }
       ]
     }
