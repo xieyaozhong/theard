@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-09T05:48:18+08:00",
+  "generated_at": "2026-08-09T10:31:32+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "\"Code was never the hard part\" is an insult to all programmers",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "403 pts / 263 comments",
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "364 pts / 175 comments",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "275 pts / 290 comments",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A domain can now say it is for sale, in DNS",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "295 pts / 123 comments",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "340 pts / 106 comments",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Fastmail offers EU data region",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "261 pts / 119 comments",
+      "score": 89,
+      "traffic": "328 pts / 154 comments",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "LinkedIn Feed Blocker",
+      "title": "_for-sale DNS records",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "138 pts / 80 comments",
-      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "score": 89,
+      "traffic": "356 pts / 133 comments",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "桃園機場航班",
+      "title": "白 海豚 停 班",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "林志玲",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.news.yahoo.com/%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E9%A2%B1%E9%A2%A8%E5%81%87%E5%AE%A3%E5%B8%83%E4%BA%86-%E6%98%8E-%E6%96%B0%E7%AB%B9%E7%B8%A38%E6%A0%A1-%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E7%8F%AD-130900410.html",
+      "context": "不斷更新／颱風假宣布了 明「新竹縣8校」停課不停班"
     },
     {
       "title": "Can Intel finally beat ARM on performance per Watt?",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "111 pts / 39 comments",
+      "score": 87,
+      "traffic": "172 pts / 104 comments",
       "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "旅遊 補助",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "My server is a phone now",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "119 pts / 52 comments",
+      "url": "https://seg6.space/posts/phone-server/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "失踪者",
+      "title": "工會",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5533389",
+      "context": "火大開嗆演藝工會理事長 許常德：田路路很酷"
+    },
+    {
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "94 pts / 18 comments",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "林逸欣",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://lahoo.ca/2026/08/07/814443",
-      "context": "卑诗失踪25岁登山客坠崖受困峭壁四日奇蹟获救"
+      "url": "https://tw.news.yahoo.com/43%E5%B9%B4%E8%A8%BA%E6%89%80%E6%AD%A3%E5%BC%8F%E7%86%84%E7%87%88-%E6%9E%97%E9%80%B8%E6%AC%A3%E9%A6%96%E5%80%8B%E6%B2%92%E6%9C%89%E7%88%B8%E7%88%B8%E7%9A%84%E7%88%B6%E8%A6%AA%E7%AF%80-%E9%96%80%E5%8F%A3%E5%8D%BB%E7%88%86%E6%8E%92%E9%9A%8A%E6%BD%AE-030300547.html",
+      "context": "43年診所正式熄燈！林逸欣首個沒有爸爸的父親節 門口卻爆排隊潮"
+    },
+    {
+      "title": "屍體",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/7320/9679783",
+      "context": "19歲女家中生產後嬰孩死亡 伴屍6天飄異味後報警求助"
+    },
+    {
+      "title": "typhoon dolphin",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://focustaiwan.tw/society/202608080014",
+      "context": "Typhoon Dolphin brings strong winds, minor injuries to northern Taiwan"
+    },
+    {
+      "title": "Improving Heuristics for A* Pathfinding",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "84 pts / 10 comments",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "59 pts / 20 comments",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "\"Code was never the hard part\" is an insult to all programmers",
+      "topic": "Fastmail offers EU data region",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「\"Code was never the hard part\" is an insult to all programmers」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Fastmail offers EU data region」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「\"Code was never the hard part\" is an insult to all programmers」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Fastmail offers EU data region」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "\"Code was never the hard part\" is an insult to all programmers",
-          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"
+          "title": "Fastmail offers EU data region",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"
         }
       ]
     },
     {
-      "topic": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "topic": "_for-sale DNS records",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating」開始升溫，我們真正該看的不是熱度",
+      "title": "當「_for-sale DNS records」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「_for-sale DNS records」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
+          "title": "_for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns/"
         }
       ]
     },
     {
-      "topic": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "topic": "白 海豚 停 班",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Timeline of the OpenAI accidental attack against Hugging Face」開始升溫，我們真正該看的不是熱度",
+      "title": "當「白 海豚 停 班」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Timeline of the OpenAI accidental attack against Hugging Face」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「白 海豚 停 班」推到更高的注意力位置。不斷更新／颱風假宣布了 明「新竹縣8校」停課不停班。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "白 海豚 停 班",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E9%A2%B1%E9%A2%A8%E5%81%87%E5%AE%A3%E5%B8%83%E4%BA%86-%E6%98%8E-%E6%96%B0%E7%AB%B9%E7%B8%A38%E6%A0%A1-%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E7%8F%AD-130900410.html"
         }
       ]
     }
