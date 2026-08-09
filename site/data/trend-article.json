@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-09T10:31:32+08:00",
+  "generated_at": "2026-08-09T12:38:48+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Fastmail offers EU data region",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "328 pts / 154 comments",
+      "score": 90,
+      "traffic": "350 pts / 174 comments",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": "_for-sale DNS records",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "356 pts / 133 comments",
+      "traffic": "368 pts / 136 comments",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "白 海豚 停 班",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.news.yahoo.com/%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E9%A2%B1%E9%A2%A8%E5%81%87%E5%AE%A3%E5%B8%83%E4%BA%86-%E6%98%8E-%E6%96%B0%E7%AB%B9%E7%B8%A38%E6%A0%A1-%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E7%8F%AD-130900410.html",
-      "context": "不斷更新／颱風假宣布了 明「新竹縣8校」停課不停班"
-    },
-    {
-      "title": "Can Intel finally beat ARM on performance per Watt?",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "172 pts / 104 comments",
-      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "My server is a phone now",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "119 pts / 52 comments",
+      "score": 87,
+      "traffic": "184 pts / 75 comments",
       "url": "https://seg6.space/posts/phone-server/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "工會",
+      "title": "徐莉玲",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5533389",
-      "context": "火大開嗆演藝工會理事長 許常德：田路路很酷"
-    },
-    {
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "94 pts / 18 comments",
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "林逸欣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/43%E5%B9%B4%E8%A8%BA%E6%89%80%E6%AD%A3%E5%BC%8F%E7%86%84%E7%87%88-%E6%9E%97%E9%80%B8%E6%AC%A3%E9%A6%96%E5%80%8B%E6%B2%92%E6%9C%89%E7%88%B8%E7%88%B8%E7%9A%84%E7%88%B6%E8%A6%AA%E7%AF%80-%E9%96%80%E5%8F%A3%E5%8D%BB%E7%88%86%E6%8E%92%E9%9A%8A%E6%BD%AE-030300547.html",
-      "context": "43年診所正式熄燈！林逸欣首個沒有爸爸的父親節 門口卻爆排隊潮"
-    },
-    {
-      "title": "屍體",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/7320/9679783",
-      "context": "19歲女家中生產後嬰孩死亡 伴屍6天飄異味後報警求助"
-    },
-    {
-      "title": "typhoon dolphin",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://focustaiwan.tw/society/202608080014",
-      "context": "Typhoon Dolphin brings strong winds, minor injuries to northern Taiwan"
-    },
-    {
-      "title": "Improving Heuristics for A* Pathfinding",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "84 pts / 10 comments",
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "context": "High-engagement technology discussion"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://stars.udn.com/star/story/120661/9679917",
+      "context": "台玻夫人徐莉玲稱長子因童年陰影抑鬱亡 兒媳譚以欣出聲打臉了"
     },
     {
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "59 pts / 20 comments",
+      "score": 85,
+      "traffic": "97 pts / 59 comments",
       "url": "https://shopify.engineering/scaling-inventory-reservations",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "熱帶性低氣壓",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E6%96%B0%E7%86%B1%E5%B8%B6%E4%BD%8E%E5%A3%93%E7%94%9F%E6%88%90-%E6%9C%80%E5%BF%AB%E4%BB%8A%E6%99%9A%E5%8D%87%E7%82%BA%E9%A2%B1%E9%A2%A8-%E7%90%B5%E9%B7%BA-%E6%81%90%E4%B8%89%E9%A2%B1%E5%85%B1%E8%88%9E-023044278.html",
+      "context": "新熱帶低壓生成！最快今晚升為颱風「琵鷺」 恐三颱共舞"
+    },
+    {
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "92 pts / 35 comments",
+      "url": "https://os8088.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Improving Heuristics for A* Pathfinding",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "123 pts / 15 comments",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "105 pts / 24 comments",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Making difficulty curves in games",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "80 pts / 32 comments",
+      "url": "http://www.davetech.co.uk/difficultycurves",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "光 通訊",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://cmnews.com.tw/article/suwanzhen-c2f47799-9386-11f1-af48-fd772435afa1",
+      "context": "統新(6426)亮燈漲停，獲利撐得起187元嗎？-蘇宛真"
+    },
+    {
+      "title": "風",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.yahoo.co.jp/pickup/6591062",
+      "context": "台風15号 東から西に本州横断か"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "白 海豚 停 班",
+      "topic": "My server is a phone now",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「白 海豚 停 班」開始升溫，我們真正該看的不是熱度",
+      "title": "當「My server is a phone now」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「白 海豚 停 班」推到更高的注意力位置。不斷更新／颱風假宣布了 明「新竹縣8校」停課不停班。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「My server is a phone now」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "白 海豚 停 班",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E9%A2%B1%E9%A2%A8%E5%81%87%E5%AE%A3%E5%B8%83%E4%BA%86-%E6%98%8E-%E6%96%B0%E7%AB%B9%E7%B8%A38%E6%A0%A1-%E5%81%9C%E8%AA%B2%E4%B8%8D%E5%81%9C%E7%8F%AD-130900410.html"
+          "source": "HACKER NEWS",
+          "title": "My server is a phone now",
+          "url": "https://seg6.space/posts/phone-server/"
         }
       ]
     }
