@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T10:37:00+08:00",
+  "generated_at": "2026-08-10T12:56:59+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Ask HN: What are you working on? (August 2026)",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "179 pts / 672 comments",
+      "traffic": "206 pts / 739 comments",
       "url": "https://news.ycombinator.com/item?id=49233423",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": "How I use LLMs to learn complex topics",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "446 pts / 259 comments",
+      "traffic": "517 pts / 290 comments",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Mea Culpa – Dark Hours",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "565 pts / 257 comments",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Taxi drivers rarely die of Alzheimer's",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "194 pts / 147 comments",
+      "score": 89,
+      "traffic": "226 pts / 168 comments",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Cool URIs Don't Change (1998)",
+      "title": "方志友",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E6%96%B9%E5%BF%97%E5%8F%8B%E3%80%81%E6%A5%8A%E9%8A%98%E5%A8%81%E5%AE%A3%E5%B8%83%E9%9B%A2%E5%A9%9A-%E3%80%8C%E7%84%A1%E6%B3%95%E5%86%8D%E5%81%9A%E6%83%85%E4%BA%BA%E4%BD%86%E6%B0%B8%E9%81%A0%E6%98%AF%E5%AE%B6%E4%BA%BA%E3%80%8D-041849827.html",
+      "context": "方志友、楊銘威宣布離婚 「無法再做情人但永遠是家人」"
+    },
+    {
+      "title": "What Happened to HackerOne?",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "191 pts / 45 comments",
-      "url": "https://www.w3.org/Provider/Style/URI",
+      "score": 84,
+      "traffic": "118 pts / 33 comments",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "台達電",
+      "title": "金居",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E9%95%B7%E7%B4%84%E7%B6%81%E5%88%B02028-%E9%80%99abf%E8%BC%89%E6%9D%BF%E5%A4%A7%E5%BB%A0-%E6%98%8E%E5%B9%B4eps%E4%B8%8A%E7%9C%8B22%E5%85%83-%E7%9B%AE%E6%A8%99%E5%83%B9%E8%87%B31000%E5%85%83-182000847.html",
+      "context": "輝達長約綁到2028！「這ABF載板大廠」明年EPS上看22元 目標價至1000元"
     },
     {
-      "title": "力積電股價",
+      "title": "謝 忻",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "http://news.ustv.com.tw/newsdetail/20260807A001005",
-      "context": "力積電前景俏外資升評買進| 產經"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E6%BF%80%E5%90%BB%E4%BA%BA%E5%A4%AB%E9%98%BF%E7%BF%94%E6%AF%80%E4%BA%8B%E6%A5%AD-%E8%AC%9D%E5%BF%BB%E8%AB%87%E5%87%BA%E4%BA%8B-%E5%B7%A5%E4%BD%9C%E7%9E%AC%E9%96%93%E6%AD%B8%E9%9B%B6-%E8%AA%8D%E4%BA%86-%E5%92%8E%E7%94%B1%E8%87%AA%E5%8F%96-012600829.html",
+      "context": "激吻人夫阿翔毀事業！謝忻談出事「工作瞬間歸零」認了：咎由自取"
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "title": "How We Pushed CDC into Postgres",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "81 pts / 45 comments",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "score": 80,
+      "traffic": "55 pts / 6 comments",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The tragedy of the commons, AI edition",
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "79 pts / 42 comments",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "score": 80,
+      "traffic": "36 pts / 9 comments",
+      "url": "https://gitlab.com/Kazade/picophysics",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "漢光",
+      "title": "定延",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://star.ettoday.net/news/3216529",
+      "context": "快訊／TWICE第一人離開JYP！ 定延證實不續約「成為邊佑錫師妹」"
+    },
+    {
+      "title": "中鋼",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "緯創股票",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "川湖股價",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Auto mode is now the default in Claude Code",
+      "source": "HACKER NEWS",
+      "score": 78,
+      "traffic": "31 pts / 2 comments",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Mea Culpa – Dark Hours",
+      "topic": "Taxi drivers rarely die of Alzheimer's",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Mea Culpa – Dark Hours」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Taxi drivers rarely die of Alzheimer's」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Mea Culpa – Dark Hours」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Taxi drivers rarely die of Alzheimer's」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Mea Culpa – Dark Hours",
-          "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html"
+          "title": "Taxi drivers rarely die of Alzheimer's",
+          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650"
         }
       ]
     }
