@@ -1,49 +1,33 @@
 {
-  "generated_at": "2026-08-10T18:38:06+08:00",
+  "generated_at": "2026-08-10T21:47:20+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "249 pts / 885 comments",
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How I use LLMs to learn complex topics",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "646 pts / 396 comments",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Taxi drivers rarely die of Alzheimer's",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "296 pts / 207 comments",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "traffic": "362 pts / 163 comments",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "228 pts / 147 comments",
+      "score": 90,
+      "traffic": "349 pts / 216 comments",
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "What Happened to HackerOne?",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "239 pts / 115 comments",
+      "score": 89,
+      "traffic": "294 pts / 151 comments",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "力 積 電",
+      "title": "股東",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
@@ -51,31 +35,7 @@
       "context": ""
     },
     {
-      "title": "玉山 金融 控股 公司",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://udn.com/news/story/7239/9679566",
-      "context": "玉山金揭露股利展望"
-    },
-    {
-      "title": "觀音 工業 區",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://udn.com/news/story/7320/9682419",
-      "context": "桃園觀音工業區化工廠火警！有機溶劑廠區全面燃燒 濃黑煙烈焰沖天"
-    },
-    {
-      "title": "柯文哲",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%B9-%E7%96%AB%E8%8B%97%E5%B0%81%E5%AD%9830%E5%B9%B4-%E5%AD%B8%E8%80%85%E6%89%93%E8%87%89-%E7%9C%8B%E4%B8%8D%E6%87%82%E5%85%AC%E6%96%87%E7%94%A8%E8%AA%9E-%E6%96%87%E4%BB%B6%E5%A1%97%E9%BB%91%E4%B8%8D%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%B1%BA%E5%AE%9A%E7%9A%84-095430821.html",
-      "context": "蔣萬安批「疫苗封存30年」學者打臉：看不懂公文用語？文件塗黑不就是你決定的？"
-    },
-    {
-      "title": "国民年金",
+      "title": "友達光電",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -83,33 +43,73 @@
       "context": ""
     },
     {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "title": "股灾",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "96 pts / 35 comments",
-      "url": "https://www.whodunnitai.com/",
+      "traffic": "125 pts / 21 comments",
+      "url": "https://github.com/shinyquagsire23/Klepton",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How We Pushed CDC into Postgres",
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "97 pts / 10 comments",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "traffic": "68 pts / 23 comments",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "33 pts / 31 comments",
+      "url": "https://twitter.com/thdxr/status/2086599224674681242",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "74 pts / 16 comments",
+      "url": "https://www.dsprelated.com/showarticle/40.php",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Tail-call optimization in C is relatively recent",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "45 pts / 18 comments",
+      "url": "https://lwn.net/Articles/1034703/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "25 pts / 17 comments",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Ask HN: What are you working on? (August 2026)",
+      "topic": "Meta Muse Glimmer – open weights 30B local coding model",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Ask HN: What are you working on? (August 2026)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Meta Muse Glimmer – open weights 30B local coding model」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Ask HN: What are you working on? (August 2026)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Meta Muse Glimmer – open weights 30B local coding model」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Ask HN: What are you working on? (August 2026)",
-          "url": "https://news.ycombinator.com/item?id=49233423"
+          "title": "Meta Muse Glimmer – open weights 30B local coding model",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
         }
       ]
     },
     {
-      "topic": "How I use LLMs to learn complex topics",
+      "topic": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「How I use LLMs to learn complex topics」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Docker Sandboxes – Disposable, isolated sandboxes for AI agents」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「How I use LLMs to learn complex topics」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Docker Sandboxes – Disposable, isolated sandboxes for AI agents」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "How I use LLMs to learn complex topics",
-          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
+          "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+          "url": "https://www.docker.com/products/docker-sandboxes/"
         }
       ]
     },
     {
-      "topic": "Taxi drivers rarely die of Alzheimer's",
+      "topic": "What Happened to HackerOne?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Taxi drivers rarely die of Alzheimer's」開始升溫，我們真正該看的不是熱度",
+      "title": "當「What Happened to HackerOne?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Taxi drivers rarely die of Alzheimer's」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「What Happened to HackerOne?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Taxi drivers rarely die of Alzheimer's",
-          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650"
+          "title": "What Happened to HackerOne?",
+          "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/"
         }
       ]
     }
