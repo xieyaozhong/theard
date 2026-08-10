@@ -1,38 +1,54 @@
 {
-  "generated_at": "2026-08-11T00:10:57+08:00",
+  "generated_at": "2026-08-11T03:19:13+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "629 pts / 336 comments",
+      "score": 93,
+      "traffic": "829 pts / 468 comments",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "450 pts / 286 comments",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "289 pts / 100 comments",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "traffic": "130 pts / 143 comments",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "title": "Squeak 6.1",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "154 pts / 84 comments",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Sonic Pi v5",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "105 pts / 94 comments",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "traffic": "159 pts / 43 comments",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "50k Boat Names",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "128 pts / 78 comments",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "阿翰女友璇璇",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E7%B6%B2%E7%B4%85%E9%98%BF%E7%BF%B0%E7%88%86%E5%88%86%E6%89%8B-%E7%92%87%E7%92%87-%E7%AA%81%E5%96%8A%E8%80%83%E6%85%AE%E6%94%B9%E8%B7%9F%E7%94%B7%E7%94%9F%E4%BA%A4%E5%BE%80-%E7%B6%B2%E5%9A%87-%E5%8E%9F%E4%BE%86%E6%98%AF%E5%87%BA%E6%AB%83%E5%AE%A3%E8%A8%80-151000935.html",
+      "context": "網紅阿翰爆分手「璇璇」！突喊考慮改跟男生交往 網嚇：原來是出櫃宣言"
     },
     {
       "title": "演員",
@@ -43,73 +59,57 @@
       "context": ""
     },
     {
-      "title": "champion",
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "85 pts / 56 comments",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Itadakimasu: A word you say to the food, not the cook",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "91 pts / 38 comments",
+      "url": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "55 pts / 31 comments",
+      "url": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "台新新光金融控股",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.espn.com/nba/story/_/id/49568985/don-nelson-second-winningest-coach-nba-history-dies-86",
-      "context": "Don Nelson, second-winningest coach in NBA history, dies at 86"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "70 pts / 51 comments",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+      "score": 82,
+      "traffic": "44 pts / 22 comments",
+      "url": "https://www.stoaexchange.com",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Squeak/Smalltalk 6.1 Release Notes",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "90 pts / 35 comments",
-      "url": "https://squeak.org/release_notes/6.1/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "50k Boat Names",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "85 pts / 47 comments",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "109 pts / 29 comments",
-      "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "41 pts / 17 comments",
-      "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "星宇航空",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5535088",
-      "context": "暑假旺季 星宇航空7月營收為57.29億元再飆新高"
     }
   ],
   "articles": [
     {
-      "topic": "Meta Muse Glimmer – open weights 30B local coding model",
+      "topic": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Meta Muse Glimmer – open weights 30B local coding model」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Meta Muse Glimmer – open weights 30B local coding model」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Meta Muse Glimmer – open weights 30B local coding model",
+          "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
         }
       ]
     },
     {
-      "topic": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "topic": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Docker Sandboxes – Disposable, isolated sandboxes for AI agents」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Docker Sandboxes – Disposable, isolated sandboxes for AI agents」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-          "url": "https://www.docker.com/products/docker-sandboxes/"
+          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
         }
       ]
     },
     {
-      "topic": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "topic": "Squeak 6.1",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Over 181,000 AI meeting recordings left wide open in note taking app」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Squeak 6.1」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Over 181,000 AI meeting recordings left wide open in note taking app」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Squeak 6.1」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://bobdahacker.com/blog/tldv-hack"
+          "title": "Squeak 6.1",
+          "url": "https://squeak.org/release_notes/6.1/"
         }
       ]
     }
