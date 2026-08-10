@@ -1,33 +1,41 @@
 {
-  "generated_at": "2026-08-10T21:47:20+08:00",
+  "generated_at": "2026-08-11T00:10:57+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "362 pts / 163 comments",
+      "score": 92,
+      "traffic": "629 pts / 336 comments",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "349 pts / 216 comments",
+      "score": 91,
+      "traffic": "450 pts / 286 comments",
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "What Happened to HackerOne?",
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "294 pts / 151 comments",
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "score": 88,
+      "traffic": "289 pts / 100 comments",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "股東",
+      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "105 pts / 94 comments",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "演員",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
@@ -35,68 +43,60 @@
       "context": ""
     },
     {
-      "title": "友達光電",
+      "title": "champion",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.espn.com/nba/story/_/id/49568985/don-nelson-second-winningest-coach-nba-history-dies-86",
+      "context": "Don Nelson, second-winningest coach in NBA history, dies at 86"
     },
     {
-      "title": "股灾",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "125 pts / 21 comments",
-      "url": "https://github.com/shinyquagsire23/Klepton",
+      "traffic": "70 pts / 51 comments",
+      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "title": "Squeak/Smalltalk 6.1 Release Notes",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "68 pts / 23 comments",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "score": 84,
+      "traffic": "90 pts / 35 comments",
+      "url": "https://squeak.org/release_notes/6.1/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+      "title": "50k Boat Names",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "33 pts / 31 comments",
-      "url": "https://twitter.com/thdxr/status/2086599224674681242",
+      "score": 84,
+      "traffic": "85 pts / 47 comments",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "74 pts / 16 comments",
-      "url": "https://www.dsprelated.com/showarticle/40.php",
+      "score": 84,
+      "traffic": "109 pts / 29 comments",
+      "url": "https://ethw.org/Milestones:Parametron,_1954",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tail-call optimization in C is relatively recent",
+      "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "45 pts / 18 comments",
-      "url": "https://lwn.net/Articles/1034703/",
+      "traffic": "41 pts / 17 comments",
+      "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Mistral Patent for \"Code implemented tool calls\"",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "25 pts / 17 comments",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "context": "High-engagement technology discussion"
+      "title": "星宇航空",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5535088",
+      "context": "暑假旺季 星宇航空7月營收為57.29億元再飆新高"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "What Happened to HackerOne?",
+      "topic": "Over 181,000 AI meeting recordings left wide open in note taking app",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「What Happened to HackerOne?」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Over 181,000 AI meeting recordings left wide open in note taking app」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「What Happened to HackerOne?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Over 181,000 AI meeting recordings left wide open in note taking app」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "What Happened to HackerOne?",
-          "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/"
+          "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+          "url": "https://bobdahacker.com/blog/tldv-hack"
         }
       ]
     }
