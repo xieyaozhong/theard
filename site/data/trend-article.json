@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-10T16:07:13+08:00",
+  "generated_at": "2026-08-10T18:38:06+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "熱帶擾動",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://www.chinatimes.com/realtimenews/20260810001534-260405",
-      "context": "「南卡」颱風最快今生成將4颱共舞！最新預測一次看- 生活"
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "source": "HACKER NEWS",
+      "score": 94,
+      "traffic": "249 pts / 885 comments",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "How I use LLMs to learn complex topics",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "607 pts / 361 comments",
+      "traffic": "646 pts / 396 comments",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Taxi drivers rarely die of Alzheimer's",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "274 pts / 188 comments",
+      "score": 90,
+      "traffic": "296 pts / 207 comments",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "173 pts / 160 comments",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What Happened to HackerOne?",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "191 pts / 74 comments",
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "122 pts / 71 comments",
+      "score": 88,
+      "traffic": "228 pts / 147 comments",
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "黃世杰",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.storm.mg/article/11155147",
-      "context": "控綠營桃園市長參選人黃世杰涉賄選 詹江村曝調查最新進度嗆：等著被傳喚吧 | 張庭維 | 新聞"
+      "title": "What Happened to HackerOne?",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "239 pts / 115 comments",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "中國 統一",
+      "title": "力 積 電",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 85,
+      "traffic": "2000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "cpo",
+      "title": "玉山 金融 控股 公司",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44601L:0-dekel-agri-vision-reports-july-2026-cpo-production-down-15-4-yoy/",
-      "context": "Dekel Agri-Vision Reports July 2026 CPO Production Down 15.4% YOY"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://udn.com/news/story/7239/9679566",
+      "context": "玉山金揭露股利展望"
     },
     {
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "35 pts / 33 comments",
-      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "context": "High-engagement technology discussion"
+      "title": "觀音 工業 區",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://udn.com/news/story/7320/9682419",
+      "context": "桃園觀音工業區化工廠火警！有機溶劑廠區全面燃燒 濃黑煙烈焰沖天"
+    },
+    {
+      "title": "柯文哲",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E6%89%B9-%E7%96%AB%E8%8B%97%E5%B0%81%E5%AD%9830%E5%B9%B4-%E5%AD%B8%E8%80%85%E6%89%93%E8%87%89-%E7%9C%8B%E4%B8%8D%E6%87%82%E5%85%AC%E6%96%87%E7%94%A8%E8%AA%9E-%E6%96%87%E4%BB%B6%E5%A1%97%E9%BB%91%E4%B8%8D%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%B1%BA%E5%AE%9A%E7%9A%84-095430821.html",
+      "context": "蔣萬安批「疫苗封存30年」學者打臉：看不懂公文用語？文件塗黑不就是你決定的？"
+    },
+    {
+      "title": "国民年金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "61 pts / 19 comments",
+      "score": 84,
+      "traffic": "96 pts / 35 comments",
       "url": "https://www.whodunnitai.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "How We Pushed CDC into Postgres",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "84 pts / 7 comments",
+      "score": 83,
+      "traffic": "97 pts / 10 comments",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "熱帶擾動",
+      "topic": "Ask HN: What are you working on? (August 2026)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「熱帶擾動」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Ask HN: What are you working on? (August 2026)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「熱帶擾動」推到更高的注意力位置。「南卡」颱風最快今生成將4颱共舞！最新預測一次看- 生活。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Ask HN: What are you working on? (August 2026)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,9 +130,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "熱帶擾動",
-          "url": "https://www.chinatimes.com/realtimenews/20260810001534-260405"
+          "source": "HACKER NEWS",
+          "title": "Ask HN: What are you working on? (August 2026)",
+          "url": "https://news.ycombinator.com/item?id=49233423"
         }
       ]
     },
