@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-10T05:50:08+08:00",
+  "generated_at": "2026-08-10T10:37:00+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Ask HN: What are you working on? (August 2026)",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "131 pts / 471 comments",
+      "score": 93,
+      "traffic": "179 pts / 672 comments",
       "url": "https://news.ycombinator.com/item?id=49233423",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "446 pts / 259 comments",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Mea Culpa – Dark Hours",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "502 pts / 227 comments",
+      "traffic": "565 pts / 257 comments",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "梅 賽 德 斯 賓 士",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3",
-      "context": "Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo"
-    },
-    {
-      "title": "How I use LLMs to learn complex topics",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "203 pts / 106 comments",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Saying No",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "97 pts / 79 comments",
-      "url": "https://rozumem.xyz/posts/19",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Taxi drivers rarely die of Alzheimer's",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "106 pts / 86 comments",
+      "score": 88,
+      "traffic": "194 pts / 147 comments",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Cool URIs Don't Change (1998)",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "135 pts / 28 comments",
+      "score": 86,
+      "traffic": "191 pts / 45 comments",
       "url": "https://www.w3.org/Provider/Style/URI",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "黃仁勳",
+      "title": "台達電",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%BB%8D%E8%A6%81%E8%B5%B7%E9%A3%9B%E4%BA%86-2035%E5%B9%B4%E5%87%BA%E8%B2%A8%E4%B8%8A%E7%9C%8B1300%E8%90%AC%E5%8F%B0-%E8%87%AA%E5%8B%95%E5%8C%96%E5%B1%95%E5%80%92%E6%95%B8-3%E6%AA%94%E9%A3%86%E9%80%BE2%E6%88%90-%E6%B3%95%E4%BA%BA%E6%90%B6%E5%85%88%E5%8D%A1%E4%BD%8D-030500694.html",
-      "context": "機器人大軍要起飛了！2035年出貨上看1300萬台 自動化展倒數「3檔飆逾2成」法人搶先卡位"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Is it all just vapourware?",
+      "title": "力積電股價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "http://news.ustv.com.tw/newsdetail/20260807A001005",
+      "context": "力積電前景俏外資升評買進| 產經"
+    },
+    {
+      "title": "New Zealand lost its music media, and what we're building to replace it",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "49 pts / 50 comments",
-      "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
+      "traffic": "81 pts / 45 comments",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "吳子嘉",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.chinatimes.com/realtimenews/20260809002888-260407",
-      "context": "2026選戰「這縣市」藍軍穩贏吳子嘉：綠營恐一屍五命- 政治"
-    },
-    {
-      "title": "巴巴 萬 加",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/2026%E7%9B%B2%E7%9C%BC%E9%BE%8D%E5%A9%865%E9%A0%90%E8%A8%80%E8%A2%AB%E7%A8%B1%E4%B8%AD2%E5%80%8B-%E6%9C%AA%E5%AF%A6%E7%8F%BE%E7%9A%84-%E9%80%99%E9%A0%85-%E7%89%BD%E6%B6%89%E5%8F%B0%E7%81%A3-151500505.html",
-      "context": "2026盲眼龍婆5預言被稱中2個 未實現的「這項」牽涉台灣"
-    },
-    {
-      "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+      "title": "The tragedy of the commons, AI edition",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "42 pts / 27 comments",
-      "url": "https://github.com/yegors/deGDID",
+      "score": 84,
+      "traffic": "79 pts / 42 comments",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "漢光",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "緯創股票",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "川湖股價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
@@ -137,9 +137,45 @@
       ]
     },
     {
-      "topic": "Mea Culpa – Dark Hours",
+      "topic": "How I use LLMs to learn complex topics",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
+      "title": "當「How I use LLMs to learn complex topics」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「How I use LLMs to learn complex topics」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "How I use LLMs to learn complex topics",
+          "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
+        }
+      ]
+    },
+    {
+      "topic": "Mea Culpa – Dark Hours",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Mea Culpa – Dark Hours」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Mea Culpa – Dark Hours",
           "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html"
-        }
-      ]
-    },
-    {
-      "topic": "梅 賽 德 斯 賓 士",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「梅 賽 德 斯 賓 士」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「梅 賽 德 斯 賓 士」推到更高的注意力位置。Two drivers of Mercedes AMG cars file class action lawsuit over an alleged burn hazard in its logo。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "梅 賽 德 斯 賓 士",
-          "url": "https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3"
         }
       ]
     }
