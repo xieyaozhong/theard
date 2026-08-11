@@ -10,6 +10,11 @@
       var path = window.location.pathname;
       var suffix = window.location.search + window.location.hash;
 
+      if (path.indexOf('/theard/site/trend') === 0 || path === '/theard/trend') {
+        window.location.replace('/theard/trend/' + suffix);
+        return;
+      }
+
       if (path.indexOf('/theard/site/draw') === 0 || path === '/theard/draw') {
         window.location.replace('/theard/draw/' + suffix);
         return;
@@ -30,6 +35,7 @@
 <body>
   <main>
     <a href="/theard/">ENTER THEARD →</a>
+    <a href="/theard/trend/">OPEN TREND ANALYZER →</a>
     <a href="/theard/draw/">OPEN PASS DRAW →</a>
   </main>
 </body>
