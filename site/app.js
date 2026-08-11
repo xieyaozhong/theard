@@ -49,4 +49,4 @@ if(!coarse&&!reduced){$$('.case__visual').forEach(panel=>{panel.addEventListener
 const hero=$('.hero');if(hero&&!$('.matter-readout',hero)){const readout=document.createElement('div');readout.className='matter-readout';readout.innerHTML='<span>THREE.JS / GLSL / SCROLL TIMELINE</span><b>PERSISTENT MATTER ACTIVE</b>';hero.appendChild(readout)}
 
 import('./matter.js?v=20260807-3').catch(err=>{document.documentElement.classList.add('webgl-fallback');console.warn('THEARD WebGL enhancement unavailable; base experience remains active.',err)});
-import('./trend.js?v=1').catch(err=>console.warn('THEARD trend generator unavailable; main experience remains active.',err));
+import('./trend.js?v=2').catch(err=>console.warn('THEARD trend generator unavailable; main experience remains active.',err));
