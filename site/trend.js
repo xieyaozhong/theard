@@ -1,4 +1,4 @@
-const TREND_VERSION='1';
+const TREND_VERSION='2';
 const trendCss=document.createElement('link');trendCss.rel='stylesheet';trendCss.href=`trend.css?v=${TREND_VERSION}`;document.head.appendChild(trendCss);
 
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -17,7 +17,7 @@ function mount(){
       <aside class="trend-signals">
         <div class="trend-signals__top"><span>SIGNAL BOARD</span><span class="trend-live"><i></i>LIVE FEED</span></div>
         <div class="trend-signal-list" id="trendSignalList"><button class="trend-signal is-active"><span class="trend-signal__n">01</span><span class="trend-signal__body"><b>正在同步最新趨勢…</b><small>BOOTSTRAPPING</small></span><span class="trend-signal__score">--</span></button></div>
-        <div class="trend-controls"><button class="trend-btn trend-btn--primary" id="trendGenerate" type="button">GENERATE ARTICLE</button><button class="trend-btn" id="trendRefresh" type="button">REFRESH SIGNALS</button></div>
+        <div class="trend-controls"><button class="trend-btn trend-btn--primary" id="trendGenerate" type="button">GENERATE ARTICLE</button><a class="trend-btn trend-btn--analyzer" href="trend/">OPEN ANALYZER ↗</a><button class="trend-btn" id="trendRefresh" type="button">REFRESH SIGNALS</button></div>
       </aside>
       <article class="trend-article">
         <div class="trend-article__top"><span>EDITORIAL OUTPUT</span><button class="trend-btn" id="trendCopy" type="button">COPY ARTICLE</button></div>
@@ -29,11 +29,11 @@ function mount(){
   live.parentNode.insertBefore(section,live);
 
   const nav=document.querySelector('.menu__nav');
-  if(nav&&!nav.querySelector('a[href="#trend"]')){
+  if(nav&&!nav.querySelector('a[href="trend/"]')){
     const liveLink=nav.querySelector('a[href="#live"]'),ticketLink=nav.querySelector('a[href="ticket.html"]');
     liveLink?.querySelector('span')&&(liveLink.querySelector('span').textContent='//05');
     ticketLink?.querySelector('span')&&(ticketLink.querySelector('span').textContent='//06');
-    const a=document.createElement('a');a.href='#trend';a.innerHTML='<span>//04</span><b>TREND</b><em>OPEN ↗</em>';a.addEventListener('click',()=>{document.getElementById('menu')?.classList.remove('open');document.body.classList.remove('menu-open')});
+    const a=document.createElement('a');a.href='trend/';a.innerHTML='<span>//04</span><b>TREND ANALYZER</b><em>OPEN ↗</em>';
     liveLink?nav.insertBefore(a,liveLink):nav.appendChild(a);
   }
   return section;
