@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-08-11T06:00:37+08:00",
+  "generated_at": "2026-08-11T10:30:11+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "941 pts / 526 comments",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "季風",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%8D%A1-%E9%A2%B1%E9%A2%A8%E6%9C%80%E5%BF%AB%E4%BB%8A%E7%94%9F%E6%88%90-%E6%8C%91%E6%88%B04%E9%A2%B1%E5%90%8C%E6%A1%86-1%E9%80%B1%E9%9B%A8%E8%B6%8A%E4%B8%8B%E8%B6%8A%E5%A4%A7-121200727.html",
-      "context": "「南卡」颱風最快今生成 挑戰4颱同框！1週雨越下越大"
-    },
-    {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "256 pts / 314 comments",
+      "score": 92,
+      "traffic": "387 pts / 390 comments",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+      "title": "The UK's War on Anonymity Has Come to America",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "181 pts / 195 comments",
-      "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+      "traffic": "235 pts / 158 comments",
+      "url": "https://www.effort.news/uk-lobby",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "演員",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
     },
     {
       "title": "Sonic Pi v5",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "249 pts / 67 comments",
+      "score": 88,
+      "traffic": "315 pts / 80 comments",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "阿翰女友璇璇",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E7%B6%B2%E7%B4%85%E9%98%BF%E7%BF%B0%E7%88%86%E5%88%86%E6%89%8B-%E7%92%87%E7%92%87-%E7%AA%81%E5%96%8A%E8%80%83%E6%85%AE%E6%94%B9%E8%B7%9F%E7%94%B7%E7%94%9F%E4%BA%A4%E5%BE%80-%E7%B6%B2%E5%9A%87-%E5%8E%9F%E4%BE%86%E6%98%AF%E5%87%BA%E6%AB%83%E5%AE%A3%E8%A8%80-151000935.html",
-      "context": "網紅阿翰爆分手「璇璇」！突喊考慮改跟男生交往 網嚇：原來是出櫃宣言"
-    },
-    {
-      "title": "Rust SIMD on the GPU",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "75 pts / 36 comments",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "103 pts / 33 comments",
-      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "60 pts / 32 comments",
+      "score": 87,
+      "traffic": "189 pts / 82 comments",
       "url": "https://cactuscompute.com/needle",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "title": "Rust SIMD on the GPU",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "58 pts / 33 comments",
-      "url": "https://www.stoaexchange.com",
+      "score": 86,
+      "traffic": "130 pts / 62 comments",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Psychedelic Toad of the Sonoran Desert",
+      "title": "和運租車股價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E9%A6%96%E5%AE%B6%E7%A7%9F%E8%BB%8A%E8%82%A1%E6%8E%9B%E7%89%8C-%E5%92%8C%E9%81%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%BC%B27%EF%BC%85%E5%95%96%E8%9C%9C%E6%9C%88%E8%A1%8C%E6%83%85-015516307.html",
+      "context": "首家租車股掛牌 和運上市首日漲7％啖蜜月行情"
+    },
+    {
+      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "53 pts / 35 comments",
-      "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
+      "score": 84,
+      "traffic": "129 pts / 14 comments",
+      "url": "https://stowaway.live/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "金居",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E9%95%B7%E7%B4%84%E7%B6%81%E5%88%B02028-%E9%80%99abf%E8%BC%89%E6%9D%BF%E5%A4%A7%E5%BB%A0-%E6%98%8E%E5%B9%B4eps%E4%B8%8A%E7%9C%8B22%E5%85%83-%E7%9B%AE%E6%A8%99%E5%83%B9%E8%87%B31000%E5%85%83-182000847.html",
+      "context": "輝達長約綁到2028！「這ABF載板大廠」明年EPS上看22元 目標價至1000元"
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "78 pts / 14 comments",
+      "url": "https://everycube.alen.is/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Publishing Schematics Before “Open Source” Was a Word",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "68 pts / 17 comments",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Confessions of a Long-Distance Sailor",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "66 pts / 15 comments",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "57 pts / 12 comments",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
-        }
-      ]
-    },
-    {
-      "topic": "季風",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「季風」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「季風」推到更高的注意力位置。「南卡」颱風最快今生成 挑戰4颱同框！1週雨越下越大。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "季風",
-          "url": "https://tw.news.yahoo.com/%E5%8D%97%E5%8D%A1-%E9%A2%B1%E9%A2%A8%E6%9C%80%E5%BF%AB%E4%BB%8A%E7%94%9F%E6%88%90-%E6%8C%91%E6%88%B04%E9%A2%B1%E5%90%8C%E6%A1%86-1%E9%80%B1%E9%9B%A8%E8%B6%8A%E4%B8%8B%E8%B6%8A%E5%A4%A7-121200727.html"
-        }
-      ]
-    },
-    {
       "topic": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
           "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+        }
+      ]
+    },
+    {
+      "topic": "The UK's War on Anonymity Has Come to America",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「The UK's War on Anonymity Has Come to America」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「The UK's War on Anonymity Has Come to America」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "The UK's War on Anonymity Has Come to America",
+          "url": "https://www.effort.news/uk-lobby"
+        }
+      ]
+    },
+    {
+      "topic": "Sonic Pi v5",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Sonic Pi v5」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Sonic Pi v5」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Sonic Pi v5",
+          "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392"
         }
       ]
     }
