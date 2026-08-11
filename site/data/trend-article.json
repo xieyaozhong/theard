@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-11T15:40:16+08:00",
+  "generated_at": "2026-08-11T18:13:29+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "481 pts / 439 comments",
+      "traffic": "507 pts / 468 comments",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The UK's war on anonymity has come to America",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "451 pts / 332 comments",
-      "url": "https://www.effort.news/uk-lobby",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "177 pts / 162 comments",
+      "score": 91,
+      "traffic": "304 pts / 305 comments",
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "299 pts / 109 comments",
+      "score": 89,
+      "traffic": "336 pts / 131 comments",
       "url": "https://cactuscompute.com/needle",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "210 pts / 30 comments",
+      "score": 87,
+      "traffic": "277 pts / 57 comments",
       "url": "https://github.com/antirez/h3.c",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "167 pts / 53 comments",
+      "score": 87,
+      "traffic": "193 pts / 62 comments",
       "url": "https://everycube.alen.is/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
+      "title": "France to ban unsolicited telemarketing calls",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "240 pts / 29 comments",
-      "url": "https://stowaway.live/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Chicken Scheme 6.0",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "163 pts / 17 comments",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "traffic": "130 pts / 83 comments",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "119 pts / 57 comments",
+      "score": 86,
+      "traffic": "141 pts / 72 comments",
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Recycle – Floppydisks",
+      "title": "繼承",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.chinatimes.com/realtimenews/20260811000010-260402",
+      "context": "父親遺囑寫「兒子不得繼承」 只因不再買便當判決大逆轉- 社會"
+    },
+    {
+      "title": "沈伯洋",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.yahoo.com/%E6%9E%97%E6%B4%B2%E6%B0%91%E8%AE%9A%E6%B2%88%E4%BC%AF%E6%B4%8B-%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C-%E7%9A%84%E4%BA%BA-%E8%AE%9A-heart-044752850.html",
+      "context": "林洲民讚沈伯洋「解決問題」的人 讚「HEART」政策願景可行"
+    },
+    {
+      "title": "分析 師",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Chicken Scheme 6.0",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "51 pts / 21 comments",
-      "url": "https://www.floppydisk.com/recycle",
+      "score": 85,
+      "traffic": "195 pts / 23 comments",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "29 pts / 20 comments",
-      "url": "https://github.com/activeing123/mcptoon",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "LFM2.5 2.6B model competitive with 4x larger models",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "48 pts / 13 comments",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "context": "High-engagement technology discussion"
+      "title": "不敗教主陳重銘",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "The UK's war on anonymity has come to America",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「The UK's war on anonymity has come to America」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The UK's war on anonymity has come to America」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "The UK's war on anonymity has come to America",
-          "url": "https://www.effort.news/uk-lobby"
-        }
-      ]
-    },
-    {
       "topic": "As AI eats the web, the internet’s collective memory is disappearing",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「As AI eats the web, the internet’s collective memory is disappearing」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "As AI eats the web, the internet’s collective memory is disappearing",
           "url": "https://thewalrus.ca/google-search-is-dying/"
+        }
+      ]
+    },
+    {
+      "topic": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+          "url": "https://cactuscompute.com/needle"
         }
       ]
     }
