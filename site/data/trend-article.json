@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-11T18:13:29+08:00",
+  "generated_at": "2026-08-11T21:45:41+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "source": "HACKER NEWS",
+      "score": 93,
+      "traffic": "493 pts / 568 comments",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "context": "High-engagement technology discussion"
+    },
+    {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "507 pts / 468 comments",
+      "score": 93,
+      "traffic": "554 pts / 515 comments",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "title": "France to ban unsolicited telemarketing calls",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "304 pts / 305 comments",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "score": 92,
+      "traffic": "559 pts / 312 comments",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "336 pts / 131 comments",
+      "score": 90,
+      "traffic": "407 pts / 150 comments",
       "url": "https://cactuscompute.com/needle",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "277 pts / 57 comments",
+      "score": 88,
+      "traffic": "347 pts / 76 comments",
       "url": "https://github.com/antirez/h3.c",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "title": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "193 pts / 62 comments",
-      "url": "https://everycube.alen.is/",
+      "traffic": "134 pts / 115 comments",
+      "url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "France to ban unsolicited telemarketing calls",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "130 pts / 83 comments",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "141 pts / 72 comments",
-      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "繼承",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.chinatimes.com/realtimenews/20260811000010-260402",
-      "context": "父親遺囑寫「兒子不得繼承」 只因不再買便當判決大逆轉- 社會"
-    },
-    {
-      "title": "沈伯洋",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.yahoo.com/%E6%9E%97%E6%B4%B2%E6%B0%91%E8%AE%9A%E6%B2%88%E4%BC%AF%E6%B4%8B-%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C-%E7%9A%84%E4%BA%BA-%E8%AE%9A-heart-044752850.html",
-      "context": "林洲民讚沈伯洋「解決問題」的人 讚「HEART」政策願景可行"
-    },
-    {
-      "title": "分析 師",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
     },
     {
       "title": "Chicken Scheme 6.0",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "195 pts / 23 comments",
+      "score": 86,
+      "traffic": "236 pts / 32 comments",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "不敗教主陳重銘",
+      "title": "百味人生",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E7%8E%8B%E5%87%B1%E9%A9%9F%E9%80%9D%E4%BB%8A%E5%91%8A%E5%88%A5%E5%BC%8F-%E8%A6%AA%E5%A7%8A-%E6%9C%80%E5%BE%8C%E5%AE%B6%E7%A5%AD%E6%96%87-%E6%9B%9D%E5%85%89-%E6%B7%9A%E5%B4%A9-102431855.html",
+      "context": "王凱驟逝今告別式！親姊「最後家祭文」曝光 淚崩：沒怪你只是捨不得"
+    },
+    {
+      "title": "交通",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.yahoo.com/autos/%E5%8F%B0%E4%B8%AD%E8%A8%88%E7%A8%8B%E8%BB%8A%E6%9C%AA%E8%B7%B3%E9%8C%B6%E6%94%B6%E8%B2%BB%E9%87%80%E6%B0%91%E6%80%A8-%E4%BA%A4%E9%80%9A%E5%B1%80-%E9%81%95%E8%A6%8F%E5%96%8A%E5%83%B9%E6%9C%80%E9%AB%98%E9%96%8B%E7%BD%B09%E8%90%AC%E5%85%83-024736020.html",
+      "context": "台中計程車未跳錶收費釀民怨 交通局：違規喊價最高開罰9萬元"
+    },
+    {
+      "title": "臻 鼎 ky",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E8%87%BB%E9%BC%8E-ky%E6%B3%95%E8%AA%AA1%E3%80%8B%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%8D%B2%E5%88%A9%E5%B9%B4%E5%A2%9E208%E6%AF%8F%E8%82%A1%E8%B3%BA355%E5%85%83-%E8%91%A3%E5%BA%A7%E6%B2%88%E6%85%B6%E8%8A%B3%E5%96%8A%EF%BC%9A%E4%B8%8D%E5%8F%AA%E9%BB%83%E9%87%91%E5%8D%81%E5%B9%B4%E3%80%81%E6%98%AF%E9%BB%83%E9%87%91%E6%99%82%E4%BB%A3-073009191.html",
+      "context": "臻鼎-KY法說1》上半年獲利年增208%每股賺3.55元 董座沈慶芳喊：不只黃金十年、是黃金時代"
+    },
+    {
+      "title": "住宅",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
+    },
+    {
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "56 pts / 28 comments",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
-        }
-      ]
-    },
-    {
       "topic": "As AI eats the web, the internet’s collective memory is disappearing",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「As AI eats the web, the internet’s collective memory is disappearing」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "topic": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-          "url": "https://cactuscompute.com/needle"
+          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+        }
+      ]
+    },
+    {
+      "topic": "France to ban unsolicited telemarketing calls",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「France to ban unsolicited telemarketing calls」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「France to ban unsolicited telemarketing calls」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "France to ban unsolicited telemarketing calls",
+          "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html"
         }
       ]
     }
