@@ -1,89 +1,73 @@
 {
-  "generated_at": "2026-08-11T21:45:41+08:00",
+  "generated_at": "2026-08-12T00:12:09+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "493 pts / 568 comments",
+      "score": 94,
+      "traffic": "641 pts / 700 comments",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "554 pts / 515 comments",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "France to ban unsolicited telemarketing calls",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "559 pts / 312 comments",
+      "score": 93,
+      "traffic": "802 pts / 392 comments",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "407 pts / 150 comments",
-      "url": "https://cactuscompute.com/needle",
+      "score": 89,
+      "traffic": "263 pts / 175 comments",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "347 pts / 76 comments",
+      "score": 89,
+      "traffic": "385 pts / 87 comments",
       "url": "https://github.com/antirez/h3.c",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "134 pts / 115 comments",
-      "url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
+      "score": 85,
+      "traffic": "112 pts / 41 comments",
+      "url": "https://stolen-thoughts.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Chicken Scheme 6.0",
+      "title": "Nvidia's Risky Business",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "236 pts / 32 comments",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 85,
+      "traffic": "126 pts / 34 comments",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "百味人生",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E7%8E%8B%E5%87%B1%E9%A9%9F%E9%80%9D%E4%BB%8A%E5%91%8A%E5%88%A5%E5%BC%8F-%E8%A6%AA%E5%A7%8A-%E6%9C%80%E5%BE%8C%E5%AE%B6%E7%A5%AD%E6%96%87-%E6%9B%9D%E5%85%89-%E6%B7%9A%E5%B4%A9-102431855.html",
-      "context": "王凱驟逝今告別式！親姊「最後家祭文」曝光 淚崩：沒怪你只是捨不得"
+      "traffic": "54 pts / 50 comments",
+      "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "交通",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.yahoo.com/autos/%E5%8F%B0%E4%B8%AD%E8%A8%88%E7%A8%8B%E8%BB%8A%E6%9C%AA%E8%B7%B3%E9%8C%B6%E6%94%B6%E8%B2%BB%E9%87%80%E6%B0%91%E6%80%A8-%E4%BA%A4%E9%80%9A%E5%B1%80-%E9%81%95%E8%A6%8F%E5%96%8A%E5%83%B9%E6%9C%80%E9%AB%98%E9%96%8B%E7%BD%B09%E8%90%AC%E5%85%83-024736020.html",
-      "context": "台中計程車未跳錶收費釀民怨 交通局：違規喊價最高開罰9萬元"
+      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "78 pts / 20 comments",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "臻 鼎 ky",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E8%87%BB%E9%BC%8E-ky%E6%B3%95%E8%AA%AA1%E3%80%8B%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%8D%B2%E5%88%A9%E5%B9%B4%E5%A2%9E208%E6%AF%8F%E8%82%A1%E8%B3%BA355%E5%85%83-%E8%91%A3%E5%BA%A7%E6%B2%88%E6%85%B6%E8%8A%B3%E5%96%8A%EF%BC%9A%E4%B8%8D%E5%8F%AA%E9%BB%83%E9%87%91%E5%8D%81%E5%B9%B4%E3%80%81%E6%98%AF%E9%BB%83%E9%87%91%E6%99%82%E4%BB%A3-073009191.html",
-      "context": "臻鼎-KY法說1》上半年獲利年增208%每股賺3.55元 董座沈慶芳喊：不只黃金十年、是黃金時代"
-    },
-    {
-      "title": "住宅",
+      "title": "資產",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
@@ -91,11 +75,27 @@
       "context": ""
     },
     {
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "source": "HACKER NEWS",
+      "title": "中華航空",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "56 pts / 28 comments",
-      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%9B%9B%E5%A4%A7%E8%88%AA%E7%A9%BA7%E6%9C%88%E7%87%9F%E6%94%B6%E6%AF%94%E4%B8%80%E6%AF%94-%E6%98%9F%E5%AE%87%E5%B9%B4%E5%A2%9E43%E5%B1%85%E5%86%A0-111505081.html",
+      "context": "四大航空7月營收比一比 星宇年增43%居冠"
+    },
+    {
+      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "41 pts / 18 comments",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Manus will return to operating as an independent company",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "29 pts / 12 comments",
+      "url": "https://manus.im/blog/a-note-to-our-users",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
-        }
-      ]
-    },
-    {
       "topic": "France to ban unsolicited telemarketing calls",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「France to ban unsolicited telemarketing calls」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "France to ban unsolicited telemarketing calls",
           "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html"
+        }
+      ]
+    },
+    {
+      "topic": "England set to be one of the first countries to eliminate hepatitis C",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「England set to be one of the first countries to eliminate hepatitis C」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「England set to be one of the first countries to eliminate hepatitis C」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "England set to be one of the first countries to eliminate hepatitis C",
+          "url": "https://www.bbc.com/news/articles/c75gk620r22o"
         }
       ]
     }
