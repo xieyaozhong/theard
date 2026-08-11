@@ -38,6 +38,9 @@ jobs:
           test -f site/trend.js
           test -f site/trend.css
           test -f site/data/trend-article.json
+          test -f site/trend/index.html
+          test -f site/trend/styles.css
+          test -f site/trend/app.js
           test -f site/draw/index.html
           test -f site/draw/styles.css
           test -f site/draw/app.js
@@ -49,27 +52,38 @@ jobs:
 
           main = Path('site/index.html').read_text(encoding='utf-8')
           main_app = Path('site/app.js').read_text(encoding='utf-8')
-          trend = Path('site/trend.js').read_text(encoding='utf-8')
+          trend_module = Path('site/trend.js').read_text(encoding='utf-8')
+          analyzer = Path('site/trend/index.html').read_text(encoding='utf-8')
+          analyzer_app = Path('site/trend/app.js').read_text(encoding='utf-8')
           draw = Path('site/draw/index.html').read_text(encoding='utf-8')
           draw_app = Path('site/draw/app.js').read_text(encoding='utf-8')
 
           assert 'THEARD — Attention Engine' in main, 'main entrance title missing'
+          assert 'THEARD — 趨勢訊號分析器' in analyzer, 'trend analyzer entrance title missing'
           assert 'THEARD LIVE — PASS DRAW' in draw, 'draw entrance title missing'
+          assert 'href="../"' in analyzer, 'trend analyzer must return to main site'
           assert 'href="../"' in draw, 'draw page must return to main site'
 
-          # Main and /draw keep separate asset namespaces.
+          # Each entrance owns its runtime and visual namespace.
           assert 'src="draw/app.js' not in main
           assert 'href="draw/styles.css' not in main
+          assert 'src="../app.js' not in analyzer
+          assert 'href="../styles.css' not in analyzer
           assert 'src="../app.js' not in draw
           assert 'href="../styles.css' not in draw
 
-          # Trend generator belongs only to the main experience.
-          assert "./trend.js" in main_app, 'main app must load trend generator'
-          assert 'draw/' not in trend, 'trend module must not depend on draw assets'
+          # Main trend teaser and dedicated analyzer share only public JSON data.
+          assert "./trend.js" in main_app, 'main app must load trend teaser'
+          assert 'href="trend/"' in trend_module, 'main trend teaser must link to analyzer'
+          assert '../data/trend-article.json' in analyzer_app, 'analyzer must consume public trend payload'
+          assert '../draw/app.js' not in analyzer and '../draw/styles.css' not in analyzer, 'analyzer must not load draw assets'
+          assert 'matter.js' not in analyzer_app and 'pets.js' not in analyzer_app, 'analyzer runtime must remain isolated'
+
+          # Draw remains isolated from all trend runtimes.
           assert 'trend.js' not in draw and 'trend.css' not in draw, 'draw page must not load trend UI'
           assert '../trend' not in draw_app and 'matter.js' not in draw_app, 'draw runtime must remain isolated'
 
-          print('Isolation check passed: /, /trend module, and /draw/ are independent.')
+          print('Isolation check passed: /, /trend/, and /draw/ are independent.')
           PY
 
       - name: Configure Pages
