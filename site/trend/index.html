@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#060706" />
+  <meta name="description" content="THEARD Trend Signal Analyzer — public trend signals, ranking and editorial intelligence." />
+  <title>THEARD — 趨勢訊號分析器</title>
+  <link rel="stylesheet" href="styles.css?v=1" />
+</head>
+<body>
+  <div class="tsa-noise" aria-hidden="true"></div>
+  <div class="tsa-grid" aria-hidden="true"></div>
+  <div class="tsa-scan" aria-hidden="true"></div>
+
+  <header class="tsa-hud">
+    <a class="tsa-back" href="../">← THEARD</a>
+    <div class="tsa-brand"><span>THEARD / INTELLIGENCE</span><b>TREND SIGNAL ANALYZER</b></div>
+    <div class="tsa-status"><i></i><span id="syncState">SYNCING</span></div>
+  </header>
+
+  <main class="tsa-shell">
+    <section class="tsa-hero">
+      <div class="tsa-hero__title">
+        <p>// PUBLIC ATTENTION / SIGNAL INTERPRETATION</p>
+        <h1>TREND<br><span>SIGNAL</span><br>ANALYZER.</h1>
+      </div>
+      <div class="tsa-hero__copy">
+        <p>把公開趨勢資料拆成可以判讀的訊號：目前強度、來源、討論規模、主題群聚與後續內容價值。這裡不把熱門等同於機會，而是先判斷「注意力正在往哪裡移動」。</p>
+        <div class="tsa-sync"><span>LAST DATA SYNC</span><b id="lastSync">--</b></div>
+      </div>
+    </section>
+
+    <section class="tsa-overview" aria-label="trend overview">
+      <div class="tsa-kpi"><span>ACTIVE SIGNALS</span><b id="kpiSignals">00</b><small>PUBLIC FEED</small></div>
+      <div class="tsa-kpi"><span>TOP INTENSITY</span><b id="kpiTop">--</b><small>/ 100</small></div>
+      <div class="tsa-kpi"><span>SOURCES</span><b id="kpiSources">00</b><small>IN CURRENT SNAPSHOT</small></div>
+      <div class="tsa-kpi"><span>EDITORIAL READY</span><b id="kpiArticles">00</b><small>DEEP ARTICLES</small></div>
+    </section>
+
+    <section class="tsa-workspace">
+      <aside class="tsa-sidebar">
+        <div class="tsa-panel-head"><span>//01 SIGNAL QUEUE</span><button id="refreshBtn" type="button">REFRESH</button></div>
+        <div class="tsa-filters" role="group" aria-label="signal filters">
+          <button class="is-active" data-filter="ALL" type="button">ALL</button>
+          <button data-filter="90" type="button">90+</button>
+          <button data-filter="85" type="button">85+</button>
+          <button data-filter="ARTICLE" type="button">ARTICLE READY</button>
+        </div>
+        <div class="tsa-list" id="signalList">
+          <div class="tsa-empty">LOADING SIGNAL FIELD…</div>
+        </div>
+      </aside>
+
+      <section class="tsa-analysis" id="analysisPane">
+        <div class="tsa-panel-head"><span>//02 SIGNAL DECOMPOSITION</span><span id="analysisIndex">00 / 00</span></div>
+        <div class="tsa-analysis__empty" id="analysisEmpty">SELECT A SIGNAL</div>
+        <div class="tsa-analysis__content" id="analysisContent" hidden>
+          <div class="tsa-analysis__meta"><span id="detailSource">SOURCE</span><span id="detailTraffic">TRAFFIC</span></div>
+          <h2 id="detailTitle">—</h2>
+          <div class="tsa-score-block">
+            <div class="tsa-score-ring"><div><b id="detailScore">00</b><span>INTENSITY</span></div></div>
+            <div class="tsa-bars">
+              <div><span>CURRENT ATTENTION</span><i><b id="barAttention"></b></i><em id="valAttention">--</em></div>
+              <div><span>DISCUSSION SIGNAL</span><i><b id="barDiscussion"></b></i><em id="valDiscussion">--</em></div>
+              <div><span>EDITORIAL VALUE</span><i><b id="barEditorial"></b></i><em id="valEditorial">--</em></div>
+            </div>
+          </div>
+          <div class="tsa-classification">
+            <div><span>CLUSTER</span><b id="detailCluster">—</b></div>
+            <div><span>SIGNAL TYPE</span><b id="detailType">—</b></div>
+            <div><span>READING</span><b id="detailReading">—</b></div>
+          </div>
+          <div class="tsa-context"><span>PUBLIC CONTEXT</span><p id="detailContext">—</p></div>
+          <div class="tsa-actions">
+            <a id="sourceLink" href="#" target="_blank" rel="noopener noreferrer">OPEN SOURCE ↗</a>
+            <button id="articleBtn" type="button">OPEN DEEP ARTICLE ↓</button>
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <section class="tsa-map">
+      <div class="tsa-panel-head"><span>//03 SIGNAL FIELD MAP</span><span>SIZE = INTENSITY / GROUP = TOPIC CLUSTER</span></div>
+      <div class="tsa-map__grid">
+        <div class="tsa-field" id="signalField" aria-label="trend signal field"></div>
+        <aside class="tsa-clusters">
+          <span>DETECTED CLUSTERS</span>
+          <div id="clusterList"></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="tsa-editorial" id="editorial" hidden>
+      <div class="tsa-panel-head"><span>//04 EDITORIAL BRIDGE</span><button id="closeArticle" type="button">CLOSE ×</button></div>
+      <div class="tsa-editorial__meta"><span id="articleMode">AUTO</span><span id="articleAngle">DEEP ANALYSIS</span></div>
+      <h2 id="articleTitle">—</h2>
+      <p class="tsa-editorial__dek" id="articleDek"></p>
+      <div class="tsa-editorial__sections" id="articleSections"></div>
+    </section>
+
+    <footer class="tsa-footer">
+      <span>THEARD / TREND INTELLIGENCE / 2026</span>
+      <div><a href="../">MAIN FIELD ↗</a><a href="../draw/">PASS DRAW ↗</a></div>
+    </footer>
+  </main>
+
+  <div class="tsa-toast" id="toast">UPDATED</div>
+  <script src="app.js?v=1"></script>
+</body>
+</html>
