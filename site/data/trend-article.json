@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-12T03:28:08+08:00",
+  "generated_at": "2026-08-12T06:07:28+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "421 pts / 300 comments",
+      "traffic": "461 pts / 329 comments",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "314 pts / 116 comments",
+      "score": 90,
+      "traffic": "419 pts / 164 comments",
       "url": "https://stolen-thoughts.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "241 pts / 38 comments",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "86 pts / 56 comments",
-      "url": "https://photosynthesis.camera",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "81 pts / 62 comments",
-      "url": "https://github.com/TheRealYT/git-knife",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Manus will return to operating as an independent company",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "94 pts / 42 comments",
-      "url": "https://manus.im/blog/a-note-to-our-users",
+      "score": 90,
+      "traffic": "189 pts / 269 comments",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Mojo 1.0",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "67 pts / 34 comments",
+      "score": 88,
+      "traffic": "217 pts / 96 comments",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "86 pts / 25 comments",
-      "url": "https://jolt-lang.github.io",
+      "score": 88,
+      "traffic": "142 pts / 150 comments",
+      "url": "https://photosynthesis.camera",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Compression is prediction",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "135 pts / 56 comments",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "暫停交易",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 85,
+      "traffic": "2000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
+    },
+    {
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "118 pts / 51 comments",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "125 pts / 43 comments",
+      "url": "https://jolt-lang.github.io",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "鬼門 開",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "南 電",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "74 pts / 57 comments",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "高雄",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/124652/9684240",
-      "context": "高雄市長之爭…醫曝1跡象年底恐翻盤 牽動2028大局"
+      "title": "Making holograms with a pen plotter",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "68 pts / 6 comments",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "topic": "OpenAI’s head of ethics leaves less than a year after joining",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp」開始升溫，我們真正該看的不是熱度",
+      "title": "當「OpenAI’s head of ethics leaves less than a year after joining」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「OpenAI’s head of ethics leaves less than a year after joining」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
+          "title": "OpenAI’s head of ethics leaves less than a year after joining",
+          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0"
         }
       ]
     }
