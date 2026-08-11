@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-11T12:42:08+08:00",
+  "generated_at": "2026-08-11T15:40:16+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "423 pts / 415 comments",
+      "traffic": "481 pts / 439 comments",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The UK's war on anonymity has come to America",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "451 pts / 332 comments",
+      "url": "https://www.effort.news/uk-lobby",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "177 pts / 162 comments",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "233 pts / 96 comments",
+      "traffic": "299 pts / 109 comments",
       "url": "https://cactuscompute.com/needle",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Sonic Pi v5",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "334 pts / 83 comments",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Rust SIMD on the GPU",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "153 pts / 70 comments",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "178 pts / 17 comments",
-      "url": "https://stowaway.live/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "李政軒",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E6%98%A8%E5%A4%A9%E6%89%8D%E8%AB%8B%E8%BE%AD%EF%BC%81%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E7%99%BC%E8%A8%80%E4%BA%BA%E6%9D%8E%E6%94%BF%E8%BB%92%E6%B6%89%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%BA%9C%E6%8E%A1%E8%B3%BC%E6%B4%A9%E5%AF%86%E6%A1%88-30%E8%90%AC%E5%85%83%E4%BA%A4%E4%BF%9D-033009810.html",
-      "context": "昨天才請辭！前台北市發言人李政軒涉台中市府採購洩密案 30萬元交保"
-    },
-    {
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "123 pts / 29 comments",
-      "url": "https://everycube.alen.is/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "105 pts / 14 comments",
+      "score": 86,
+      "traffic": "210 pts / 30 comments",
       "url": "https://github.com/antirez/h3.c",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "167 pts / 53 comments",
+      "url": "https://everycube.alen.is/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "240 pts / 29 comments",
+      "url": "https://stowaway.live/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Chicken Scheme 6.0",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "105 pts / 12 comments",
+      "score": 85,
+      "traffic": "163 pts / 17 comments",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "84 pts / 28 comments",
+      "score": 85,
+      "traffic": "119 pts / 57 comments",
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "World Train Map – 1247 train routes around the world",
+      "title": "Recycle – Floppydisks",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "78 pts / 25 comments",
-      "url": "https://worldtrainmap.com/",
+      "score": 82,
+      "traffic": "51 pts / 21 comments",
+      "url": "https://www.floppydisk.com/recycle",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "黑白 集",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/7338/9683238",
-      "context": "聯合報黑白集／「大罷免」的既視感"
+      "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "29 pts / 20 comments",
+      "url": "https://github.com/activeing123/mcptoon",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "48 pts / 13 comments",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "topic": "The UK's war on anonymity has come to America",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots」開始升溫，我們真正該看的不是熱度",
+      "title": "當「The UK's war on anonymity has come to America」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「The UK's war on anonymity has come to America」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-          "url": "https://cactuscompute.com/needle"
+          "title": "The UK's war on anonymity has come to America",
+          "url": "https://www.effort.news/uk-lobby"
         }
       ]
     },
     {
-      "topic": "Sonic Pi v5",
+      "topic": "As AI eats the web, the internet’s collective memory is disappearing",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Sonic Pi v5」開始升溫，我們真正該看的不是熱度",
+      "title": "當「As AI eats the web, the internet’s collective memory is disappearing」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Sonic Pi v5」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「As AI eats the web, the internet’s collective memory is disappearing」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Sonic Pi v5",
-          "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392"
+          "title": "As AI eats the web, the internet’s collective memory is disappearing",
+          "url": "https://thewalrus.ca/google-search-is-dying/"
         }
       ]
     }
