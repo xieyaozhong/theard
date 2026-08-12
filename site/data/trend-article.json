@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-12T06:07:28+08:00",
+  "generated_at": "2026-08-12T10:47:35+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "461 pts / 329 comments",
-      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "419 pts / 164 comments",
+      "score": 91,
+      "traffic": "516 pts / 212 comments",
       "url": "https://stolen-thoughts.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "189 pts / 269 comments",
+      "score": 91,
+      "traffic": "307 pts / 353 comments",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Compression is prediction",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "279 pts / 127 comments",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Mojo 1.0",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "217 pts / 96 comments",
+      "score": 89,
+      "traffic": "305 pts / 137 comments",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "142 pts / 150 comments",
+      "score": 89,
+      "traffic": "214 pts / 224 comments",
       "url": "https://photosynthesis.camera",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Compression is prediction",
+      "title": "Grok Bot",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "135 pts / 56 comments",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "score": 88,
+      "traffic": "164 pts / 140 comments",
+      "url": "https://x.ai/bot",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "暫停交易",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
     },
     {
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "118 pts / 51 comments",
+      "score": 87,
+      "traffic": "188 pts / 96 comments",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "125 pts / 43 comments",
-      "url": "https://jolt-lang.github.io",
+      "traffic": "140 pts / 46 comments",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "鬼門 開",
+      "title": "華新科股價",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "How we used to get jobs: A newspaper classifieds story",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "74 pts / 57 comments",
-      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "context": "High-engagement technology discussion"
+      "url": "https://tw.stock.yahoo.com/news/mlcc%E9%87%8D%E8%BF%94%E6%A6%AE%E8%80%80-ai%E5%A4%A7%E5%BB%A0%E7%88%863%E5%80%8D%E8%BF%BD%E8%B2%A8-%E5%9C%8B%E5%B7%A8-%E6%9D%91%E7%94%B0%E7%94%A2%E8%83%BD%E6%BB%BF%E8%BC%89-034500124.html",
+      "context": "MLCC重返榮耀？ AI大廠爆3倍追貨 國巨、村田產能滿載"
     },
     {
       "title": "Making holograms with a pen plotter",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "68 pts / 6 comments",
+      "score": 84,
+      "traffic": "123 pts / 12 comments",
       "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "光聖",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "31 pts / 11 comments",
+      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "England set to be one of the first countries to eliminate hepatitis C",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「England set to be one of the first countries to eliminate hepatitis C」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「England set to be one of the first countries to eliminate hepatitis C」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "England set to be one of the first countries to eliminate hepatitis C",
-          "url": "https://www.bbc.com/news/articles/c75gk620r22o"
-        }
-      ]
-    },
-    {
       "topic": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Stealing Reasoning Traces from Proprietary LLM APIs」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "OpenAI’s head of ethics leaves less than a year after joining",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「OpenAI’s head of ethics leaves less than a year after joining」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "OpenAI’s head of ethics leaves less than a year after joining",
           "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0"
+        }
+      ]
+    },
+    {
+      "topic": "Compression is prediction",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Compression is prediction」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Compression is prediction」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Compression is prediction",
+          "url": "https://ngrok.com/blog/compression-is-prediction"
         }
       ]
     }
