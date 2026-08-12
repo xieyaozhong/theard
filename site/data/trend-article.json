@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-13T03:29:22+08:00",
+  "generated_at": "2026-08-13T06:05:09+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "DeepSeek V4 Pro 0813",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "441 pts / 153 comments",
+      "score": 91,
+      "traffic": "616 pts / 218 comments",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "532 pts / 85 comments",
+      "score": 91,
+      "traffic": "675 pts / 109 comments",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Grok 4.6",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "316 pts / 322 comments",
+      "url": "https://x.ai/news/grok-4-6",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "2026 Eclipse Webcams",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "412 pts / 106 comments",
+      "score": 90,
+      "traffic": "443 pts / 121 comments",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Qwen3.8-2.4T",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "270 pts / 68 comments",
+      "score": 89,
+      "traffic": "398 pts / 87 comments",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Delta",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "270 pts / 89 comments",
+      "url": "https://zed.dev/blog/introducing-delta",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "156 pts / 100 comments",
+      "score": 88,
+      "traffic": "204 pts / 130 comments",
       "url": "https://knownagents.com/insights",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why Tiny JPEGs Look Different in Chrome",
+      "title": "Why tiny JPEGs look different in Chrome",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "181 pts / 35 comments",
+      "score": 87,
+      "traffic": "222 pts / 51 comments",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Tim King, AmigaDOS developer, has died",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "150 pts / 23 comments",
+      "score": 86,
+      "traffic": "205 pts / 26 comments",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Zed: Delta",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "109 pts / 34 comments",
-      "url": "https://zed.dev/blog/introducing-delta",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "46 pts / 36 comments",
+      "score": 86,
+      "traffic": "96 pts / 85 comments",
       "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "巴黎聖日耳曼 對 阿斯頓維拉",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%85%E7%B4%9A%E7%9B%83-%E4%B8%8D%E6%BB%BF%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%A4%AA%E5%B0%8F-psg%E8%B3%BD%E5%89%8D%E6%8A%97%E8%AD%B0%E5%A5%8F%E6%95%88%E7%8D%B2%E5%BE%97%E6%9B%B4%E5%A4%9A%E4%BC%91%E6%81%AF%E5%AE%A4%E7%A9%BA%E9%96%93-033213347.html",
-      "context": "超級盃》不滿更衣室太小！ PSG賽前抗議奏效獲得更多休息室空間"
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "107 pts / 18 comments",
+      "url": "https://discoveredmaterials.com/research/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "朴 星 垠",
+      "title": "smci",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://news.ebc.net.tw/news/sport/565919",
-      "context": "從飯店搬進宿舍！韓籍女神朴星垠曝最大改變：我真的在台灣生活"
-    },
-    {
-      "title": "力 积 电",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://finance.yahoo.com/technology/article/supermicro-stock-jumps-on-q4-results-strong-q1-outlook-210004983.html",
+      "context": "Supermicro stock jumps on Q4 results, strong Q1 outlook"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "2026 Eclipse Webcams",
+      "topic": "Grok 4.6",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「2026 Eclipse Webcams」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Grok 4.6」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「2026 Eclipse Webcams」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Grok 4.6」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "2026 Eclipse Webcams",
-          "url": "https://jonty.github.io/2026_eclipse_webcams/"
+          "title": "Grok 4.6",
+          "url": "https://x.ai/news/grok-4-6"
         }
       ]
     }
