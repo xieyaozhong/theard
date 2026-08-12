@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-13T00:11:21+08:00",
+  "generated_at": "2026-08-13T03:29:22+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "AI is removing the middle class of software engineering",
+      "title": "DeepSeek V4 Pro 0813",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "260 pts / 222 comments",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "2026 Eclipse Webcams",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "338 pts / 78 comments",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "License plate reader searches should require a warrant",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "220 pts / 125 comments",
-      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What sort of maths are LLMs good at?",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "183 pts / 82 comments",
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "traffic": "441 pts / 153 comments",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "194 pts / 17 comments",
+      "score": 90,
+      "traffic": "532 pts / 85 comments",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "title": "2026 Eclipse Webcams",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "180 pts / 25 comments",
-      "url": "https://woxi.ad-si.com",
+      "score": 89,
+      "traffic": "412 pts / 106 comments",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tim King, AmigaDOS developer, has died",
+      "title": "Qwen3.8-2.4T",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 18 comments",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 87,
+      "traffic": "270 pts / 68 comments",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "77 pts / 27 comments",
+      "score": 87,
+      "traffic": "156 pts / 100 comments",
       "url": "https://knownagents.com/insights",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why Tiny JPEGs Look Different in Chrome",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "103 pts / 19 comments",
+      "score": 86,
+      "traffic": "181 pts / 35 comments",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "title": "Tim King, AmigaDOS developer, has died",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "94 pts / 25 comments",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 85,
+      "traffic": "150 pts / 23 comments",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "00961",
+      "title": "Zed: Delta",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "109 pts / 34 comments",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "46 pts / 36 comments",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "巴黎聖日耳曼 對 阿斯頓維拉",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.ctee.com.tw/news/20260812701685-430403",
-      "context": "主力資金卡位8月除息ETF 3檔配息逼近18％"
+      "url": "https://tw.sports.yahoo.com/news/%E8%B6%85%E7%B4%9A%E7%9B%83-%E4%B8%8D%E6%BB%BF%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%A4%AA%E5%B0%8F-psg%E8%B3%BD%E5%89%8D%E6%8A%97%E8%AD%B0%E5%A5%8F%E6%95%88%E7%8D%B2%E5%BE%97%E6%9B%B4%E5%A4%9A%E4%BC%91%E6%81%AF%E5%AE%A4%E7%A9%BA%E9%96%93-033213347.html",
+      "context": "超級盃》不滿更衣室太小！ PSG賽前抗議奏效獲得更多休息室空間"
     },
     {
-      "title": "My Agent Setup",
-      "source": "HACKER NEWS",
+      "title": "朴 星 垠",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "51 pts / 30 comments",
-      "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
-      "context": "High-engagement technology discussion"
+      "traffic": "500+",
+      "url": "https://news.ebc.net.tw/news/sport/565919",
+      "context": "從飯店搬進宿舍！韓籍女神朴星垠曝最大改變：我真的在台灣生活"
+    },
+    {
+      "title": "力 积 电",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "AI is removing the middle class of software engineering",
+      "topic": "DeepSeek V4 Pro 0813",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「AI is removing the middle class of software engineering」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DeepSeek V4 Pro 0813」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AI is removing the middle class of software engineering」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DeepSeek V4 Pro 0813」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,15 +131,51 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
+          "title": "DeepSeek V4 Pro 0813",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+        }
+      ]
+    },
+    {
+      "topic": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
         }
       ]
     },
     {
       "topic": "2026 Eclipse Webcams",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「2026 Eclipse Webcams」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "2026 Eclipse Webcams",
           "url": "https://jonty.github.io/2026_eclipse_webcams/"
-        }
-      ]
-    },
-    {
-      "topic": "License plate reader searches should require a warrant",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「License plate reader searches should require a warrant」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「License plate reader searches should require a warrant」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "License plate reader searches should require a warrant",
-          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"
         }
       ]
     }
