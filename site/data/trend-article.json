@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-12T21:51:21+08:00",
+  "generated_at": "2026-08-13T00:11:21+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Compression is prediction",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "600 pts / 250 comments",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "LinkedIn CringeBot 3000",
+      "title": "AI is removing the middle class of software engineering",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "388 pts / 150 comments",
-      "url": "https://www.cringebot3000.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Facebook is paying controversial creators to produce rage-bait content",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "318 pts / 180 comments",
-      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The hardest working font in Manhattan (2025)",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "288 pts / 43 comments",
-      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+      "traffic": "260 pts / 222 comments",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "2026 Eclipse Webcams",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "174 pts / 45 comments",
+      "score": 88,
+      "traffic": "338 pts / 78 comments",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "License plate reader searches should require a warrant",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "220 pts / 125 comments",
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "What sort of maths are LLMs good at?",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "143 pts / 61 comments",
+      "score": 87,
+      "traffic": "183 pts / 82 comments",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "194 pts / 17 comments",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "132 pts / 13 comments",
+      "score": 85,
+      "traffic": "180 pts / 25 comments",
       "url": "https://woxi.ad-si.com",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Worms: The Future of Yesterday's Worms Today",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "106 pts / 37 comments",
-      "url": "https://worm.net/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Delphi 13 Community Edition Is Now Available",
+      "title": "Tim King, AmigaDOS developer, has died",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "57 pts / 43 comments",
-      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "traffic": "82 pts / 18 comments",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "天气",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "77 pts / 27 comments",
+      "url": "https://knownagents.com/insights",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Why Tiny JPEGs Look Different in Chrome",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "103 pts / 19 comments",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "94 pts / 25 comments",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "00961",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/11/wind-turbines-wildfires-and-extreme-weather-photos-of-the-day-tuesday",
-      "context": "Wind turbines, wildfires and extreme weather: photos of the day – Tuesday"
+      "url": "https://www.ctee.com.tw/news/20260812701685-430403",
+      "context": "主力資金卡位8月除息ETF 3檔配息逼近18％"
     },
     {
-      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "title": "My Agent Setup",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "70 pts / 5 comments",
-      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "score": 82,
+      "traffic": "51 pts / 30 comments",
+      "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "税",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.epochtimes.com/gb/26/8/11/n14828109.htm",
-      "context": "買車銷售稅最低的10個州（下）"
     }
   ],
   "articles": [
     {
-      "topic": "Compression is prediction",
+      "topic": "AI is removing the middle class of software engineering",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Compression is prediction」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AI is removing the middle class of software engineering」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Compression is prediction」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AI is removing the middle class of software engineering」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Compression is prediction",
-          "url": "https://ngrok.com/blog/compression-is-prediction"
+          "title": "AI is removing the middle class of software engineering",
+          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
         }
       ]
     },
     {
-      "topic": "LinkedIn CringeBot 3000",
+      "topic": "2026 Eclipse Webcams",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「LinkedIn CringeBot 3000」開始升溫，我們真正該看的不是熱度",
+      "title": "當「2026 Eclipse Webcams」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「LinkedIn CringeBot 3000」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「2026 Eclipse Webcams」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "LinkedIn CringeBot 3000",
-          "url": "https://www.cringebot3000.com/"
+          "title": "2026 Eclipse Webcams",
+          "url": "https://jonty.github.io/2026_eclipse_webcams/"
         }
       ]
     },
     {
-      "topic": "Facebook is paying controversial creators to produce rage-bait content",
+      "topic": "License plate reader searches should require a warrant",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Facebook is paying controversial creators to produce rage-bait content」開始升溫，我們真正該看的不是熱度",
+      "title": "當「License plate reader searches should require a warrant」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Facebook is paying controversial creators to produce rage-bait content」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「License plate reader searches should require a warrant」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Facebook is paying controversial creators to produce rage-bait content",
-          "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696"
+          "title": "License plate reader searches should require a warrant",
+          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"
         }
       ]
     }
