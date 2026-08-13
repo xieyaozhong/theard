@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-08-13T21:51:02+08:00",
+  "generated_at": "2026-08-14T00:11:29+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "988 pts / 424 comments",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1118 pts / 210 comments",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Qwen3.8-2.4T",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "681 pts / 159 comments",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "297 pts / 199 comments",
-      "url": "https://openai.com/codex/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "177 pts / 169 comments",
+      "score": 90,
+      "traffic": "264 pts / 291 comments",
       "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "009828",
+      "title": "DeepSeek Harness",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "324 pts / 148 comments",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Gloomberb",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "168 pts / 60 comments",
+      "url": "https://gloom.sh/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Spaghettifying DRAM",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "159 pts / 37 comments",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Picking berries is my meditation",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "81 pts / 58 comments",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "夜 盤",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -51,65 +51,65 @@
       "context": ""
     },
     {
-      "title": "Picking berries is my meditation",
+      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "51 pts / 36 comments",
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "score": 84,
+      "traffic": "75 pts / 57 comments",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "ipass一卡通",
+      "title": "北戴河會議",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.i-pass.com.tw/Preferential/Detail/GMZTSOIRRHDD364cc3Rm",
-      "context": "【環球Online】中元壓壓驚，iPASS MONEY 送保佑禮！"
+      "url": "https://udn.com/news/story/124652/9690353",
+      "context": "賴清德高雄選戰猛打「芒果乾」 賴瑞隆也質疑柯志恩：中共有無協助？"
     },
     {
-      "title": "The lattice of sets of natural numbers is rich (2021)",
+      "title": "鄭潤廈",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "星宇航空",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.cna.com.tw/business/chinese/441531",
+      "context": "星宇航空台中－名古屋航線正式開賣！ 台灣中部出發、直達日本中部"
+    },
+    {
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "71 pts / 10 comments",
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "traffic": "42 pts / 26 comments",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "DeepSeek Harness",
+      "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
       "source": "HACKER NEWS",
       "score": 80,
-      "traffic": "40 pts / 8 comments",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "traffic": "43 pts / 6 comments",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "36 pts / 16 comments",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "梁文傑",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E9%A0%98%E7%94%A8%E5%8F%B0%E8%83%9E%E8%AD%89%E6%9C%83%E8%A2%AB%E8%A6%96%E5%90%8C-%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E5%A4%A7%E9%99%B8%E5%87%BA%E5%85%A5%E5%A2%83%E6%96%B0%E8%A6%8F9%E6%9C%88%E4%B8%8A%E8%B7%AF-%E8%B5%B4%E9%99%B8%E6%81%90%E5%9B%9E%E4%B8%8D%E4%BE%86-%E6%A2%81%E6%96%87%E5%82%91%E5%85%AC%E9%96%8B%E7%A4%BA%E8%AD%A6-111942360.html",
-      "context": "領用台胞證會被視同「中國人」？大陸出入境新規9月上路！赴陸恐回不來？梁文傑公開示警"
     }
   ],
   "articles": [
     {
-      "topic": "DeepSeek V4 Pro 0813",
+      "topic": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「DeepSeek V4 Pro 0813」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Deutsche Bank becomes first foreign yuan clearing bank in Europe」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「DeepSeek V4 Pro 0813」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Deutsche Bank becomes first foreign yuan clearing bank in Europe」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "DeepSeek V4 Pro 0813",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+          "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+          "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"
         }
       ]
     },
     {
-      "topic": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "topic": "DeepSeek Harness",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Tracking down the 16-year-old WAL-reset SQLite bug」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DeepSeek Harness」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Tracking down the 16-year-old WAL-reset SQLite bug」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DeepSeek Harness」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
+          "title": "DeepSeek Harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness"
         }
       ]
     },
     {
-      "topic": "Qwen3.8-2.4T",
+      "topic": "Gloomberb",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Qwen3.8-2.4T」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Gloomberb」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Qwen3.8-2.4T」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Gloomberb」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Qwen3.8-2.4T",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
+          "title": "Gloomberb",
+          "url": "https://gloom.sh/"
         }
       ]
     }
