@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-14T00:11:29+08:00",
+  "generated_at": "2026-08-14T03:28:30+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "title": "Gemini 3.7 Flash",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "264 pts / 291 comments",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "traffic": "310 pts / 203 comments",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "DeepSeek Harness",
+      "title": "DeepSeek Harness developer preview",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "324 pts / 148 comments",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Gloomberb",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "168 pts / 60 comments",
-      "url": "https://gloom.sh/",
+      "score": 90,
+      "traffic": "461 pts / 209 comments",
+      "url": "https://deepseek.com/harness/en/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Spaghettifying DRAM",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "159 pts / 37 comments",
+      "score": 89,
+      "traffic": "336 pts / 104 comments",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Picking berries is my meditation",
+      "title": "Gloomberb",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "307 pts / 162 comments",
+      "url": "https://gloom.sh/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "81 pts / 58 comments",
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "traffic": "130 pts / 31 comments",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "夜 盤",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+      "title": "Choose Boring Technology (2015)",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "75 pts / 57 comments",
-      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "score": 85,
+      "traffic": "98 pts / 53 comments",
+      "url": "https://mcfunley.com/choose-boring-technology",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "北戴河會議",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/124652/9690353",
-      "context": "賴清德高雄選戰猛打「芒果乾」 賴瑞隆也質疑柯志恩：中共有無協助？"
-    },
-    {
-      "title": "鄭潤廈",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "星宇航空",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.cna.com.tw/business/chinese/441531",
-      "context": "星宇航空台中－名古屋航線正式開賣！ 台灣中部出發、直達日本中部"
-    },
-    {
-      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "title": "Mistral OCR 4.1",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "42 pts / 26 comments",
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "score": 85,
+      "traffic": "123 pts / 37 comments",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "43 pts / 6 comments",
+      "score": 85,
+      "traffic": "102 pts / 48 comments",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "68 pts / 25 comments",
+      "url": "https://donkeybas.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "40 pts / 17 comments",
+      "url": "https://0.mk/blog/link-rot",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "46 pts / 12 comments",
+      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "東京 暴雨",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "topic": "Gemini 3.7 Flash",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Deutsche Bank becomes first foreign yuan clearing bank in Europe」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Gemini 3.7 Flash」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Deutsche Bank becomes first foreign yuan clearing bank in Europe」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Gemini 3.7 Flash」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-          "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"
+          "title": "Gemini 3.7 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
         }
       ]
     },
     {
-      "topic": "DeepSeek Harness",
+      "topic": "DeepSeek Harness developer preview",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「DeepSeek Harness」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DeepSeek Harness developer preview」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「DeepSeek Harness」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DeepSeek Harness developer preview」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "DeepSeek Harness",
-          "url": "https://github.com/deepseek-ai/deepseek-harness"
+          "title": "DeepSeek Harness developer preview",
+          "url": "https://deepseek.com/harness/en/"
         }
       ]
     },
     {
-      "topic": "Gloomberb",
+      "topic": "Spaghettifying DRAM",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Gloomberb」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Spaghettifying DRAM」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gloomberb」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Spaghettifying DRAM」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Gloomberb",
-          "url": "https://gloom.sh/"
+          "title": "Spaghettifying DRAM",
+          "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
         }
       ]
     }
