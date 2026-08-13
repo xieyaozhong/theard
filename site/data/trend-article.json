@@ -1,20 +1,28 @@
 {
-  "generated_at": "2026-08-13T13:09:32+08:00",
+  "generated_at": "2026-08-13T15:56:44+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "DeepSeek V4 Pro 0813",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "823 pts / 325 comments",
+      "traffic": "889 pts / 361 comments",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "source": "HACKER NEWS",
+      "score": 93,
+      "traffic": "440 pts / 558 comments",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "903 pts / 176 comments",
+      "traffic": "997 pts / 188 comments",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "context": "High-engagement technology discussion"
     },
@@ -22,7 +30,7 @@
       "title": "Delta",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "468 pts / 161 comments",
+      "traffic": "519 pts / 180 comments",
       "url": "https://zed.dev/blog/introducing-delta",
       "context": "High-engagement technology discussion"
     },
@@ -30,7 +38,7 @@
       "title": "Qwen3.8-2.4T",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "550 pts / 126 comments",
+      "traffic": "594 pts / 137 comments",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "context": "High-engagement technology discussion"
     },
@@ -38,65 +46,57 @@
       "title": "2026 Eclipse Webcams",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "465 pts / 125 comments",
+      "traffic": "477 pts / 130 comments",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "171 pts / 115 comments",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "249 pts / 30 comments",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "麥當勞",
+      "title": "漢堡",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "score": 88,
+      "traffic": "5000+",
       "url": "https://tw.news.yahoo.com/2%E6%AC%BE%E6%96%B0%E9%A4%90%E9%BB%9E-%E8%9D%A6%E6%8E%92%E4%B8%8D%E7%AC%A6%E9%A3%9F%E5%93%81%E6%B3%95%E8%A6%8F%E6%A8%99%E6%BA%96-%E5%8F%B0%E7%81%A3%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B7%8A%E6%80%A5%E4%B8%8B%E6%9E%B6%E5%81%9C%E8%B3%A3-032623486.html",
       "context": "2款新餐點「蝦排不符食品法規標準」 台灣麥當勞緊急下架停賣"
     },
     {
-      "title": "洛杉磯 湖人",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%80%81%E9%97%86%E8%B3%A3%E6%B9%96%E4%BA%BA-%E9%81%93%E5%A5%87%E5%91%A2-%E5%A4%A7%E8%B0%B7%E6%8F%A1-%E9%8D%B5%E9%80%83%E8%84%AB%E5%90%88%E7%B4%84-%E6%A2%9D%E6%AC%BE-033331120.html",
-      "context": "老闆賣湖人、道奇呢？大谷握「一鍵逃脫合約」條款 年賺64億商機成最強保險"
-    },
-    {
       "title": "Principia Mathematica is modern and insightful",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "98 pts / 41 comments",
+      "score": 86,
+      "traffic": "135 pts / 66 comments",
       "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "消防員",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "92 pts / 55 comments",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why Target Common Lisp for Code Generation?",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "63 pts / 53 comments",
+      "score": 85,
+      "traffic": "88 pts / 73 comments",
       "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "宋麗華",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/7321/9688950",
-      "context": "涉洗錢、逃漏稅！屏東縣「美女議員」宋麗華家中搜出上千萬遭聲押"
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "77 pts / 20 comments",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "topic": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug」開始升溫，我們真正該看的不是熱度",
+      "title": "當「uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
+          "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+          "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"
         }
       ]
     },
     {
-      "topic": "Delta",
+      "topic": "We tracked down the 16-year-old WAL-reset SQLite bug",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Delta」開始升溫，我們真正該看的不是熱度",
+      "title": "當「We tracked down the 16-year-old WAL-reset SQLite bug」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Delta」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「We tracked down the 16-year-old WAL-reset SQLite bug」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Delta",
-          "url": "https://zed.dev/blog/introducing-delta"
+          "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
         }
       ]
     }
