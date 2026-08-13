@@ -1,28 +1,20 @@
 {
-  "generated_at": "2026-08-13T18:29:50+08:00",
+  "generated_at": "2026-08-13T21:51:02+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "DeepSeek V4 Pro 0813",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "933 pts / 378 comments",
+      "traffic": "988 pts / 424 comments",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "523 pts / 626 comments",
-      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "1051 pts / 196 comments",
+      "score": 93,
+      "traffic": "1118 pts / 210 comments",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "context": "High-engagement technology discussion"
     },
@@ -30,44 +22,28 @@
       "title": "Qwen3.8-2.4T",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "631 pts / 148 comments",
+      "traffic": "681 pts / 159 comments",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Delta",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "557 pts / 200 comments",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "2026 Eclipse Webcams",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "487 pts / 133 comments",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "149 pts / 78 comments",
+      "score": 90,
+      "traffic": "297 pts / 199 comments",
       "url": "https://openai.com/codex/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Principia Mathematica is modern and insightful",
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "162 pts / 70 comments",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "score": 88,
+      "traffic": "177 pts / 169 comments",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "美軍",
+      "title": "009828",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -75,28 +51,52 @@
       "context": ""
     },
     {
-      "title": "Antiqua–Fraktur dispute",
+      "title": "Picking berries is my meditation",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "96 pts / 21 comments",
-      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+      "traffic": "51 pts / 36 comments",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "94 pts / 26 comments",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "無人航空載具",
+      "title": "ipass一卡通",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.i-pass.com.tw/Preferential/Detail/GMZTSOIRRHDD364cc3Rm",
+      "context": "【環球Online】中元壓壓驚，iPASS MONEY 送保佑禮！"
+    },
+    {
+      "title": "The lattice of sets of natural numbers is rich (2021)",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "71 pts / 10 comments",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "DeepSeek Harness",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "40 pts / 8 comments",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "36 pts / 16 comments",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "梁文傑",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.news.yahoo.com/%E9%A0%98%E7%94%A8%E5%8F%B0%E8%83%9E%E8%AD%89%E6%9C%83%E8%A2%AB%E8%A6%96%E5%90%8C-%E4%B8%AD%E5%9C%8B%E4%BA%BA-%E5%A4%A7%E9%99%B8%E5%87%BA%E5%85%A5%E5%A2%83%E6%96%B0%E8%A6%8F9%E6%9C%88%E4%B8%8A%E8%B7%AF-%E8%B5%B4%E9%99%B8%E6%81%90%E5%9B%9E%E4%B8%8D%E4%BE%86-%E6%A2%81%E6%96%87%E5%82%91%E5%85%AC%E9%96%8B%E7%A4%BA%E8%AD%A6-111942360.html",
+      "context": "領用台胞證會被視同「中國人」？大陸出入境新規9月上路！赴陸恐回不來？梁文傑公開示警"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-          "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"
-        }
-      ]
-    },
-    {
       "topic": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Tracking down the 16-year-old WAL-reset SQLite bug」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
           "url": "https://tailscale.com/blog/sqlite-wal-reset-bug"
+        }
+      ]
+    },
+    {
+      "topic": "Qwen3.8-2.4T",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Qwen3.8-2.4T」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Qwen3.8-2.4T」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Qwen3.8-2.4T",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
         }
       ]
     }
