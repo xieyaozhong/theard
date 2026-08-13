@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-14T03:28:30+08:00",
+  "generated_at": "2026-08-14T06:05:24+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Gemini 3.7 Flash",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "310 pts / 203 comments",
+      "score": 91,
+      "traffic": "486 pts / 299 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DeepSeek Harness developer preview",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "461 pts / 209 comments",
-      "url": "https://deepseek.com/harness/en/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Spaghettifying DRAM",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "336 pts / 104 comments",
+      "score": 90,
+      "traffic": "436 pts / 130 comments",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Gloomberb",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "307 pts / 162 comments",
-      "url": "https://gloom.sh/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "130 pts / 31 comments",
+      "score": 89,
+      "traffic": "315 pts / 123 comments",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Choose Boring Technology (2015)",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "98 pts / 53 comments",
-      "url": "https://mcfunley.com/choose-boring-technology",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Mistral OCR 4.1",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "123 pts / 37 comments",
+      "score": 87,
+      "traffic": "207 pts / 83 comments",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "title": "Choose Boring Technology (2015)",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "102 pts / 48 comments",
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "score": 87,
+      "traffic": "181 pts / 94 comments",
+      "url": "https://mcfunley.com/choose-boring-technology",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "68 pts / 25 comments",
+      "score": 86,
+      "traffic": "149 pts / 59 comments",
       "url": "https://donkeybas.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "title": "Understanding is the new bottleneck",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "40 pts / 17 comments",
-      "url": "https://0.mk/blog/link-rot",
+      "score": 85,
+      "traffic": "89 pts / 56 comments",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+      "title": "NP-Overrated",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "46 pts / 12 comments",
-      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+      "score": 83,
+      "traffic": "76 pts / 28 comments",
+      "url": "https://gruhn.me/blog/2026-08-13/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "東京 暴雨",
+      "title": "夜盤台股",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E7%9B%A4%E5%89%8D-%E5%A4%96%E8%B3%87%E6%AE%BA%E7%84%A1%E8%B5%A6-%E7%8B%82%E7%A0%8D-%E9%80%99%E6%AA%94%E8%80%81ai-3-213500355.html",
+      "context": "【盤前】外資殺無赦 狂砍「這檔老AI」3.3萬張！113萬股東遭綠光閃哭"
+    },
+    {
+      "title": "How Gödel's Proof Works (2020)",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "41 pts / 25 comments",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "36 pts / 18 comments",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How Compaction Works in Pi",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "55 pts / 8 comments",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "DeepSeek Harness developer preview",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「DeepSeek Harness developer preview」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「DeepSeek Harness developer preview」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "DeepSeek Harness developer preview",
-          "url": "https://deepseek.com/harness/en/"
-        }
-      ]
-    },
-    {
       "topic": "Spaghettifying DRAM",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Spaghettifying DRAM」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Spaghettifying DRAM",
           "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
+        }
+      ]
+    },
+    {
+      "topic": "Accelerating GPT-5.6 Sol Ultrafast",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Accelerating GPT-5.6 Sol Ultrafast」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Accelerating GPT-5.6 Sol Ultrafast」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
         }
       ]
     }
