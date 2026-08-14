@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-15T03:16:39+08:00",
+  "generated_at": "2026-08-15T05:43:09+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "title": "Qwen 3.8 27B",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "955 pts / 477 comments",
-      "url": "https://z.ai/blog/glm-5.3",
+      "score": 93,
+      "traffic": "721 pts / 458 comments",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why does Opus 5 feel worse to work with?",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "541 pts / 500 comments",
+      "traffic": "660 pts / 610 comments",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Qwen 3.8 27B",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "496 pts / 343 comments",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "270 pts / 171 comments",
-      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Seven books I keep close because I love them",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "192 pts / 84 comments",
+      "score": 88,
+      "traffic": "266 pts / 110 comments",
       "url": "https://blog.plover.com/2026/08/02/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "110 pts / 71 comments",
+      "score": 88,
+      "traffic": "195 pts / 126 comments",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "109 pts / 46 comments",
+      "score": 87,
+      "traffic": "170 pts / 78 comments",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Introducing Toast 1",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "126 pts / 38 comments",
+      "score": 86,
+      "traffic": "151 pts / 50 comments",
       "url": "https://www.mixedbread.com/blog/toast-1",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Maximizing the value of your Claude Code sessions",
+      "title": "AI by Hand",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "67 pts / 35 comments",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "score": 84,
+      "traffic": "133 pts / 11 comments",
+      "url": "https://www.byhand.ai/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "中國信託",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Ultraviolet Bird Photography",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "traffic": "78 pts / 15 comments",
+      "url": "https://uvbirds.com/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "彭 文正",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/7321/9691127",
-      "context": "質疑博士論文造假…彭文正自訴蔡英文「偽造文書」 法院判不受理確定"
+      "title": "What You Gain by Building Your Own Game Engine",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "19 pts / 20 comments",
+      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "台新 新光 金融 控股",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E9%80%99%E9%87%91%E8%9E%8D%E5%B7%A8%E9%A0%AD-%E5%89%8D7%E6%9C%88%E7%8B%82%E8%B3%BA527%E5%84%84%E5%89%B5%E6%96%B0%E9%AB%98-%E6%97%97%E4%B8%8B3%E9%87%91%E9%9B%9E%E7%98%8B%E7%8B%82%E5%8D%B0%E9%88%94-%E7%B6%B2%E9%A9%9A%E5%91%BC-%E6%9C%89%E6%A9%9F%E6%9C%83%E8%A1%9D40%E5%85%83-072500990.html",
-      "context": "「這金融巨頭」前7月狂賺527億創新高！旗下3金雞瘋狂印鈔 網驚呼：有機會衝40元"
+      "title": "Study links coffee consumption to metabolic health and sex hormones",
+      "source": "HACKER NEWS",
+      "score": 79,
+      "traffic": "25 pts / 11 comments",
+      "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Ember – Redshift safe color palettes",
+      "source": "HACKER NEWS",
+      "score": 78,
+      "traffic": "29 pts / 5 comments",
+      "url": "https://github.com/carpdiem/ember",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "source": "HACKER NEWS",
+      "score": 76,
+      "traffic": "17 pts / 3 comments",
+      "url": "https://arxiv.org/abs/2608.11158",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "topic": "Qwen 3.8 27B",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「GLM-5.3: Frontier coding with emergent cyber capabilities」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Qwen 3.8 27B」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GLM-5.3: Frontier coding with emergent cyber capabilities」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Qwen 3.8 27B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,8 +131,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-          "url": "https://z.ai/blog/glm-5.3"
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Qwen 3.8 27B",
+      "topic": "Seven books I keep close because I love them",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Qwen 3.8 27B」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Seven books I keep close because I love them」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Qwen 3.8 27B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Seven books I keep close because I love them」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Qwen 3.8 27B",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+          "title": "Seven books I keep close because I love them",
+          "url": "https://blog.plover.com/2026/08/02/"
         }
       ]
     }
