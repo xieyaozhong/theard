@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-08-14T15:53:18+08:00",
+  "generated_at": "2026-08-14T18:18:56+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Gemini 3.7 Flash",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "784 pts / 413 comments",
+      "traffic": "850 pts / 437 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "一周天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608140010/",
-      "context": "天氣／強陣雨狂炸還沒完、高溫飆上36度！全台降雨熱區曝光「強度、時間都拉長」…10日報搶先看"
     },
     {
       "title": "DeepSeek Harness developer preview",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "638 pts / 263 comments",
+      "traffic": "666 pts / 276 comments",
       "url": "https://deepseek.com/harness/en/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "491 pts / 204 comments",
+      "url": "https://z.ai/blog/glm-5.3",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "556 pts / 232 comments",
+      "traffic": "608 pts / 243 comments",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "context": "High-engagement technology discussion"
     },
@@ -38,65 +38,65 @@
       "title": "Spaghettifying DRAM",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "591 pts / 153 comments",
+      "traffic": "628 pts / 162 comments",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "310 pts / 112 comments",
-      "url": "https://z.ai/blog/glm-5.3",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Mistral OCR 4.1",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "321 pts / 129 comments",
+      "traffic": "353 pts / 142 comments",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Understanding is the new bottleneck",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "298 pts / 160 comments",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Hello, me. It's been a while",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "172 pts / 78 comments",
+      "score": 88,
+      "traffic": "217 pts / 115 comments",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "三越",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.businessweekly.com.tw/business/blog/3022208",
-      "context": "台灣百貨版圖變天！三井市占率衝上8.3%超車「它」，新光三越仍穩坐龍頭－未來流通研究所"
     },
     {
       "title": "Bluesky Protocol Services",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "152 pts / 28 comments",
+      "traffic": "166 pts / 34 comments",
       "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "陳妍希",
+      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "48 pts / 11 comments",
+      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "梁修身",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5538797",
-      "context": "（獨家）陳妍希離婚18個月爆秘戀「中國百億富二代」 浪漫同遊泰國畫面曝光"
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5539849",
+      "context": "78歲梁修身交代身後事「三天處理掉」 不搞告別式、訃聞：樹葬就好"
+    },
+    {
+      "title": "蕭敬騰",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "台灣職業籃球大聯盟",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.sports.yahoo.com/news/%E6%9E%97%E5%BA%AD%E8%AC%99%E7%82%BA%E4%BD%9526%E6%AD%B2%E5%B0%B1%E7%B5%90%E6%9D%9F%E6%97%85%E5%A4%96-%E8%A6%AA%E5%90%9011%E5%B9%B4%E5%BF%83%E8%81%B2-%E9%81%B8%E6%93%87%E6%88%B0%E7%A5%9E%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-070300951.html",
+      "context": "林庭謙為何26歲就結束旅外？親吐11年心聲 選擇戰神原因曝光"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "一周天氣",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「一周天氣」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「一周天氣」推到更高的注意力位置。天氣／強陣雨狂炸還沒完、高溫飆上36度！全台降雨熱區曝光「強度、時間都拉長」…10日報搶先看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "一周天氣",
-          "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608140010/"
-        }
-      ]
-    },
-    {
       "topic": "DeepSeek Harness developer preview",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「DeepSeek Harness developer preview」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "DeepSeek Harness developer preview",
           "url": "https://deepseek.com/harness/en/"
+        }
+      ]
+    },
+    {
+      "topic": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「GLM-5.3: Frontier coding with emergent cyber capabilities」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「GLM-5.3: Frontier coding with emergent cyber capabilities」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "url": "https://z.ai/blog/glm-5.3"
         }
       ]
     }
