@@ -1,70 +1,94 @@
 {
-  "generated_at": "2026-08-15T00:07:43+08:00",
+  "generated_at": "2026-08-15T03:16:39+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "858 pts / 448 comments",
+      "score": 94,
+      "traffic": "955 pts / 477 comments",
       "url": "https://z.ai/blog/glm-5.3",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Every Fucking Website (2020)",
+      "title": "Why does Opus 5 feel worse to work with?",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "389 pts / 220 comments",
-      "url": "https://lxe.github.io/everywebsite/",
+      "score": 93,
+      "traffic": "541 pts / 500 comments",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Qwen3.8-27B",
+      "title": "Qwen 3.8 27B",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "496 pts / 343 comments",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "270 pts / 171 comments",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Seven books I keep close because I love them",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "193 pts / 69 comments",
-      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+      "traffic": "192 pts / 84 comments",
+      "url": "https://blog.plover.com/2026/08/02/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "153 pts / 117 comments",
-      "url": "https://e360.yale.edu/digest/australia-home-batteries",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DeepSeek peak/off-peak pricing update",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "181 pts / 101 comments",
-      "url": "https://api-docs.deepseek.com/news/news260813/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "title": "Google is making private AI practical with homomorphic encryption",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "99 pts / 76 comments",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "traffic": "110 pts / 71 comments",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Don't classify, hallucinate!",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "145 pts / 68 comments",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "score": 85,
+      "traffic": "109 pts / 46 comments",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "工傷",
+      "title": "Introducing Toast 1",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "126 pts / 38 comments",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "67 pts / 35 comments",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "中國信託",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.ebc.net.tw/news/world/566257",
-      "context": "39歲工程師公司廁所猝死！申請職災遭拒 原因曝光"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "彭 文正",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/7321/9691127",
+      "context": "質疑博士論文造假…彭文正自訴蔡英文「偽造文書」 法院判不受理確定"
     },
     {
       "title": "台新 新光 金融 控股",
@@ -73,30 +97,6 @@
       "traffic": "500+",
       "url": "https://tw.stock.yahoo.com/news/%E9%80%99%E9%87%91%E8%9E%8D%E5%B7%A8%E9%A0%AD-%E5%89%8D7%E6%9C%88%E7%8B%82%E8%B3%BA527%E5%84%84%E5%89%B5%E6%96%B0%E9%AB%98-%E6%97%97%E4%B8%8B3%E9%87%91%E9%9B%9E%E7%98%8B%E7%8B%82%E5%8D%B0%E9%88%94-%E7%B6%B2%E9%A9%9A%E5%91%BC-%E6%9C%89%E6%A9%9F%E6%9C%83%E8%A1%9D40%E5%85%83-072500990.html",
       "context": "「這金融巨頭」前7月狂賺527億創新高！旗下3金雞瘋狂印鈔 網驚呼：有機會衝40元"
-    },
-    {
-      "title": "李 昀 銳",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.upmedia.mg/tw/popularity/chinese-dramas/266158",
-      "context": "《耀眼》李昀銳新劇搭檔《莫離》白鹿破局原因曝光 他2個月沒戲拍恐面臨資源降級"
-    },
-    {
-      "title": "全民健康保險",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E8%84%AB%E7%A8%BF%E6%8B%8B%E5%87%BA8%E5%B9%B4%E5%9F%B7%E6%94%BF%E7%9B%AE%E6%A8%99-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%87%AA%E6%A0%A9-%E9%86%AB%E7%94%9F%E7%B8%BD%E7%B5%B1-%E6%9C%89%E4%BF%A1%E5%BF%83%E5%8A%A9%E5%9C%8B%E4%BA%BA%E5%BB%B6%E5%91%BD3%E5%B9%B4-152200211.html",
-      "context": "脫稿拋出8年執政目標！賴清德自栩「醫生總統」：有信心助國人延命3年"
-    },
-    {
-      "title": "郭麒麟",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://stars.udn.com/star/story/10091/9692304",
-      "context": "《慶餘年》郭麒麟傳暴瘦40公斤變張若昀？粉絲澄清揭真相"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Every Fucking Website (2020)",
+      "topic": "Why does Opus 5 feel worse to work with?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Every Fucking Website (2020)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Why does Opus 5 feel worse to work with?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Every Fucking Website (2020)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Why does Opus 5 feel worse to work with?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Every Fucking Website (2020)",
-          "url": "https://lxe.github.io/everywebsite/"
+          "title": "Why does Opus 5 feel worse to work with?",
+          "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
         }
       ]
     },
     {
-      "topic": "Qwen3.8-27B",
+      "topic": "Qwen 3.8 27B",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Qwen3.8-27B」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Qwen 3.8 27B」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Qwen3.8-27B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Qwen 3.8 27B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Qwen3.8-27B",
-          "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304"
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
         }
       ]
     }
