@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-14T21:46:29+08:00",
+  "generated_at": "2026-08-15T00:07:43+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Gemini 3.7 Flash",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "908 pts / 453 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "709 pts / 359 comments",
+      "score": 93,
+      "traffic": "858 pts / 448 comments",
       "url": "https://z.ai/blog/glm-5.3",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "657 pts / 259 comments",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DeepSeek Harness developer preview",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "695 pts / 281 comments",
-      "url": "https://deepseek.com/harness/en/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
+      "title": "Every Fucking Website (2020)",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "241 pts / 228 comments",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "traffic": "389 pts / 220 comments",
+      "url": "https://lxe.github.io/everywebsite/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Hello, me. It's been a while",
+      "title": "Qwen3.8-27B",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "294 pts / 159 comments",
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "score": 87,
+      "traffic": "193 pts / 69 comments",
+      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "153 pts / 117 comments",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DeepSeek peak/off-peak pricing update",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "118 pts / 53 comments",
+      "score": 87,
+      "traffic": "181 pts / 101 comments",
       "url": "https://api-docs.deepseek.com/news/news260813/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Dear people who work at the airport",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "42 pts / 24 comments",
-      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+      "score": 86,
+      "traffic": "99 pts / 76 comments",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Don't classify, hallucinate!",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "61 pts / 26 comments",
+      "score": 86,
+      "traffic": "145 pts / 68 comments",
       "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Differential Heuristics",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "60 pts / 4 comments",
-      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
-      "context": "High-engagement technology discussion"
+      "title": "工傷",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.ebc.net.tw/news/world/566257",
+      "context": "39歲工程師公司廁所猝死！申請職災遭拒 原因曝光"
     },
     {
-      "title": "Protect Your Relays",
-      "source": "HACKER NEWS",
-      "score": 78,
-      "traffic": "22 pts / 7 comments",
-      "url": "https://www.iroh.computer/blog/authenticated-relays",
-      "context": "High-engagement technology discussion"
+      "title": "台新 新光 金融 控股",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E9%80%99%E9%87%91%E8%9E%8D%E5%B7%A8%E9%A0%AD-%E5%89%8D7%E6%9C%88%E7%8B%82%E8%B3%BA527%E5%84%84%E5%89%B5%E6%96%B0%E9%AB%98-%E6%97%97%E4%B8%8B3%E9%87%91%E9%9B%9E%E7%98%8B%E7%8B%82%E5%8D%B0%E9%88%94-%E7%B6%B2%E9%A9%9A%E5%91%BC-%E6%9C%89%E6%A9%9F%E6%9C%83%E8%A1%9D40%E5%85%83-072500990.html",
+      "context": "「這金融巨頭」前7月狂賺527億創新高！旗下3金雞瘋狂印鈔 網驚呼：有機會衝40元"
     },
     {
-      "title": "We're not done with point clouds",
-      "source": "HACKER NEWS",
-      "score": 78,
-      "traffic": "29 pts / 3 comments",
-      "url": "https://claytonwramsey.com/blog/mvt/",
-      "context": "High-engagement technology discussion"
+      "title": "李 昀 銳",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.upmedia.mg/tw/popularity/chinese-dramas/266158",
+      "context": "《耀眼》李昀銳新劇搭檔《莫離》白鹿破局原因曝光 他2個月沒戲拍恐面臨資源降級"
+    },
+    {
+      "title": "全民健康保險",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E8%84%AB%E7%A8%BF%E6%8B%8B%E5%87%BA8%E5%B9%B4%E5%9F%B7%E6%94%BF%E7%9B%AE%E6%A8%99-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%87%AA%E6%A0%A9-%E9%86%AB%E7%94%9F%E7%B8%BD%E7%B5%B1-%E6%9C%89%E4%BF%A1%E5%BF%83%E5%8A%A9%E5%9C%8B%E4%BA%BA%E5%BB%B6%E5%91%BD3%E5%B9%B4-152200211.html",
+      "context": "脫稿拋出8年執政目標！賴清德自栩「醫生總統」：有信心助國人延命3年"
+    },
+    {
+      "title": "郭麒麟",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://stars.udn.com/star/story/10091/9692304",
+      "context": "《慶餘年》郭麒麟傳暴瘦40公斤變張若昀？粉絲澄清揭真相"
     }
   ],
   "articles": [
     {
-      "topic": "Gemini 3.7 Flash",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Gemini 3.7 Flash」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gemini 3.7 Flash」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Gemini 3.7 Flash",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
-        }
-      ]
-    },
-    {
       "topic": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「GLM-5.3: Frontier coding with emergent cyber capabilities」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Accelerating GPT-5.6 Sol Ultrafast",
+      "topic": "Every Fucking Website (2020)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Accelerating GPT-5.6 Sol Ultrafast」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Every Fucking Website (2020)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Accelerating GPT-5.6 Sol Ultrafast」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Every Fucking Website (2020)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Accelerating GPT-5.6 Sol Ultrafast",
-          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+          "title": "Every Fucking Website (2020)",
+          "url": "https://lxe.github.io/everywebsite/"
+        }
+      ]
+    },
+    {
+      "topic": "Qwen3.8-27B",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Qwen3.8-27B」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Qwen3.8-27B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Qwen3.8-27B",
+          "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304"
         }
       ]
     }
