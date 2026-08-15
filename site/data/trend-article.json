@@ -1,89 +1,65 @@
 {
-  "generated_at": "2026-08-15T17:43:14+08:00",
+  "generated_at": "2026-08-15T21:00:55+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Qwen 3.8 27B",
       "source": "HACKER NEWS",
       "score": 95,
-      "traffic": "1137 pts / 694 comments",
+      "traffic": "1211 pts / 722 comments",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1011 pts / 382 comments",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "context": "High-engagement technology discussion"
+      "title": "明天的天氣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://tw.news.yahoo.com/%E6%98%8E%E8%B1%AA%E9%9B%A8%E6%81%90%E8%BD%9F%E7%82%B8%E5%8C%97%E9%83%A8-%E4%BD%8E%E5%A3%93%E6%8E%A5%E5%8A%9B-2%E5%9C%B0%E5%8D%80-7%E5%A4%A9%E6%BA%BC%E7%AD%94%E7%AD%94-%E7%86%B1%E5%B8%B6%E6%93%BE%E5%8B%95%E4%B9%9F%E9%86%9E%E9%87%80-110000945.html",
+      "context": "明豪雨恐轟炸北部！低壓接力「2地區」7天溼答答 熱帶擾動也醞釀"
     },
     {
       "title": "Google is making private AI practical with homomorphic encryption",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "387 pts / 231 comments",
+      "score": 91,
+      "traffic": "428 pts / 257 comments",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Going Dark, and the era of law enforcement hacking",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "340 pts / 149 comments",
+      "score": 90,
+      "traffic": "373 pts / 174 comments",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "295 pts / 121 comments",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The other Sean Byrne doesn't exist",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "140 pts / 69 comments",
+      "score": 88,
+      "traffic": "249 pts / 123 comments",
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "194 pts / 45 comments",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "score": 83,
+      "traffic": "67 pts / 37 comments",
+      "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "eigendrum",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "156 pts / 38 comments",
-      "url": "https://eigendrum.com/#p=circle",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "慈 濟 基金 會",
+      "title": "蘋果",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5539715",
-      "context": "四大山門2》不是慈濟！資產最雄厚財團法人是這一家"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83",
+      "context": "Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips"
     },
     {
-      "title": "Coin-sized device can hack a Boeing 737",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "74 pts / 40 comments",
-      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "00919",
+      "title": "中職",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
@@ -91,12 +67,36 @@
       "context": ""
     },
     {
-      "title": "南韓",
+      "title": "味全龍",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
+    },
+    {
+      "title": "柴油",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/7266/9693613",
+      "context": "下周汽、柴油價格再凍漲 中油：2月底以來已吸收約166億元"
+    },
+    {
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "64 pts / 13 comments",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "58 pts / 15 comments",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Firefox is now the last major browser that still supports uBlock Origin",
+      "topic": "明天的天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Firefox is now the last major browser that still supports uBlock Origin」開始升溫，我們真正該看的不是熱度",
+      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Firefox is now the last major browser that still supports uBlock Origin」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。明豪雨恐轟炸北部！低壓接力「2地區」7天溼答答 熱帶擾動也醞釀。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,9 +166,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Firefox is now the last major browser that still supports uBlock Origin",
-          "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "明天的天氣",
+          "url": "https://tw.news.yahoo.com/%E6%98%8E%E8%B1%AA%E9%9B%A8%E6%81%90%E8%BD%9F%E7%82%B8%E5%8C%97%E9%83%A8-%E4%BD%8E%E5%A3%93%E6%8E%A5%E5%8A%9B-2%E5%9C%B0%E5%8D%80-7%E5%A4%A9%E6%BA%BC%E7%AD%94%E7%AD%94-%E7%86%B1%E5%B8%B6%E6%93%BE%E5%8B%95%E4%B9%9F%E9%86%9E%E9%87%80-110000945.html"
         }
       ]
     },
