@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-15T23:37:31+08:00",
+  "generated_at": "2026-08-16T02:49:00+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "404 pts / 198 comments",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The other Sean Byrne doesn't exist",
+      "title": "RISC-V: They Should Have Known Better",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "296 pts / 144 comments",
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "traffic": "103 pts / 235 comments",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "股票",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-e00b048c-9881-11f1-aee8-5c3809b62b56",
-      "context": "黑箱股票Q2財報：每股虧損達-$0.59，營收僅增至80萬美元！"
     },
     {
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "185 pts / 51 comments",
+      "score": 88,
+      "traffic": "293 pts / 76 comments",
       "url": "https://sankalp.bearblog.dev/autoresearch/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Working with AI Feels More Like Leadership Than Coding",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "82 pts / 63 comments",
+      "score": 88,
+      "traffic": "178 pts / 124 comments",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "91 pts / 18 comments",
-      "url": "https://baselashraf81.github.io/eigendrum/",
+      "score": 87,
+      "traffic": "157 pts / 89 comments",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "milan vs man utd",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.bbc.com/sport/football/live/cmy0j1846rnwt",
-      "context": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head"
-    },
-    {
-      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "37 pts / 35 comments",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "score": 85,
+      "traffic": "129 pts / 47 comments",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The mathematical beauty of hyperbezier curves",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "93 pts / 10 comments",
-      "url": "https://linebender.org/blog/hyperbezier/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Color of White Light",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "43 pts / 27 comments",
-      "url": "https://ludens.cl/photo/spectra/spectra.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "台 塑 企業",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
     },
     {
       "title": "韓國 瑜",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://www.storm.mg/article/11156739",
       "context": "韓國瑜真心換絕情？曝韓為3原因怒嗆傅崐萁 學者示警總預算三讀後「可能危機」 | 李瑋萱 | 新聞"
+    },
+    {
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "69 pts / 51 comments",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "86 pts / 32 comments",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "股價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E7%BE%A4%E8%81%AF%E6%B3%95%E8%AA%AA%E8%AE%8A%E6%B3%95%E6%9C%83-q2%E5%A4%A7%E8%B3%BA11%E8%82%A1%E6%9C%AC%E8%82%A1%E5%83%B9%E7%AB%9F%E9%87%8D%E6%8C%AB8-%E6%B3%95%E4%BA%BA%E8%AA%AA%E4%BA%86%E9%80%99%E4%BB%B6%E4%BA%8B-074000553.html",
+      "context": "群聯法說變法會？ Q2大賺11股本股價竟重挫8% 法人說了這件事"
+    },
+    {
+      "title": "Could a computer scientist build a brain?",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "43 pts / 28 comments",
+      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A Spectre Is Haunting Unicode",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "65 pts / 9 comments",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "45 pts / 20 comments",
+      "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Going Dark, and the era of law enforcement hacking",
+      "topic": "RISC-V: They Should Have Known Better",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Going Dark, and the era of law enforcement hacking」開始升溫，我們真正該看的不是熱度",
+      "title": "當「RISC-V: They Should Have Known Better」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Going Dark, and the era of law enforcement hacking」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「RISC-V: They Should Have Known Better」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Going Dark, and the era of law enforcement hacking",
-          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV"
         }
       ]
     },
     {
-      "topic": "The other Sean Byrne doesn't exist",
+      "topic": "Auto-research with codex: How I achieved a 232x Faster Kernel",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「The other Sean Byrne doesn't exist」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Auto-research with codex: How I achieved a 232x Faster Kernel」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The other Sean Byrne doesn't exist」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Auto-research with codex: How I achieved a 232x Faster Kernel」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The other Sean Byrne doesn't exist",
-          "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/"
+          "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "url": "https://sankalp.bearblog.dev/autoresearch/"
         }
       ]
     },
     {
-      "topic": "股票",
+      "topic": "Working with AI Feels More Like Leadership Than Coding",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「股票」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Working with AI Feels More Like Leadership Than Coding」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「股票」推到更高的注意力位置。黑箱股票Q2財報：每股虧損達-$0.59，營收僅增至80萬美元！。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Working with AI Feels More Like Leadership Than Coding」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "股票",
-          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-e00b048c-9881-11f1-aee8-5c3809b62b56"
+          "source": "HACKER NEWS",
+          "title": "Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
         }
       ]
     }
