@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-15T21:00:55+08:00",
+  "generated_at": "2026-08-15T23:37:31+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
-    {
-      "title": "Qwen 3.8 27B",
-      "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1211 pts / 722 comments",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "明天的天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/%E6%98%8E%E8%B1%AA%E9%9B%A8%E6%81%90%E8%BD%9F%E7%82%B8%E5%8C%97%E9%83%A8-%E4%BD%8E%E5%A3%93%E6%8E%A5%E5%8A%9B-2%E5%9C%B0%E5%8D%80-7%E5%A4%A9%E6%BA%BC%E7%AD%94%E7%AD%94-%E7%86%B1%E5%B8%B6%E6%93%BE%E5%8B%95%E4%B9%9F%E9%86%9E%E9%87%80-110000945.html",
-      "context": "明豪雨恐轟炸北部！低壓接力「2地區」7天溼答答 熱帶擾動也醞釀"
-    },
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "428 pts / 257 comments",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "context": "High-engagement technology discussion"
-    },
     {
       "title": "Going Dark, and the era of law enforcement hacking",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "373 pts / 174 comments",
+      "traffic": "404 pts / 198 comments",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The other Sean Byrne doesn't exist",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "249 pts / 123 comments",
+      "score": 89,
+      "traffic": "296 pts / 144 comments",
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "67 pts / 37 comments",
-      "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "蘋果",
+      "title": "股票",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83",
-      "context": "Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips"
-    },
-    {
-      "title": "中職",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "味全龍",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "柴油",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/7266/9693613",
-      "context": "下周汽、柴油價格再凍漲 中油：2月底以來已吸收約166億元"
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-e00b048c-9881-11f1-aee8-5c3809b62b56",
+      "context": "黑箱股票Q2財報：每股虧損達-$0.59，營收僅增至80萬美元！"
     },
     {
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "64 pts / 13 comments",
+      "score": 86,
+      "traffic": "185 pts / 51 comments",
       "url": "https://sankalp.bearblog.dev/autoresearch/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "82 pts / 63 comments",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "91 pts / 18 comments",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "milan vs man utd",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.bbc.com/sport/football/live/cmy0j1846rnwt",
+      "context": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head"
+    },
+    {
+      "title": "Secondhand book sales are booming. Is it because of AI?",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "58 pts / 15 comments",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "traffic": "37 pts / 35 comments",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The mathematical beauty of hyperbezier curves",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "93 pts / 10 comments",
+      "url": "https://linebender.org/blog/hyperbezier/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Color of White Light",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "43 pts / 27 comments",
+      "url": "https://ludens.cl/photo/spectra/spectra.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "台 塑 企業",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "韓國 瑜",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.storm.mg/article/11156739",
+      "context": "韓國瑜真心換絕情？曝韓為3原因怒嗆傅崐萁 學者示警總預算三讀後「可能危機」 | 李瑋萱 | 新聞"
     }
   ],
   "articles": [
     {
-      "topic": "Qwen 3.8 27B",
+      "topic": "Going Dark, and the era of law enforcement hacking",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Qwen 3.8 27B」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Going Dark, and the era of law enforcement hacking」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Qwen 3.8 27B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Going Dark, and the era of law enforcement hacking」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,57 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Qwen 3.8 27B",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+          "title": "Going Dark, and the era of law enforcement hacking",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
         }
       ]
     },
     {
-      "topic": "明天的天氣",
+      "topic": "The other Sean Byrne doesn't exist",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「The other Sean Byrne doesn't exist」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。明豪雨恐轟炸北部！低壓接力「2地區」7天溼答答 熱帶擾動也醞釀。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「The other Sean Byrne doesn't exist」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "The other Sean Byrne doesn't exist",
+          "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/"
+        }
+      ]
+    },
+    {
+      "topic": "股票",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「股票」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「股票」推到更高的注意力位置。黑箱股票Q2財報：每股虧損達-$0.59，營收僅增至80萬美元！。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,44 +203,8 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://tw.news.yahoo.com/%E6%98%8E%E8%B1%AA%E9%9B%A8%E6%81%90%E8%BD%9F%E7%82%B8%E5%8C%97%E9%83%A8-%E4%BD%8E%E5%A3%93%E6%8E%A5%E5%8A%9B-2%E5%9C%B0%E5%8D%80-7%E5%A4%A9%E6%BA%BC%E7%AD%94%E7%AD%94-%E7%86%B1%E5%B8%B6%E6%93%BE%E5%8B%95%E4%B9%9F%E9%86%9E%E9%87%80-110000945.html"
-        }
-      ]
-    },
-    {
-      "topic": "Google is making private AI practical with homomorphic encryption",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Google is making private AI practical with homomorphic encryption」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Google is making private AI practical with homomorphic encryption」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Google is making private AI practical with homomorphic encryption",
-          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
+          "title": "股票",
+          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-e00b048c-9881-11f1-aee8-5c3809b62b56"
         }
       ]
     }
