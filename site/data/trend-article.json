@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-16T17:45:04+08:00",
+  "generated_at": "2026-08-16T21:02:49+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "Asus Bike Booster",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "487 pts / 328 comments",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "context": "High-engagement technology discussion"
+    },
     {
       "title": "Semaglutide linked to lower predicted dementia risk",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "426 pts / 296 comments",
+      "traffic": "443 pts / 325 comments",
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Asus Bike Booster",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "384 pts / 242 comments",
-      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "242 pts / 132 comments",
+      "score": 89,
+      "traffic": "296 pts / 191 comments",
       "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "256 pts / 92 comments",
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "traffic": "176 pts / 132 comments",
+      "url": "https://littlelearner-ll.github.io/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Software Engineering fundamentals matter more",
+      "title": "Patterns and problems in emerging multi-agent systems",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "130 pts / 78 comments",
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "traffic": "135 pts / 88 comments",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Cultivating a state of mind where new ideas are born (2023)",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "170 pts / 41 comments",
+      "traffic": "199 pts / 49 comments",
       "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "106 pts / 66 comments",
-      "url": "https://littlelearner-ll.github.io/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "155 pts / 14 comments",
+      "score": 85,
+      "traffic": "195 pts / 22 comments",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "source": "HACKER NEWS",
+      "title": "王凱",
+      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "85 pts / 33 comments",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "malaysia đấu với việt nam",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.vietnam.vn/kieu-bao-va-nguoi-ham-mo-cho-chien-thang-cua-doi-tuyen-viet-nam",
+      "context": "Kiều bào và người hâm mộ chờ chiến thắng của đội tuyển Việt Nam"
+    },
+    {
+      "title": "味 全 龍",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "全 昭 旻",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.koreastardaily.com/sc/news/163597",
+      "context": "曾上《Running Man》爆红！全昭旻亲弟如今靠外送维生，38岁叹：现实墙太高，姐姐的钱跟我没关系！"
+    },
+    {
+      "title": "Chestnut – eGPU dock with open-source firmware",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "44 pts / 8 comments",
+      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "ตรวจหวย",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.thairath.co.th/lottery/latest-result/2953057",
-      "context": "ตรวจหวย 16 ส.ค. 2569 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 16/8/69"
-    },
-    {
-      "title": "沈佳宜",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "紐約洋基",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Semaglutide linked to lower predicted dementia risk",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Semaglutide linked to lower predicted dementia risk」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Semaglutide linked to lower predicted dementia risk」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Semaglutide linked to lower predicted dementia risk",
-          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432"
-        }
-      ]
-    },
-    {
       "topic": "Asus Bike Booster",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Asus Bike Booster」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,6 +133,42 @@
           "source": "HACKER NEWS",
           "title": "Asus Bike Booster",
           "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/"
+        }
+      ]
+    },
+    {
+      "topic": "Semaglutide linked to lower predicted dementia risk",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Semaglutide linked to lower predicted dementia risk」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Semaglutide linked to lower predicted dementia risk」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432"
         }
       ]
     },
