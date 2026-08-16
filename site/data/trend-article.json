@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-16T23:38:50+08:00",
+  "generated_at": "2026-08-17T02:48:33+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Asus Bike Booster",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "535 pts / 369 comments",
-      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Claude: System Prompts",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "181 pts / 79 comments",
+      "score": 89,
+      "traffic": "367 pts / 155 comments",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Firefox for iOS now has a native adblocker",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "152 pts / 50 comments",
+      "score": 89,
+      "traffic": "352 pts / 146 comments",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "title": "The AI Credit Resale Economy",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "159 pts / 66 comments",
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "traffic": "150 pts / 58 comments",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "227 pts / 29 comments",
-      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Does anyone run Postgres without PgBouncer?",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "78 pts / 38 comments",
-      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Chestnut – eGPU dock with open-source firmware",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "76 pts / 21 comments",
-      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+      "score": 85,
+      "traffic": "94 pts / 55 comments",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "搜救犬",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://news.ebc.net.tw/news/society/566571",
       "context": "特搜小鋼砲墜樓亡！死因掀疑雲...消防局回應了"
     },
     {
       "title": "臺北捷運",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E6%98%A8%E6%99%9A%E6%93%A0%E7%88%86%E4%BA%86-%E5%8C%97%E6%8D%B7%E7%8B%82%E6%B9%A7213%E8%90%AC%E4%BA%BA%E6%AC%A1-%E8%A1%9D%E7%A0%B4%E8%BF%9130%E5%B9%B4%E7%B4%80%E9%8C%84-%E5%85%A8%E5%9B%A03%E5%A4%A7%E6%B4%BB%E5%8B%95-090100631.html",
-      "context": "台北昨晚擠爆了！北捷狂湧213萬人次 衝破近30年紀錄「全因3大活動」"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://today.line.me/tw/v3/article/8no5N1x",
+      "context": "「Pokémon GO 10週年特展」 跟著皮卡丘冒險趣 | 青年日報"
     },
     {
-      "title": "英超",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://3g.china.com/act/redian/13004758/20260816/49677740.html",
-      "context": "中日韩三国足球留洋格局有何差距 体系与青训的较量"
-    },
-    {
-      "title": "群 聯",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.businesstoday.com.tw/article/category/183008/post/202608160003/",
-      "context": "群聯(8299)財報史上最強，為何股價暴跌？法人目標價竟從3字頭砍到2字頭「大老不說的2個祕密」…黃金買點曝光"
-    },
-    {
-      "title": "The AI Credit Resale Economy",
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "43 pts / 9 comments",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "score": 83,
+      "traffic": "79 pts / 23 comments",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "分科放榜",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.cna.com.tw/news/ahel/202608160077.aspx",
+      "context": "大學分發入學8/17放榜上午9時開放網路查詢結果| 生活"
+    },
+    {
+      "title": "公寓黑風暴",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "arsenal đấu với man city",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.starnewskorea.com/vi/sports/2026/08/17/2026081700420638971",
+      "context": "Arsenal giành chiến thắng 3-0 trước Manchester City với bàn thắng mở tỷ số ở phút 23... Vô địch Community Shield sau 3 năm"
+    },
+    {
+      "title": "NIH is ending a key grant for budding clinical researchers",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "62 pts / 18 comments",
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "GPS and the Lost Art of Getting Lost",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "45 pts / 29 comments",
+      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Asus Bike Booster",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Asus Bike Booster」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Asus Bike Booster」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Asus Bike Booster",
-          "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/"
-        }
-      ]
-    },
-    {
       "topic": "Claude: System Prompts",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Claude: System Prompts」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "Firefox for iOS now has a native adblocker",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Firefox for iOS now has a native adblocker」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Firefox for iOS now has a native adblocker",
           "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios"
+        }
+      ]
+    },
+    {
+      "topic": "The AI Credit Resale Economy",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「The AI Credit Resale Economy」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「The AI Credit Resale Economy」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers"
         }
       ]
     }
