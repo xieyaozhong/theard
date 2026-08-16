@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-08-16T21:02:49+08:00",
+  "generated_at": "2026-08-16T23:38:50+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Asus Bike Booster",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "487 pts / 328 comments",
+      "traffic": "535 pts / 369 comments",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Semaglutide linked to lower predicted dementia risk",
+      "title": "Claude: System Prompts",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "443 pts / 325 comments",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 87,
+      "traffic": "181 pts / 79 comments",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "296 pts / 191 comments",
-      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "176 pts / 132 comments",
-      "url": "https://littlelearner-ll.github.io/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Patterns and problems in emerging multi-agent systems",
+      "title": "Firefox for iOS now has a native adblocker",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "135 pts / 88 comments",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "traffic": "152 pts / 50 comments",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "199 pts / 49 comments",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "traffic": "159 pts / 66 comments",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "195 pts / 22 comments",
+      "score": 86,
+      "traffic": "227 pts / 29 comments",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "王凱",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Does anyone run Postgres without PgBouncer?",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "malaysia đấu với việt nam",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.vietnam.vn/kieu-bao-va-nguoi-ham-mo-cho-chien-thang-cua-doi-tuyen-viet-nam",
-      "context": "Kiều bào và người hâm mộ chờ chiến thắng của đội tuyển Việt Nam"
-    },
-    {
-      "title": "味 全 龍",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "全 昭 旻",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.koreastardaily.com/sc/news/163597",
-      "context": "曾上《Running Man》爆红！全昭旻亲弟如今靠外送维生，38岁叹：现实墙太高，姐姐的钱跟我没关系！"
+      "traffic": "78 pts / 38 comments",
+      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Chestnut – eGPU dock with open-source firmware",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "44 pts / 8 comments",
+      "score": 83,
+      "traffic": "76 pts / 21 comments",
       "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "搜救犬",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.ebc.net.tw/news/society/566571",
+      "context": "特搜小鋼砲墜樓亡！死因掀疑雲...消防局回應了"
+    },
+    {
+      "title": "臺北捷運",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E6%98%A8%E6%99%9A%E6%93%A0%E7%88%86%E4%BA%86-%E5%8C%97%E6%8D%B7%E7%8B%82%E6%B9%A7213%E8%90%AC%E4%BA%BA%E6%AC%A1-%E8%A1%9D%E7%A0%B4%E8%BF%9130%E5%B9%B4%E7%B4%80%E9%8C%84-%E5%85%A8%E5%9B%A03%E5%A4%A7%E6%B4%BB%E5%8B%95-090100631.html",
+      "context": "台北昨晚擠爆了！北捷狂湧213萬人次 衝破近30年紀錄「全因3大活動」"
+    },
+    {
+      "title": "英超",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://3g.china.com/act/redian/13004758/20260816/49677740.html",
+      "context": "中日韩三国足球留洋格局有何差距 体系与青训的较量"
+    },
+    {
+      "title": "群 聯",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.businesstoday.com.tw/article/category/183008/post/202608160003/",
+      "context": "群聯(8299)財報史上最強，為何股價暴跌？法人目標價竟從3字頭砍到2字頭「大老不說的2個祕密」…黃金買點曝光"
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "43 pts / 9 comments",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Semaglutide linked to lower predicted dementia risk",
+      "topic": "Claude: System Prompts",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Semaglutide linked to lower predicted dementia risk」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Claude: System Prompts」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Semaglutide linked to lower predicted dementia risk」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Claude: System Prompts」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Semaglutide linked to lower predicted dementia risk",
-          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432"
+          "title": "Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts"
         }
       ]
     },
     {
-      "topic": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "topic": "Firefox for iOS now has a native adblocker",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Firefox for iOS now has a native adblocker」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Firefox for iOS now has a native adblocker」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-          "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/"
+          "title": "Firefox for iOS now has a native adblocker",
+          "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios"
         }
       ]
     }
