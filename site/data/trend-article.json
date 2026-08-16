@@ -1,61 +1,53 @@
 {
-  "generated_at": "2026-08-17T02:48:33+08:00",
+  "generated_at": "2026-08-17T05:36:17+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Claude: System Prompts",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "367 pts / 155 comments",
+      "score": 90,
+      "traffic": "445 pts / 192 comments",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Firefox for iOS now has a native adblocker",
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "352 pts / 146 comments",
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "score": 88,
+      "traffic": "240 pts / 126 comments",
+      "url": "https://rvembedded.com/blog_post/12/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The AI Credit Resale Economy",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "150 pts / 58 comments",
+      "score": 87,
+      "traffic": "191 pts / 69 comments",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "167 pts / 105 comments",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "94 pts / 55 comments",
+      "score": 86,
+      "traffic": "128 pts / 94 comments",
       "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "搜救犬",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.ebc.net.tw/news/society/566571",
-      "context": "特搜小鋼砲墜樓亡！死因掀疑雲...消防局回應了"
-    },
-    {
-      "title": "臺北捷運",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://today.line.me/tw/v3/article/8no5N1x",
-      "context": "「Pokémon GO 10週年特展」 跟著皮卡丘冒險趣 | 青年日報"
-    },
-    {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "title": "Protobuf has LSP support. You're welcome",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "79 pts / 23 comments",
-      "url": "https://rvembedded.com/blog_post/12/",
+      "traffic": "63 pts / 34 comments",
+      "url": "https://buf.build/blog/protobuf-lsp",
       "context": "High-engagement technology discussion"
     },
     {
@@ -75,27 +67,35 @@
       "context": ""
     },
     {
-      "title": "arsenal đấu với man city",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.starnewskorea.com/vi/sports/2026/08/17/2026081700420638971",
-      "context": "Arsenal giành chiến thắng 3-0 trước Manchester City với bàn thắng mở tỷ số ở phút 23... Vô địch Community Shield sau 3 năm"
-    },
-    {
-      "title": "NIH is ending a key grant for budding clinical researchers",
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "62 pts / 18 comments",
-      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "score": 81,
+      "traffic": "36 pts / 23 comments",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GPS and the Lost Art of Getting Lost",
+      "title": "Clamiga: Common Lisp for the Amiga",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "45 pts / 29 comments",
-      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+      "score": 81,
+      "traffic": "65 pts / 6 comments",
+      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "29 pts / 19 comments",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "35 pts / 11 comments",
+      "url": "https://math-ai-org.github.io/mathcode/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Firefox for iOS now has a native adblocker",
+      "topic": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Firefox for iOS now has a native adblocker」開始升溫，我們真正該看的不是熱度",
+      "title": "當「A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Firefox for iOS now has a native adblocker」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,8 +167,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Firefox for iOS now has a native adblocker",
-          "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios"
+          "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+          "url": "https://rvembedded.com/blog_post/12/"
         }
       ]
     },
