@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-16T05:37:08+08:00",
+  "generated_at": "2026-08-16T09:58:46+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "412 pts / 372 comments",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "295 pts / 254 comments",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "traffic": "350 pts / 244 comments",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "RISC-V: They Should Have Known Better",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "178 pts / 275 comments",
+      "traffic": "234 pts / 300 comments",
       "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "270 pts / 184 comments",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "217 pts / 156 comments",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "351 pts / 83 comments",
+      "score": 89,
+      "traffic": "395 pts / 86 comments",
       "url": "https://sankalp.bearblog.dev/autoresearch/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "178 pts / 59 comments",
+      "score": 87,
+      "traffic": "212 pts / 78 comments",
       "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A Spectre Is Haunting Unicode",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "123 pts / 34 comments",
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "score": 87,
+      "traffic": "153 pts / 115 comments",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "股價",
+      "title": "美國 經濟",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.businesstoday.com.tw/article/category/183008/post/202608140027/",
-      "context": "仁寶(2324)股價漲停43元還能追？最新目標價？鴻海、和碩、廣達...億元教授點名代工四雄「買它最賺」！下車時機曝光"
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E8%AD%A6%E8%A8%8A%E4%BE%86%E4%BA%86%EF%BC%9F%E9%98%AE%E6%85%95%E9%A9%8A%E3%80%8C7%E5%AD%97%E8%AD%A6%E5%91%8A%E3%80%8D%E5%B0%8F%E5%BF%83%E9%80%99%E9%A2%A8%E9%9A%AA-125000716.html",
+      "context": "美國經濟警訊來了？阮慕驊「7字警告」小心這風險"
     },
     {
-      "title": "彩票",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.singtao.ca/7594992/2026-08-14/news-%E5%8D%A1%E5%8A%A0%E5%88%A9%E4%B8%AD%E7%8D%8E%E7%94%B7%E5%AD%90%E9%8C%AF%E5%A4%B112.5%E8%90%AC%E7%8D%8E%E9%87%91%E3%80%80%E5%96%9C%E5%87%BA%E6%9C%9B%E5%A4%96%E4%B9%8B%E5%BE%8C%E5%A6%82%E5%A2%AE%E5%86%B0%E7%AA%96/",
-      "context": "卡加利中獎男子錯失12.5萬獎金　喜出望外之後如墮冰窖"
-    },
-    {
-      "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "50 pts / 4 comments",
-      "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+      "score": 84,
+      "traffic": "91 pts / 45 comments",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "諾瓦克·喬科維奇",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.atptour.com/en/news/djokovic-tirante-cincinnati-2026-r2-saturday",
-      "context": "Tirante stuns physically ailing Djokovic in Cincinnati"
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "80 pts / 23 comments",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "財務自由",
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "80 pts / 32 comments",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "李灝宇",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E6%9C%AC%E5%AD%A3%E7%AC%AC54%E5%AE%89%E5%87%BA%E7%88%90-%E6%9D%8E%E7%81%9D%E5%AE%87%E5%85%88%E7%99%BC%E6%95%B2-%E7%A5%9E%E8%BD%89-%E5%85%A7%E9%87%8E%E5%AE%89%E6%89%93-%E8%BF%BD%E5%B9%B3%E5%BC%B5%E8%82%B2%E6%88%90%E5%8F%B0%E5%B0%87%E5%A4%A7%E8%81%AF%E7%9B%9F%E7%B4%80%E9%8C%84-233952971.html",
+      "context": "本季第54安出爐！李灝宇先發敲「神轉」內野安打 追平張育成台將大聯盟紀錄"
+    },
+    {
+      "title": "Asus Bike Booster",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "61 pts / 21 comments",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "topic": "AI has access to a vastly larger working memory than the human brain",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「AI Isn't Outthinking Mathematicians. It's Out-Remembering Them」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AI has access to a vastly larger working memory than the human brain」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AI Isn't Outthinking Mathematicians. It's Out-Remembering Them」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AI has access to a vastly larger working memory than the human brain」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,51 +131,15 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title": "AI has access to a vastly larger working memory than the human brain",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
-        }
-      ]
-    },
-    {
-      "topic": "RISC-V: They Should Have Known Better",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「RISC-V: They Should Have Known Better」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「RISC-V: They Should Have Known Better」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "RISC-V: They Should Have Known Better",
-          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV"
         }
       ]
     },
     {
       "topic": "Semaglutide linked to lower predicted dementia risk",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Semaglutide linked to lower predicted dementia risk」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Semaglutide linked to lower predicted dementia risk",
           "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432"
+        }
+      ]
+    },
+    {
+      "topic": "RISC-V: They Should Have Known Better",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「RISC-V: They Should Have Known Better」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「RISC-V: They Should Have Known Better」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "RISC-V: They Should Have Known Better",
+          "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV"
         }
       ]
     }
