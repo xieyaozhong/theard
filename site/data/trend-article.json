@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-08-17T21:09:07+08:00",
+  "generated_at": "2026-08-17T23:43:14+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "Incident with Github.com",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "578 pts / 436 comments",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "context": "High-engagement technology discussion"
+    },
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "606 pts / 292 comments",
+      "traffic": "690 pts / 326 comments",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "title": "GitHub down again? no PR access",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "422 pts / 404 comments",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 87,
+      "traffic": "209 pts / 71 comments",
+      "url": "https://news.ycombinator.com/item?id=49330632",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Claude: System Prompts",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "695 pts / 268 comments",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A third world engineer responds to “RISC-V: They should have known better”",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "557 pts / 282 comments",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "On A.I. regulation and messaging",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "138 pts / 254 comments",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "00878 配 息",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://fnc.ebc.net.tw/fncnews/stock/216471",
-      "context": "58檔ETF除息秀來了！「這檔」配息4.6元 35萬股東開心數錢"
-    },
-    {
-      "title": "Reticulum – Decentralized Mesh Network",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "160 pts / 56 comments",
-      "url": "https://reticulum.network/",
+      "traffic": "151 pts / 82 comments",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "金融",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/67%E8%90%AC%E8%82%A1%E6%9D%B1%E5%93%AD%E5%80%92-%E5%8A%9B%E7%A9%8D%E9%9B%BB%E9%99%A4%E6%81%AF-%E7%87%9F%E6%94%B6%E9%9B%99%E5%88%A9%E5%A4%9A%E7%AA%81%E9%81%AD%E5%B0%8F%E5%85%92%E7%BF%BB%E7%A9%BA%E6%B7%AA%E8%B3%A3%E8%B6%85%E7%8E%8B-%E9%80%99%E6%AA%94%E9%87%91%E8%9E%8D-%E7%8D%B2%E5%88%A9%E5%89%B5%E9%AB%98%E6%8B%9A%E7%AC%AC%E4%BA%94%E5%A4%A7%E9%87%91%E6%8E%A7%E4%B9%9F%E9%81%AD%E7%A0%8D-123000290.html",
-      "context": "67萬股東哭倒！力積電除息、營收雙利多突遭小兒翻空淪賣超王「這檔金融」獲利創高拚第五大金控也遭砍"
+      "traffic": "124 pts / 40 comments",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "花蓮消防局",
+      "title": "00406a 配 息",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/wilson%E9%9B%A2%E4%B8%96%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E4%BB%96%E5%98%86-%E5%85%A8%E8%8A%B1%E8%93%AE%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93-%E4%BB%A5%E7%82%BA%E4%BA%8B%E5%AF%A6%E6%9C%83%E8%B7%9F%E8%91%97%E9%80%B2%E6%A3%BA%E6%9D%90-084900084.html",
-      "context": "Wilson離世真相曝光！他嘆「全花蓮人都知道」：以為事實會跟著進棺材"
+      "url": "https://www.ctee.com.tw/news/20260817701370-430403",
+      "context": "穩了！月月配00406A配息出爐 年化配息率衝16.8％"
     },
     {
-      "title": "Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
+      "title": "供應 鏈",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5542663",
+      "context": "不只台積電撐場！CNN揭 : 台灣還有「3張王牌」稱霸全球製造供應鏈"
+    },
+    {
+      "title": "救援",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.epochtimes.com/b5/26/8/17/n14831412.htm",
+      "context": "連兩日溪水暴漲釀受困 桃園消防急流橫渡救援18人脫困"
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "53 pts / 35 comments",
-      "url": "https://twitter.com/lydiakauppi/status/2089196932413452386",
+      "score": 84,
+      "traffic": "144 pts / 11 comments",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "牛來票房",
+      "title": "法官",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E3%80%8A%E7%89%9B%E4%BE%86%E3%80%8B%E7%81%BD%E9%9B%A3%E7%B4%9A%E5%8B%95%E7%95%AB%E4%B8%AD%E5%9C%8B%E7%88%86%E7%B4%85%EF%BC%81%E8%A7%80%E7%9C%BE%E6%9C%9D%E8%81%96%E7%8D%B5%E5%A5%87%E6%8E%80%E4%BA%82%E8%B1%A1%E2%8B%AF%E7%A5%A8%E6%88%BF%E5%BE%9E%E4%B8%89%E8%90%AC%E9%A3%86%E5%88%B0%E5%8D%83%E8%90%AC-042011059.html",
-      "context": "《牛來》災難級動畫中國爆紅！觀眾朝聖獵奇掀亂象⋯票房從三萬飆到千萬"
+      "url": "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E8%99%90%E5%AC%B0%E6%A1%88-%E5%A4%A7%E9%80%86%E8%BD%89-4%E6%9C%88%E5%A4%A7%E7%94%B7%E5%AC%B0%E8%85%A6%E5%87%BA%E8%A1%80%E9%80%81%E9%86%AB%E9%96%8B%E9%A1%B1-%E4%BF%9D%E6%AF%8D%E7%8D%B2%E5%88%A4%E7%84%A1%E7%BD%AA%E7%90%86%E7%94%B1%E6%9B%9D-030000245.html",
+      "context": "宜蘭虐嬰案「大逆轉」！4月大男嬰腦出血送醫開顱 保母獲判無罪理由曝"
     },
     {
-      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "54 pts / 23 comments",
-      "url": "https://desktopcolors.com",
+      "traffic": "61 pts / 26 comments",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Sokoban AI Solver",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "32 pts / 22 comments",
+      "url": "https://mkornreich.me/projects/sokoban/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "topic": "Incident with Github.com",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Incident with Github.com」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Incident with Github.com」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Incident with Github.com",
+          "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx"
+        }
+      ]
+    },
+    {
+      "topic": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Qwen 3.8 27B is excellent, but it defaults to overthinking things」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -137,51 +173,15 @@
       ]
     },
     {
-      "topic": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Anthropic's 'watermark' text adulteration in Claude is a perversion of writing」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Anthropic's 'watermark' text adulteration in Claude is a perversion of writing」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
-        }
-      ]
-    },
-    {
-      "topic": "Claude: System Prompts",
+      "topic": "GitHub down again? no PR access",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Claude: System Prompts」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GitHub down again? no PR access」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Claude: System Prompts」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GitHub down again? no PR access」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts"
+          "title": "GitHub down again? no PR access",
+          "url": "https://news.ycombinator.com/item?id=49330632"
         }
       ]
     }
