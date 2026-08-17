@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-08-17T05:36:17+08:00",
+  "generated_at": "2026-08-17T09:56:49+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Claude: System Prompts",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "445 pts / 192 comments",
+      "score": 91,
+      "traffic": "545 pts / 228 comments",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "240 pts / 126 comments",
+      "score": 90,
+      "traffic": "376 pts / 201 comments",
       "url": "https://rvembedded.com/blog_post/12/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "271 pts / 153 comments",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The AI Credit Resale Economy",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "191 pts / 69 comments",
+      "traffic": "226 pts / 89 comments",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Models Are Getting Dumber on Purpose",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "167 pts / 105 comments",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "context": "High-engagement technology discussion"
+      "title": "00881",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.stock.yahoo.com/news/%E6%9A%B4%E5%A2%9E6-1%E8%90%AC%E4%BA%BA%E6%90%B6%E6%81%AF-00878%E5%AD%A3%E9%85%8D1-01%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98%E4%BB%8A%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5-%E9%80%994%E6%AA%94-233000224.html",
+      "context": "暴增6.1萬人搶息！00878季配1.01元創新高今最後買進日 「這4檔」年化配息率飆逾16%香爆"
     },
     {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "128 pts / 94 comments",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "context": "High-engagement technology discussion"
+      "title": "仁寶股價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.stock.yahoo.com/news/%E4%BB%81%E5%AF%B6%E5%99%B4%E7%99%BC%E4%B8%8D%E6%98%AF%E7%82%92%E9%A1%8C%E6%9D%90-%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%BC%B2%E5%81%9C%E8%83%8C%E5%BE%8C%E6%9A%97%E8%99%9F-3%E6%AA%94-%E4%BD%8E%E4%BC%B0%E8%82%A1%E9%BB%98%E9%BB%98%E6%8E%A5%E5%8A%9B-010600452.html",
+      "context": "仁寶噴發不是炒題材！ 專家揭漲停背後暗號 「3檔」低估股默默接力"
     },
     {
-      "title": "Protobuf has LSP support. You're welcome",
+      "title": "群聯股價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.businesstoday.com.tw/article/category/183008/post/202608160003/",
+      "context": "群聯(8299)財報史上最強，為何股價暴跌？法人目標價竟從3字頭砍到2字頭「大老不說的2個祕密」…黃金買點曝光"
+    },
+    {
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "63 pts / 34 comments",
-      "url": "https://buf.build/blog/protobuf-lsp",
+      "traffic": "73 pts / 32 comments",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "分科放榜",
+      "title": "Low-Tech Ceramic Water Filter",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "93 pts / 26 comments",
+      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "大立光",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.cna.com.tw/news/ahel/202608160077.aspx",
-      "context": "大學分發入學8/17放榜上午9時開放網路查詢結果| 生活"
+      "url": "https://uanalyze.com.tw/articles/8810853454",
+      "context": "砸25億買地只為了1個客戶？大立光（3008）不只做手機！秘密轉型CPO卡位AI大單：0.3微米黑科技強在哪？"
     },
     {
-      "title": "公寓黑風暴",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "title": "The Life and Death of Direct File [pdf]",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "36 pts / 23 comments",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "traffic": "48 pts / 17 comments",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Clamiga: Common Lisp for the Amiga",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "65 pts / 6 comments",
-      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "29 pts / 19 comments",
-      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "MathCode, Mathematical Coding Agent",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "35 pts / 11 comments",
-      "url": "https://math-ai-org.github.io/mathcode/",
+      "traffic": "46 pts / 17 comments",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "The AI Credit Resale Economy",
+      "topic": "Models Are Getting Dumber on Purpose",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「The AI Credit Resale Economy」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Models Are Getting Dumber on Purpose」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The AI Credit Resale Economy」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Models Are Getting Dumber on Purpose」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The AI Credit Resale Economy",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers"
+          "title": "Models Are Getting Dumber on Purpose",
+          "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose"
         }
       ]
     }
