@@ -1,45 +1,53 @@
 {
-  "generated_at": "2026-08-17T23:43:14+08:00",
+  "generated_at": "2026-08-18T02:59:50+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Incident with Github.com",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "578 pts / 436 comments",
+      "score": 93,
+      "traffic": "308 pts / 752 comments",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "title": "A Preview of DuckDB v2.0",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "690 pts / 326 comments",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GitHub down again? no PR access",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "209 pts / 71 comments",
-      "url": "https://news.ycombinator.com/item?id=49330632",
+      "score": 88,
+      "traffic": "365 pts / 57 comments",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "151 pts / 82 comments",
+      "score": 88,
+      "traffic": "234 pts / 123 comments",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "207 pts / 94 comments",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "162 pts / 67 comments",
+      "url": "https://www.librarian.net/notoai/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Olo (Color)",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "124 pts / 40 comments",
-      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "traffic": "162 pts / 39 comments",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
       "context": "High-engagement technology discussion"
     },
     {
@@ -51,52 +59,44 @@
       "context": "穩了！月月配00406A配息出爐 年化配息率衝16.8％"
     },
     {
-      "title": "供應 鏈",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5542663",
-      "context": "不只台積電撐場！CNN揭 : 台灣還有「3張王牌」稱霸全球製造供應鏈"
-    },
-    {
-      "title": "救援",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.epochtimes.com/b5/26/8/17/n14831412.htm",
-      "context": "連兩日溪水暴漲釀受困 桃園消防急流橫渡救援18人脫困"
-    },
-    {
-      "title": "A Preview of DuckDB v2.0",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "144 pts / 11 comments",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "traffic": "100 pts / 36 comments",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "法官",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "61 pts / 35 comments",
+      "url": "https://speko.ai/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "蔡阿嘎",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E8%99%90%E5%AC%B0%E6%A1%88-%E5%A4%A7%E9%80%86%E8%BD%89-4%E6%9C%88%E5%A4%A7%E7%94%B7%E5%AC%B0%E8%85%A6%E5%87%BA%E8%A1%80%E9%80%81%E9%86%AB%E9%96%8B%E9%A1%B1-%E4%BF%9D%E6%AF%8D%E7%8D%B2%E5%88%A4%E7%84%A1%E7%BD%AA%E7%90%86%E7%94%B1%E6%9B%9D-030000245.html",
-      "context": "宜蘭虐嬰案「大逆轉」！4月大男嬰腦出血送醫開顱 保母獲判無罪理由曝"
+      "url": "https://www.setn.com/klist/777312",
+      "context": "蔡鼠芬相關報導"
     },
     {
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-      "source": "HACKER NEWS",
+      "title": "套牢 股票",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "61 pts / 26 comments",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "context": "High-engagement technology discussion"
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%A5%B9%E8%B2%B714%E5%BC%B50050%E8%A2%AB%E5%A5%97%E7%89%A2-%E6%85%98%E8%B3%A06%E4%BD%8D%E6%95%B8-%E6%83%B3%E8%B3%A3-%E7%B6%B2%E6%80%A5%E5%8B%B81%E7%A5%9E%E6%93%8D%E4%BD%9C-132624165.html",
+      "context": "她買14張0050被套牢「慘賠6位數」想賣！網急勸1神操作"
     },
     {
-      "title": "Show HN: Sokoban AI Solver",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "32 pts / 22 comments",
-      "url": "https://mkornreich.me/projects/sokoban/",
-      "context": "High-engagement technology discussion"
+      "title": "壽司郎 jojo",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "topic": "A Preview of DuckDB v2.0",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Qwen 3.8 27B is excellent, but it defaults to overthinking things」開始升溫，我們真正該看的不是熱度",
+      "title": "當「A Preview of DuckDB v2.0」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Qwen 3.8 27B is excellent, but it defaults to overthinking things」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「A Preview of DuckDB v2.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+          "title": "A Preview of DuckDB v2.0",
+          "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
         }
       ]
     },
     {
-      "topic": "GitHub down again? no PR access",
+      "topic": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「GitHub down again? no PR access」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GPT 5.6 Sol is the best \"vision\" model OpenAI ever released」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GitHub down again? no PR access」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GPT 5.6 Sol is the best \"vision\" model OpenAI ever released」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "GitHub down again? no PR access",
-          "url": "https://news.ycombinator.com/item?id=49330632"
+          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "url": "https://blog.roboflow.com/openai-gpt-5-6/"
         }
       ]
     }
