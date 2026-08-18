@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-18T21:11:01+08:00",
+  "generated_at": "2026-08-18T23:48:39+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "明天的天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://udn.com/news/story/7266/9699446",
-      "context": "低壓影響周五前全台有雨 颱風最快周四生成"
-    },
-    {
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "730 pts / 423 comments",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How Bluesky draws its logo on screenshots",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "603 pts / 383 comments",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "522 pts / 339 comments",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "title": "The Amazon Tax",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "404 pts / 173 comments",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "traffic": "297 pts / 224 comments",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "288 pts / 95 comments",
+      "score": 90,
+      "traffic": "384 pts / 150 comments",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "title": "Fairphone is now officially available in the United States",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "219 pts / 126 comments",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "score": 87,
+      "traffic": "175 pts / 83 comments",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Rethinking Database Programming",
+      "title": "Using the railway network as a flatbed scanner",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "192 pts / 37 comments",
+      "url": "https://philo.gay/linecam/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Fixing a Bricked Framework Laptop",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "119 pts / 57 comments",
-      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "traffic": "127 pts / 53 comments",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "市民大道",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8C%97%E5%B8%82%E5%B8%82%E6%B0%91%E5%A4%A7%E9%81%93%E9%AB%98%E6%9E%B6%E4%B8%8A%E7%81%AB%E7%87%92%E8%BB%8A-%E5%B0%8F%E8%B2%A8%E8%BB%8A%E7%87%92%E6%88%90%E7%81%AB%E7%90%83-%E4%B8%8B%E7%8F%AD%E8%BB%8A%E6%BD%AE%E6%85%98%E5%A1%9E%E7%88%86-113900898.html",
-      "context": "快訊／北市市民大道高架上火燒車！小貨車燒成火球 下班車潮慘塞爆"
-    },
-    {
-      "title": "大學",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.businesstoday.com.tw/article/category/183035/post/202608170030/",
-      "context": "115分科放榜／大學各系組最低錄取標準一表看！4國立大學缺額，為何台大資工系掉12級分？可能原因曝光"
-    },
-    {
-      "title": "Exercise intensity modulates interorgan communication and is associated with",
+      "title": "Teaching my kid to code with a modern MUD",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "64 pts / 27 comments",
-      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+      "score": 85,
+      "traffic": "122 pts / 40 comments",
+      "url": "https://tau.dev/2026/08/07/canon",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "今彩539開獎直播",
+      "title": "豐田 corolla",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://lufkindailynews.com/news_reuters/national/the-2026-toyota-corolla/image_749cbf9c-9a64-5034-a5d9-aac0669d34d5.html",
+      "context": "The 2026 Toyota Corolla."
+    },
+    {
+      "title": "新竹 可 利 工程師",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://news.ttv.com.tw/news/11508170003700W",
-      "context": "威力彩連17槓下期上看3億元 今彩539頭獎狂開6注「一家店開4注」"
+      "url": "https://sports.ettoday.net/news/3221232",
+      "context": "新竹可利工程師組啦啦隊！台韓3姝已亮相　台新戰神柳柳也加盟"
+    },
+    {
+      "title": "速食",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://supertaste.tvbs.com.tw/offers/14075",
+      "context": "原味蛋撻買一送一｜肯德基｜最新優惠"
+    },
+    {
+      "title": "One Oakland police officer made $490k in overtime",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "34 pts / 23 comments",
+      "url": "https://oaklandside.org/2026/01/29/oakland-police-overtime/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "55 pts / 8 comments",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "31 pts / 21 comments",
+      "url": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
+      "topic": "The Amazon Tax",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「The Amazon Tax」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。低壓影響周五前全台有雨 颱風最快周四生成。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「The Amazon Tax」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://udn.com/news/story/7266/9699446"
+          "source": "HACKER NEWS",
+          "title": "The Amazon Tax",
+          "url": "https://seths.blog/2026/08/the-amazon-tax/"
         }
       ]
     },
     {
-      "topic": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "topic": "Linux 7.3 improves performance when running out of vRAM",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Israel creates fake think tank in likely attempt to dupe AI chatbots」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Linux 7.3 improves performance when running out of vRAM」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Israel creates fake think tank in likely attempt to dupe AI chatbots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Linux 7.3 improves performance when running out of vRAM」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/"
+          "title": "Linux 7.3 improves performance when running out of vRAM",
+          "url": "https://pixelcluster.dev/VRAM-Overcommit/"
         }
       ]
     },
     {
-      "topic": "How Bluesky draws its logo on screenshots",
+      "topic": "Fairphone is now officially available in the United States",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「How Bluesky draws its logo on screenshots」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Fairphone is now officially available in the United States」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「How Bluesky draws its logo on screenshots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Fairphone is now officially available in the United States」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "How Bluesky draws its logo on screenshots",
-          "url": "https://timmarinin.net/2026/bluesky-screenshots/"
+          "title": "Fairphone is now officially available in the United States",
+          "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"
         }
       ]
     }
