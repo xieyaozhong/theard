@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-18T09:53:01+08:00",
+  "generated_at": "2026-08-18T12:00:14+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "AI;DR (AI; Didn't Read)",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "594 pts / 370 comments",
+      "score": 93,
+      "traffic": "675 pts / 425 comments",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "293 pts / 220 comments",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Preview of DuckDB v2.0",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "538 pts / 96 comments",
+      "traffic": "569 pts / 103 comments",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How Bluesky draws its logo on screenshots",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "225 pts / 156 comments",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "317 pts / 125 comments",
+      "traffic": "329 pts / 128 comments",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "302 pts / 152 comments",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 88,
+      "traffic": "213 pts / 122 comments",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Olo (Color)",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "318 pts / 64 comments",
+      "traffic": "350 pts / 67 comments",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "142 pts / 66 comments",
+      "score": 87,
+      "traffic": "198 pts / 84 comments",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "92 pts / 89 comments",
-      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "score": 87,
+      "traffic": "204 pts / 91 comments",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "欣興目標價",
+      "title": "熱帶擾動",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/%E6%AC%A3%E8%88%8810%E5%88%86%E9%90%98%E7%88%86%E7%99%BE%E5%84%84%E5%85%83%E8%A1%9D%E5%90%B8%E9%87%91%E7%8E%8B-%E6%94%B9%E5%AF%AB1200%E5%85%83%E6%AD%B7%E5%8F%B2%E6%96%B0%E5%A4%A9%E5%83%B9-%E5%88%86%E6%9E%90%E5%B8%AB%E6%86%82%E6%8A%80%E8%A1%93%E6%80%A7%E6%8B%89%E5%9B%9E-013542723.html",
-      "context": "欣興10分鐘爆百億元衝吸金王 改寫1200元歷史新天價 分析師憂技術性拉回"
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "117 pts / 53 comments",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "context": "High-engagement technology discussion"
+      "url": "https://tw.news.yahoo.com/%E9%9B%99%E6%97%8B%E5%85%B1%E8%88%9E-%E9%80%994%E5%A4%A9-%E9%9B%A8%E6%9C%80%E7%8C%9B-%E6%9C%89%E7%86%B1%E5%B8%B6%E6%93%BE%E5%8B%95%E7%99%BC%E5%B1%95%E4%B8%AD-%E8%A5%BF%E8%A1%8C%E5%8C%97%E8%BD%89%E9%A0%90%E6%B8%AC%E8%B7%AF%E5%BE%91%E6%9B%9D-224900553.html",
+      "context": "雙旋共舞「這4天」雨最猛！有熱帶擾動發展中 西行北轉預測路徑曝"
     },
     {
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "162 pts / 36 comments",
+      "traffic": "172 pts / 36 comments",
       "url": "https://arxiv.org/abs/2608.13759",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "遠大 bigbang",
+      "title": "trip",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.elle.com/tw/entertainment/gossip/g73449395/bigbang-20th-anniversary-concert-ticketing-guide/",
-      "context": "BIGBANG演唱會2026搶票攻略！臺北大巨蛋票價、售票時間、座位圖一次看"
+      "url": "https://www.sfchronicle.com/bayarea/article/palo-alto-high-mosque-trip-lawsuit-22389399.php",
+      "context": "Outraged Palo Alto High parents sue school district over mosque field trip"
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "99 pts / 27 comments",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "A Preview of DuckDB v2.0",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「A Preview of DuckDB v2.0」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A Preview of DuckDB v2.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "A Preview of DuckDB v2.0",
-          "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
-        }
-      ]
-    },
-    {
       "topic": "How Bluesky draws its logo on screenshots",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「How Bluesky draws its logo on screenshots」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "How Bluesky draws its logo on screenshots",
           "url": "https://timmarinin.net/2026/bluesky-screenshots/"
+        }
+      ]
+    },
+    {
+      "topic": "A Preview of DuckDB v2.0",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「A Preview of DuckDB v2.0」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「A Preview of DuckDB v2.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "A Preview of DuckDB v2.0",
+          "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
         }
       ]
     }
