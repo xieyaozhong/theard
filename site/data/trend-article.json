@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-18T05:43:14+08:00",
+  "generated_at": "2026-08-18T09:53:01+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Incident with Github.com",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "446 pts / 828 comments",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "AI;DR (AI; Didn't Read)",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "344 pts / 205 comments",
+      "score": 92,
+      "traffic": "594 pts / 370 comments",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Preview of DuckDB v2.0",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "473 pts / 78 comments",
+      "score": 90,
+      "traffic": "538 pts / 96 comments",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "225 pts / 156 comments",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "317 pts / 125 comments",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "277 pts / 145 comments",
+      "traffic": "302 pts / 152 comments",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "277 pts / 114 comments",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "210 pts / 113 comments",
-      "url": "https://www.librarian.net/notoai/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Olo (Color)",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "232 pts / 55 comments",
+      "score": 88,
+      "traffic": "318 pts / 64 comments",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "联合新闻网",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Sun Clock",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "133 pts / 41 comments",
-      "url": "https://sunclock.net/",
+      "score": 86,
+      "traffic": "142 pts / 66 comments",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "家樂福",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E6%89%93%E7%81%AB%E6%A9%9F%E9%BB%9E%E7%87%83%E6%AE%BA%E8%9F%B2%E5%8A%91-3%E7%94%B7-%E7%87%92%E4%BA%86%E5%AE%B6%E6%A8%82%E7%A6%8F-22%E6%AD%B2%E7%94%B7-%E4%BB%98%E5%85%A8%E8%B2%AC-075600133.html",
-      "context": "打火機點燃殺蟲劑！3男「燒了家樂福」…22歲男「負全責」要賠3.9億天價"
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "92 pts / 89 comments",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "title": "欣興目標價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.stock.yahoo.com/news/%E6%AC%A3%E8%88%8810%E5%88%86%E9%90%98%E7%88%86%E7%99%BE%E5%84%84%E5%85%83%E8%A1%9D%E5%90%B8%E9%87%91%E7%8E%8B-%E6%94%B9%E5%AF%AB1200%E5%85%83%E6%AD%B7%E5%8F%B2%E6%96%B0%E5%A4%A9%E5%83%B9-%E5%88%86%E6%9E%90%E5%B8%AB%E6%86%82%E6%8A%80%E8%A1%93%E6%80%A7%E6%8B%89%E5%9B%9E-013542723.html",
+      "context": "欣興10分鐘爆百億元衝吸金王 改寫1200元歷史新天價 分析師憂技術性拉回"
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "89 pts / 38 comments",
-      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "score": 85,
+      "traffic": "117 pts / 53 comments",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "104 pts / 21 comments",
+      "score": 85,
+      "traffic": "162 pts / 36 comments",
       "url": "https://arxiv.org/abs/2608.13759",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "遠大 bigbang",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.elle.com/tw/entertainment/gossip/g73449395/bigbang-20th-anniversary-concert-ticketing-guide/",
+      "context": "BIGBANG演唱會2026搶票攻略！臺北大巨蛋票價、售票時間、座位圖一次看"
     }
   ],
   "articles": [
     {
-      "topic": "Incident with Github.com",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Incident with Github.com」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Incident with Github.com」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Incident with Github.com",
-          "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx"
-        }
-      ]
-    },
-    {
       "topic": "AI;DR (AI; Didn't Read)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「AI;DR (AI; Didn't Read)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "A Preview of DuckDB v2.0",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「A Preview of DuckDB v2.0」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "A Preview of DuckDB v2.0",
           "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights"
+        }
+      ]
+    },
+    {
+      "topic": "How Bluesky draws its logo on screenshots",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「How Bluesky draws its logo on screenshots」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「How Bluesky draws its logo on screenshots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "How Bluesky draws its logo on screenshots",
+          "url": "https://timmarinin.net/2026/bluesky-screenshots/"
         }
       ]
     }
