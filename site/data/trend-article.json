@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-18T15:06:58+08:00",
+  "generated_at": "2026-08-18T17:50:19+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "How Bluesky draws its logo on screenshots",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "415 pts / 277 comments",
+      "score": 92,
+      "traffic": "501 pts / 347 comments",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "357 pts / 193 comments",
+      "score": 91,
+      "traffic": "436 pts / 263 comments",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "context": "High-engagement technology discussion"
     },
@@ -22,81 +22,81 @@
       "title": "A Preview of DuckDB v2.0",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "606 pts / 110 comments",
+      "traffic": "639 pts / 113 comments",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "344 pts / 145 comments",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "354 pts / 138 comments",
+      "traffic": "374 pts / 142 comments",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Olo (Color)",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "399 pts / 74 comments",
-      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "286 pts / 119 comments",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "195 pts / 37 comments",
-      "url": "https://arxiv.org/abs/2608.13759",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Fairphone 6 and PostmarketOS working main camera",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "145 pts / 34 comments",
+      "score": 86,
+      "traffic": "193 pts / 44 comments",
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "蔡 阿 嘎",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E8%94%A1%E9%98%BF%E5%98%8E%E8%AD%89%E5%AF%A63%E6%AD%B2-%E8%94%A1%E9%BC%A0%E8%8A%AC-%E9%81%8E%E4%B8%96-%E8%94%A1%E6%B3%A2%E8%83%BD%E8%BA%B2%E8%A2%AB%E7%AA%A9%E7%97%9B%E5%93%AD-%E4%BA%8C%E4%BC%AF%E6%9B%9D%E9%9B%A2%E4%B8%96%E6%99%82%E9%96%93-053000915.html",
+      "context": "蔡阿嘎證實3歲「蔡鼠芬」過世！蔡波能躲被窩痛哭 二伯曝離世時間"
+    },
+    {
+      "title": "醫學 系",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E9%80%99%E9%AB%98%E4%B8%AD-%E6%A6%9C%E5%96%AE%E7%88%86%E7%99%BC-124%E4%BA%BA%E8%80%83%E4%B8%8A%E5%8F%B0%E5%A4%A7-63%E4%BA%BA%E9%8C%84%E5%8F%96%E9%86%AB%E5%AD%B8%E7%B3%BB-%E7%8B%82%E7%A0%B4%E7%B4%80%E9%8C%84-044600413.html",
+      "context": "「這高中」榜單爆發！124人考上台大、63人錄取醫學系 狂破紀錄"
+    },
+    {
+      "title": "工資",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "The Benchmarkpocalypse",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "100 pts / 25 comments",
+      "url": "https://danluu.com/benchpocalypse/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Shattered skeleton is first confirmed death from trebuchet",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "54 pts / 34 comments",
+      "score": 84,
+      "traffic": "69 pts / 48 comments",
       "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "6770",
+      "title": "豆腐 媽媽",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "2337",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "醫學系",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E9%80%99%E9%AB%98%E4%B8%AD-%E6%A6%9C%E5%96%AE%E7%88%86%E7%99%BC-124%E4%BA%BA%E8%80%83%E4%B8%8A%E5%8F%B0%E5%A4%A7-63%E4%BA%BA%E9%8C%84%E5%8F%96%E9%86%AB%E5%AD%B8%E7%B3%BB-%E7%8B%82%E7%A0%B4%E7%B4%80%E9%8C%84-044600413.html",
-      "context": "「這高中」榜單爆發！124人考上台大、63人錄取醫學系 狂破紀錄"
+      "url": "https://tw.news.yahoo.com/%E5%A7%9A%E9%BB%9B%E7%91%8B%E9%A9%9A%E5%96%9C%E5%8A%A0%E5%85%A5-%E8%B1%86%E8%85%90%E5%AA%BD%E5%AA%BD-%E7%A5%9E%E7%A7%98%E8%83%8C%E5%BD%B1%E5%BC%95220%E8%90%AC%E4%BA%BA%E6%9C%9D%E8%81%96-%E8%88%87%E8%97%8D%E8%91%A6%E8%8F%AF%E9%97%9C%E4%BF%82%E5%A4%A7%E7%BF%BB%E8%BD%89-053000810.html",
+      "context": "姚黛瑋驚喜加入《豆腐媽媽》！神秘背影引220萬人朝聖 與藍葦華關係大翻轉"
     }
   ],
   "articles": [
