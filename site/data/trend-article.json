@@ -1,53 +1,69 @@
 {
-  "generated_at": "2026-08-19T02:58:44+08:00",
+  "generated_at": "2026-08-19T05:41:05+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "The Amazon tax",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "560 pts / 394 comments",
+      "score": 93,
+      "traffic": "740 pts / 465 comments",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Cursor launches Origin, GitHub alternative",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "268 pts / 214 comments",
+      "score": 91,
+      "traffic": "379 pts / 298 comments",
       "url": "https://cursor.com/changelog/origin-code-hosting",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "441 pts / 199 comments",
+      "score": 91,
+      "traffic": "483 pts / 235 comments",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Fixing a bricked Framework laptop",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "251 pts / 162 comments",
+      "score": 90,
+      "traffic": "318 pts / 204 comments",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "141 pts / 144 comments",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Using the railway network as a flatbed scanner",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "303 pts / 52 comments",
+      "score": 88,
+      "traffic": "362 pts / 57 comments",
       "url": "https://philo.gay/linecam/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Beware Management Consultants",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "309 pts / 47 comments",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "164 pts / 106 comments",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "163 pts / 20 comments",
+      "url": "https://github.com/RyanCodrai/turbovec",
       "context": "High-engagement technology discussion"
     },
     {
@@ -55,32 +71,16 @@
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://lufkindailynews.com/news_reuters/national/the-2026-toyota-corolla/image_749cbf9c-9a64-5034-a5d9-aac0669d34d5.html",
-      "context": "The 2026 Toyota Corolla."
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "112 pts / 17 comments",
-      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "美股 大 跌",
+      "title": "黃 立成",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://udn.com/news/story/7255/9699710",
-      "context": "美長債殖利率走升 台指期夜盤失守45K大關"
-    },
-    {
-      "title": "晶 圓 代 工",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.trendforce.com.tw/research/download/RP260817ZD",
-      "context": "晶圓代工 (Foundry) 市場快訊 - 2026年8月17日"
+      "url": "https://tw.news.yahoo.com/%E9%BA%BB%E5%90%89%E5%A4%A7%E5%93%A5%E9%81%AD%E9%80%A3%E7%92%B0%E6%B8%85%E7%AE%97-%E5%86%8D%E7%A0%B8818%E8%90%AC%E7%BE%8E%E5%8D%9A-%E6%8A%8A-131045946.html",
+      "context": "麻吉大哥遭連環清算 再砸818萬美博一把！"
     },
     {
       "title": "單身 即 地獄",
@@ -91,12 +91,12 @@
       "context": "《單身即地獄5》朴喜珗疑似與林琇濱分手！談戀愛觀吐露心聲：「現在想慎重地談戀愛了」"
     },
     {
-      "title": "新竹 可 利 工程師",
+      "title": "晶圓代工",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://sports.ettoday.net/news/3221232",
-      "context": "新竹可利工程師組啦啦隊！台韓3姝已亮相　台新戰神柳柳也加盟"
+      "url": "https://money.udn.com/money/story/5607/9697966",
+      "context": "成熟製程傳漲聲 分析師看好半導體族群後市"
     }
   ],
   "articles": [
