@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-08-18T23:48:39+08:00",
+  "generated_at": "2026-08-19T02:58:44+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "The Amazon Tax",
+      "title": "The Amazon tax",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "560 pts / 394 comments",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Cursor launches Origin, GitHub alternative",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "297 pts / 224 comments",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "traffic": "268 pts / 214 comments",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "384 pts / 150 comments",
+      "traffic": "441 pts / 199 comments",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Fairphone is now officially available in the United States",
+      "title": "Fixing a bricked Framework laptop",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "175 pts / 83 comments",
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "score": 89,
+      "traffic": "251 pts / 162 comments",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "141 pts / 144 comments",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Using the railway network as a flatbed scanner",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "192 pts / 37 comments",
+      "score": 87,
+      "traffic": "303 pts / 52 comments",
       "url": "https://philo.gay/linecam/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Fixing a Bricked Framework Laptop",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "127 pts / 53 comments",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Teaching my kid to code with a modern MUD",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "122 pts / 40 comments",
-      "url": "https://tau.dev/2026/08/07/canon",
       "context": "High-engagement technology discussion"
     },
     {
@@ -59,57 +59,57 @@
       "context": "The 2026 Toyota Corolla."
     },
     {
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "112 pts / 17 comments",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "美股 大 跌",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/7255/9699710",
+      "context": "美長債殖利率走升 台指期夜盤失守45K大關"
+    },
+    {
+      "title": "晶 圓 代 工",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.trendforce.com.tw/research/download/RP260817ZD",
+      "context": "晶圓代工 (Foundry) 市場快訊 - 2026年8月17日"
+    },
+    {
+      "title": "單身 即 地獄",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.koreastardaily.com/tc/news/163649",
+      "context": "《單身即地獄5》朴喜珗疑似與林琇濱分手！談戀愛觀吐露心聲：「現在想慎重地談戀愛了」"
+    },
+    {
       "title": "新竹 可 利 工程師",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
       "url": "https://sports.ettoday.net/news/3221232",
       "context": "新竹可利工程師組啦啦隊！台韓3姝已亮相　台新戰神柳柳也加盟"
-    },
-    {
-      "title": "速食",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://supertaste.tvbs.com.tw/offers/14075",
-      "context": "原味蛋撻買一送一｜肯德基｜最新優惠"
-    },
-    {
-      "title": "One Oakland police officer made $490k in overtime",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "34 pts / 23 comments",
-      "url": "https://oaklandside.org/2026/01/29/oakland-police-overtime/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "55 pts / 8 comments",
-      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "31 pts / 21 comments",
-      "url": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
-      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "The Amazon Tax",
+      "topic": "The Amazon tax",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「The Amazon Tax」開始升溫，我們真正該看的不是熱度",
+      "title": "當「The Amazon tax」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The Amazon Tax」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「The Amazon tax」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,15 +131,51 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The Amazon Tax",
+          "title": "The Amazon tax",
           "url": "https://seths.blog/2026/08/the-amazon-tax/"
+        }
+      ]
+    },
+    {
+      "topic": "Cursor launches Origin, GitHub alternative",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Cursor launches Origin, GitHub alternative」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Cursor launches Origin, GitHub alternative」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Cursor launches Origin, GitHub alternative",
+          "url": "https://cursor.com/changelog/origin-code-hosting"
         }
       ]
     },
     {
       "topic": "Linux 7.3 improves performance when running out of vRAM",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Linux 7.3 improves performance when running out of vRAM」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Linux 7.3 improves performance when running out of vRAM",
           "url": "https://pixelcluster.dev/VRAM-Overcommit/"
-        }
-      ]
-    },
-    {
-      "topic": "Fairphone is now officially available in the United States",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Fairphone is now officially available in the United States」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Fairphone is now officially available in the United States」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Fairphone is now officially available in the United States",
-          "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"
         }
       ]
     }
