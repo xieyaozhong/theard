@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-19T21:12:01+08:00",
+  "generated_at": "2026-08-19T23:48:24+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "OpenLogi",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1021 pts / 288 comments",
+      "score": 94,
+      "traffic": "1218 pts / 343 comments",
       "url": "https://openlogi.org/en",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Being ambitious and being a dad",
+      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "663 pts / 462 comments",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 90,
+      "traffic": "393 pts / 228 comments",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Cerebras CS-4",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "354 pts / 216 comments",
+      "traffic": "396 pts / 238 comments",
       "url": "https://www.cerebras.ai/cs4",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "title": "Geolocating a random island using geometry and CUDA programming",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "321 pts / 132 comments",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "score": 86,
+      "traffic": "181 pts / 39 comments",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "title": "A joke domain purchase turned in geopolitical warfare",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "149 pts / 62 comments",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "traffic": "243 pts / 27 comments",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Supersonic Trebuchet [video]",
+      "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "167 pts / 67 comments",
-      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+      "traffic": "192 pts / 52 comments",
+      "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "PostgreSQL for Everything",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "120 pts / 85 comments",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Air Theremin – a browser theremin you play by waving at your webcam",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "85 pts / 40 comments",
+      "score": 86,
+      "traffic": "146 pts / 62 comments",
       "url": "https://theremin.bizibah.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "130 pts / 29 comments",
-      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "金融",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://mtz.china.com/touzi/2026/0819/259811.html",
-      "context": "GG56将通过GxB拓展全球数字金融生态系统"
-    },
-    {
-      "title": "石油",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://m.sohu.com/a/1064990580_222256?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "context": "海外研选 | 瑞银：全球石油需求韧性超预期 新兴市场成为增长核心"
-    },
-    {
       "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "36 pts / 17 comments",
+      "score": 83,
+      "traffic": "74 pts / 33 comments",
       "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Activation Energy is a good model for a lot of things",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "49 pts / 11 comments",
-      "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
-      "context": "High-engagement technology discussion"
+      "title": "許常德",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E9%99%B3%E7%9B%88%E6%BD%94%E9%A0%AD%E4%B8%83%E5%89%8D%E5%A4%AB%E7%8F%BE%E8%BA%AB-%E6%8A%982%E5%A4%A7%E7%AE%B1%E8%93%AE%E8%8A%B1%E6%82%BC%E5%BF%B5-%E8%8B%A6%E7%AD%891%E5%B0%8F%E6%99%82%E4%BB%8D%E9%80%B2%E4%B8%8D%E4%BA%86%E9%9D%88%E5%A0%82-%E8%A8%B1%E5%B8%B8%E5%BE%B7%E6%8F%AD%E5%AE%B6%E5%B1%AC%E5%BF%83%E7%B5%90-114500679.html",
+      "context": "陳盈潔頭七前夫現身！折2大箱蓮花悼念「苦等1小時仍進不了靈堂」 許常德揭家屬心結"
+    },
+    {
+      "title": "退貨",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "費半指數",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77",
+      "context": "Why this popular Treasury-bond ETF is trading at its lowest since 2004"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Being ambitious and being a dad",
+      "topic": "GrapheneOS in 2027 available on high-end Motorola phones",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Being ambitious and being a dad」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GrapheneOS in 2027 available on high-end Motorola phones」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Being ambitious and being a dad」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GrapheneOS in 2027 available on high-end Motorola phones」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,8 +167,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Being ambitious and being a dad",
-          "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/"
+          "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+          "url": "https://grapheneos.social/@GrapheneOS/117078064184215730"
         }
       ]
     },
