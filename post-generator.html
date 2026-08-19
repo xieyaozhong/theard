@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b1020">
+<title>Threads Structured Post Generator</title>
+<style>
+:root{--bg:#0b1020;--panel:#131c30;--panel2:#18243a;--line:#2a3b61;--blue:#5d83ff;--cyan:#55dbc8;--gold:#f2bb5d;--text:#f5f7fb;--muted:#9eacc5;--ok:#67d5a1;--bad:#ff7b7b;--warn:#ffd176;--shadow:0 18px 50px rgba(0,0,0,.28)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 20% -10%,#182749 0,transparent 32%),var(--bg);color:var(--text);font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Noto Sans TC",monospace;min-height:100vh}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.13;background-image:linear-gradient(rgba(255,255,255,.08) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.08) 1px,transparent 1px);background-size:24px 24px}
+a{color:inherit}.wrap{width:min(1420px,calc(100% - 28px));margin:auto;padding:24px 0 60px}.top{display:flex;gap:16px;align-items:flex-start;justify-content:space-between;margin-bottom:18px}.eyebrow{font-size:12px;letter-spacing:.16em;color:var(--cyan);font-weight:800}.title{font-size:clamp(27px,4vw,48px);line-height:1.05;margin:8px 0 8px;letter-spacing:-.04em}.sub{max-width:780px;color:var(--muted);line-height:1.7;font-size:14px}.badge{border:1px solid var(--line);background:rgba(19,28,48,.78);padding:10px 13px;white-space:nowrap;font-size:12px;color:var(--gold);box-shadow:var(--shadow)}
+.grid{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(360px,.92fr);gap:18px;align-items:start}.card{background:rgba(19,28,48,.92);border:1px solid var(--line);box-shadow:var(--shadow);position:relative}.card:before,.card:after{content:"";position:absolute;width:8px;height:8px;background:var(--cyan)}.card:before{left:-1px;top:-1px}.card:after{right:-1px;bottom:-1px}.head{padding:16px 18px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:12px;align-items:center}.head h2{margin:0;font-size:15px;letter-spacing:.04em}.step{font-size:11px;color:var(--cyan)}.body{padding:18px}.section+.section{margin-top:20px}.section-title{display:flex;align-items:center;gap:8px;font-size:12px;font-weight:900;color:#dbe5ff;margin:0 0 11px}.section-title:before{content:"";width:8px;height:8px;background:var(--gold)}
+.fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.field.full{grid-column:1/-1}label{display:block;font-size:11px;color:var(--muted);margin-bottom:6px}.req{color:var(--gold)}input,select,textarea{width:100%;border:1px solid var(--line);background:#0e1627;color:var(--text);padding:11px 12px;border-radius:0;outline:none;font:inherit;font-size:13px;transition:.2s}textarea{min-height:78px;resize:vertical}input:focus,select:focus,textarea:focus{border-color:var(--blue);box-shadow:0 0 0 2px rgba(93,131,255,.14)}
+.quick{display:flex;gap:7px;flex-wrap:wrap;margin-top:8px}.chip{border:1px solid var(--line);background:#101a2d;color:#c8d4eb;padding:6px 9px;font-size:11px;cursor:pointer}.chip:hover{border-color:var(--cyan);color:white}.products{display:grid;gap:10px}.product{border:1px solid var(--line);background:#0e1627;padding:12px;position:relative}.product-top{display:flex;gap:9px;align-items:center;margin-bottom:10px}.num{width:26px;height:26px;display:grid;place-items:center;background:var(--blue);font-size:11px;font-weight:900}.product-grid{display:grid;grid-template-columns:1.25fr .72fr;gap:8px}.product-grid .wide{grid-column:1/-1}.url{font-size:11px}.status-line{display:flex;gap:7px;flex-wrap:wrap;margin-top:8px}.mini{font-size:10px;padding:4px 6px;border:1px solid var(--line);color:var(--muted)}.mini.ok{color:var(--ok);border-color:rgba(103,213,161,.5)}.mini.bad{color:var(--bad);border-color:rgba(255,123,123,.5)}
+.actions{display:flex;gap:9px;flex-wrap:wrap;position:sticky;bottom:10px;margin-top:18px;padding:10px;background:rgba(11,16,32,.88);backdrop-filter:blur(10px);border:1px solid var(--line);z-index:5}.btn{border:1px solid var(--line);background:#142039;color:#eaf0ff;padding:11px 14px;font:inherit;font-size:12px;font-weight:900;cursor:pointer}.btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}.btn.gold{background:var(--gold);border-color:var(--gold);color:#1d2230}.btn:hover{filter:brightness(1.08)}
+.sticky{position:sticky;top:14px}.preview{background:#f6f7f9;color:#12141a;border-radius:18px;padding:18px;min-height:210px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC",sans-serif}.thread-top{display:flex;gap:11px;align-items:center}.avatar{width:38px;height:38px;border-radius:50%;background:linear-gradient(135deg,#161616,#555);display:grid;place-items:center;color:white;font-weight:800}.account{font-size:13px;font-weight:800}.muted-dark{font-size:12px;color:#6e7480}.caption{font-size:16px;line-height:1.6;margin:13px 0;white-space:pre-wrap}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin:10px 0}.gallery>div{aspect-ratio:1.25;background:linear-gradient(135deg,#e3e6ec,#cbd2dd);border:1px solid #d0d5df;display:grid;place-items:center;text-align:center;padding:10px;color:#677080;font-size:11px;overflow:hidden}.reply-box{border-left:2px solid #d7dbe3;margin:14px 0 0 18px;padding:4px 0 2px 18px;white-space:pre-wrap;font-size:13px;line-height:1.6}.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:12px}.metric{border:1px solid var(--line);background:#0e1627;padding:10px}.metric b{display:block;color:var(--gold);font-size:18px;margin-bottom:3px}.metric span{font-size:10px;color:var(--muted)}
+.checks{display:grid;gap:7px}.check{display:flex;align-items:flex-start;gap:8px;border:1px solid var(--line);background:#0e1627;padding:9px;font-size:11px;line-height:1.5}.dot{width:8px;height:8px;margin-top:4px;flex:none}.check.ok .dot{background:var(--ok)}.check.bad .dot{background:var(--bad)}.check.warn .dot{background:var(--warn)}.check .msg{color:#d9e2f5}.check .why{display:block;color:var(--muted);margin-top:2px}
+.output{border:1px solid var(--line);background:#090f1c;padding:12px;white-space:pre-wrap;word-break:break-word;color:#d8e5f7;font-size:11px;line-height:1.65;max-height:350px;overflow:auto}.toolbar{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:8px}.empty{color:var(--muted);font-size:12px;line-height:1.7}.toast{position:fixed;right:18px;bottom:18px;background:#111a2a;border:1px solid var(--cyan);padding:11px 14px;box-shadow:var(--shadow);font-size:12px;opacity:0;transform:translateY(10px);pointer-events:none;transition:.2s;z-index:99}.toast.show{opacity:1;transform:none}.help{margin-top:18px;border:1px solid var(--line);padding:14px 16px;background:rgba(19,28,48,.62);font-size:11px;line-height:1.7;color:var(--muted)}.help b{color:#edf3ff}
+@media(max-width:980px){.grid{grid-template-columns:1fr}.sticky{position:static}.top{flex-direction:column}.badge{white-space:normal}.metrics{grid-template-columns:repeat(2,1fr)}}@media(max-width:620px){.wrap{width:min(100% - 18px,1420px);padding-top:14px}.fields,.product-grid{grid-template-columns:1fr}.product-grid .wide{grid-column:auto}.actions{bottom:4px}.btn{flex:1}.gallery{grid-template-columns:1fr 1fr}.title{font-size:31px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div><div class="eyebrow">STRUCTURED CONTENT ENGINE / STAGE 01</div><h1 class="title">一鍵生成 Threads 貼文</h1><div class="sub">把「靈感」拆成可控欄位：主題、情境、語氣、商品、短連結與限制。按一次產生主文、四則導購順序、Preview 與結構化 JSON。所有處理都在你的瀏覽器本地完成。</div></div>
+    <div class="badge">LOCAL-FIRST · PREVIEW BEFORE PUBLISH</div>
+  </div>
+
+  <div class="grid">
+    <main>
+      <section class="card">
+        <div class="head"><h2>INPUT / 結構化輸入</h2><div class="step">01 → 04</div></div>
+        <div class="body">
+          <div class="section"><div class="section-title">01｜內容情境</div>
+            <div class="fields">
+              <div class="field"><label>主題 <span class="req">*</span></label><input id="topic" value="小房間佈置" placeholder="例如：小房間佈置"></div>
+              <div class="field"><label>平台</label><select id="platform"><option>Threads</option><option>Instagram</option><option>Facebook</option><option>LinkedIn</option></select></div>
+              <div class="field"><label>內容角度</label><select id="angle"><option value="生活觀察">生活觀察</option><option value="問題解法">問題解法</option><option value="前後反差">前後反差</option><option value="清單整理">清單整理</option><option value="微心得">微心得</option></select></div>
+              <div class="field"><label>語氣</label><select id="tone"><option value="自然日常">自然日常</option><option value="簡潔質感">簡潔質感</option><option value="朋友分享">朋友分享</option><option value="專業但輕鬆">專業但輕鬆</option></select></div>
+              <div class="field full"><label>你想傳達的情境 / 痛點</label><textarea id="context">房間不用大改，只要把視線裡常用的小物整理順，整體就會舒服很多。</textarea><div class="quick"><button class="chip" data-context="租屋不能大施工，但還是想讓空間看起來更舒服。">租屋情境</button><button class="chip" data-context="桌面東西很多，想先從視線最亂的地方整理。">桌面整理</button><button class="chip" data-context="床邊常用小物沒有固定位置，晚上看起來很雜。">床邊小物</button></div></div>
+            </div>
+          </div>
+
+          <div class="section"><div class="section-title">02｜生成規則</div>
+            <div class="fields">
+              <div class="field"><label>主文長度</label><select id="length"><option value="short">15–35 字</option><option value="medium">35–65 字</option><option value="long">65–100 字</option></select></div>
+              <div class="field"><label>CTA</label><select id="cta"><option value="none">不加 CTA</option><option value="soft">柔和互動</option><option value="question">問句互動</option></select></div>
+              <div class="field full"><label>禁止字詞（逗號分隔）</label><input id="banned" value="必買,神物,爆改,救命,分潤,導購,商品清單,Shopee"></div>
+              <div class="field full"><label>補充限制</label><textarea id="constraints">主文不要像廣告；不保證效果；不要直接列商品；不要放商品連結。</textarea></div>
+            </div>
+          </div>
+
+          <div class="section"><div class="section-title">03｜四個商品</div><div class="products" id="products"></div></div>
+
+          <div class="section"><div class="section-title">04｜品牌身份</div>
+            <div class="fields"><div class="field"><label>帳號顯示名稱</label><input id="account" value="room.note"></div><div class="field"><label>貼文類型</label><select id="postType"><option value="4 商品生活分享">4 商品生活分享</option><option value="單一主題心得">單一主題心得</option><option value="清單型內容">清單型內容</option></select></div></div>
+          </div>
+
+          <div class="actions"><button class="btn gold" id="demoBtn">載入示範資料</button><button class="btn" id="validateBtn">只做規則檢查</button><button class="btn primary" id="generateBtn">⚡ 一鍵生成貼文</button><button class="btn" id="clearBtn">清空</button></div>
+        </div>
+      </section>
+      <div class="help"><b>運作方式：</b>這個靜態頁不會把任何帳號 Token 或 API Key 放進前端。它先做 Stage 01 的「結構化內容生成 + Preview + Gate」。真正正式發布應由後端 / Publisher 讀取已審核資料，再進 Dry Run、Human Gate 與 Threads API。</div>
+    </main>
+
+    <aside class="sticky">
+      <section class="card"><div class="head"><h2>PREVIEW / 發布前預覽</h2><div class="step" id="stateLabel">WAITING</div></div><div class="body">
+        <div class="metrics"><div class="metric"><b id="mChars">0</b><span>主文字數</span></div><div class="metric"><b id="mProducts">0/4</b><span>完整商品</span></div><div class="metric"><b id="mLinks">0/4</b><span>有效短連結</span></div><div class="metric"><b id="mGate">—</b><span>Gate</span></div></div>
+        <div class="preview"><div class="thread-top"><div class="avatar">T</div><div><div class="account" id="pvAccount">room.note</div><div class="muted-dark">剛剛 · Threads</div></div></div><div class="caption" id="pvCaption">填寫左側欄位後按「一鍵生成貼文」。</div><div class="gallery" id="gallery"><div>PRODUCT 01</div><div>PRODUCT 02</div><div>PRODUCT 03</div><div>PRODUCT 04</div></div><div class="reply-box" id="pvReply">留言連結會顯示在這裡。</div></div>
+      </div></section>
+
+      <section class="card" style="margin-top:18px"><div class="head"><h2>GATE / 規則檢查</h2><div class="step">LOCAL CHECK</div></div><div class="body"><div class="checks" id="checks"><div class="empty">尚未執行檢查。</div></div></div></section>
+
+      <section class="card" style="margin-top:18px"><div class="head"><h2>OUTPUT / 結構化輸出</h2><div class="step">COPY / JSON</div></div><div class="body"><div class="toolbar"><button class="btn" id="copyPost">複製主文</button><button class="btn" id="copyAll">複製完整貼文</button><button class="btn" id="downloadJson">下載 JSON</button></div><div class="output" id="output">尚未生成。</div></div></section>
+    </aside>
+  </div>
+</div>
+<div class="toast" id="toast">已完成</div>
+<script>
+const $=id=>document.getElementById(id);
+const esc=s=>String(s||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+const productDefaults=[
+ {name:'北歐風落地牆面置物架',cat:'牆面 / 收納',link:'https://s.shopee.tw/6ffehNAY5A'},
+ {name:'免插電 LED 小夜燈',cat:'燈光 / 床邊',link:'https://s.shopee.tw/8fRJafs99E'},
+ {name:'免打孔 LED 壁燈',cat:'燈光 / 牆面',link:'https://s.shopee.tw/5ArRQOx6Hb'},
+ {name:'簡約床頭櫃',cat:'床邊 / 收納',link:'https://s.shopee.tw/6VMEV4BBQ7'}
+];
+function productHtml(p,i){return `<div class="product" data-i="${i}"><div class="product-top"><div class="num">0${i+1}</div><strong>商品 ${i+1}</strong></div><div class="product-grid"><div><label>商品名稱 <span class="req">*</span></label><input class="p-name" value="${esc(p.name)}" placeholder="商品名稱"></div><div><label>類型</label><input class="p-cat" value="${esc(p.cat)}" placeholder="例如：收納"></div><div class="wide"><label>官方短連結 <span class="req">*</span></label><input class="p-link url" value="${esc(p.link)}" placeholder="https://..."></div><div class="wide"><label>圖片 / 素材備註</label><input class="p-image" placeholder="例如：image-013 / 已確認情境圖"></div></div><div class="status-line"><span class="mini">READY CHECK</span><span class="mini p-state">待檢查</span></div></div>`}
+function renderProducts(data=productDefaults){$('products').innerHTML=data.map(productHtml).join('')}
+renderProducts();
+function readProducts(){return [...document.querySelectorAll('.product')].map((el,i)=>({order:i+1,name:el.querySelector('.p-name').value.trim(),category:el.querySelector('.p-cat').value.trim(),affiliate_short_url:el.querySelector('.p-link').value.trim(),image_note:el.querySelector('.p-image').value.trim()}))}
+function validUrl(u){try{const x=new URL(u);return x.protocol==='https:'||x.protocol==='http:'}catch{return false}}
+function bannedWords(){return $('banned').value.split(',').map(x=>x.trim()).filter(Boolean)}
+function getData(){return {platform:$('platform').value,topic:$('topic').value.trim(),angle:$('angle').value,tone:$('tone').value,context:$('context').value.trim(),length:$('length').value,cta:$('cta').value,banned:bannedWords(),constraints:$('constraints').value.trim(),account:$('account').value.trim(),post_type:$('postType').value,products:readProducts()}}
+function buildCaption(d){
+ const ctx=d.context.replace(/[。！？!?]+$/,''); const topic=d.topic||'這個主題';
+ let candidates=[];
+ if(d.angle==='生活觀察') candidates=[`${topic}真的不用一次改很多，把常用的小物安排順，整個空間就會舒服不少。`,`${topic}有時不是東西太多，而是視線裡少了幾個固定位置。`,`${ctx}，其實整體感受就差很多。`];
+ if(d.angle==='問題解法') candidates=[`${topic}如果一直看起來很亂，先整理視線最常停留的幾個位置，通常比一次全部重來更有感。`,`${ctx}，先從每天最常碰到的地方開始就好。`];
+ if(d.angle==='前後反差') candidates=[`原本以為${topic}要大改才有差，後來發現只是把幾個常用位置整理順，整體就安靜很多。`,`${ctx}，前後看起來真的像換了一個空間。`];
+ if(d.angle==='清單整理') candidates=[`${topic}先不用買很多，收納、燈光、床邊和牆面各處理一個位置，畫面就會乾淨很多。`,`${ctx}，我會先分成四個位置慢慢處理。`];
+ if(d.angle==='微心得') candidates=[`最近整理${topic}最大的心得：不用追求一次完成，先讓每天會看到的地方順一點就夠了。`,`${ctx}，慢慢調整反而比較容易維持。`];
+ let text=candidates[Math.floor(Math.random()*candidates.length)];
+ if(d.tone==='簡潔質感') text=text.replace(/真的|其實|有時/g,'').replace(/不少/g,'很多');
+ if(d.tone==='朋友分享') text=`最近的小心得：${text}`;
+ if(d.tone==='專業但輕鬆') text=`如果從空間使用來看，${text}`;
+ if(d.cta==='soft') text+=' 你也可以先從最常看到的位置開始。';
+ if(d.cta==='question') text+=' 你現在最想先整理哪一區？';
+ if(d.length==='short' && text.length>35) text=text.slice(0,34).replace(/[，、：；]$/,'')+'。';
+ if(d.length==='medium' && text.length<35) text+=' 不用追求一次完成，先讓日常動線更順就好。';
+ if(d.length==='long' && text.length<65) text+=' 我會先看每天真正會使用的地方，再決定要留什麼、收什麼，這樣比較不容易為了整理而整理。';
+ return text;
+}
+function validate(caption,d){
+ const ps=d.products; const complete=ps.filter(p=>p.name&&validUrl(p.affiliate_short_url)).length; const links=ps.filter(p=>validUrl(p.affiliate_short_url)).length;
+ const checks=[]; const add=(status,msg,why)=>checks.push({status,msg,why});
+ add(d.topic?'ok':'bad',d.topic?'主題已填寫':'缺少主題','生成流程需要明確 Topic。');
+ add(ps.length===4&&complete===4?'ok':'bad',complete===4?'4 個商品資料完整':`目前只有 ${complete}/4 個商品完整`,'每篇固定 4 個商品，名稱與短連結都要存在。');
+ add(links===4?'ok':'bad',links===4?'4 個短連結格式有效':`有效短連結 ${links}/4`,'Static Gate 先檢查 HTTP(S) URL 格式；正式流程仍應由 Publisher 驗證。');
+ const hit=d.banned.filter(w=>caption.includes(w)); add(hit.length?'bad':'ok',hit.length?`命中禁止字詞：${hit.join('、')}`:'未命中禁止字詞','避免主文出現過度銷售或明顯導購字樣。');
+ const range=d.length==='short'?[15,35]:d.length==='medium'?[35,65]:[65,100]; add(caption.length>=range[0]&&caption.length<=range[1]?'ok':'warn',`主文 ${caption.length} 字｜目標 ${range[0]}–${range[1]} 字`,'長度是風格 Gate，不一定需要硬性阻擋。');
+ add(caption.includes('http')?'bad':'ok',caption.includes('http')?'主文含 URL':'主文沒有 URL','主文與導購留言分離。');
+ add(new Set(ps.map(p=>p.category).filter(Boolean)).size>=2?'ok':'warn','商品類型多樣性 '+new Set(ps.map(p=>p.category).filter(Boolean)).size+' 組','避免四個商品都是同一類。');
+ return {checks,complete,links,pass:checks.every(x=>x.status!=='bad')};
+}
+function renderChecks(v){$('checks').innerHTML=v.checks.map(x=>`<div class="check ${x.status}"><span class="dot"></span><div><span class="msg">${esc(x.msg)}</span><span class="why">${esc(x.why)}</span></div></div>`).join(''); document.querySelectorAll('.product').forEach((el,i)=>{const p=readProducts()[i],s=el.querySelector('.p-state');const ok=p.name&&validUrl(p.affiliate_short_url);s.textContent=ok?'READY':'INCOMPLETE';s.className='mini p-state '+(ok?'ok':'bad')})}
+function replies(ps){return ps.map((p,i)=>`${['第一個','第二個','第三個','第四個'][i]}\n${p.affiliate_short_url||'（缺少連結）'}`).join('\n\n')}
+function structured(d,caption,v){return {version:'stage01-browser-generator-v1',generated_at:new Date().toISOString(),status:v.pass?'PREVIEW_READY':'BLOCKED',topic:d.topic,platform:d.platform,caption,products:d.products.map((p,i)=>({...p,label:['第一個','第二個','第三個','第四個'][i]})),threads_reply:replies(d.products),rules:{angle:d.angle,tone:d.tone,length:d.length,banned_words:d.banned,constraints:d.constraints},gate:v.checks}}
+let current=null;
+function generate(onlyValidate=false){const d=getData();let caption=onlyValidate?($('pvCaption').dataset.generated||buildCaption(d)):buildCaption(d);const v=validate(caption,d);renderChecks(v);$('mChars').textContent=caption.length;$('mProducts').textContent=v.complete+'/4';$('mLinks').textContent=v.links+'/4';$('mGate').textContent=v.pass?'PASS':'BLOCK';$('mGate').style.color=v.pass?'var(--ok)':'var(--bad)';$('stateLabel').textContent=v.pass?'PREVIEW READY':'BLOCKED';$('stateLabel').style.color=v.pass?'var(--ok)':'var(--bad)';if(!onlyValidate){$('pvCaption').textContent=caption;$('pvCaption').dataset.generated=caption;$('pvAccount').textContent=d.account||'account';$('pvReply').textContent=replies(d.products);$('gallery').innerHTML=d.products.map((p,i)=>`<div><b>${String(i+1).padStart(2,'0')}</b><br>${esc(p.name||'未填商品')}<br><span style="font-size:10px">${esc(p.image_note||p.category||'IMAGE PLACEHOLDER')}</span></div>`).join('');current=structured(d,caption,v);$('output').textContent=JSON.stringify(current,null,2)}toast(onlyValidate?'規則檢查完成':'已生成 Preview')}
+function toast(s){const t=$('toast');t.textContent=s;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)}
+$('generateBtn').onclick=()=>generate(false);$('validateBtn').onclick=()=>generate(true);
+$('demoBtn').onclick=()=>{ $('topic').value='小房間佈置';$('context').value='租屋房間不用大改，把常用的小物、燈光和床邊位置安排順，視覺就會乾淨很多。';renderProducts(productDefaults);toast('已載入示範資料') };
+$('clearBtn').onclick=()=>{['topic','context','constraints','account'].forEach(id=>$(id).value='');renderProducts([{},{},{},{}]);$('pvCaption').textContent='已清空，重新填寫後再生成。';$('pvReply').textContent='';$('output').textContent='尚未生成。';$('checks').innerHTML='<div class="empty">尚未執行檢查。</div>';current=null;toast('已清空')};
+document.querySelectorAll('[data-context]').forEach(b=>b.onclick=()=>{$('context').value=b.dataset.context});
+async function copyText(s){if(!s)return toast('尚未生成');await navigator.clipboard.writeText(s);toast('已複製')}
+$('copyPost').onclick=()=>copyText(current?.caption);$('copyAll').onclick=()=>copyText(current?`${current.caption}\n\n${current.threads_reply}`:'');
+$('downloadJson').onclick=()=>{if(!current)return toast('尚未生成');const blob=new Blob([JSON.stringify(current,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`threads-post-${Date.now()}.json`;a.click();URL.revokeObjectURL(a.href);toast('JSON 已下載')};
+</script>
+</body>
+</html>
