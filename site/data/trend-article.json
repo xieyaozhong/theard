@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-19T15:08:14+08:00",
+  "generated_at": "2026-08-19T17:51:24+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "OpenLogi",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "654 pts / 179 comments",
+      "url": "https://openlogi.org/en",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Being ambitious and being a dad",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "492 pts / 300 comments",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "context": "High-engagement technology discussion"
+    },
     {
       "title": "How does IKEA come up with names for its products?",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "316 pts / 187 comments",
+      "traffic": "348 pts / 229 comments",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "OpenLogi",
+      "title": "Cerebras CS-4",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "359 pts / 73 comments",
-      "url": "https://openlogi.org/en",
+      "score": 89,
+      "traffic": "274 pts / 196 comments",
+      "url": "https://www.cerebras.ai/cs4",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "258 pts / 189 comments",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "244 pts / 83 comments",
+      "traffic": "275 pts / 106 comments",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Cerebras CS-4",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "212 pts / 149 comments",
-      "url": "https://www.cerebras.ai/cs4",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "196 pts / 140 comments",
-      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "157 pts / 103 comments",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Solo – a .so loader for static Linux binaries",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "116 pts / 94 comments",
+      "score": 88,
+      "traffic": "144 pts / 151 comments",
       "url": "https://github.com/pg83/solo",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "3481",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "AI usage patterns in software teams",
+      "title": "Supersonic Trebuchet [video]",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "113 pts / 61 comments",
-      "url": "https://linear.app/data",
+      "score": 84,
+      "traffic": "100 pts / 30 comments",
+      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "2408",
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "100 pts / 16 comments",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Where Human Sleep Went Wrong",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "51 pts / 40 comments",
+      "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "全民健康保險",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "張景森",
+      "title": "南亞 科",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E9%9B%99%E5%8C%97%E4%B8%8D%E5%8F%AA%E6%99%AE%E7%99%BC-%E8%90%AC-%E5%8A%A0%E7%A2%BC%E7%99%BC%E9%8C%A2%E6%9C%80%E6%96%B0%E9%80%B2%E5%BA%A6%E6%9B%9D%E5%85%89-%E8%94%A3%E8%90%AC%E5%AE%89-%E4%BE%AF%E5%8F%8B%E5%AE%9C%E5%9B%9E%E6%87%89%E4%BA%86-060412727.html",
-      "context": "雙北不只普發一萬？加碼發錢最新進度曝光 蔣萬安、侯友宜回應了"
-    },
-    {
-      "title": "國家中山科學研究院九鵬院區",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://def.ltn.com.tw/article/breakingnews/5544692",
-      "context": "我國首次衛星載具試射遇挑戰 知情人士：自毀程序和安全管控都備便"
+      "url": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E5%85%A8%E7%B7%9A%E7%BF%BB%E9%BB%91-%E6%97%BA%E5%AE%8F-%E5%BA%A6%E8%B7%8C%E9%80%BE6-%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86-084300028.html",
+      "context": "記憶體全線翻黑！ 旺宏一度跌逾6% 原因找到了"
     }
   ],
   "articles": [
     {
-      "topic": "How does IKEA come up with names for its products?",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「How does IKEA come up with names for its products?」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「How does IKEA come up with names for its products?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "How does IKEA come up with names for its products?",
-          "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html"
-        }
-      ]
-    },
-    {
       "topic": "OpenLogi",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「OpenLogi」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "topic": "Being ambitious and being a dad",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「A 3D fruit fly on macOS desktop powered by the real FlyWire connectome」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Being ambitious and being a dad」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A 3D fruit fly on macOS desktop powered by the real FlyWire connectome」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Being ambitious and being a dad」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-          "url": "https://github.com/DenisSergeevitch/desktop-fly"
+          "title": "Being ambitious and being a dad",
+          "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/"
+        }
+      ]
+    },
+    {
+      "topic": "How does IKEA come up with names for its products?",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「How does IKEA come up with names for its products?」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「How does IKEA come up with names for its products?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "How does IKEA come up with names for its products?",
+          "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html"
         }
       ]
     }
