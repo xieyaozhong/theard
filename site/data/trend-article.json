@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-19T23:48:24+08:00",
+  "generated_at": "2026-08-20T02:55:43+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "OpenLogi",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "1218 pts / 343 comments",
+      "traffic": "1420 pts / 383 comments",
       "url": "https://openlogi.org/en",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "393 pts / 228 comments",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Cerebras CS-4",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "396 pts / 238 comments",
-      "url": "https://www.cerebras.ai/cs4",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Geolocating a random island using geometry and CUDA programming",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "181 pts / 39 comments",
-      "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "243 pts / 27 comments",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "192 pts / 52 comments",
+      "score": 90,
+      "traffic": "389 pts / 166 comments",
       "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "PostgreSQL for Everything",
+      "title": "A joke domain purchase turned in geopolitical warfare",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "120 pts / 85 comments",
-      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "score": 89,
+      "traffic": "486 pts / 63 comments",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "309 pts / 55 comments",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Remote workers report the highest well-being in study of 7,700 employees",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "269 pts / 122 comments",
+      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Openrouter is joining Stripe",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "163 pts / 114 comments",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Air Theremin – a browser theremin you play by waving at your webcam",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "146 pts / 62 comments",
+      "score": 87,
+      "traffic": "190 pts / 70 comments",
       "url": "https://theremin.bizibah.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
+      "title": "普 發 一 萬",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%B8%82%E6%B0%91%E7%88%BD%E9%A0%98%E6%99%AE%E7%99%BC2%E8%90%AC-%E4%BE%AF%E5%8F%8B%E5%AE%9C%E8%A1%A8%E6%85%8B%E4%BA%86-%E9%A9%9A%E4%BA%BA%E8%B2%A1%E6%94%BF%E7%8F%BE%E6%B3%81%E6%9B%9D%E5%85%89-034603404.html",
+      "context": "新北市民爽領普發2萬？侯友宜表態了 驚人財政現況曝光"
+    },
+    {
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "74 pts / 33 comments",
-      "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
+      "score": 84,
+      "traffic": "106 pts / 26 comments",
+      "url": "https://ornith.ai/ornith_1_5.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "許常德",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E9%99%B3%E7%9B%88%E6%BD%94%E9%A0%AD%E4%B8%83%E5%89%8D%E5%A4%AB%E7%8F%BE%E8%BA%AB-%E6%8A%982%E5%A4%A7%E7%AE%B1%E8%93%AE%E8%8A%B1%E6%82%BC%E5%BF%B5-%E8%8B%A6%E7%AD%891%E5%B0%8F%E6%99%82%E4%BB%8D%E9%80%B2%E4%B8%8D%E4%BA%86%E9%9D%88%E5%A0%82-%E8%A8%B1%E5%B8%B8%E5%BE%B7%E6%8F%AD%E5%AE%B6%E5%B1%AC%E5%BF%83%E7%B5%90-114500679.html",
-      "context": "陳盈潔頭七前夫現身！折2大箱蓮花悼念「苦等1小時仍進不了靈堂」 許常德揭家屬心結"
+      "title": "Extensible Software in the Age of LLMs",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "46 pts / 20 comments",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "退貨",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "32 pts / 22 comments",
+      "url": "https://arxiv.org/abs/2503.08679",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "費半指數",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77",
-      "context": "Why this popular Treasury-bond ETF is trading at its lowest since 2004"
+      "title": "How Kubernetes Probes Work",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "48 pts / 5 comments",
+      "url": "https://ngrok.com/blog/probes",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "topic": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「GrapheneOS in 2027 available on high-end Motorola phones」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GrapheneOS in 2027 available on high-end Motorola phones」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-          "url": "https://grapheneos.social/@GrapheneOS/117078064184215730"
+          "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+          "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787"
         }
       ]
     },
     {
-      "topic": "Cerebras CS-4",
+      "topic": "A joke domain purchase turned in geopolitical warfare",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Cerebras CS-4」開始升溫，我們真正該看的不是熱度",
+      "title": "當「A joke domain purchase turned in geopolitical warfare」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Cerebras CS-4」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「A joke domain purchase turned in geopolitical warfare」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Cerebras CS-4",
-          "url": "https://www.cerebras.ai/cs4"
+          "title": "A joke domain purchase turned in geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
         }
       ]
     }
