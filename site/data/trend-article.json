@@ -1,61 +1,45 @@
 {
-  "generated_at": "2026-08-20T02:55:43+08:00",
+  "generated_at": "2026-08-20T05:43:14+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "OpenLogi",
+      "title": "OpenRouter is joining Stripe",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1420 pts / 383 comments",
-      "url": "https://openlogi.org/en",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "389 pts / 166 comments",
-      "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+      "score": 91,
+      "traffic": "445 pts / 250 comments",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A joke domain purchase turned in geopolitical warfare",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "486 pts / 63 comments",
+      "score": 90,
+      "traffic": "653 pts / 87 comments",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Casio F-B100W-1A",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "217 pts / 163 comments",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Go 1.27",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "311 pts / 53 comments",
+      "url": "https://go.dev/blog/go1.27",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Geolocating a random island using geometry and CUDA programming",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "309 pts / 55 comments",
+      "traffic": "370 pts / 65 comments",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Remote workers report the highest well-being in study of 7,700 employees",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "269 pts / 122 comments",
-      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Openrouter is joining Stripe",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "163 pts / 114 comments",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "190 pts / 70 comments",
-      "url": "https://theremin.bizibah.com/",
       "context": "High-engagement technology discussion"
     },
     {
@@ -67,49 +51,65 @@
       "context": "新北市民爽領普發2萬？侯友宜表態了 驚人財政現況曝光"
     },
     {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "130 pts / 32 comments",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "大 樂 透",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E8%8A%B1100%E5%85%83%E7%88%BD%E4%B8%AD%E5%A4%A7%E6%A8%82%E9%80%8F1%E5%84%84%E5%85%83%EF%BC%81%E9%A0%AD%E7%8D%8E%E5%BE%97%E4%B8%BB%E7%8F%BE%E8%BA%AB%E5%B1%8F%E6%9D%B1-%E6%8D%90300%E8%90%AC%E6%8C%BA%E5%BC%B1%E5%8B%A2%E7%94%9F-022554966.html",
+      "context": "花100元爽中大樂透1億元！頭獎得主現身屏東 捐300萬挺弱勢生"
+    },
+    {
+      "title": "Unsloth Dynamic 3.0 GGUFs",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "106 pts / 26 comments",
-      "url": "https://ornith.ai/ornith_1_5.html",
+      "traffic": "113 pts / 29 comments",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Extensible Software in the Age of LLMs",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "46 pts / 20 comments",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "score": 82,
+      "traffic": "63 pts / 18 comments",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "32 pts / 22 comments",
-      "url": "https://arxiv.org/abs/2503.08679",
-      "context": "High-engagement technology discussion"
+      "title": "半導體",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "How Kubernetes Probes Work",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "48 pts / 5 comments",
-      "url": "https://ngrok.com/blog/probes",
-      "context": "High-engagement technology discussion"
+      "title": "西甲",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.sohu.com/a/1064385552_461392",
+      "context": "李刚仁马竞首秀在即！ 俱乐部主席：相信他会成为关键球员"
     }
   ],
   "articles": [
     {
-      "topic": "OpenLogi",
+      "topic": "OpenRouter is joining Stripe",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「OpenLogi」開始升溫，我們真正該看的不是熱度",
+      "title": "當「OpenRouter is joining Stripe」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenLogi」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「OpenRouter is joining Stripe」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,51 +131,15 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "OpenLogi",
-          "url": "https://openlogi.org/en"
-        }
-      ]
-    },
-    {
-      "topic": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-          "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787"
+          "title": "OpenRouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"
         }
       ]
     },
     {
       "topic": "A joke domain purchase turned in geopolitical warfare",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「A joke domain purchase turned in geopolitical warfare」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "A joke domain purchase turned in geopolitical warfare",
           "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
+        }
+      ]
+    },
+    {
+      "topic": "Casio F-B100W-1A",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Casio F-B100W-1A」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Casio F-B100W-1A」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Casio F-B100W-1A",
+          "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/"
         }
       ]
     }
