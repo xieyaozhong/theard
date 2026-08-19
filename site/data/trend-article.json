@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-19T09:55:00+08:00",
+  "generated_at": "2026-08-19T12:02:03+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "The Amazon tax",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "941 pts / 542 comments",
+      "traffic": "1006 pts / 577 comments",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Being ambitious and being a dad",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "286 pts / 158 comments",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How does IKEA come up with names for its products?",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "226 pts / 142 comments",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "208 pts / 27 comments",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "159 pts / 37 comments",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Solo – a .so loader for static Linux binaries",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "39 pts / 52 comments",
-      "url": "https://github.com/pg83/solo",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "台半",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000765356_ME641PWR499Q4Z71Z0O0Y",
-      "context": "AI刺激功率半導體至少再缺兩年 漲價估計不只一次"
-    },
-    {
-      "title": "Cerebras CS4",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "38 pts / 21 comments",
-      "url": "https://www.cerebras.ai/cs4",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AI usage patterns in software teams",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "42 pts / 19 comments",
-      "url": "https://linear.app/data",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "36 pts / 14 comments",
+      "score": 89,
+      "traffic": "267 pts / 134 comments",
       "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "機器人展",
+      "title": "How does IKEA come up with names for its products?",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "259 pts / 152 comments",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Cerebras CS-4",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "130 pts / 82 comments",
+      "url": "https://www.cerebras.ai/cs4",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "195 pts / 54 comments",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "全額 交割 股",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
+      "score": 85,
+      "traffic": "2000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "康康",
+      "title": "宇樹科技",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://stars.udn.com/star/story/10092/9699214",
-      "context": "全場被融化！康康7歲愛女太萌了 吐槽沈玉琳、黃鐙輝不要臉"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Solo – a .so loader for static Linux binaries",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "71 pts / 72 comments",
+      "url": "https://github.com/pg83/solo",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "60 pts / 31 comments",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "67 pts / 31 comments",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "AI usage patterns in software teams",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "70 pts / 36 comments",
+      "url": "https://linear.app/data",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "陳孟賢",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Being ambitious and being a dad",
+      "topic": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Being ambitious and being a dad」開始升溫，我們真正該看的不是熱度",
+      "title": "當「New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Being ambitious and being a dad」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,8 +167,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Being ambitious and being a dad",
-          "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/"
+          "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+          "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf"
         }
       ]
     },
