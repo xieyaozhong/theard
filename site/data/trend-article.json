@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:02:39+08:00",
+  "generated_at": "2026-08-21T05:45:48+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
@@ -14,89 +14,89 @@
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "716 pts / 238 comments",
+      "traffic": "795 pts / 271 comments",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "293 pts / 247 comments",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I like 'em thick: an apology to my English teachers",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "335 pts / 152 comments",
+      "score": 91,
+      "traffic": "464 pts / 225 comments",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "335 pts / 319 comments",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "HTML Can Do That",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "359 pts / 101 comments",
+      "score": 90,
+      "traffic": "476 pts / 135 comments",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "381 pts / 92 comments",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "220 pts / 125 comments",
+      "score": 89,
+      "traffic": "280 pts / 183 comments",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "瓊斯盃",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://udn.com/news/story/7003/9704559",
-      "context": "瓊斯盃／變玩笑盃？菲律賓43分血洗中華藍仍沒能晉級"
+      "title": "The August 17 outage, and the work ahead",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "125 pts / 130 comments",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "264 pts / 41 comments",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "150 pts / 62 comments",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "147 pts / 77 comments",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Linux 7.2",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "87 pts / 25 comments",
+      "score": 86,
+      "traffic": "160 pts / 53 comments",
       "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How to compromise your system with a job interview",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "73 pts / 29 comments",
-      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "光通訊",
+      "title": "道瓊工業平均指數",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://udn.com/news/story/7255/9704409",
-      "context": "全民權證／鼎元 選逾五個月"
-    },
-    {
-      "title": "I should have loved biology",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "50 pts / 21 comments",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "context": "High-engagement technology discussion"
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/",
+      "context": "Dow Jones Futures: Market Triggers Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Malicious Rust crate Arrayref runs a build-time payload",
+      "topic": "I like 'em thick: an apology to my English teachers",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Malicious Rust crate Arrayref runs a build-time payload」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I like 'em thick: an apology to my English teachers」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Malicious Rust crate Arrayref runs a build-time payload」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I like 'em thick: an apology to my English teachers」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Malicious Rust crate Arrayref runs a build-time payload",
-          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
+          "title": "I like 'em thick: an apology to my English teachers",
+          "url": "https://www.experimental-history.com/p/i-like-em-thick"
         }
       ]
     }
