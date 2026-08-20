@@ -1,28 +1,36 @@
 {
-  "generated_at": "2026-08-20T17:51:38+08:00",
+  "generated_at": "2026-08-20T21:13:39+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "OpenRouter is joining Stripe",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "840 pts / 440 comments",
+      "traffic": "902 pts / 460 comments",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "bigbang 搶 票",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Don't Paste the AI, please",
+      "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/bigbang%E5%8F%B0%E5%8C%97%E7%AB%99%E5%94%AE%E7%A5%A8%E7%AC%AC3%E5%A4%A9-2%E5%B9%B3%E5%8F%B0%E5%84%AA%E5%85%88%E8%B3%BC-%E5%BC%84%E9%8C%AF-1%E6%AD%A5%E9%A9%9F-%E6%81%90%E6%90%B6%E4%B8%8D%E5%88%B0-012900549.html",
-      "context": "BIGBANG台北站售票第3天！2平台優先購 弄錯「1步驟」恐搶不到"
+      "traffic": "665 pts / 324 comments",
+      "url": "https://dontpastetheai.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "691 pts / 268 comments",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "A joke domain purchase turned in geopolitical warfare",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "905 pts / 144 comments",
+      "traffic": "956 pts / 154 comments",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "context": "High-engagement technology discussion"
     },
@@ -30,73 +38,65 @@
       "title": "Go 1.27",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "636 pts / 182 comments",
+      "traffic": "701 pts / 214 comments",
       "url": "https://go.dev/blog/go1.27",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Google has stopped pushing Git tags for some Android source code",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "558 pts / 230 comments",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Feature Request: Support AGENTS.md",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "260 pts / 153 comments",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "莊翠雲",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.stock.yahoo.com/news/%E6%99%AF%E6%B0%A3%E9%81%8E%E7%86%B1%EF%BC%9F%E5%AD%B8%E8%80%85%E7%A4%BA%E8%AD%A6%E6%99%AE%E7%99%BC%E4%B8%80%E8%90%AC%E5%85%83%E6%81%90%E6%B7%BB%E9%80%9A%E8%86%A8%E5%A3%93%E5%8A%9B-%E7%B1%B2%E3%80%8C3%E6%9C%88%E5%BE%8C%E3%80%8D%E5%86%8D%E7%99%BC-090212309.html",
-      "context": "景氣過熱？學者示警普發一萬元恐添通膨壓力 籲「3月後」再發"
-    },
-    {
-      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "267 pts / 97 comments",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Don't Paste the AI, please",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "177 pts / 99 comments",
-      "url": "https://dontpastetheai.com/",
+      "traffic": "260 pts / 97 comments",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Turns are Better than Radians (2022)",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "206 pts / 95 comments",
+      "score": 88,
+      "traffic": "256 pts / 135 comments",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Windows brings out the Rorschach test in everyone",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "163 pts / 69 comments",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "score": 87,
+      "traffic": "221 pts / 68 comments",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "title": "A faster way to calculate the day of the week",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "207 pts / 51 comments",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "traffic": "197 pts / 47 comments",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "白冰冰",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://stars.udn.com/star/story/10091/9703597",
+      "context": "白冰冰作秀遭暴力圍毆！頭部被砍留下10幾公分傷疤"
+    },
+    {
+      "title": "三義車禍",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "玖麵牛肉麵",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5545391",
+      "context": "健康網》Joeman引牛肉麵風波 高油脂釀胃酸逆流"
     }
   ],
   "articles": [
@@ -137,51 +137,15 @@
       ]
     },
     {
-      "topic": "bigbang 搶 票",
+      "topic": "Don't Paste the AI, please",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「bigbang 搶 票」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Don't Paste the AI, please」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「bigbang 搶 票」推到更高的注意力位置。BIGBANG台北站售票第3天！2平台優先購 弄錯「1步驟」恐搶不到。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "bigbang 搶 票",
-          "url": "https://tw.news.yahoo.com/bigbang%E5%8F%B0%E5%8C%97%E7%AB%99%E5%94%AE%E7%A5%A8%E7%AC%AC3%E5%A4%A9-2%E5%B9%B3%E5%8F%B0%E5%84%AA%E5%85%88%E8%B3%BC-%E5%BC%84%E9%8C%AF-1%E6%AD%A5%E9%A9%9F-%E6%81%90%E6%90%B6%E4%B8%8D%E5%88%B0-012900549.html"
-        }
-      ]
-    },
-    {
-      "topic": "A joke domain purchase turned in geopolitical warfare",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「A joke domain purchase turned in geopolitical warfare」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A joke domain purchase turned in geopolitical warfare」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Don't Paste the AI, please」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A joke domain purchase turned in geopolitical warfare",
-          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
+          "title": "Don't Paste the AI, please",
+          "url": "https://dontpastetheai.com/"
+        }
+      ]
+    },
+    {
+      "topic": "Google has stopped pushing Git tags for some Android source code",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Google has stopped pushing Git tags for some Android source code」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Google has stopped pushing Git tags for some Android source code」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Google has stopped pushing Git tags for some Android source code",
+          "url": "https://grapheneos.social/@GrapheneOS/117057099753905023"
         }
       ]
     }
