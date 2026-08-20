@@ -1,89 +1,41 @@
 {
-  "generated_at": "2026-08-20T21:13:39+08:00",
+  "generated_at": "2026-08-20T23:51:02+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "OpenRouter is joining Stripe",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "902 pts / 460 comments",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Don't Paste the AI, please",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "665 pts / 324 comments",
-      "url": "https://dontpastetheai.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Google has stopped pushing Git tags for some Android source code",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "691 pts / 268 comments",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "956 pts / 154 comments",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Go 1.27",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "701 pts / 214 comments",
-      "url": "https://go.dev/blog/go1.27",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Windows brings out the Rorschach test in everyone (2003)",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "260 pts / 97 comments",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Turns are Better than Radians (2022)",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "256 pts / 135 comments",
-      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "221 pts / 68 comments",
+      "score": 90,
+      "traffic": "472 pts / 154 comments",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A faster way to calculate the day of the week",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "197 pts / 47 comments",
-      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "score": 88,
+      "traffic": "207 pts / 150 comments",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "白冰冰",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://stars.udn.com/star/story/10091/9703597",
-      "context": "白冰冰作秀遭暴力圍毆！頭部被砍留下10幾公分傷疤"
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "246 pts / 64 comments",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "三義車禍",
+      "title": "瓊斯盃",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E7%93%8A%E6%96%AF%E7%9B%83-%E4%B8%AD%E8%8F%AF%E8%97%8D-%E4%BF%9D%E9%9A%9C%E5%9B%9B%E5%BC%B7-%E6%83%B9%E8%AD%B0-%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%95%99%E9%A0%AD-135938682.html",
+      "context": "​瓊斯盃》中華藍「保障四強」惹議 菲律賓教頭、籃協說法不一"
+    },
+    {
+      "title": "板南線",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -91,25 +43,73 @@
       "context": ""
     },
     {
-      "title": "玖麵牛肉麵",
+      "title": "HTML Can Do That",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "107 pts / 21 comments",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "優 你 康",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://health.ltn.com.tw/article/breakingnews/5545391",
-      "context": "健康網》Joeman引牛肉麵風波 高油脂釀胃酸逆流"
+      "url": "https://tw.stock.yahoo.com/news/%E5%BE%9E4249%E5%85%83%E8%B7%8C%E5%88%B0163%E5%85%83%EF%BC%81%E5%84%AA%E4%BD%A0%E5%BA%B7%E5%86%8D%E7%88%86%E5%88%B8%E5%95%86%E9%9B%99%E8%BE%AD-93%E7%B5%82%E6%AD%A2%E8%B2%B7%E8%B3%A3-073903750.html",
+      "context": "從42.49元跌到1.63元！優你康再爆券商雙辭 9/3終止買賣"
+    },
+    {
+      "title": "老農津貼",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "中華職棒",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "周刊王",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E7%8F%8D%E5%A5%B6-%E4%B9%96%E4%B9%96%E9%82%84%E4%B8%8D%E5%A4%A0-yourmood%E9%80%99%E5%9B%9E%E5%8C%96%E8%BA%AB-%E9%BA%B5%E7%B7%9A-%E5%A4%A7%E5%96%8A-145200378.html",
+      "context": "珍奶、乖乖還不夠！YourMOOD這回化身「麵線」大喊：I Love許富凱"
+    },
+    {
+      "title": "DiffusionGemma Technical Report",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "58 pts / 9 comments",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "33 pts / 19 comments",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "OpenRouter is joining Stripe",
+      "topic": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「OpenRouter is joining Stripe」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenRouter is joining Stripe」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "OpenRouter is joining Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html"
         }
       ]
     },
     {
-      "topic": "Don't Paste the AI, please",
+      "topic": "Malicious Rust crate Arrayref runs a build-time payload",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Don't Paste the AI, please」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Malicious Rust crate Arrayref runs a build-time payload」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Don't Paste the AI, please」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Malicious Rust crate Arrayref runs a build-time payload」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Don't Paste the AI, please",
-          "url": "https://dontpastetheai.com/"
+          "title": "Malicious Rust crate Arrayref runs a build-time payload",
+          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
         }
       ]
     },
     {
-      "topic": "Google has stopped pushing Git tags for some Android source code",
+      "topic": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Google has stopped pushing Git tags for some Android source code」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Show HN: I trained a 125M model to autocomplete piano on-device」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Google has stopped pushing Git tags for some Android source code」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Show HN: I trained a 125M model to autocomplete piano on-device」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Google has stopped pushing Git tags for some Android source code",
-          "url": "https://grapheneos.social/@GrapheneOS/117057099753905023"
+          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+          "url": "https://simedw.com/2026/08/20/midi-autocomplete/"
         }
       ]
     }
