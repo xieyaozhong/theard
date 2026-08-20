@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-20T12:01:31+08:00",
+  "generated_at": "2026-08-20T15:09:04+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "OpenRouter is joining Stripe",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "709 pts / 364 comments",
+      "score": 93,
+      "traffic": "797 pts / 406 comments",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Go 1.27",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "586 pts / 153 comments",
+      "url": "https://go.dev/blog/go1.27",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A joke domain purchase turned in geopolitical warfare",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "796 pts / 124 comments",
+      "traffic": "852 pts / 129 comments",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Go 1.27",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "501 pts / 132 comments",
-      "url": "https://go.dev/blog/go1.27",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Casio F-B100W-1A",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "297 pts / 242 comments",
+      "score": 91,
+      "traffic": "342 pts / 287 comments",
       "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "title": "Google has stopped pushing Git tags for some Android source code",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "349 pts / 151 comments",
+      "score": 90,
+      "traffic": "453 pts / 192 comments",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Unsloth Dynamic 3.0 GGUFs",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "200 pts / 80 comments",
+      "score": 88,
+      "traffic": "237 pts / 91 comments",
       "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "垃圾",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.storm.mg/lifestyle/11157929",
-      "context": "輕便雨衣要丟垃圾還是回收？環保局公布正確處理方式！丟錯秒收6000 元罰單"
+      "title": "Turns are Better than Radians (2022)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "150 pts / 63 comments",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "157 pts / 39 comments",
+      "score": 86,
+      "traffic": "190 pts / 46 comments",
       "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Sol Loves to Cheat",
+      "title": "Sol loves to cheat",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "94 pts / 62 comments",
+      "score": 86,
+      "traffic": "141 pts / 84 comments",
       "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "title": "2408",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "A faster way to calculate the day of the week",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "57 pts / 31 comments",
-      "url": "https://os8088.com/spotlight/",
+      "traffic": "107 pts / 15 comments",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "交通事故",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.pchome.com.tw/politics/hoomedia/20260820/index-78719284016887344002.html",
-      "context": "高雄警界半年風波不斷交通事故、毒駕與警紀爭議接連引發關注- 政治新聞- PChome Online 新聞"
-    },
-    {
-      "title": "日香食品",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.ebc.net.tw/news/society/567189",
-      "context": "餅乾被燒光了"
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "109 pts / 12 comments",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "A joke domain purchase turned in geopolitical warfare",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「A joke domain purchase turned in geopolitical warfare」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A joke domain purchase turned in geopolitical warfare」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "A joke domain purchase turned in geopolitical warfare",
-          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
-        }
-      ]
-    },
-    {
       "topic": "Go 1.27",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Go 1.27」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Go 1.27",
           "url": "https://go.dev/blog/go1.27"
+        }
+      ]
+    },
+    {
+      "topic": "A joke domain purchase turned in geopolitical warfare",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「A joke domain purchase turned in geopolitical warfare」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「A joke domain purchase turned in geopolitical warfare」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "A joke domain purchase turned in geopolitical warfare",
+          "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
         }
       ]
     }
