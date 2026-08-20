@@ -1,29 +1,61 @@
 {
-  "generated_at": "2026-08-20T23:51:02+08:00",
+  "generated_at": "2026-08-21T03:02:39+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "下 雨",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 95,
+      "traffic": "50000+",
+      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608180024/",
+      "context": "天氣／沙德爾颱風「靠近台灣」機率不小、恐成強颱！豪大雨開炸這幾天最猛，最新颱風路徑、10日預報先看"
+    },
+    {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "472 pts / 154 comments",
+      "score": 92,
+      "traffic": "716 pts / 238 comments",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "207 pts / 150 comments",
+      "score": 90,
+      "traffic": "293 pts / 247 comments",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I like 'em thick: an apology to my English teachers",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "335 pts / 152 comments",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "HTML Can Do That",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "359 pts / 101 comments",
+      "url": "https://chrisburnell.com/html-can-do-that/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "246 pts / 64 comments",
+      "score": 89,
+      "traffic": "381 pts / 92 comments",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "220 pts / 125 comments",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
       "context": "High-engagement technology discussion"
     },
     {
@@ -31,79 +63,83 @@
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E7%93%8A%E6%96%AF%E7%9B%83-%E4%B8%AD%E8%8F%AF%E8%97%8D-%E4%BF%9D%E9%9A%9C%E5%9B%9B%E5%BC%B7-%E6%83%B9%E8%AD%B0-%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%95%99%E9%A0%AD-135938682.html",
-      "context": "​瓊斯盃》中華藍「保障四強」惹議 菲律賓教頭、籃協說法不一"
+      "url": "https://udn.com/news/story/7003/9704559",
+      "context": "瓊斯盃／變玩笑盃？菲律賓43分血洗中華藍仍沒能晉級"
     },
     {
-      "title": "板南線",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "HTML Can Do That",
+      "title": "Linux 7.2",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "107 pts / 21 comments",
-      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 83,
+      "traffic": "87 pts / 25 comments",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "優 你 康",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%BE%9E4249%E5%85%83%E8%B7%8C%E5%88%B0163%E5%85%83%EF%BC%81%E5%84%AA%E4%BD%A0%E5%BA%B7%E5%86%8D%E7%88%86%E5%88%B8%E5%95%86%E9%9B%99%E8%BE%AD-93%E7%B5%82%E6%AD%A2%E8%B2%B7%E8%B3%A3-073903750.html",
-      "context": "從42.49元跌到1.63元！優你康再爆券商雙辭 9/3終止買賣"
-    },
-    {
-      "title": "老農津貼",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "中華職棒",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "周刊王",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E7%8F%8D%E5%A5%B6-%E4%B9%96%E4%B9%96%E9%82%84%E4%B8%8D%E5%A4%A0-yourmood%E9%80%99%E5%9B%9E%E5%8C%96%E8%BA%AB-%E9%BA%B5%E7%B7%9A-%E5%A4%A7%E5%96%8A-145200378.html",
-      "context": "珍奶、乖乖還不夠！YourMOOD這回化身「麵線」大喊：I Love許富凱"
-    },
-    {
-      "title": "DiffusionGemma Technical Report",
+      "title": "How to compromise your system with a job interview",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "58 pts / 9 comments",
-      "url": "https://arxiv.org/abs/2608.00146",
+      "score": 83,
+      "traffic": "73 pts / 29 comments",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Hacking with Claude on a $27 Smart Watch",
+      "title": "光通訊",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/7255/9704409",
+      "context": "全民權證／鼎元 選逾五個月"
+    },
+    {
+      "title": "I should have loved biology",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "33 pts / 19 comments",
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "score": 82,
+      "traffic": "50 pts / 21 comments",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "topic": "下 雨",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「下 雨」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「下 雨」推到更高的注意力位置。天氣／沙德爾颱風「靠近台灣」機率不小、恐成強颱！豪大雨開炸這幾天最猛，最新颱風路徑、10日預報先看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "GOOGLE TRENDS / TW",
+          "title": "下 雨",
+          "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608180024/"
+        }
+      ]
+    },
+    {
+      "topic": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -139,7 +175,7 @@
     {
       "topic": "Malicious Rust crate Arrayref runs a build-time payload",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Malicious Rust crate Arrayref runs a build-time payload」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Malicious Rust crate Arrayref runs a build-time payload",
           "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
-        }
-      ]
-    },
-    {
-      "topic": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Show HN: I trained a 125M model to autocomplete piano on-device」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Show HN: I trained a 125M model to autocomplete piano on-device」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-          "url": "https://simedw.com/2026/08/20/midi-autocomplete/"
         }
       ]
     }
