@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-21T05:45:48+08:00",
+  "generated_at": "2026-08-21T09:59:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
-    {
-      "title": "下 雨",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608180024/",
-      "context": "天氣／沙德爾颱風「靠近台灣」機率不小、恐成強颱！豪大雨開炸這幾天最猛，最新颱風路徑、10日預報先看"
-    },
     {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "795 pts / 271 comments",
+      "traffic": "887 pts / 290 comments",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "993 pts / 228 comments",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "321 pts / 370 comments",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I like 'em thick: an apology to my English teachers",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "464 pts / 225 comments",
+      "traffic": "564 pts / 258 comments",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "HTML Can Do That",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "579 pts / 163 comments",
+      "url": "https://chrisburnell.com/html-can-do-that/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "335 pts / 319 comments",
+      "traffic": "398 pts / 365 comments",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "HTML Can Do That",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "476 pts / 135 comments",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "CIA funding helped keep NeXT afloat in the 80s",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "280 pts / 183 comments",
-      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The August 17 outage, and the work ahead",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "125 pts / 130 comments",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "264 pts / 41 comments",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I should have loved biology (2020)",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "150 pts / 62 comments",
+      "score": 87,
+      "traffic": "201 pts / 74 comments",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "title": "Copyright does not protect AI-generated content in EU",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "147 pts / 77 comments",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "traffic": "98 pts / 77 comments",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Linux 7.2",
+      "title": "Consumer Rights Wiki",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "160 pts / 53 comments",
-      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "traffic": "221 pts / 32 comments",
+      "url": "https://consumerrights.wiki/w/Main_Page",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "道瓊工業平均指數",
+      "title": "鼎元",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://money.udn.com/money/story/5739/9704409",
+      "context": "鼎元 選逾五個月"
+    },
+    {
+      "title": "萬海股價",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/",
-      "context": "Dow Jones Futures: Market Triggers Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Stealth Model",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "31 pts / 15 comments",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "下 雨",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「下 雨」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「下 雨」推到更高的注意力位置。天氣／沙德爾颱風「靠近台灣」機率不小、恐成強颱！豪大雨開炸這幾天最猛，最新颱風路徑、10日預報先看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "下 雨",
-          "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608180024/"
-        }
-      ]
-    },
-    {
       "topic": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "I like 'em thick: an apology to my English teachers",
+      "topic": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「I like 'em thick: an apology to my English teachers」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Aaron Swartz was prosecuted for scraping, while Meta does it without consequence」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I like 'em thick: an apology to my English teachers」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Aaron Swartz was prosecuted for scraping, while Meta does it without consequence」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "I like 'em thick: an apology to my English teachers",
-          "url": "https://www.experimental-history.com/p/i-like-em-thick"
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/"
+        }
+      ]
+    },
+    {
+      "topic": "The August 17 outage, and the work ahead",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「The August 17 outage, and the work ahead」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「The August 17 outage, and the work ahead」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "The August 17 outage, and the work ahead",
+          "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
         }
       ]
     }
