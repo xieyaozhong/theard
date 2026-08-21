@@ -1,61 +1,69 @@
 {
-  "generated_at": "2026-08-22T02:58:58+08:00",
+  "generated_at": "2026-08-22T05:42:03+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Kagi added a setting for removing paywalled links from search results",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "775 pts / 277 comments",
+      "score": 93,
+      "traffic": "907 pts / 312 comments",
       "url": "https://kagi.com/changelog#11296",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "390 pts / 128 comments",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Felony Bench",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "181 pts / 80 comments",
-      "url": "https://www.felonybench.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "261 pts / 33 comments",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "74 pts / 144 comments",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Felony charges for citizen deleting phone data at US Border",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "83 pts / 140 comments",
+      "score": 91,
+      "traffic": "294 pts / 390 comments",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "台南爆炸",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://tw.news.yahoo.com/%E5%AE%89%E5%8D%97%E5%8D%80%E7%81%AB%E7%81%BD%E6%B7%B1%E5%A4%9C%E9%A9%9A%E7%88%86-%E6%B6%88%E9%98%B2%E8%BB%8A%E8%B5%B7%E7%81%AB-3%E5%90%8D%E6%B6%88%E9%98%B2-6%E6%B0%91%E7%9C%BE%E5%8F%97%E5%82%B7-202825784.html",
+      "context": "安南區火災深夜驚爆！3名消防、6民眾受傷 多輛消防車起火"
+    },
+    {
+      "title": "Felony Bench",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "379 pts / 174 comments",
+      "url": "https://www.felonybench.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "425 pts / 140 comments",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Kobo can run apps now",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "146 pts / 61 comments",
+      "score": 89,
+      "traffic": "316 pts / 110 comments",
       "url": "https://bandarlabs.github.io/Cobalt/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "170 pts / 225 comments",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "363 pts / 40 comments",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
       "context": "High-engagement technology discussion"
     },
     {
@@ -67,36 +75,28 @@
       "context": "籃籃獲全球百大美女提名「啦啦隊第一人」 與周子瑜、舒華爭豔超驚訝"
     },
     {
-      "title": "英超",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Scientists release biggest 2D map of the universe",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "89 pts / 27 comments",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://sports.sina.cn/2026-08-22/detail-inipcfyf7945485.d.html?vt=4&cid=72264&node_id=72264",
-      "context": "40胜5平，阿森纳在英超主场对阵升班马已经45场不败"
+      "traffic": "71 pts / 13 comments",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "top",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.espn.com/mlb/story/_/id/49674829/sources-mariners-call-top-pitching-prospect-kade-anderson",
-      "context": "Mariners calling up top pitching prospect Kade Anderson"
-    },
-    {
-      "title": "台南火災",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "ewc cs2",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.techtimes.com/articles/325223/20260821/legacy-stuns-major-champion-falcons-2-0-again-ewc-cs2-quarterfinals.htm",
-      "context": "Legacy Stuns Major-Champion Falcons 2-0 Again at EWC CS2 Quarterfinals"
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "30 pts / 24 comments",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "DeepSeek-v4-flash-vision-exp",
+      "topic": "Felony charges for citizen deleting phone data at US Border",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「DeepSeek-v4-flash-vision-exp」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Felony charges for citizen deleting phone data at US Border」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「DeepSeek-v4-flash-vision-exp」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Felony charges for citizen deleting phone data at US Border」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "DeepSeek-v4-flash-vision-exp",
-          "url": "https://api-docs.deepseek.com/guides/vision/"
+          "title": "Felony charges for citizen deleting phone data at US Border",
+          "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html"
         }
       ]
     },
     {
-      "topic": "Felony Bench",
+      "topic": "台南爆炸",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Felony Bench」開始升溫，我們真正該看的不是熱度",
+      "title": "當「台南爆炸」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Felony Bench」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「台南爆炸」推到更高的注意力位置。安南區火災深夜驚爆！3名消防、6民眾受傷 多輛消防車起火。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Felony Bench",
-          "url": "https://www.felonybench.com/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "台南爆炸",
+          "url": "https://tw.news.yahoo.com/%E5%AE%89%E5%8D%97%E5%8D%80%E7%81%AB%E7%81%BD%E6%B7%B1%E5%A4%9C%E9%A9%9A%E7%88%86-%E6%B6%88%E9%98%B2%E8%BB%8A%E8%B5%B7%E7%81%AB-3%E5%90%8D%E6%B6%88%E9%98%B2-6%E6%B0%91%E7%9C%BE%E5%8F%97%E5%82%B7-202825784.html"
         }
       ]
     }
