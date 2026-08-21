@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-21T21:13:18+08:00",
+  "generated_at": "2026-08-21T23:49:58+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "明天的天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE%E4%B8%8B%E5%91%A8%E4%B8%89%E5%BE%8C%E8%B7%AF%E5%BE%91%E6%81%90%E5%BE%80%E8%A5%BF%E6%9B%B4%E8%BF%91%E5%8F%B0%E7%81%A3-%E4%BB%8A%E8%B5%B7%E9%80%A34%E5%A4%A9%E9%98%B2%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8-041432058.html",
-      "context": "颱風沙德爾下周三後路徑恐往西更近台灣 今起連4天防豪、大雨"
-    },
-    {
-      "title": "The August 17 outage",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "584 pts / 655 comments",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I like 'em thick: an apology to my English teachers",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "788 pts / 321 comments",
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "HTML Can Do That",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "894 pts / 201 comments",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "189 pts / 118 comments",
+      "score": 92,
+      "traffic": "508 pts / 342 comments",
       "url": "https://annas-archive.pk/blog/physical-destruction.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "153 pts / 84 comments",
-      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "score": 90,
+      "traffic": "341 pts / 185 comments",
+      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "374 pts / 138 comments",
+      "url": "https://kagi.com/changelog#11296",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DeepSeek-v4-flash-vision-exp",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "205 pts / 50 comments",
+      "score": 88,
+      "traffic": "313 pts / 101 comments",
       "url": "https://api-docs.deepseek.com/guides/vision/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "title": "地震",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://news.ebc.net.tw/news/living/567485",
+      "context": "快訊／日本20:02發生規模5.5地震！最大震度3級"
+    },
+    {
+      "title": "What Happens When the Cost of Intelligence Drops 100x",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "116 pts / 55 comments",
-      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "traffic": "73 pts / 59 comments",
+      "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "cuaca besok",
+      "title": "罰金",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.kompas.tv/regional/686669/bmkg-sebut-jaksel-jaktim-hujan-sore-hari-ini-jumat-21-agustus-2026-cek-wilayah-lengkapnya",
-      "context": "BMKG Sebut Jaksel-Jaktim Hujan Sore Hari Ini Jumat 21 Agustus 2026, Cek Wilayah Lengkapnya!"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "台 鐵",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.ebc.net.tw/news/society/567472",
-      "context": "台鐵重大事故！1男命危搶救中"
-    },
-    {
-      "title": "Small, native web tricks worth remembering",
+      "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "109 pts / 24 comments",
-      "url": "https://htmlcat.net/",
+      "traffic": "55 pts / 46 comments",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "棒球",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "100 pts / 35 comments",
+      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I accidentally logged phone calls to military bases",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7%EF%BC%8F%E6%82%8D%E5%B0%87%E6%B4%8B%E6%8A%95%E5%89%A95%E6%90%B64-%E6%9E%97%E5%A8%81%E5%8A%A9%E8%AB%87%E5%89%B2%E6%8D%A8%E5%A8%81%E6%88%88%E7%A5%9E%E5%8E%9F%E5%9B%A0%EF%BC%9A%E5%A4%B1%E6%8A%95%E5%81%8F%E5%A4%9A-101920662.html",
-      "context": "中職／悍將洋投剩5搶4 林威助談割捨威戈神原因：失投偏多"
+      "traffic": "85 pts / 10 comments",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "58 pts / 18 comments",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "What We Lost When Search Stopped Making Us Think",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "38 pts / 22 comments",
+      "url": "https://blog.8ball.space/what-we-lost-when-search/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
+      "topic": "AI companies destroy physical books – let's scan rare books before it's too late",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AI companies destroy physical books – let's scan rare books before it's too late」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。颱風沙德爾下周三後路徑恐往西更近台灣 今起連4天防豪、大雨。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AI companies destroy physical books – let's scan rare books before it's too late」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B2%99%E5%BE%B7%E7%88%BE%E4%B8%8B%E5%91%A8%E4%B8%89%E5%BE%8C%E8%B7%AF%E5%BE%91%E6%81%90%E5%BE%80%E8%A5%BF%E6%9B%B4%E8%BF%91%E5%8F%B0%E7%81%A3-%E4%BB%8A%E8%B5%B7%E9%80%A34%E5%A4%A9%E9%98%B2%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8-041432058.html"
+          "source": "HACKER NEWS",
+          "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+          "url": "https://annas-archive.pk/blog/physical-destruction.html"
         }
       ]
     },
     {
-      "topic": "The August 17 outage",
+      "topic": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「The August 17 outage」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Grand jury declines to indict Ohio man charged with destroying Flock camera」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The August 17 outage」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Grand jury declines to indict Ohio man charged with destroying Flock camera」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The August 17 outage",
-          "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+          "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+          "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/"
         }
       ]
     },
     {
-      "topic": "I like 'em thick: an apology to my English teachers",
+      "topic": "Kagi added a setting for removing paywalled links from search results",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「I like 'em thick: an apology to my English teachers」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Kagi added a setting for removing paywalled links from search results」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I like 'em thick: an apology to my English teachers」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Kagi added a setting for removing paywalled links from search results」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "I like 'em thick: an apology to my English teachers",
-          "url": "https://www.experimental-history.com/p/i-like-em-thick"
+          "title": "Kagi added a setting for removing paywalled links from search results",
+          "url": "https://kagi.com/changelog#11296"
         }
       ]
     }
