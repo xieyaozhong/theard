@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-08-21T23:49:58+08:00",
+  "generated_at": "2026-08-22T02:58:58+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "508 pts / 342 comments",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "341 pts / 185 comments",
-      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Kagi added a setting for removing paywalled links from search results",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "374 pts / 138 comments",
+      "score": 92,
+      "traffic": "775 pts / 277 comments",
       "url": "https://kagi.com/changelog#11296",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DeepSeek-v4-flash-vision-exp",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "313 pts / 101 comments",
+      "score": 89,
+      "traffic": "390 pts / 128 comments",
       "url": "https://api-docs.deepseek.com/guides/vision/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "地震",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://news.ebc.net.tw/news/living/567485",
-      "context": "快訊／日本20:02發生規模5.5地震！最大震度3級"
-    },
-    {
-      "title": "What Happens When the Cost of Intelligence Drops 100x",
+      "title": "Felony Bench",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "73 pts / 59 comments",
-      "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+      "score": 87,
+      "traffic": "181 pts / 80 comments",
+      "url": "https://www.felonybench.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "罰金",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "55 pts / 46 comments",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "100 pts / 35 comments",
-      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I accidentally logged phone calls to military bases",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "85 pts / 10 comments",
+      "score": 87,
+      "traffic": "261 pts / 33 comments",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "58 pts / 18 comments",
-      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "score": 87,
+      "traffic": "74 pts / 144 comments",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "What We Lost When Search Stopped Making Us Think",
+      "title": "Felony charges for citizen deleting phone data at US Border",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "38 pts / 22 comments",
-      "url": "https://blog.8ball.space/what-we-lost-when-search/",
+      "score": 87,
+      "traffic": "83 pts / 140 comments",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Kobo can run apps now",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "146 pts / 61 comments",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "周子瑜",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E7%B1%83%E7%B1%83%E7%8D%B2%E5%85%A8%E7%90%83%E7%99%BE%E5%A4%A7%E7%BE%8E%E5%A5%B3%E6%8F%90%E5%90%8D%E3%80%8C%E5%95%A6%E5%95%A6%E9%9A%8A%E7%AC%AC%E4%B8%80%E4%BA%BA%E3%80%8D-%E8%88%87%E5%91%A8%E5%AD%90%E7%91%9C%E3%80%81%E8%88%92%E8%8F%AF%E7%88%AD%E8%B1%94%E8%B6%85%E9%A9%9A%E8%A8%9D-020157683.html",
+      "context": "籃籃獲全球百大美女提名「啦啦隊第一人」 與周子瑜、舒華爭豔超驚訝"
+    },
+    {
+      "title": "英超",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://sports.sina.cn/2026-08-22/detail-inipcfyf7945485.d.html?vt=4&cid=72264&node_id=72264",
+      "context": "40胜5平，阿森纳在英超主场对阵升班马已经45场不败"
+    },
+    {
+      "title": "top",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.espn.com/mlb/story/_/id/49674829/sources-mariners-call-top-pitching-prospect-kade-anderson",
+      "context": "Mariners calling up top pitching prospect Kade Anderson"
+    },
+    {
+      "title": "台南火災",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "ewc cs2",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.techtimes.com/articles/325223/20260821/legacy-stuns-major-champion-falcons-2-0-again-ewc-cs2-quarterfinals.htm",
+      "context": "Legacy Stuns Major-Champion Falcons 2-0 Again at EWC CS2 Quarterfinals"
     }
   ],
   "articles": [
     {
-      "topic": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「AI companies destroy physical books – let's scan rare books before it's too late」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AI companies destroy physical books – let's scan rare books before it's too late」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "url": "https://annas-archive.pk/blog/physical-destruction.html"
-        }
-      ]
-    },
-    {
-      "topic": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Grand jury declines to indict Ohio man charged with destroying Flock camera」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Grand jury declines to indict Ohio man charged with destroying Flock camera」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-          "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/"
-        }
-      ]
-    },
-    {
       "topic": "Kagi added a setting for removing paywalled links from search results",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Kagi added a setting for removing paywalled links from search results」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "Kagi added a setting for removing paywalled links from search results",
           "url": "https://kagi.com/changelog#11296"
+        }
+      ]
+    },
+    {
+      "topic": "DeepSeek-v4-flash-vision-exp",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「DeepSeek-v4-flash-vision-exp」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「DeepSeek-v4-flash-vision-exp」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "url": "https://api-docs.deepseek.com/guides/vision/"
+        }
+      ]
+    },
+    {
+      "topic": "Felony Bench",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Felony Bench」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Felony Bench」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Felony Bench",
+          "url": "https://www.felonybench.com/"
         }
       ]
     }
