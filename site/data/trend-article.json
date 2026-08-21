@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-21T15:09:48+08:00",
+  "generated_at": "2026-08-21T17:53:35+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "氣象",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 95,
+      "traffic": "50000+",
+      "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8B%A2%E5%8D%87%E7%B4%9A%EF%BC%81%E5%8C%97%E5%8C%97%E5%9F%BA%E7%AD%8916%E7%B8%A3%E5%B8%82%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E9%9B%99%E5%8C%97%E7%AD%894%E5%9C%B0%E9%98%B2%E5%A4%A7%E9%9B%B7%E9%9B%A8-002720607.html",
+      "context": "雨勢升級！北北基等16縣市豪、大雨特報 雙北等4地防大雷雨"
+    },
     {
       "title": "The August 17 outage",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "461 pts / 522 comments",
+      "traffic": "525 pts / 589 comments",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "context": "High-engagement technology discussion"
     },
@@ -14,96 +22,124 @@
       "title": "I like 'em thick: an apology to my English teachers",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "688 pts / 286 comments",
+      "traffic": "730 pts / 302 comments",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "HTML Can Do That",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "804 pts / 189 comments",
+      "url": "https://chrisburnell.com/html-can-do-that/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "470 pts / 397 comments",
+      "traffic": "496 pts / 421 comments",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "HTML Can Do That",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "720 pts / 178 comments",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "context": "High-engagement technology discussion"
+      "title": "紅包",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://vip.udn.com/vip/story/122365/9704833?from=udn-category",
+      "context": "普發一萬從「窮台」到「富台」 話都是賴政府在說| 總編News開箱"
+    },
+    {
+      "title": "手機報稅中獎名單",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "I should have loved biology (2020)",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "254 pts / 98 comments",
+      "traffic": "282 pts / 107 comments",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Ox Alpha",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "106 pts / 82 comments",
+      "score": 87,
+      "traffic": "153 pts / 114 comments",
       "url": "https://openrouter.ai/stealth/ox-alpha",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "賴清德",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.storm.mg/article/11158278",
-      "context": "不是蔣萬安、韓國瑜！藍營一大咖民調狠壓賴清德學者解讀2028態勢：重鹹吃不久| 李瑋萱 | 新聞"
-    },
-    {
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "107 pts / 31 comments",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "2426",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.cnyes.com/news/id/6583378",
-      "context": "〈焦點股〉鼎元斥資12億元擴產搶攻800G與1.6T商機 Q2轉盈激勵連拉2根漲停"
-    },
-    {
-      "title": "蘇緯達",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
       "title": "Japan tried to build an operating system for the world, the US intervened",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "46 pts / 13 comments",
+      "score": 86,
+      "traffic": "148 pts / 69 comments",
       "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "jyp娛樂",
+      "title": "投票",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E7%94%B7%E5%9C%98%E6%88%90%E5%93%A1%E4%B8%8D%E5%BF%8D%E4%BA%86-%E5%BF%8D-%E9%80%B1%E5%90%A6%E8%AA%8D-%E8%87%AA%E9%A1%98%E9%80%80%E5%9C%98-%E5%90%8C%E6%84%8F%E8%88%87jype%E8%A7%A3%E7%B4%84-030900897.html",
-      "context": "男團成員不忍了 忍一週否認「自願退團、同意與JYPE解約」"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.pts.org.tw/article/823287",
+      "context": "游盈隆：3公投案若併入11/28大選 估須開票至隔日凌晨2時"
+    },
+    {
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "64 pts / 30 comments",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "The August 17 outage",
+      "topic": "氣象",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「氣象」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「氣象」推到更高的注意力位置。雨勢升級！北北基等16縣市豪、大雨特報 雙北等4地防大雷雨。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "GOOGLE TRENDS / TW",
+          "title": "氣象",
+          "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8B%A2%E5%8D%87%E7%B4%9A%EF%BC%81%E5%8C%97%E5%8C%97%E5%9F%BA%E7%AD%8916%E7%B8%A3%E5%B8%82%E8%B1%AA%E3%80%81%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E9%9B%99%E5%8C%97%E7%AD%894%E5%9C%B0%E9%98%B2%E5%A4%A7%E9%9B%B7%E9%9B%A8-002720607.html"
+        }
+      ]
+    },
+    {
+      "topic": "The August 17 outage",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「The August 17 outage」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -139,7 +175,7 @@
     {
       "topic": "I like 'em thick: an apology to my English teachers",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「I like 'em thick: an apology to my English teachers」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "I like 'em thick: an apology to my English teachers",
           "url": "https://www.experimental-history.com/p/i-like-em-thick"
-        }
-      ]
-    },
-    {
-      "topic": "Malicious Rust crate Arrayref runs a build-time payload",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Malicious Rust crate Arrayref runs a build-time payload」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Malicious Rust crate Arrayref runs a build-time payload」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Malicious Rust crate Arrayref runs a build-time payload",
-          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
         }
       ]
     }
