@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-22T17:45:13+08:00",
+  "generated_at": "2026-08-22T21:02:33+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Felony charges for citizen deleting phone data at US Border",
       "source": "HACKER NEWS",
       "score": 95,
-      "traffic": "784 pts / 914 comments",
+      "traffic": "863 pts / 987 comments",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Kagi added a setting for removing paywalled links from search results",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1121 pts / 363 comments",
+      "score": 94,
+      "traffic": "1168 pts / 370 comments",
       "url": "https://kagi.com/changelog#11296",
       "context": "High-engagement technology discussion"
     },
@@ -22,81 +22,81 @@
       "title": "Felony Bench",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "703 pts / 278 comments",
+      "traffic": "755 pts / 283 comments",
       "url": "https://www.felonybench.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "494 pts / 343 comments",
+      "url": "https://danluu.com/perf-opt/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "393 pts / 258 comments",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Kobo can run apps now",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "543 pts / 188 comments",
+      "traffic": "585 pts / 191 comments",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "There's no reason for software to be slow anymore",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "401 pts / 289 comments",
-      "url": "https://danluu.com/perf-opt/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "307 pts / 319 comments",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "545 pts / 64 comments",
+      "score": 90,
+      "traffic": "585 pts / 72 comments",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Scientists release biggest 2D map of the universe",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "205 pts / 56 comments",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "208 pts / 46 comments",
+      "score": 88,
+      "traffic": "304 pts / 59 comments",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Three important steps in my maturation process",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "138 pts / 65 comments",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OTel isn’t going well",
-      "source": "HACKER NEWS",
+      "title": "中國",
+      "source": "GOOGLE TRENDS / TW",
       "score": 85,
-      "traffic": "117 pts / 49 comments",
-      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "context": "High-engagement technology discussion"
+      "traffic": "2000+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5548163",
+      "context": "中國人「潤日」踢鐵板？日本堵簽證漏洞 30天離境壓力恐含淚賣豪宅"
     },
     {
       "title": "Zig’s io.threaded is neat",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "71 pts / 39 comments",
+      "score": 85,
+      "traffic": "98 pts / 52 comments",
       "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "thái lan đấu với việt nam",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://vnexpress.net/hlv-thai-lan-ung-ho-cach-viet-nam-nhap-tich-cau-thu-brazil-5111710.html",
+      "context": "HLV Thái Lan: 'Ủng hộ cách Việt Nam nhập tịch cầu thủ Brazil'"
+    },
+    {
+      "title": "2026",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.wlwt.com/article/vice-president-jd-vance-price-hill-chili-restaurant/73498530",
+      "context": "VP Vance greets supporters at west side restaurant during visit to Cincinnati"
     }
   ],
   "articles": [
