@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-23T23:40:04+08:00",
+  "generated_at": "2026-08-24T02:50:18+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "To become a better writer, read as much as you can",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "329 pts / 211 comments",
+      "traffic": "382 pts / 240 comments",
       "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "421 pts / 172 comments",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 89,
+      "traffic": "366 pts / 153 comments",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "233 pts / 90 comments",
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "174 pts / 86 comments",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The End of an Athlon",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "146 pts / 58 comments",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "157 pts / 55 comments",
-      "url": "https://martypc.net/",
+      "traffic": "200 pts / 86 comments",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Malware infects Android-based automotive head unit firmware",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "107 pts / 48 comments",
+      "score": 87,
+      "traffic": "168 pts / 77 comments",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "97 pts / 64 comments",
-      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "td24",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://sportsbook.fanduel.com/basketball/ebasketball-h2h-gg-league-4x5-mins/charlotte-hornets-(thunder)-@-orlando-magic-(defiant)-35970693",
-      "context": "Charlotte Hornets (THUNDER) @ Orlando Magic (DEFIANT) Odds"
-    },
-    {
-      "title": "玩股網",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E6%9C%AC%E9%80%B1%E6%93%8D%E7%9B%A4%E7%AD%86%E8%A8%98-%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1-%E8%8F%AF%E8%A8%B1%E6%BC%94%E8%AA%AA%E8%88%87pce%E4%B8%89%E5%A4%A7%E9%97%9C%E5%8D%A1%E4%BE%86%E4%BA%86-135003333.html",
-      "context": "本週操盤筆記：輝達財報、華許演說與PCE三大關卡來了"
-    },
-    {
       "title": "What Is a Harness?",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "48 pts / 36 comments",
+      "score": 87,
+      "traffic": "146 pts / 91 comments",
       "url": "https://earendil.com/posts/what-is-a-harness/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "花蓮",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "71 pts / 61 comments",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "劉書宏",
+      "title": "西甲",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://m.sohu.com/a/1066620692_121894857?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "context": "黄潜在2026年至今点球命中率100%，进8个点球为五大联赛最多"
+    },
+    {
+      "title": "How Complex Systems Fail (1998)",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "122 pts / 32 comments",
+      "url": "https://how.complexsystems.fail/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "121 pts / 33 comments",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A website for debloated open source alternatives",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "63 pts / 26 comments",
+      "url": "https://debloat.dev/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Things I want in a modern relational query language",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "58 pts / 43 comments",
+      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Why your local LLM feels dumber than it is",
+      "topic": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Why your local LLM feels dumber than it is」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Why your local LLM feels dumber than it is」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
+          "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+          "url": "https://ericpardee.github.io/fire-hd-ownership/"
         }
       ]
     },
     {
-      "topic": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "topic": "Slovakia finds Russian backdoor in traffic speed cameras",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Slovakia finds Russian backdoor in traffic speed cameras」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Slovakia finds Russian backdoor in traffic speed cameras」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-          "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
+          "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+          "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/"
         }
       ]
     }
