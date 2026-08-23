@@ -1,60 +1,68 @@
 {
-  "generated_at": "2026-08-23T10:01:32+08:00",
+  "generated_at": "2026-08-23T12:03:38+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Scrap (2006)",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "315 pts / 177 comments",
+      "score": 90,
+      "traffic": "336 pts / 184 comments",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "309 pts / 101 comments",
+      "score": 89,
+      "traffic": "335 pts / 103 comments",
       "url": "https://quantumi.sh/public/labs.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Hister – A private, full content search index that you control",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "234 pts / 66 comments",
+      "score": 88,
+      "traffic": "265 pts / 72 comments",
       "url": "https://hister.org/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Friendly Introduction to Racket",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "193 pts / 99 comments",
+      "score": 88,
+      "traffic": "206 pts / 107 comments",
       "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why your local LLM feels dumber than it is",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "185 pts / 64 comments",
+      "score": 87,
+      "traffic": "220 pts / 72 comments",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "typ.ing",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "184 pts / 56 comments",
+      "score": 87,
+      "traffic": "206 pts / 62 comments",
       "url": "https://typ.ing/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "李灝宇",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.sports.yahoo.com/news/%E8%80%81%E8%99%8E%E9%9A%8A-%E6%AF%94%E7%89%B9%E7%8A%AC-%E6%9D%8E%E7%81%9D%E5%AE%87%E9%80%A32%E5%A4%A9%E5%85%88%E7%99%BC-%E5%B0%8D%E6%88%B0%E7%9A%87%E5%AE%B6%E5%85%88%E7%99%BC%E5%AE%88%E4%B8%89%E5%A3%98-%E6%89%93%E7%AC%AC9%E6%A3%92-232302519.html",
+      "context": "不斷更新／老虎「比特犬」李灝宇開轟啦！5局上敲超大號陽春砲 本季第7轟出爐"
     },
     {
       "title": "RF Cafe",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "151 pts / 25 comments",
+      "traffic": "162 pts / 28 comments",
       "url": "https://www.rfcafe.com/",
       "context": "High-engagement technology discussion"
     },
@@ -62,41 +70,33 @@
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "110 pts / 42 comments",
+      "traffic": "125 pts / 44 comments",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "璃來龍",
+      "title": "乳糖",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.nownews.com/news/6868425",
-      "context": "粉絲早抓包「璃來龍」在一起！她IG自介露餡　被問交往互看超曖昧"
-    },
-    {
-      "title": "NetBSD and my life (2005)",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "97 pts / 24 comments",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "context": "High-engagement technology discussion"
+      "url": "https://tw.news.yahoo.com/%E6%B2%92%E6%9C%89%E6%B7%BB%E5%8A%A0%E7%B3%96-%E9%86%AB%E8%A6%AA%E8%AD%89-%E5%96%9D1%E9%AE%AE%E4%B9%B3-%E5%BE%8C%E8%A1%80%E7%B3%96%E9%A3%86176-%E8%87%AA%E5%B7%B1%E9%83%BD%E5%9A%87%E5%A3%9E%E4%BA%86-234200784.html",
+      "context": "沒加糖！醫親證「喝1鮮乳」後血糖飆176：自己都嚇壞了"
     },
     {
       "title": "梅西",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://m.sohu.com/a/1066375575_121953481?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "context": "梅西效应：美国大联盟悄然崛起，商业潜力将超越南美顶级联赛"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://m.sohu.com/a/1066424432_121896609?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "context": "39岁梅西叉腰叹气！18次丢球权 2场2球难阻极限坠落：近4场1平3负"
     },
     {
-      "title": "美國聯邦政府債務",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5549030",
-      "context": "劃清界線！川普：貝森特自行決定介入債市"
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "126 pts / 18 comments",
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
