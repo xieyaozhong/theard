@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-08-23T15:03:56+08:00",
+  "generated_at": "2026-08-23T17:45:35+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "鄭明典",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 95,
+      "traffic": "50000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
     {
       "title": "Scrap (2006)",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "364 pts / 194 comments",
+      "traffic": "372 pts / 197 comments",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "346 pts / 123 comments",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "369 pts / 114 comments",
+      "traffic": "400 pts / 118 comments",
       "url": "https://quantumi.sh/public/labs.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
+      "title": "新聞",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://www.pref.kanagawa.jp/docs/b6m/prs/r8618821.html",
+      "context": "令和7年の神奈川県入込観光客数が過去最高を記録しました!"
+    },
+    {
+      "title": "Hister – A private, full content search index that you control",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "282 pts / 96 comments",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "traffic": "348 pts / 80 comments",
+      "url": "https://hister.org/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "美國 職 棒",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "The Golden Rule for Becoming a Better Writer",
+      "title": "To become a better writer, read as much as you can",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "62 pts / 37 comments",
+      "score": 86,
+      "traffic": "138 pts / 86 comments",
       "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "85 pts / 25 comments",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "context": "High-engagement technology discussion"
+      "title": "卓伯源",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://udn.com/news/story/124652/9708057",
+      "context": "來亂的？卓伯源籲緊急重啟「彰化縣長4人對比式全民調」 藍基層轟背骨"
     },
     {
-      "title": "臺灣",
+      "title": "江少慶",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://truemii.chinatimes.com/content/20260823000965-265001",
-      "context": "台灣自行車旅遊節啟動！實體集章＋數位軌跡感受騎旅新體驗- 瘋台灣"
-    },
-    {
-      "title": "沈伯洋",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/124652/9708749",
-      "context": "被柯文哲點名「太弱」 沈伯洋認弱反擊：柯當年出來也被說弱"
-    },
-    {
-      "title": "掀 背 車",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.carnews.com/feature_story/newcar/753023",
-      "context": "全長5m的新款「掀背 SUV 房車」引發熱烈反響！「比想像中還大！」將680匹馬力的「高性能靜音4WD」濃縮於端正車身之中！Volvo 新款「ES90」在經銷商間也成為話題"
-    },
-    {
-      "title": "疫苗",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.pts.org.tw/article/823664",
-      "context": "伊波拉致民主剛果逾2500死 世界衛生組織擬提供7萬劑疫苗"
-    },
-    {
-      "title": "火",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E9%8E%82%E9%8B%81%E5%90%88%E9%87%91%E5%A4%A7%E7%88%86%E7%82%B8%E9%87%8015%E5%82%B7-%E9%80%9A%E7%B7%9D%E6%83%A1%E8%80%81%E9%97%86%E6%97%A9%E5%B7%B2%E6%BD%9B%E9%80%83%E5%87%BA%E5%9C%8B-39%E6%B0%91%E7%9C%BE%E7%81%BD%E6%90%8D%E6%81%90-%E7%B3%8A%E7%89%9B%E5%B1%8E-180100451.html",
-      "context": "台南鎂鋁合金大爆炸釀15傷 通緝惡老闆早已潛逃出國 39民眾災損恐「糊牛屎」"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E7%9B%B8%E9%9A%94111%E5%A4%A9%E9%87%8D%E8%BF%94-%E8%BB%8D-%E6%B1%9F%E5%B0%91%E6%85%B6%E5%B0%8D%E5%85%84%E5%BC%9F%E6%8A%951%E5%B1%80%E9%80%80%E5%A0%B4-084342394.html",
+      "context": "中職》相隔111天重返一軍！江少慶對兄弟投1局退場"
     },
     {
       "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "80 pts / 16 comments",
+      "score": 84,
+      "traffic": "112 pts / 36 comments",
       "url": "https://martypc.net/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I Dream of Quieter Computing",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "68 pts / 48 comments",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The End of an Athlon",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "80 pts / 21 comments",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Scrap (2006)",
+      "topic": "鄭明典",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「鄭明典」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「鄭明典」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "GOOGLE TRENDS / TW",
+          "title": "鄭明典",
+          "url": "https://trends.google.com/trending?geo=TW"
+        }
+      ]
+    },
+    {
+      "topic": "Scrap (2006)",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Scrap (2006)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -133,42 +169,6 @@
           "source": "HACKER NEWS",
           "title": "Scrap (2006)",
           "url": "https://twitter.com/moxie/status/2091218652133732491"
-        }
-      ]
-    },
-    {
-      "topic": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「ElevenLabs, TwelveLabs, ThirteenLabs」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「ElevenLabs, TwelveLabs, ThirteenLabs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-          "url": "https://quantumi.sh/public/labs.html"
         }
       ]
     },
