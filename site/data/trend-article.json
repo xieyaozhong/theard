@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-23T05:38:43+08:00",
+  "generated_at": "2026-08-23T10:01:32+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "title": "Scrap (2006)",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "327 pts / 1000 comments",
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "score": 89,
+      "traffic": "315 pts / 177 comments",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "262 pts / 87 comments",
+      "traffic": "309 pts / 101 comments",
       "url": "https://quantumi.sh/public/labs.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Scrap",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "158 pts / 64 comments",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Hister – A private, full content search index that you control",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "160 pts / 54 comments",
+      "score": 87,
+      "traffic": "234 pts / 66 comments",
       "url": "https://hister.org/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Friendly Introduction to Racket",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "139 pts / 60 comments",
+      "score": 87,
+      "traffic": "193 pts / 99 comments",
       "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "title": "Why your local LLM feels dumber than it is",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "108 pts / 33 comments",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "score": 86,
+      "traffic": "185 pts / 64 comments",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "typ.ing",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "106 pts / 35 comments",
+      "score": 86,
+      "traffic": "184 pts / 56 comments",
       "url": "https://typ.ing/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "RF Cafe",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "101 pts / 10 comments",
+      "score": 85,
+      "traffic": "151 pts / 25 comments",
       "url": "https://www.rfcafe.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "西班牙人 對 皇家馬德里",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.7m.com.cn/news/20260822/736230.shtml",
-      "context": "西甲前瞻:西班牙人 VS 皇家马德里"
-    },
-    {
-      "title": "馬毓芬",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5548979",
-      "context": "資深玉女歌手母親離世緊急停工 主辦單位致歉由她救火演出"
-    },
-    {
-      "title": "NetBSD and My Life (2005)",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "61 pts / 14 comments",
+      "score": 85,
+      "traffic": "110 pts / 42 comments",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "璃來龍",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.nownews.com/news/6868425",
+      "context": "粉絲早抓包「璃來龍」在一起！她IG自介露餡　被問交往互看超曖昧"
+    },
+    {
+      "title": "NetBSD and my life (2005)",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "97 pts / 24 comments",
       "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "source": "HACKER NEWS",
+      "title": "梅西",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "69 pts / 10 comments",
-      "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "context": "High-engagement technology discussion"
+      "traffic": "500+",
+      "url": "https://m.sohu.com/a/1066375575_121953481?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "context": "梅西效应：美国大联盟悄然崛起，商业潜力将超越南美顶级联赛"
+    },
+    {
+      "title": "美國聯邦政府債務",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5549030",
+      "context": "劃清界線！川普：貝森特自行決定介入債市"
     }
   ],
   "articles": [
     {
-      "topic": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "topic": "Scrap (2006)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Canada will match US tariffs 'dollar for dollar' as trade talks break down」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Scrap (2006)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Canada will match US tariffs 'dollar for dollar' as trade talks break down」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Scrap (2006)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,8 +131,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Scrap",
+      "topic": "Hister – A private, full content search index that you control",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Scrap」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Hister – A private, full content search index that you control」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Scrap」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Hister – A private, full content search index that you control」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Scrap",
-          "url": "https://twitter.com/moxie/status/2091218652133732491"
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/"
         }
       ]
     }
