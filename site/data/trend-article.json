@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T12:03:38+08:00",
+  "generated_at": "2026-08-23T15:03:56+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Scrap (2006)",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "336 pts / 184 comments",
+      "traffic": "364 pts / 194 comments",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
       "context": "High-engagement technology discussion"
     },
@@ -14,88 +14,88 @@
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "335 pts / 103 comments",
+      "traffic": "369 pts / 114 comments",
       "url": "https://quantumi.sh/public/labs.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Hister – A private, full content search index that you control",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "265 pts / 72 comments",
-      "url": "https://hister.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A Friendly Introduction to Racket",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "206 pts / 107 comments",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why your local LLM feels dumber than it is",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "220 pts / 72 comments",
+      "score": 88,
+      "traffic": "282 pts / 96 comments",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "typ.ing",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "206 pts / 62 comments",
-      "url": "https://typ.ing/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "李灝宇",
+      "title": "美國 職 棒",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%80%81%E8%99%8E%E9%9A%8A-%E6%AF%94%E7%89%B9%E7%8A%AC-%E6%9D%8E%E7%81%9D%E5%AE%87%E9%80%A32%E5%A4%A9%E5%85%88%E7%99%BC-%E5%B0%8D%E6%88%B0%E7%9A%87%E5%AE%B6%E5%85%88%E7%99%BC%E5%AE%88%E4%B8%89%E5%A3%98-%E6%89%93%E7%AC%AC9%E6%A3%92-232302519.html",
-      "context": "不斷更新／老虎「比特犬」李灝宇開轟啦！5局上敲超大號陽春砲 本季第7轟出爐"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "RF Cafe",
+      "title": "The Golden Rule for Becoming a Better Writer",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "162 pts / 28 comments",
-      "url": "https://www.rfcafe.com/",
+      "score": 83,
+      "traffic": "62 pts / 37 comments",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "title": "NanoGPT Speedrun Frontier",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "125 pts / 44 comments",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "score": 83,
+      "traffic": "85 pts / 25 comments",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "乳糖",
+      "title": "臺灣",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E6%B2%92%E6%9C%89%E6%B7%BB%E5%8A%A0%E7%B3%96-%E9%86%AB%E8%A6%AA%E8%AD%89-%E5%96%9D1%E9%AE%AE%E4%B9%B3-%E5%BE%8C%E8%A1%80%E7%B3%96%E9%A3%86176-%E8%87%AA%E5%B7%B1%E9%83%BD%E5%9A%87%E5%A3%9E%E4%BA%86-234200784.html",
-      "context": "沒加糖！醫親證「喝1鮮乳」後血糖飆176：自己都嚇壞了"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://truemii.chinatimes.com/content/20260823000965-265001",
+      "context": "台灣自行車旅遊節啟動！實體集章＋數位軌跡感受騎旅新體驗- 瘋台灣"
     },
     {
-      "title": "梅西",
+      "title": "沈伯洋",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://m.sohu.com/a/1066424432_121896609?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "context": "39岁梅西叉腰叹气！18次丢球权 2场2球难阻极限坠落：近4场1平3负"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/124652/9708749",
+      "context": "被柯文哲點名「太弱」 沈伯洋認弱反擊：柯當年出來也被說弱"
     },
     {
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "title": "掀 背 車",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.carnews.com/feature_story/newcar/753023",
+      "context": "全長5m的新款「掀背 SUV 房車」引發熱烈反響！「比想像中還大！」將680匹馬力的「高性能靜音4WD」濃縮於端正車身之中！Volvo 新款「ES90」在經銷商間也成為話題"
+    },
+    {
+      "title": "疫苗",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.pts.org.tw/article/823664",
+      "context": "伊波拉致民主剛果逾2500死 世界衛生組織擬提供7萬劑疫苗"
+    },
+    {
+      "title": "火",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E9%8E%82%E9%8B%81%E5%90%88%E9%87%91%E5%A4%A7%E7%88%86%E7%82%B8%E9%87%8015%E5%82%B7-%E9%80%9A%E7%B7%9D%E6%83%A1%E8%80%81%E9%97%86%E6%97%A9%E5%B7%B2%E6%BD%9B%E9%80%83%E5%87%BA%E5%9C%8B-39%E6%B0%91%E7%9C%BE%E7%81%BD%E6%90%8D%E6%81%90-%E7%B3%8A%E7%89%9B%E5%B1%8E-180100451.html",
+      "context": "台南鎂鋁合金大爆炸釀15傷 通緝惡老闆早已潛逃出國 39民眾災損恐「糊牛屎」"
+    },
+    {
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "126 pts / 18 comments",
-      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "score": 82,
+      "traffic": "80 pts / 16 comments",
+      "url": "https://martypc.net/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Hister – A private, full content search index that you control",
+      "topic": "Why your local LLM feels dumber than it is",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Hister – A private, full content search index that you control」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Why your local LLM feels dumber than it is」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Hister – A private, full content search index that you control」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Why your local LLM feels dumber than it is」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Hister – A private, full content search index that you control",
-          "url": "https://hister.org/"
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
         }
       ]
     }
