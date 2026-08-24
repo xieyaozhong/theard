@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-24T12:08:09+08:00",
+  "generated_at": "2026-08-24T15:30:47+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Everything I own, owned",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "431 pts / 132 comments",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "score": 92,
+      "traffic": "450 pts / 398 comments",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "title": "Everything I own, owned",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "306 pts / 264 comments",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 91,
+      "traffic": "712 pts / 208 comments",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "How I find problems to solve as a staff engineer",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "319 pts / 113 comments",
+      "traffic": "387 pts / 125 comments",
       "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What Is a Harness?",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "351 pts / 140 comments",
-      "url": "https://earendil.com/posts/what-is-a-harness/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "223 pts / 110 comments",
-      "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "208 pts / 89 comments",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Google Workspace thinks my domain is an email provider (2025)",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "209 pts / 55 comments",
+      "score": 88,
+      "traffic": "277 pts / 84 comments",
       "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How Complex Systems Fail (1998)",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "265 pts / 63 comments",
-      "url": "https://how.complexsystems.fail/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "207 pts / 76 comments",
-      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "陳雪生",
+      "title": "加權指數",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://tw.stock.yahoo.com/news/4-5%E8%90%AC%E9%BB%9E%E4%BF%9D%E8%A1%9B%E6%88%B0%E5%A4%B1%E5%AE%88-%E5%8F%B0%E8%82%A1-%E9%80%B1%E6%85%98%E8%B7%8C587%E9%BB%9E-%E9%80%99%E6%97%8F%E7%BE%A4-051000288.html",
+      "context": "4.5萬點保衛戰失守！台股一週慘跌587點 「這族群」卻暴衝13%"
     },
     {
-      "title": "聯電",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "貿聯",
+      "title": "2059",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
+    },
+    {
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "35 pts / 64 comments",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "110 pts / 19 comments",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "47 pts / 36 comments",
+      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "2324",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "訂閱",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://3c.ltn.com.tw/news/67315",
+      "context": "訂閱容易退訂難有解！數發部出手擬修法保障消費者"
+    },
+    {
+      "title": "New EU-wide product repair rules come into force",
+      "source": "HACKER NEWS",
+      "score": 79,
+      "traffic": "45 pts / 2 comments",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Everything I own, owned",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Everything I own, owned」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Everything I own, owned」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Everything I own, owned",
-          "url": "https://schlarp.com/posts/everything-i-own-owned/"
-        }
-      ]
-    },
-    {
       "topic": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Anthropic's best AI model struggles to attract users as cheaper tools thrive」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,6 +133,42 @@
           "source": "HACKER NEWS",
           "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+        }
+      ]
+    },
+    {
+      "topic": "Everything I own, owned",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Everything I own, owned」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Everything I own, owned」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Everything I own, owned",
+          "url": "https://schlarp.com/posts/everything-i-own-owned/"
         }
       ]
     },
