@@ -1,100 +1,100 @@
 {
-  "generated_at": "2026-08-25T03:02:32+08:00",
+  "generated_at": "2026-08-25T05:46:04+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "764 pts / 512 comments",
+      "score": 94,
+      "traffic": "921 pts / 596 comments",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "456 pts / 287 comments",
+      "score": 92,
+      "traffic": "628 pts / 416 comments",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "293 pts / 130 comments",
+      "score": 90,
+      "traffic": "454 pts / 176 comments",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "IPFS Maintainers Winding Down",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "196 pts / 84 comments",
+      "score": 89,
+      "traffic": "281 pts / 144 comments",
       "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "急診室",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
       "title": "The entire city of San Francisco as a video game",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "98 pts / 36 comments",
+      "score": 88,
+      "traffic": "248 pts / 86 comments",
       "url": "https://sf.thijs.gg/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Oceans hit highest temperature on record",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "250 pts / 119 comments",
+      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Where did all the public bathrooms go?",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "79 pts / 129 comments",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "62 pts / 25 comments",
+      "score": 85,
+      "traffic": "125 pts / 48 comments",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+      "title": "Anger, Anxiety and Agency",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "51 pts / 23 comments",
-      "url": "https://glassbox.codecanary.org",
+      "score": 85,
+      "traffic": "59 pts / 69 comments",
+      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "泡麵",
+      "title": "國民 年金",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://udn.com/news/story/6812/9709391",
-      "context": "全球一年狂吃1242億包泡麵！越南人均吃最兇第一名毫不意外| 世界萬象| 全球"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://udn.com/news/story/7314/9708227",
+      "context": "催不動 國民年金繳費率跌至4成2"
     },
     {
-      "title": "高鐵訂票",
+      "title": "英超",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://sports.sina.cn/2026-08-24/detail-inipmnps2829229.d.html?oid=5_lm8&vt=4&wm=SH803T&cid=72264&node_id=72264",
+      "context": "乱侃英超：足球的悲喜各不相同，曼联和热刺这次却能共情"
     },
     {
-      "title": "poco f9",
+      "title": "籃 籃",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.gsmarena.com/poco_f9_series_global_launch_confirmed_design_and_colors_revealed-news-74309.php",
-      "context": "Poco F9 series global launch confirmed, design and colors revealed - GSMArena.com news"
-    },
-    {
-      "title": "鏡週刊",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     }
