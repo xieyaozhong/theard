@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-08-24T23:58:01+08:00",
+  "generated_at": "2026-08-25T03:02:32+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Everything I own, owned",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1243 pts / 318 comments",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "指南宮",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8C%97%E5%B8%82%E6%8C%87%E5%8D%97%E5%AE%AE%E5%A4%A7%E7%81%AB-%E8%94%A3%E8%90%AC%E5%AE%89%E7%B7%8A%E6%80%A5%E7%99%BC%E8%81%B2-142719505.html",
-      "context": "快訊／北市指南宮大火！蔣萬安緊急發聲"
-    },
-    {
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "524 pts / 365 comments",
+      "score": 93,
+      "traffic": "764 pts / 512 comments",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "365 pts / 480 comments",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Executable Is a SQLite Database",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "306 pts / 56 comments",
-      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "124 pts / 43 comments",
+      "score": 91,
+      "traffic": "456 pts / 287 comments",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "129 pts / 57 comments",
-      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "score": 89,
+      "traffic": "293 pts / 130 comments",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "youtuber",
+      "title": "IPFS Maintainers Winding Down",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "196 pts / 84 comments",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "急診室",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://trilltrill.jp/articles/4960918",
-      "context": "長州力、スタッフにブチギレで撮影中断の危機！？ 「ちょっとしんどい」"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "SeL4 security proofs now complete on AArch64",
+      "title": "The entire city of San Francisco as a video game",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "115 pts / 28 comments",
-      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "traffic": "98 pts / 36 comments",
+      "url": "https://sf.thijs.gg/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why older tech is sometimes safer from hackers",
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "59 pts / 41 comments",
-      "url": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
+      "score": 82,
+      "traffic": "62 pts / 25 comments",
+      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "林 昀 儒",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5550537",
-      "context": "桌球》林昀儒超車林詩棟重返世界第6 寫下近兩年半最佳"
+      "traffic": "51 pts / 23 comments",
+      "url": "https://glassbox.codecanary.org",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "定期存款",
+      "title": "泡麵",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/60381493/2026%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE-%E9%8A%80%E8%A1%8C%E7%BE%8E%E5%85%83%E5%AE%9A%E5%AD%98%E5%88%A9%E7%8E%87%E9%AB%98%E6%81%AF%E9%80%BE4%E5%8E%98-%E4%B8%80%E9%8D%B5%E6%AF%94%E8%BC%83%E5%84%AA%E6%83%A0%E8%A8%88%E7%AE%97%E5%88%A9%E6%81%AF",
-      "context": "2026定期存款│銀行美元定存利率高息逾4厘！一鍵比較優惠計算利息"
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://udn.com/news/story/6812/9709391",
+      "context": "全球一年狂吃1242億包泡麵！越南人均吃最兇第一名毫不意外| 世界萬象| 全球"
+    },
+    {
+      "title": "高鐵訂票",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "poco f9",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.gsmarena.com/poco_f9_series_global_launch_confirmed_design_and_colors_revealed-news-74309.php",
+      "context": "Poco F9 series global launch confirmed, design and colors revealed - GSMArena.com news"
+    },
+    {
+      "title": "鏡週刊",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Everything I own, owned",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Everything I own, owned」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Everything I own, owned」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Everything I own, owned",
-          "url": "https://schlarp.com/posts/everything-i-own-owned/"
-        }
-      ]
-    },
-    {
-      "topic": "指南宮",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「指南宮」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「指南宮」推到更高的注意力位置。快訊／北市指南宮大火！蔣萬安緊急發聲。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "指南宮",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8C%97%E5%B8%82%E6%8C%87%E5%8D%97%E5%AE%AE%E5%A4%A7%E7%81%AB-%E8%94%A3%E8%90%AC%E5%AE%89%E7%B7%8A%E6%80%A5%E7%99%BC%E8%81%B2-142719505.html"
-        }
-      ]
-    },
-    {
       "topic": "How Europe is killing makers and micro-entrepreneurs",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「How Europe is killing makers and micro-entrepreneurs」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "How Europe is killing makers and micro-entrepreneurs",
           "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs"
+        }
+      ]
+    },
+    {
+      "topic": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+          "url": "https://twitter.com/lemire/status/2091894299289874926"
+        }
+      ]
+    },
+    {
+      "topic": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「MS Paint and Photos inivisibly watermark even locally generated output with GUID」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「MS Paint and Photos inivisibly watermark even locally generated output with GUID」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+          "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
         }
       ]
     }
