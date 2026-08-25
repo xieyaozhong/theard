@@ -7,10 +7,8 @@ const css=document.createElement('link');css.rel='stylesheet';css.href=`pass-syn
 
 const ticket=document.querySelector('.live .ticket');
 const liveCopyLink=document.querySelector('.live__copy a.dark-link');
-const menuTicket=[...document.querySelectorAll('.menu__nav a')].find(a=>a.getAttribute('href')==='ticket.html');
 if(ticket)ticket.href='draw/';
 if(liveCopyLink){liveCopyLink.href='draw/';liveCopyLink.textContent='OPEN PASS DRAW ↗'}
-if(menuTicket){menuTicket.href='draw/';const b=menuTicket.querySelector('b');if(b)b.textContent='PASS DRAW'}
 
 function readLatest(){
   try{
