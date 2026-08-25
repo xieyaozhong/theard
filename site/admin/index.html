@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#070907" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>THEARD — Ticket Issuance Admin</title>
+  <link rel="stylesheet" href="styles.css?v=1" />
+</head>
+<body>
+  <div class="adm-noise" aria-hidden="true"></div>
+  <header class="adm-hud">
+    <a href="../">← THEARD</a>
+    <div><span>THEARD / OPERATIONS</span><b>TICKET ISSUANCE ADMIN</b></div>
+    <span class="adm-local"><i></i>LOCAL PROTOTYPE</span>
+  </header>
+
+  <main class="adm-shell">
+    <section class="adm-hero">
+      <div>
+        <p>// EVENT ACCESS / SERIAL ISSUANCE</p>
+        <h1>ISSUE<br><span>ACCESS</span><br>PASSES.</h1>
+      </div>
+      <div class="adm-hero__copy">
+        <p>建立特定活動場次，批次發行唯一入場券序號與驗證 Token。此版本資料儲存在目前瀏覽器，適合活動規劃、測試與匯出；正式售票／核銷仍應接伺服器端資料庫與權限驗證。</p>
+        <div class="adm-summary">
+          <div><span>SESSIONS</span><b id="kpiSessions">00</b></div>
+          <div><span>ISSUED</span><b id="kpiIssued">000</b></div>
+          <div><span>ACTIVE</span><b id="kpiActive">000</b></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="adm-grid">
+      <aside class="adm-panel adm-panel--form">
+        <div class="adm-panel__head"><span>//01 SESSION BUILDER</span><button id="clearForm" type="button">CLEAR</button></div>
+        <form id="sessionForm">
+          <label>EVENT NAME<input id="eventName" required maxlength="60" placeholder="THEARD LIVE / 001" /></label>
+          <div class="adm-row">
+            <label>EVENT CODE<input id="eventCode" required maxlength="12" value="THD001" placeholder="THD001" /></label>
+            <label>SESSION CODE<input id="sessionCode" required maxlength="10" value="A" placeholder="A" /></label>
+          </div>
+          <div class="adm-row">
+            <label>DATE<input id="sessionDate" required type="date" /></label>
+            <label>START TIME<input id="sessionTime" required type="time" value="19:00" /></label>
+          </div>
+          <label>VENUE<input id="venue" maxlength="80" placeholder="TAIWAN / TBA" /></label>
+          <div class="adm-row">
+            <label>PASS TYPE<select id="passType"><option>GENERAL PASS</option><option>EARLY ACCESS</option><option>CREATOR PASS</option><option>WORKSHOP PASS</option><option>PARTNER PASS</option><option>BACKSTAGE PASS</option><option>FOUNDER PASS</option><option>ZERO PASS</option></select></label>
+            <label>QUANTITY<input id="quantity" type="number" min="1" max="500" value="20" /></label>
+          </div>
+          <label>START NUMBER<input id="startNumber" type="number" min="1" max="999999" value="1" /></label>
+          <label>NOTE<textarea id="note" rows="3" maxlength="180" placeholder="Optional internal note"></textarea></label>
+          <button class="adm-primary" type="submit">ISSUE SERIAL BATCH ↗</button>
+        </form>
+      </aside>
+
+      <section class="adm-panel adm-panel--sessions">
+        <div class="adm-panel__head"><span>//02 ISSUED SESSIONS</span><div><button id="exportAll" type="button">EXPORT ALL CSV</button><button id="resetAll" type="button">RESET LOCAL DATA</button></div></div>
+        <div id="sessionList" class="adm-session-list"><div class="adm-empty">NO SESSION ISSUED</div></div>
+      </section>
+    </section>
+
+    <section class="adm-panel adm-panel--tickets">
+      <div class="adm-panel__head"><span>//03 TICKET LEDGER</span><div><input id="searchInput" type="search" placeholder="SEARCH SERIAL / TOKEN / PASS" /><button id="exportVisible" type="button">EXPORT VIEW</button></div></div>
+      <div class="adm-ledger-head"><span>STATUS</span><span>SERIAL</span><span>PASS TYPE</span><span>SESSION</span><span>VERIFY TOKEN</span><span>ACTION</span></div>
+      <div id="ticketLedger" class="adm-ledger"><div class="adm-empty">SELECT OR ISSUE A SESSION</div></div>
+    </section>
+
+    <section class="adm-schema">
+      <div><span>// DATA MODEL</span><b>SESSION</b><code>event_id / session_id / event_name / date / time / venue</code></div>
+      <div><span>// HUMAN ID</span><b>SERIAL</b><code>THD001-260825-A-0001</code></div>
+      <div><span>// MACHINE ID</span><b>VERIFY TOKEN</b><code>128-bit random token / server-ready</code></div>
+      <div><span>// STATE</span><b>STATUS</b><code>ACTIVE / REVOKED / USED</code></div>
+    </section>
+
+    <footer class="adm-footer"><span>THEARD / ACCESS OPERATIONS / 2026</span><span>STATIC ADMIN PROTOTYPE — DO NOT USE AS FINAL SECURITY BOUNDARY</span></footer>
+  </main>
+
+  <dialog id="detailDialog" class="adm-dialog">
+    <div class="adm-dialog__panel">
+      <div class="adm-dialog__head"><span>TICKET DETAIL</span><button id="closeDialog" type="button">×</button></div>
+      <div id="detailBody"></div>
+    </div>
+  </dialog>
+
+  <div class="adm-toast" id="toast">DONE</div>
+  <script src="app.js?v=1"></script>
+</body>
+</html>
