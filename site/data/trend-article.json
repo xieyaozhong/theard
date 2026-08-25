@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T02:59:31+08:00",
+  "generated_at": "2026-08-26T05:46:06+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Apple introduces M6 and M5 Ultra",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "715 pts / 596 comments",
+      "traffic": "845 pts / 777 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "582 pts / 341 comments",
+      "traffic": "653 pts / 399 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "330 pts / 170 comments",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "鼓山區桃源里",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://www.storm.mg/lifestyle/11159245",
-      "context": "今天8/26停班停課最新通知！9地區宣布放豪雨假，全台22 縣市放假資訊不斷更新"
-    },
-    {
-      "title": "Nitter project received cease and desist",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "221 pts / 139 comments",
-      "url": "https://github.com/zedeus/nitter/issues/1442",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Dolly Parton has died",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "331 pts / 43 comments",
+      "score": 92,
+      "traffic": "920 pts / 137 comments",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "title": "Nitter project received cease and desist",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "176 pts / 111 comments",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "score": 91,
+      "traffic": "395 pts / 283 comments",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "My Friend Aaron",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "122 pts / 30 comments",
-      "url": "https://rorz.io/writing/my-friend-aaron",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Black hole singularity is a surface not a point",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "71 pts / 29 comments",
-      "url": "https://arxiv.org/abs/2608.21590",
+      "score": 90,
+      "traffic": "383 pts / 213 comments",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "68 pts / 14 comments",
+      "score": 88,
+      "traffic": "204 pts / 139 comments",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "context": "High-engagement technology discussion"
     },
     {
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "222 pts / 125 comments",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Black hole singularity is a surface not a point",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "141 pts / 96 comments",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "133 pts / 89 comments",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "停 班",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.yahoo.com/ftv/%E6%83%A1%E5%A4%A2%E9%82%84%E6%B2%92%E9%86%92-%E5%8D%97%E5%8F%B0%E7%81%A3%E6%9A%B4%E9%9B%A8%E7%8B%82%E7%81%8C-%E5%B1%8F%E6%9D%B1%E5%A1%AD%E8%B1%90%E6%9D%91%E5%8F%8D%E8%A6%86%E6%B7%B9%E5%A5%BD%E5%B9%BE%E5%A4%A9-101902039.html",
+      "context": "惡夢還沒醒 南台灣暴雨狂灌 屏東塭豐村反覆淹好幾天"
+    },
+    {
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "34 pts / 11 comments",
+      "score": 84,
+      "traffic": "88 pts / 35 comments",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "大乐透",
+      "title": "dolly parton",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://people.com/dolly-parton-dead-7565853",
+      "context": "Dolly Parton, Country Music Legend, Dies at 80, Just 4 Days After Saying, ‘I Still Have so Many Things I Want to Achieve’"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "New Mac mini, featuring M6 and M5 Pro",
+      "topic": "Dolly Parton has died",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「New Mac mini, featuring M6 and M5 Pro」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Dolly Parton has died」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「New Mac mini, featuring M6 and M5 Pro」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Dolly Parton has died」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "New Mac mini, featuring M6 and M5 Pro",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
+          "title": "Dolly Parton has died",
+          "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead"
         }
       ]
     }
