@@ -50,3 +50,4 @@ const hero=$('.hero');if(hero&&!$('.matter-readout',hero)){const readout=documen
 
 import('./matter.js?v=20260807-3').catch(err=>{document.documentElement.classList.add('webgl-fallback');console.warn('THEARD WebGL enhancement unavailable; base experience remains active.',err)});
 import('./trend.js?v=2').catch(err=>console.warn('THEARD trend generator unavailable; main experience remains active.',err));
+import('./pass-sync.js?v=1').catch(err=>console.warn('THEARD pass sync unavailable; main experience remains active.',err));
