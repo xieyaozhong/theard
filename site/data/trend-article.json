@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-25T21:13:39+08:00",
+  "generated_at": "2026-08-26T00:03:14+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
-    {
-      "title": "明天的天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 96,
-      "traffic": "100000+",
-      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E6%8C%81%E7%BA%8C%E9%80%BC%E8%BF%91-%E6%9C%80%E5%BF%AB%E6%98%8E%E4%B8%8B%E5%8D%8A%E5%A4%A9%E7%99%BC%E6%B5%B7%E8%AD%A6%E3%80%81%E5%91%A8%E5%9B%9B%E9%99%B8%E8%AD%A6-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%91-015725378.html",
-      "context": "沙德爾颱風持續逼近 最快明下半天發海警、周四陸警 氣象署說明最新路徑"
-    },
-    {
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1474 pts / 924 comments",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "920 pts / 658 comments",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "context": "High-engagement technology discussion"
-    },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "769 pts / 376 comments",
+      "traffic": "808 pts / 404 comments",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "416 pts / 351 comments",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "401 pts / 265 comments",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "524 pts / 157 comments",
+      "score": 91,
+      "traffic": "566 pts / 177 comments",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How Universities Should Prepare Founders",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "174 pts / 201 comments",
-      "url": "https://paulgraham.com/prepare.html",
+      "score": 87,
+      "traffic": "179 pts / 100 comments",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "xsmb",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://bnews.vn/xsct-26-8-ket-qua-xo-so-can-tho-hom-nay-ngay-26-8-2026-sxct-ngay-26-8-xo-so-can-tho/432309.html",
-      "context": "XSCT 26/8. Kết quả xổ số Cần Thơ hôm nay ngày 26/8/2026. SXCT ngày 26/8. Xổ số Cần Thơ"
-    },
-    {
-      "title": "高 金素梅",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5552039",
-      "context": "高金素梅案首開庭！ 辦公室主任利春仁認罪求緩刑- 社會"
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "175 pts / 74 comments",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Don't Wordle",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "78 pts / 31 comments",
+      "score": 87,
+      "traffic": "176 pts / 77 comments",
       "url": "https://dontwordle.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "SiFive's First Server Platform",
+      "title": "apple",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "context": "Apple introduces new Mac Studio with M5 Max and M5 Ultra"
+    },
+    {
+      "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "83 pts / 24 comments",
-      "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "score": 85,
+      "traffic": "76 pts / 61 comments",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "539號碼",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.ttv.com.tw/news/11508240004900W",
-      "context": "威力彩貳獎送出1人獨得1561萬！今彩539頭獎開2組 中獎商店曝"
+      "title": "France's tax agency got hacked (in French)",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "108 pts / 50 comments",
+      "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "台灣 民心 調查",
+      "title": "How much of HN is AI?",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "95 pts / 55 comments",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "台大",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%B0%91%E5%BF%83%E6%B0%91%E8%AA%BF-%E8%B3%B4%E6%B8%85%E5%BE%B7-%E7%9B%A7%E7%A7%80%E7%87%95%E9%83%BD%E8%BC%B8%E4%BA%86-%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E5%A5%BD%E6%84%9F%E5%BA%A6%E5%87%BA%E7%88%90-%E5%A5%B9%E7%8D%B260-073043503.html",
-      "context": "台灣民心民調》賴清德、盧秀燕都輸了！政治人物好感度出爐 她獲60.1%力挺居冠"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://udn.com/news/story/7266/9713642",
+      "context": "獨／台大候床12天婦非病死大廳 知情人士曝她全身3處感染已獲控制"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
+      "topic": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「MS Paint and Photos inivisibly watermark even locally generated output with GUID」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。沙德爾颱風持續逼近 最快明下半天發海警、周四陸警 氣象署說明最新路徑。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「MS Paint and Photos inivisibly watermark even locally generated output with GUID」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E9%A2%B1%E9%A2%A8%E6%8C%81%E7%BA%8C%E9%80%BC%E8%BF%91-%E6%9C%80%E5%BF%AB%E6%98%8E%E4%B8%8B%E5%8D%8A%E5%A4%A9%E7%99%BC%E6%B5%B7%E8%AD%A6%E3%80%81%E5%91%A8%E5%9B%9B%E9%99%B8%E8%AD%A6-%E6%B0%A3%E8%B1%A1%E7%BD%B2%E8%AA%AA%E6%98%8E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%91-015725378.html"
+          "source": "HACKER NEWS",
+          "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+          "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
         }
       ]
     },
     {
-      "topic": "How Europe is killing makers and micro-entrepreneurs",
+      "topic": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「How Europe is killing makers and micro-entrepreneurs」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「How Europe is killing makers and micro-entrepreneurs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "How Europe is killing makers and micro-entrepreneurs",
-          "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs"
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
         }
       ]
     },
     {
-      "topic": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "topic": "New Mac Studio with M5 Max and M5 Ultra",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded」開始升溫，我們真正該看的不是熱度",
+      "title": "當「New Mac Studio with M5 Max and M5 Ultra」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「New Mac Studio with M5 Max and M5 Ultra」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-          "url": "https://twitter.com/lemire/status/2091894299289874926"
+          "title": "New Mac Studio with M5 Max and M5 Ultra",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
         }
       ]
     }
