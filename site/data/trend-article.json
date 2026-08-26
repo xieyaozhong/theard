@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-26T21:18:42+08:00",
+  "generated_at": "2026-08-27T00:35:23+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Apple introduces M6 and M5 Ultra",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1221 pts / 1173 comments",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Omarchy development practices lead to predictable security issues",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "185 pts / 214 comments",
-      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "225 pts / 92 comments",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "RAG Is Simpler Than You Think",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "187 pts / 91 comments",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "142 pts / 53 comments",
-      "url": "https://news.ycombinator.com/item?id=49446210",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "trực tiếp bóng đá",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://vnexpress.net/chu-tich-fifa-du-khan-chung-ket-asean-cup-2026-5113222.html",
-      "context": "Chủ tịch FIFA dự khán chung kết ASEAN Cup 2026"
-    },
-    {
       "title": "AWS Acquires DuckDB",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "99 pts / 8 comments",
+      "score": 91,
+      "traffic": "649 pts / 171 comments",
       "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "title": "高鐵",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%B8%86%E5%AE%A3%E5%9C%A8%E6%89%8B%E8%A8%82%E5%96%AE%E9%80%BE1300%E5%84%84%E5%85%83%E8%83%BD%E8%A6%8B%E5%BA%A6%E7%9B%B4%E9%81%942028%E5%B9%B4-%E8%91%A3%E4%BA%8B%E9%95%B7%E9%AB%98%E6%96%B0%E6%98%8E%EF%BC%9A2029%E5%B9%B4%E5%86%8D%E8%BF%8E%E5%A4%A7%E7%AA%81%E7%A0%B4-085041519.html",
+      "context": "帆宣在手訂單逾1300億元能見度直達2028年 董事長高新明：2029年再迎大突破"
+    },
+    {
+      "title": "GLM-5.3-Flash",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "106 pts / 16 comments",
-      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "score": 90,
+      "traffic": "384 pts / 161 comments",
+      "url": "https://z.ai/blog/glm-5.3-flash",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "pce",
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "371 pts / 110 comments",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "France reaches 94.9% fiber coverage in 2026",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "120 pts / 67 comments",
+      "url": "https://cartefibre.arcep.fr",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "吳音寧",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E7%8E%8B%E6%83%A0%E7%BE%8E%E9%A0%BB%E5%96%8A%E8%A9%B1%E4%B8%AD-%E5%90%B3%E9%9F%B3%E5%AF%A7%E6%8F%AD%E5%A5%B9-%E7%82%BA1%E4%BA%8B-%E6%80%A5%E4%BA%86-115800441.html",
+      "context": "王惠美頻喊話中央！吳音寧揭她「為1事」：急了"
+    },
+    {
+      "title": "Nebula Sans",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "102 pts / 46 comments",
+      "url": "https://www.nebulasans.com",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Disruption with Some GitHub Services",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "100 pts / 57 comments",
+      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "82 pts / 41 comments",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "指南 宮",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-      "context": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Bill Gates: The turbulent AI era is here",
+      "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "28 pts / 15 comments",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "score": 82,
+      "traffic": "76 pts / 17 comments",
+      "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Beyond Recall and the Illusion of Competence",
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "40 pts / 13 comments",
-      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+      "score": 82,
+      "traffic": "42 pts / 34 comments",
+      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "vietnam vs thailand",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://aseanutdfc.com/asean-championship/2026/news/cautious-kim-hopes-to-dust-off-dancing-shoes-with-vietnam-victory",
-      "context": "CAUTIOUS KIM HOPES TO DUST OFF DANCING SHOES WITH VIETNAM VICTORY"
     }
   ],
   "articles": [
     {
-      "topic": "Apple introduces M6 and M5 Ultra",
+      "topic": "AWS Acquires DuckDB",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Apple introduces M6 and M5 Ultra」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AWS Acquires DuckDB」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Apple introduces M6 and M5 Ultra」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AWS Acquires DuckDB」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Apple introduces M6 and M5 Ultra",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
+          "title": "AWS Acquires DuckDB",
+          "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
         }
       ]
     },
     {
-      "topic": "Omarchy development practices lead to predictable security issues",
+      "topic": "高鐵",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Omarchy development practices lead to predictable security issues」開始升溫，我們真正該看的不是熱度",
+      "title": "當「高鐵」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Omarchy development practices lead to predictable security issues」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「高鐵」推到更高的注意力位置。帆宣在手訂單逾1300億元能見度直達2028年 董事長高新明：2029年再迎大突破。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,22 +166,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Omarchy development practices lead to predictable security issues",
-          "url": "https://blog.happyfellow.dev/merchants-of-insecurity/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "高鐵",
+          "url": "https://tw.stock.yahoo.com/news/%E5%B8%86%E5%AE%A3%E5%9C%A8%E6%89%8B%E8%A8%82%E5%96%AE%E9%80%BE1300%E5%84%84%E5%85%83%E8%83%BD%E8%A6%8B%E5%BA%A6%E7%9B%B4%E9%81%942028%E5%B9%B4-%E8%91%A3%E4%BA%8B%E9%95%B7%E9%AB%98%E6%96%B0%E6%98%8E%EF%BC%9A2029%E5%B9%B4%E5%86%8D%E8%BF%8E%E5%A4%A7%E7%AA%81%E7%A0%B4-085041519.html"
         }
       ]
     },
     {
-      "topic": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "topic": "GLM-5.3-Flash",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GLM-5.3-Flash」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GLM-5.3-Flash」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
+          "title": "GLM-5.3-Flash",
+          "url": "https://z.ai/blog/glm-5.3-flash"
         }
       ]
     }
