@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T10:00:48+08:00",
+  "generated_at": "2026-08-26T12:05:26+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Apple introduces M6 and M5 Ultra",
       "source": "HACKER NEWS",
       "score": 95,
-      "traffic": "964 pts / 903 comments",
+      "traffic": "1025 pts / 947 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "context": "High-engagement technology discussion"
     },
@@ -14,39 +14,31 @@
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "705 pts / 453 comments",
+      "traffic": "724 pts / 479 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Nitter and XCancel receive cease and desist notices",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "645 pts / 545 comments",
-      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "score": 91,
+      "traffic": "379 pts / 257 comments",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "431 pts / 263 comments",
+      "traffic": "456 pts / 279 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "331 pts / 230 comments",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "274 pts / 145 comments",
+      "traffic": "321 pts / 158 comments",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
       "context": "High-engagement technology discussion"
     },
@@ -54,49 +46,57 @@
       "title": "Black hole singularity is a surface not a point",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "186 pts / 128 comments",
+      "traffic": "212 pts / 152 comments",
       "url": "https://arxiv.org/abs/2608.21590",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "80 pts / 37 comments",
+      "score": 85,
+      "traffic": "106 pts / 55 comments",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "64 pts / 29 comments",
+      "score": 84,
+      "traffic": "87 pts / 38 comments",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "2426",
+      "title": "被動 元件",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=d912239b-0c3e-4b5d-ab28-e745657f0c75",
-      "context": "鼎元光通訊產品拚H2放量；MicroLED佈局獲關注- 新聞"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "49 pts / 9 comments",
-      "url": "https://github.com/swimmingbrain/texbrain",
+      "score": 81,
+      "traffic": "48 pts / 19 comments",
+      "url": "https://github.com/runetes/maiao",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "敗訴",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "18 pts / 29 comments",
+      "url": "https://news.ycombinator.com/item?id=49443820",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Queryable Executables",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "49 pts / 6 comments",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Nitter and XCancel receive cease and desist notices",
+      "topic": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Nitter and XCancel receive cease and desist notices」開始升溫，我們真正該看的不是熱度",
+      "title": "當「OpenAI Jalapeño: Better than Nvidia Blackwell」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nitter and XCancel receive cease and desist notices」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「OpenAI Jalapeño: Better than Nvidia Blackwell」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Nitter and XCancel receive cease and desist notices",
-          "url": "https://github.com/zedeus/nitter/issues/1442"
+          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
         }
       ]
     }
