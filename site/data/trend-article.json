@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T15:11:01+08:00",
+  "generated_at": "2026-08-26T17:59:51+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Apple introduces M6 and M5 Ultra",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1084 pts / 1030 comments",
+      "score": 96,
+      "traffic": "1143 pts / 1109 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "context": "High-engagement technology discussion"
     },
@@ -14,7 +14,7 @@
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "750 pts / 493 comments",
+      "traffic": "769 pts / 508 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "context": "High-engagement technology discussion"
     },
@@ -22,81 +22,81 @@
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "435 pts / 283 comments",
+      "traffic": "487 pts / 309 comments",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "481 pts / 297 comments",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "357 pts / 174 comments",
+      "traffic": "397 pts / 194 comments",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Black hole singularity is a surface not a point",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "225 pts / 167 comments",
-      "url": "https://arxiv.org/abs/2608.21590",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "48 pts / 56 comments",
-      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Queryable Executables",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "117 pts / 18 comments",
+      "score": 86,
+      "traffic": "187 pts / 51 comments",
       "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "65 pts / 34 comments",
-      "url": "https://github.com/runetes/maiao",
-      "context": "High-engagement technology discussion"
+      "title": "普 發 一 萬",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.storm.mg/lifestyle/11159345",
+      "context": "全國普發一萬最新進度！9月每人10000元大紅包「1地符合條件直接入帳」， 發放時間地點一次看"
     },
     {
-      "title": "2454",
+      "title": "旺 矽 跌停",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "3653",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E6%95%A3%E7%86%B1%E8%82%A1%E7%8E%8B%E5%81%A5%E7%AD%96%E8%B5%B0%E5%87%BA%E8%BC%9D%E9%81%94%E8%AE%8A%E6%9B%B4%E8%A8%AD%E8%A8%88%E9%99%B0%E9%9C%BE-%E6%BC%B2%E5%81%9C%E9%8E%96%E6%AD%BB5725%E5%85%83-%E5%BC%B7%E5%8B%A2%E8%B6%85%E8%B6%8A%E5%89%8D%E9%AB%98-042100493.html",
-      "context": "散熱股王健策走出輝達變更設計陰霾！漲停鎖死5725元 強勢超越前高"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E7%89%9B%E4%BE%86%E4%BA%86-%E5%8F%8D%E8%80%8C%E6%91%94%E4%B8%8B%E7%A5%9E%E5%A3%87-%E9%80%99%E6%AA%94%E6%8E%A2%E9%87%9D%E5%8D%A1%E9%BE%8D%E9%A0%AD-%E6%8C%81%E4%BA%AE%E7%9C%BC%E8%B2%A1%E5%A0%B1%E5%8D%BB%E6%85%98%E5%B4%A99-%E4%BB%8D%E7%8D%B2%E5%A4%96%E8%B3%87%E6%9A%96%E9%80%819500%E7%9B%AE%E6%A8%99%E5%83%B9%E5%8A%9B%E6%8C%BA-084000426.html",
+      "context": "「牛來了」反而摔下神壇？「這檔探針卡龍頭」持亮眼財報卻慘崩9％ 仍獲外資暖送9500目標價力挺"
     },
     {
       "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "41 pts / 14 comments",
+      "score": 84,
+      "traffic": "103 pts / 28 comments",
       "url": "https://www.youtube.com/watch?v=656058JxTM0",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "38 pts / 11 comments",
+      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "jimmy butler",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://bluemanhoop.com/warriors-have-jimmy-butler-injury-hope-desperately-need",
+      "context": "Warriors have Jimmy Butler injury hope they desperately need"
+    },
+    {
+      "title": "律師",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "喬納森·庫明加",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
