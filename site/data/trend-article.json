@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-26T17:59:51+08:00",
+  "generated_at": "2026-08-26T21:18:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Apple introduces M6 and M5 Ultra",
       "source": "HACKER NEWS",
       "score": 96,
-      "traffic": "1143 pts / 1109 comments",
+      "traffic": "1221 pts / 1173 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "title": "Omarchy development practices lead to predictable security issues",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "769 pts / 508 comments",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "score": 89,
+      "traffic": "185 pts / 214 comments",
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "487 pts / 309 comments",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 88,
+      "traffic": "225 pts / 92 comments",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "title": "RAG Is Simpler Than You Think",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "397 pts / 194 comments",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 87,
+      "traffic": "187 pts / 91 comments",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Queryable Executables",
+      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "187 pts / 51 comments",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "traffic": "142 pts / 53 comments",
+      "url": "https://news.ycombinator.com/item?id=49446210",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "普 發 一 萬",
+      "title": "trực tiếp bóng đá",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.storm.mg/lifestyle/11159345",
-      "context": "全國普發一萬最新進度！9月每人10000元大紅包「1地符合條件直接入帳」， 發放時間地點一次看"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://vnexpress.net/chu-tich-fifa-du-khan-chung-ket-asean-cup-2026-5113222.html",
+      "context": "Chủ tịch FIFA dự khán chung kết ASEAN Cup 2026"
     },
     {
-      "title": "旺 矽 跌停",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E7%89%9B%E4%BE%86%E4%BA%86-%E5%8F%8D%E8%80%8C%E6%91%94%E4%B8%8B%E7%A5%9E%E5%A3%87-%E9%80%99%E6%AA%94%E6%8E%A2%E9%87%9D%E5%8D%A1%E9%BE%8D%E9%A0%AD-%E6%8C%81%E4%BA%AE%E7%9C%BC%E8%B2%A1%E5%A0%B1%E5%8D%BB%E6%85%98%E5%B4%A99-%E4%BB%8D%E7%8D%B2%E5%A4%96%E8%B3%87%E6%9A%96%E9%80%819500%E7%9B%AE%E6%A8%99%E5%83%B9%E5%8A%9B%E6%8C%BA-084000426.html",
-      "context": "「牛來了」反而摔下神壇？「這檔探針卡龍頭」持亮眼財報卻慘崩9％ 仍獲外資暖送9500目標價力挺"
-    },
-    {
-      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+      "title": "AWS Acquires DuckDB",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "103 pts / 28 comments",
-      "url": "https://www.youtube.com/watch?v=656058JxTM0",
+      "score": 83,
+      "traffic": "99 pts / 8 comments",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "106 pts / 16 comments",
+      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "pce",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
+      "context": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July"
+    },
+    {
+      "title": "Bill Gates: The turbulent AI era is here",
       "source": "HACKER NEWS",
       "score": 80,
-      "traffic": "38 pts / 11 comments",
-      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+      "traffic": "28 pts / 15 comments",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "jimmy butler",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://bluemanhoop.com/warriors-have-jimmy-butler-injury-hope-desperately-need",
-      "context": "Warriors have Jimmy Butler injury hope they desperately need"
+      "title": "Beyond Recall and the Illusion of Competence",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "40 pts / 13 comments",
+      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "律師",
+      "title": "vietnam vs thailand",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "喬納森·庫明加",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://aseanutdfc.com/asean-championship/2026/news/cautious-kim-hopes-to-dust-off-dancing-shoes-with-vietnam-victory",
+      "context": "CAUTIOUS KIM HOPES TO DUST OFF DANCING SHOES WITH VIETNAM VICTORY"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "New Mac Studio with M5 Max and M5 Ultra",
+      "topic": "Omarchy development practices lead to predictable security issues",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「New Mac Studio with M5 Max and M5 Ultra」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Omarchy development practices lead to predictable security issues」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「New Mac Studio with M5 Max and M5 Ultra」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Omarchy development practices lead to predictable security issues」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "New Mac Studio with M5 Max and M5 Ultra",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"
+          "title": "Omarchy development practices lead to predictable security issues",
+          "url": "https://blog.happyfellow.dev/merchants-of-insecurity/"
         }
       ]
     },
     {
-      "topic": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "topic": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「OpenAI Jalapeño: Better than Nvidia Blackwell」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenAI Jalapeño: Better than Nvidia Blackwell」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
         }
       ]
     }
