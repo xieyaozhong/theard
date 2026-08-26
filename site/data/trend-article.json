@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T12:05:26+08:00",
+  "generated_at": "2026-08-26T15:11:01+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Apple introduces M6 and M5 Ultra",
       "source": "HACKER NEWS",
       "score": 95,
-      "traffic": "1025 pts / 947 comments",
+      "traffic": "1084 pts / 1030 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "context": "High-engagement technology discussion"
     },
@@ -14,7 +14,7 @@
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "724 pts / 479 comments",
+      "traffic": "750 pts / 493 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "context": "High-engagement technology discussion"
     },
@@ -22,7 +22,7 @@
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "379 pts / 257 comments",
+      "traffic": "435 pts / 283 comments",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "context": "High-engagement technology discussion"
     },
@@ -30,44 +30,52 @@
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "456 pts / 279 comments",
+      "traffic": "481 pts / 297 comments",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "321 pts / 158 comments",
+      "score": 90,
+      "traffic": "357 pts / 174 comments",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Black hole singularity is a surface not a point",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "212 pts / 152 comments",
+      "score": 89,
+      "traffic": "225 pts / 167 comments",
       "url": "https://arxiv.org/abs/2608.21590",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "106 pts / 55 comments",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "87 pts / 38 comments",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "traffic": "48 pts / 56 comments",
+      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "被動 元件",
+      "title": "Queryable Executables",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "117 pts / 18 comments",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "65 pts / 34 comments",
+      "url": "https://github.com/runetes/maiao",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "2454",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
@@ -75,27 +83,19 @@
       "context": ""
     },
     {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "48 pts / 19 comments",
-      "url": "https://github.com/runetes/maiao",
-      "context": "High-engagement technology discussion"
+      "title": "3653",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E6%95%A3%E7%86%B1%E8%82%A1%E7%8E%8B%E5%81%A5%E7%AD%96%E8%B5%B0%E5%87%BA%E8%BC%9D%E9%81%94%E8%AE%8A%E6%9B%B4%E8%A8%AD%E8%A8%88%E9%99%B0%E9%9C%BE-%E6%BC%B2%E5%81%9C%E9%8E%96%E6%AD%BB5725%E5%85%83-%E5%BC%B7%E5%8B%A2%E8%B6%85%E8%B6%8A%E5%89%8D%E9%AB%98-042100493.html",
+      "context": "散熱股王健策走出輝達變更設計陰霾！漲停鎖死5725元 強勢超越前高"
     },
     {
-      "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "18 pts / 29 comments",
-      "url": "https://news.ycombinator.com/item?id=49443820",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Queryable Executables",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "49 pts / 6 comments",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "traffic": "41 pts / 14 comments",
+      "url": "https://www.youtube.com/watch?v=656058JxTM0",
       "context": "High-engagement technology discussion"
     }
   ],
