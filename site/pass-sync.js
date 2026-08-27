@@ -2,6 +2,7 @@ const PASS_SYNC_VERSION='1';
 const PASS_SYNC_KEY='theard.passdraw.latest';
 const PASS_STATE_KEYS=['theard.passdraw.v3','theard.passdraw.v2','theard.passdraw.v1'];
 const CHANNEL_NAME='theard-pass-sync';
+const SAFE_RARITIES=['COMMON','UNCOMMON','RARE','EPIC','LEGENDARY','MYTHIC'];
 
 const css=document.createElement('link');css.rel='stylesheet';css.href=`pass-sync.css?v=${PASS_SYNC_VERSION}`;document.head.appendChild(css);
 
@@ -27,7 +28,17 @@ function readLatest(){
 }
 
 function clearRarityClasses(){if(!ticket)return;[...ticket.classList].filter(c=>c.startsWith('pass-rarity-')).forEach(c=>ticket.classList.remove(c))}
-function safeText(v,fallback='—'){return String(v??fallback)}
+function safeText(v,fallback=''){return String(v??fallback)}
+function escapeHtml(v){return safeText(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function normalizeEntry(entry){
+  if(!entry)return null;
+  const ticketData=entry.ticket||{},session=entry.session||{};
+  return{
+    name:ticketData.passType||entry.passType||entry.name||'',rarity:ticketData.rarity||entry.rarity||'',serial:ticketData.serial||entry.serial||entry.code||'',
+    zone:ticketData.zone||entry.zone||'',status:ticketData.status||entry.status||'',verifyToken:ticketData.verifyToken||entry.verifyToken||'',
+    eventName:session.eventName||entry.eventName||'',sessionCode:session.sessionCode||entry.sessionCode||'',date:session.date||entry.date||'',time:session.time||entry.sessionTime||'',venue:session.venue||entry.venue||'',pet:entry.pet||null
+  };
+}
 
 function ensureStateLabel(){
   const copy=document.querySelector('.live__copy');if(!copy)return null;
@@ -36,8 +47,9 @@ function ensureStateLabel(){
   return el;
 }
 
-function render(entry){
+function render(rawEntry){
   if(!ticket)return;
+  const entry=normalizeEntry(rawEntry);
   const mainStrong=ticket.querySelector('.ticket__main > strong');
   const top=ticket.querySelector('.ticket__top');
   const bottom=ticket.querySelector('.ticket__bottom');
@@ -48,6 +60,7 @@ function render(entry){
 
   ticket.classList.toggle('pass-sync-bonded',Boolean(entry));
   if(!entry){
+    ticket.href='draw/';
     if(mainStrong)mainStrong.innerHTML='DRAW<br>YOUR PASS';
     if(top){const spans=top.querySelectorAll('span');if(spans[1])spans[1].textContent='SYNC READY'}
     if(bottom)bottom.innerHTML='<span>PASS × PET / COLLECTIBLE ENTRY</span><span>OPEN DRAW SYSTEM</span>';
@@ -57,18 +70,22 @@ function render(entry){
     return;
   }
 
-  const rarity=safeText(entry.rarity,'COMMON').toUpperCase();
-  const name=safeText(entry.name,'GENERAL PASS').toUpperCase();
-  const code=safeText(entry.code,'THD-001-XXXXXX');
-  const zone=safeText(entry.zone,'A-00');
+  const rawRarity=safeText(entry.rarity).toUpperCase();
+  const rarity=SAFE_RARITIES.includes(rawRarity)?rawRarity:'';
+  const name=safeText(entry.name).toUpperCase();
+  const code=safeText(entry.serial);
+  const zone=safeText(entry.zone);
   const pet=entry.pet||null;
-  ticket.classList.add(`pass-rarity-${rarity.toLowerCase()}`);
-  if(mainStrong)mainStrong.innerHTML=name.replace(/\s+/g,'<br>');
-  if(top){const spans=top.querySelectorAll('span');if(spans[1])spans[1].textContent=rarity}
-  if(bottom)bottom.innerHTML=`<span class="pass-sync-code">${code}</span><span>${zone}${pet?`<small class="pass-sync-pet">PET / ${safeText(pet.name)} · ${safeText(pet.rarity)}</small>`:''}</span>`;
-  if(stubB)stubB.textContent=zone;
-  if(stubSmall)stubSmall.textContent=pet?`PET / ${safeText(pet.name)}`:'PASS / BONDED';
-  if(stateLabel){stateLabel.classList.add('is-bonded');stateLabel.querySelector('span').textContent=`SYNCED / ${name} / ${rarity}`}
+  const meta=[entry.sessionCode,entry.date,entry.time,entry.venue].filter(Boolean).join(' / ');
+  const official=Boolean(code&&entry.verifyToken);
+  ticket.href=official?'ticket.html':'draw/';
+  if(rarity)ticket.classList.add(`pass-rarity-${rarity.toLowerCase()}`);
+  if(mainStrong)mainStrong.innerHTML=escapeHtml(name||'CLAIMED PASS').replace(/\s+/g,'<br>');
+  if(top){const spans=top.querySelectorAll('span');if(spans[0])spans[0].textContent=entry.eventName||'CLAIMED PASS';if(spans[1])spans[1].textContent=rarity||entry.status||'VERIFIED'}
+  if(bottom)bottom.innerHTML=`<span class="pass-sync-code">${escapeHtml(code)}</span><span>${escapeHtml(meta)}${pet?`<small class="pass-sync-pet">PET / ${escapeHtml(pet.name)} · ${escapeHtml(pet.rarity)}</small>`:''}</span>`;
+  if(stubB)stubB.textContent=zone||'—';
+  if(stubSmall)stubSmall.textContent=pet?`PET / ${safeText(pet.name)}`:official?'PASS / VERIFIED':'PASS / BONDED';
+  if(stateLabel){stateLabel.classList.add('is-bonded');stateLabel.querySelector('span').textContent=`SYNCED / ${name||'CLAIMED PASS'}${rarity?` / ${rarity}`:''}`}
 }
 
 render(readLatest());

@@ -1,1 +1,40 @@
-<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#080a09"><title>THEARD / Ticket Verification</title><style>body{margin:0;background:#080a09;color:#f0f3ed;font-family:Arial;min-height:100vh;display:grid;place-items:center}.box{width:min(760px,88vw);border:1px solid #caff35;padding:32px}.ey{font:10px Consolas,monospace;letter-spacing:.14em;color:#caff35}h1{font-size:clamp(56px,10vw,120px);line-height:.78;letter-spacing:-.07em;margin:40px 0}p{color:#9aa39b;line-height:1.6}.id{border-top:1px solid #2b302d;border-bottom:1px solid #2b302d;padding:16px 0;font:16px Consolas,monospace}a{color:#caff35;text-decoration:none;font:10px Consolas,monospace}</style></head><body><main class="box"><div class="ey">// THEARD LIVE / TICKET CHECK</div><h1>DEMO<br>VERIFY.</h1><div class="id" id="id"></div><p>這是前端展示版驗證頁，目前只讀取 QR 中的票號，尚未連接伺服器端票券資料庫，因此不能作為正式入場核銷依據。</p><a href="ticket.html">← RETURN TO TICKET</a></main><script>const p=new URLSearchParams(location.search);document.getElementById('id').textContent=p.get('ticket')||'NO TICKET ID';</script></body></html>
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#080a09" />
+  <title>THEARD / Ticket Verification</title>
+  <style>
+    :root{--acid:#d9ff3f;--danger:#ff6b6b;--blue:#79b8ff}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 75% 5%,rgba(217,255,63,.07),transparent 32%),#080a09;color:#f0f3ed;font-family:Arial,"Noto Sans TC",sans-serif;min-height:100vh;display:grid;place-items:center;padding:24px}.box{width:min(820px,94vw);border:1px solid #344034;padding:clamp(24px,6vw,56px);background:rgba(7,10,7,.92)}.ey{font:9px ui-monospace,monospace;letter-spacing:.14em;color:var(--acid)}h1{font-size:clamp(58px,11vw,126px);line-height:.76;letter-spacing:-.07em;margin:38px 0}h1 span{color:var(--acid)}.state[data-state=USED] h1 span{color:var(--blue)}.state[data-state=REVOKED] h1 span,.state[data-state="NOT FOUND"] h1 span,.state[data-state="SERVICE ERROR"] h1 span{color:var(--danger)}p{color:#9aa39b;line-height:1.7}.grid{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid #2b302d;margin:24px 0}.grid div{padding:14px;border-right:1px solid #2b302d;border-bottom:1px solid #2b302d}.grid div:nth-child(3n){border-right:0}.grid div:nth-last-child(-n+3){border-bottom:0}.grid span,.grid b{display:block}.grid span{color:#667066;font:8px ui-monospace,monospace;letter-spacing:.1em}.grid b{margin-top:8px;font:11px/1.5 ui-monospace,monospace;overflow-wrap:anywhere}.id{border-top:1px solid #2b302d;border-bottom:1px solid #2b302d;padding:16px 0;font:13px ui-monospace,monospace;color:#d8ded6}a{color:var(--acid);text-decoration:none;font:9px ui-monospace,monospace;letter-spacing:.1em}.privacy{font-size:12px;color:#6f796f}@media(max-width:640px){.grid{grid-template-columns:1fr 1fr}.grid div:nth-child(3n){border-right:1px solid #2b302d}.grid div:nth-child(2n){border-right:0}.grid div:nth-last-child(-n+3){border-bottom:1px solid #2b302d}.grid div:nth-last-child(-n+2){border-bottom:0}}
+  </style>
+</head>
+<body>
+  <main class="box state" id="state" data-state="VERIFYING" aria-live="polite">
+    <div class="ey">// THEARD LIVE / SERVER TICKET CHECK</div>
+    <h1 id="headline">VERIFYING<br><span>PASS.</span></h1>
+    <div class="id" id="serial">—</div>
+    <p id="message">正在向共用票券資料查詢狀態…</p>
+    <div class="grid" id="details" hidden><div><span>EVENT</span><b id="eventName">—</b></div><div><span>SESSION</span><b id="session">—</b></div><div><span>DATE / TIME</span><b id="dateTime">—</b></div><div><span>PASS</span><b id="passType">—</b></div><div><span>ZONE</span><b id="zone">—</b></div><div><span>VENUE</span><b id="venue">—</b></div></div>
+    <p class="privacy">此頁只查詢票券狀態，不會執行入場核銷。正式入場仍由工作人員在受保護後台完成。</p>
+    <a href="ticket.html">← RETURN TO TICKET</a>
+  </main>
+  <script src="api.js?v=2"></script>
+  <script>
+    (async function(){
+      const query=new URLSearchParams(location.search),fragment=new URLSearchParams(location.hash.slice(1)),serial=fragment.get('serial')||query.get('serial')||'',token=fragment.get('token')||query.get('token')||'',root=document.getElementById('state'),headline=document.getElementById('headline'),message=document.getElementById('message'),details=document.getElementById('details');
+      document.getElementById('serial').textContent=serial||'NO TICKET ID';
+      function setState(state,copy){root.dataset.state=state;headline.innerHTML=`${state.replace(' ','<br>')}<br><span>PASS.</span>`;message.textContent=copy}
+      if(!serial||!token){setState('NOT FOUND','查無此票券或驗證資訊不完整。');return}
+      try{
+        const data=await TheardAPI.verifyTicket(serial,token),status=data.status||'NOT FOUND';
+        if(status==='ACTIVE'&&data.valid)setState('VALID','票券有效且已完成領取，可由現場工作人員進一步核銷。');
+        else if(status==='USED')setState('USED','此票券已完成入場核銷，不能重複使用。');
+        else if(status==='REVOKED')setState('REVOKED','此票券已由活動後台停用。');
+        else setState('NOT FOUND','查無可使用的票券狀態。');
+        const ticket=data.ticket||{},session=data.session||{};details.hidden=false;document.getElementById('eventName').textContent=session.eventName||session.eventCode||'—';document.getElementById('session').textContent=[session.eventCode,session.sessionCode].filter(Boolean).join(' / ')||'—';document.getElementById('dateTime').textContent=[session.date,session.time].filter(Boolean).join(' / ')||'—';document.getElementById('passType').textContent=[ticket.passType,ticket.rarity].filter(Boolean).join(' / ')||'—';document.getElementById('zone').textContent=ticket.zone||'—';document.getElementById('venue').textContent=session.venue||'—';
+      }catch(error){if(error.code==='NOT_FOUND')setState('NOT FOUND','查無此票券或驗證資訊不正確。');else setState('SERVICE ERROR',error.message||'驗證服務暫時無法使用，請稍後再試。')}
+    })();
+  </script>
+</body>
+</html>

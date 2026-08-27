@@ -39,17 +39,23 @@ jobs:
           test -f site/trend.css
           test -f site/pass-sync.js
           test -f site/pass-sync.css
+          test -f site/api.js
+          test -f site/ticket.html
+          test -f site/ticket.js
+          test -f site/verify.html
           test -f site/data/trend-article.json
           test -f site/trend/index.html
           test -f site/trend/styles.css
           test -f site/trend/app.js
           test -f site/draw/index.html
           test -f site/draw/styles.css
+          test -f site/draw/access.css
           test -f site/draw/app.js
           test -f site/draw/pets.js
           test -f site/draw/rarity.css
           test -f site/admin/index.html
           test -f site/admin/styles.css
+          test -f site/admin/sync.css
           test -f site/admin/app.js
 
           python - <<'PY'
@@ -65,6 +71,12 @@ jobs:
           draw_app = Path('site/draw/app.js').read_text(encoding='utf-8')
           admin = Path('site/admin/index.html').read_text(encoding='utf-8')
           admin_app = Path('site/admin/app.js').read_text(encoding='utf-8')
+          api = Path('site/api.js').read_text(encoding='utf-8')
+          ticket = Path('site/ticket.html').read_text(encoding='utf-8')
+          ticket_app = Path('site/ticket.js').read_text(encoding='utf-8')
+          verify = Path('site/verify.html').read_text(encoding='utf-8')
+          root_404 = Path('404.html').read_text(encoding='utf-8')
+          site_404 = Path('site/404.html').read_text(encoding='utf-8')
 
           assert 'THEARD — Attention Engine' in main, 'main entrance title missing'
           assert 'THEARD — 趨勢訊號分析器' in analyzer, 'trend analyzer entrance title missing'
@@ -73,6 +85,7 @@ jobs:
           assert 'href="../"' in analyzer, 'trend analyzer must return to main site'
           assert 'href="../"' in draw, 'draw page must return to main site'
           assert 'href="../"' in admin, 'admin page must return to main site'
+          assert '<a href="draw/"><span>//05</span><b>TICKET</b>' in main, 'main ticket navigation must open draw'
 
           # Each entrance owns its runtime and visual namespace.
           assert 'src="draw/app.js' not in main
@@ -101,11 +114,26 @@ jobs:
           assert 'trend.js' not in draw and 'trend.css' not in draw, 'draw page must not load trend UI'
           assert '../trend' not in draw_app and 'matter.js' not in draw_app, 'draw runtime must remain isolated'
 
-          # Admin is a standalone issuance console and must not load public experience runtimes.
-          assert 'theard.ticket.admin.v1' in admin_app, 'admin must own its ticket ledger state'
-          assert 'crypto.getRandomValues' in admin_app, 'admin verify tokens must use browser crypto'
+          # Shared client exposes only the public/admin API contract; draw result is decided remotely.
+          assert 'TheardAPI' in api and 'lookupDrawCode' in api and 'claimDrawCode' in api and 'verifyTicket' in api
+          assert '../api.js' in draw and 'lookupDrawCode' in draw_app and 'claimDrawCode' in draw_app
+          assert 'state.remaining' not in draw_app and 'EDIT POOL' not in draw, 'public draw must not own an editable ticket pool'
+
+          # Admin is protected by runtime key and reads the shared server ledger.
+          assert '../api.js' in admin, 'admin must load the shared API client'
+          assert 'connectAdmin' in admin_app and 'getAdminState' in admin_app and 'issueSession' in admin_app
+          assert 'localStorage' not in admin_app, 'admin localStorage must not be the ticket authority'
           assert 'matter.js' not in admin_app and 'pets.js' not in admin_app and 'trend.js' not in admin_app, 'admin runtime must remain isolated'
           assert 'draw/app.js' not in admin and 'trend/app.js' not in admin, 'admin page must not load public app runtimes'
+
+          # Electronic ticket is read-only and verification is backed by the shared API.
+          assert 'ticketForm' not in ticket and 'nameInput' not in ticket and 'makeId' not in ticket_app
+          assert 'theard.passdraw.latest' in ticket_app and 'verify.html' in ticket_app and 'verifyToken' in ticket_app
+          assert 'api.js' in verify and 'verifyTicket' in verify
+          for state in ('VALID', 'USED', 'REVOKED', 'NOT FOUND'):
+              assert state in verify, f'verify state missing: {state}'
+          assert 'updateTicketStatus' not in verify, 'public verify page must remain read-only'
+          assert '/theard/site/admin/' in root_404 and '/theard/admin/' in site_404, 'admin recovery routes missing'
 
           print('Isolation check passed: /, /trend/, /draw/, /admin/, and pass-state bridge are independent.')
           PY

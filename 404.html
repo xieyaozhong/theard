@@ -5,7 +5,10 @@
   <a id="go" href="/theard/site/" style="color:inherit">RETURN TO THEARD →</a>
   <script>
     var root='/theard/site/';
-    if(location.pathname.indexOf('/theard/')===0){location.replace(root+location.search+location.hash)}
+    if(/^\/theard\/admin\/?$/.test(location.pathname)){
+      location.replace('/theard/site/admin/'+location.search+location.hash);
+    }
+    else if(location.pathname.indexOf('/theard/')===0){location.replace(root+location.search+location.hash)}
   </script>
 </body>
 </html>

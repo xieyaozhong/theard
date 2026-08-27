@@ -1,54 +1,45 @@
 <!doctype html>
 <html lang="zh-Hant">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#080a09">
-  <title>THEARD LIVE / Electronic Ticket</title>
-  <link rel="stylesheet" href="ticket.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#080a09" />
+  <title>THEARD LIVE / Verified Electronic Ticket</title>
+  <link rel="stylesheet" href="ticket.css?v=2" />
+  <link rel="stylesheet" href="ticket-view.css?v=1" />
 </head>
 <body>
   <div class="noise" aria-hidden="true"></div>
-  <header class="ticket-nav"><a href="index.html">← THEARD</a><span>// ELECTRONIC ACCESS PASS</span><button id="printBtn">PRINT / PDF</button></header>
+  <header class="ticket-nav"><a href="draw/">← PASS DRAW</a><span>// VERIFIED ELECTRONIC ACCESS PASS</span><button id="printBtn" type="button">PRINT / PDF</button></header>
   <main class="ticket-shell">
     <section class="intro">
-      <div class="eyebrow">THEARD LIVE / 001 / 2026</div>
+      <div class="eyebrow" id="eventEyebrow">VERIFIED CLAIM / —</div>
       <h1>YOUR<br><span>ACCESS</span><br>PASS.</h1>
-      <p>此頁為電子票券設計原型。活動正式開放後，可將票號與 QR 驗證接到報名／付款／核銷後端。</p>
+      <p>此票券由活動抽取碼領取，票號、場次與驗證資訊不可在本頁修改。驗證連結只查詢票券狀態，不會執行入場核銷。</p>
     </section>
 
     <section class="ticket-card" id="ticketCard">
       <div class="main-pass">
-        <div class="pass-head"><span>THEARD LIVE</span><span>001 / 2026</span></div>
-        <div class="pass-title"><span>CONTENT × AI × COMMERCE</span><strong>ADMIT<br>ONE</strong></div>
+        <div class="pass-head"><span id="eventName">—</span><span id="sessionMeta">—</span></div>
+        <div class="pass-title"><span>SERVER-VERIFIED ENTRY</span><strong>ADMIT<br>ONE</strong></div>
         <div class="pass-info">
-          <div><span>ATTENDEE</span><b id="attendee">GUEST</b></div>
-          <div><span>TYPE</span><b id="tier">GENERAL</b></div>
-          <div><span>DATE</span><b>TBA / 2026</b></div>
-          <div><span>VENUE</span><b>TAIWAN / TBA</b></div>
+          <div><span>ATTENDEE</span><b id="attendee">—</b></div>
+          <div><span>TYPE</span><b id="tier">—</b></div>
+          <div><span>DATE</span><b id="ticketDate">—</b></div>
+          <div><span>VENUE</span><b id="venue">—</b></div>
         </div>
-        <div class="pass-foot"><span>THIS PASS IS UNIQUE TO ITS HOLDER</span><span id="ticketId">THD-2026-000001</span></div>
+        <div class="pass-foot"><span id="ticketStatus">—</span><span id="ticketId">—</span></div>
       </div>
-      <aside class="stub">
-        <span>ENTRY</span>
-        <div id="qr" class="qr"><div class="qr-fallback">QR</div></div>
-        <b>001</b>
-        <small id="stubId">THD-2026-000001</small>
-      </aside>
+      <aside class="stub"><span>ENTRY</span><div id="qr" class="qr"><a id="verifyLink" href="#" rel="noreferrer">VERIFY STATUS ↗</a></div><b id="stubNo">—</b><small id="stubId">—</small></aside>
     </section>
 
     <section class="controls no-print">
-      <div class="control-copy"><span>// ISSUE DEMO PASS</span><h2>即時產生一張展示票。</h2><p>輸入姓名與票種，頁面會更新票面、票號與 QR。正式使用前仍需要伺服器端的票券資料庫與核銷機制。</p></div>
-      <form id="ticketForm">
-        <label>ATTENDEE<input id="nameInput" maxlength="28" placeholder="Your name"></label>
-        <label>PASS TYPE<select id="tierInput"><option>GENERAL</option><option>EARLY ACCESS</option><option>CREATOR</option><option>PARTNER</option></select></label>
-        <button type="submit">GENERATE PASS ↗</button>
-      </form>
+      <div class="control-copy"><span>// CLAIMED PASS / READ ONLY</span><h2>票券已與活動場次同步。</h2><p><b id="ticketSync">正在查詢最新狀態…</b><br>領取時間：<time id="claimTime">—</time>。如需恢復票券，可回到抽取頁重新輸入原抽取碼；系統不會重抽第二張。</p></div>
+      <a class="ticket-return" href="draw/">OPEN PASS DRAW ↗</a>
     </section>
-
-    <footer><span>THEARD / ATTENTION ENGINE / 2026</span><a href="index.html#live">RETURN TO LIVE ↗</a></footer>
+    <footer><span>THEARD / VERIFIED ACCESS / 2026</span><a href="index.html#live">RETURN TO LIVE ↗</a></footer>
   </main>
-  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
-  <script src="ticket.js"></script>
+  <script src="api.js?v=2"></script>
+  <script src="ticket.js?v=3"></script>
 </body>
 </html>

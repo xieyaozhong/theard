@@ -1,0 +1,11 @@
+{
+  "name": "theard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node platform/build.mjs",
+    "test": "node --test platform/*.test.mjs",
+    "test:python": "python -m unittest discover -s tests -v"
+  }
+}

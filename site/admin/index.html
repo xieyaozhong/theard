@@ -6,35 +6,50 @@
   <meta name="theme-color" content="#070907" />
   <meta name="robots" content="noindex,nofollow" />
   <title>THEARD — Ticket Issuance Admin</title>
-  <link rel="stylesheet" href="styles.css?v=1" />
+  <link rel="stylesheet" href="styles.css?v=2" />
+  <link rel="stylesheet" href="sync.css?v=1" />
 </head>
 <body>
   <div class="adm-noise" aria-hidden="true"></div>
   <header class="adm-hud">
     <a href="../">← THEARD</a>
-    <div><span>THEARD / OPERATIONS</span><b>TICKET ISSUANCE ADMIN</b></div>
-    <span class="adm-local"><i></i>LOCAL PROTOTYPE</span>
+    <div><span>THEARD / OPERATIONS</span><b>EVENT + TICKET CONTROL</b></div>
+    <span class="adm-local" id="connectionStatus"><i></i><span>LOCKED</span></span>
   </header>
 
-  <main class="adm-shell">
+  <section class="adm-auth" id="authGate" aria-labelledby="authTitle">
+    <form id="authForm" class="adm-auth__panel">
+      <p>// PROTECTED OPERATIONS</p>
+      <h1 id="authTitle">ADMIN<br>ACCESS.</h1>
+      <p class="adm-auth__copy">輸入活動後台金鑰，連接共用票券資料。金鑰只保留在這個瀏覽器分頁，關閉後即清除。</p>
+      <label>ADMIN KEY<input id="adminKey" type="password" autocomplete="current-password" required minlength="12" placeholder="THDADM-••••••••" /></label>
+      <p class="adm-form-error" id="authError" role="alert"></p>
+      <button class="adm-primary" id="authSubmit" type="submit">CONNECT SECURE DATA →</button>
+      <a href="../">RETURN TO THEARD</a>
+    </form>
+  </section>
+
+  <main class="adm-shell" id="adminShell" hidden>
     <section class="adm-hero">
       <div>
-        <p>// EVENT ACCESS / SERIAL ISSUANCE</p>
+        <p>// EVENT ACCESS / ONE-TIME DRAW CODES</p>
         <h1>ISSUE<br><span>ACCESS</span><br>PASSES.</h1>
       </div>
       <div class="adm-hero__copy">
-        <p>建立特定活動場次，批次發行唯一入場券序號與驗證 Token。此版本資料儲存在目前瀏覽器，適合活動規劃、測試與匯出；正式售票／核銷仍應接伺服器端資料庫與權限驗證。</p>
+        <p>在同一個後台建立活動與場次、批次發行一次性抽取碼。參加者輸入抽取碼後會取得該場次票券，領取與核銷狀態會自動同步回來。</p>
         <div class="adm-summary">
           <div><span>SESSIONS</span><b id="kpiSessions">00</b></div>
           <div><span>ISSUED</span><b id="kpiIssued">000</b></div>
-          <div><span>ACTIVE</span><b id="kpiActive">000</b></div>
+          <div><span>CLAIMED</span><b id="kpiClaimed">000</b></div>
+          <div><span>AVAILABLE</span><b id="kpiAvailable">000</b></div>
         </div>
+        <div class="adm-sync-line"><span id="syncedAt">WAITING FOR SYNC</span><button id="logoutBtn" type="button">LOCK ADMIN</button></div>
       </div>
     </section>
 
     <section class="adm-grid">
       <aside class="adm-panel adm-panel--form">
-        <div class="adm-panel__head"><span>//01 SESSION BUILDER</span><button id="clearForm" type="button">CLEAR</button></div>
+        <div class="adm-panel__head"><span>//01 SESSION + CODE BATCH</span><button id="clearForm" type="button">CLEAR</button></div>
         <form id="sessionForm">
           <label>EVENT NAME<input id="eventName" required maxlength="60" placeholder="THEARD LIVE / 001" /></label>
           <div class="adm-row">
@@ -48,44 +63,44 @@
           <label>VENUE<input id="venue" maxlength="80" placeholder="TAIWAN / TBA" /></label>
           <div class="adm-row">
             <label>PASS TYPE<select id="passType"><option>GENERAL PASS</option><option>EARLY ACCESS</option><option>CREATOR PASS</option><option>WORKSHOP PASS</option><option>PARTNER PASS</option><option>BACKSTAGE PASS</option><option>FOUNDER PASS</option><option>ZERO PASS</option></select></label>
-            <label>QUANTITY<input id="quantity" type="number" min="1" max="500" value="20" /></label>
+            <label>QUANTITY / MAX 25<input id="quantity" type="number" min="1" max="25" value="20" /></label>
           </div>
-          <label>START NUMBER<input id="startNumber" type="number" min="1" max="999999" value="1" /></label>
-          <label>NOTE<textarea id="note" rows="3" maxlength="180" placeholder="Optional internal note"></textarea></label>
-          <button class="adm-primary" type="submit">ISSUE SERIAL BATCH ↗</button>
+          <div class="adm-row">
+            <label>START NUMBER<input id="startNumber" type="number" min="1" max="999999" value="1" /></label>
+            <label>CODE EXPIRES<input id="drawExpiresAt" type="datetime-local" /></label>
+          </div>
+          <label>PUBLIC ATTENDEE NOTE<textarea id="note" rows="3" maxlength="180" placeholder="會顯示給輸入抽取碼的參加者"></textarea></label>
+          <p class="adm-form-error" id="formError" role="alert"></p>
+          <button class="adm-primary" id="issueBtn" type="submit">ISSUE TICKETS + DRAW CODES →</button>
         </form>
       </aside>
 
       <section class="adm-panel adm-panel--sessions">
-        <div class="adm-panel__head"><span>//02 ISSUED SESSIONS</span><div><button id="exportAll" type="button">EXPORT ALL CSV</button><button id="resetAll" type="button">RESET LOCAL DATA</button></div></div>
-        <div id="sessionList" class="adm-session-list"><div class="adm-empty">NO SESSION ISSUED</div></div>
+        <div class="adm-panel__head"><span>//02 SYNCED SESSIONS</span><div><button id="syncNow" type="button">SYNC NOW</button><button id="exportAll" type="button">EXPORT ALL CSV</button></div></div>
+        <div id="sessionList" class="adm-session-list"><div class="adm-empty">CONNECTING TO SESSION DATA</div></div>
       </section>
     </section>
 
     <section class="adm-panel adm-panel--tickets">
-      <div class="adm-panel__head"><span>//03 TICKET LEDGER</span><div><input id="searchInput" type="search" placeholder="SEARCH SERIAL / TOKEN / PASS" /><button id="exportVisible" type="button">EXPORT VIEW</button></div></div>
-      <div class="adm-ledger-head"><span>STATUS</span><span>SERIAL</span><span>PASS TYPE</span><span>SESSION</span><span>VERIFY TOKEN</span><span>ACTION</span></div>
+      <div class="adm-panel__head"><span>//03 LIVE TICKET LEDGER</span><div><input id="searchInput" type="search" placeholder="SEARCH SERIAL / CODE / ATTENDEE" /><button id="exportVisible" type="button">EXPORT VIEW</button></div></div>
+      <div class="adm-ledger-head"><span>STATUS</span><span>SERIAL / PASS</span><span>DRAW CODE</span><span>CLAIM</span><span>SESSION</span><span>ACTION</span></div>
       <div id="ticketLedger" class="adm-ledger"><div class="adm-empty">SELECT OR ISSUE A SESSION</div></div>
     </section>
 
     <section class="adm-schema">
-      <div><span>// DATA MODEL</span><b>SESSION</b><code>event_id / session_id / event_name / date / time / venue</code></div>
-      <div><span>// HUMAN ID</span><b>SERIAL</b><code>THD001-260825-A-0001</code></div>
-      <div><span>// MACHINE ID</span><b>VERIFY TOKEN</b><code>128-bit random token / server-ready</code></div>
-      <div><span>// STATE</span><b>STATUS</b><code>ACTIVE / REVOKED / USED</code></div>
+      <div><span>// RELATION</span><b>EVENT → SESSION</b><code>每個場次有獨立日期、時間、地點與開放狀態</code></div>
+      <div><span>// INVITATION</span><b>DRAW CODE</b><code>每個抽取碼只對應一張票券，可重新開啟同一結果</code></div>
+      <div><span>// VERIFICATION</span><b>VERIFY TOKEN</b><code>與抽取碼分離，用於票券真偽驗證</code></div>
+      <div><span>// SYNC</span><b>SHARED LEDGER</b><code>不同裝置共用資料，後台每五秒自動更新</code></div>
     </section>
 
-    <footer class="adm-footer"><span>THEARD / ACCESS OPERATIONS / 2026</span><span>STATIC ADMIN PROTOTYPE — DO NOT USE AS FINAL SECURITY BOUNDARY</span></footer>
+    <footer class="adm-footer"><span>THEARD / ACCESS OPERATIONS / 2026</span><span>SERVER-ISSUED / ONE-TIME CLAIM / AUDITED STATE</span></footer>
   </main>
 
-  <dialog id="detailDialog" class="adm-dialog">
-    <div class="adm-dialog__panel">
-      <div class="adm-dialog__head"><span>TICKET DETAIL</span><button id="closeDialog" type="button">×</button></div>
-      <div id="detailBody"></div>
-    </div>
-  </dialog>
-
-  <div class="adm-toast" id="toast">DONE</div>
-  <script src="app.js?v=1"></script>
+  <dialog id="detailDialog" class="adm-dialog"><div class="adm-dialog__panel"><div class="adm-dialog__head"><span>TICKET DETAIL</span><button id="closeDialog" type="button" aria-label="關閉">×</button></div><div id="detailBody"></div></div></dialog>
+  <dialog id="batchDialog" class="adm-dialog"><div class="adm-dialog__panel adm-dialog__panel--batch"><div class="adm-dialog__head"><span>NEW DRAW CODES</span><button id="closeBatch" type="button" aria-label="關閉">×</button></div><div id="batchBody"></div><div class="adm-dialog__actions"><button id="copyBatch" type="button">COPY ALL CODES</button><button id="downloadBatch" class="adm-primary" type="button">DOWNLOAD CSV</button></div></div></dialog>
+  <div class="adm-toast" id="toast" role="status" aria-live="polite">DONE</div>
+  <script src="../api.js?v=2"></script>
+  <script src="app.js?v=3"></script>
 </body>
 </html>

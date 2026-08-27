@@ -5,3 +5,5 @@ __pycache__/
 logs/*.log
 preview/*.json
 preview/*.md
+dist/
+.openai/*.tar.gz
