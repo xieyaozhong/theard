@@ -30,6 +30,11 @@
         return;
       }
 
+      if (path.indexOf('/theard/site/workshop') === 0 || path === '/theard/workshop') {
+        window.location.replace('/theard/workshop/' + suffix);
+        return;
+      }
+
       if (path.indexOf('/theard/site') === 0 || path.indexOf('/theard/404') === 0) {
         window.location.replace('/theard/' + suffix);
       }
@@ -47,6 +52,7 @@
     <a href="/theard/">ENTER THEARD →</a>
     <a href="/theard/trend/">OPEN TREND ANALYZER →</a>
     <a href="/theard/draw/">OPEN PASS DRAW →</a>
+    <a href="/theard/workshop/">OPEN PROMPT LAB →</a>
     <a href="/theard/admin/">OPEN EVENT ADMIN →</a>
   </main>
 </body>

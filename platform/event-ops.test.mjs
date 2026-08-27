@@ -83,7 +83,7 @@ const issuePayload = {
   eventName: "THEARD LIVE / 001",
   eventCode: "THD001",
   sessionCode: "A",
-  date: "2026-09-12",
+  date: "2099-09-12",
   time: "19:00",
   venue: "TAIPEI / TEST VENUE",
   passType: "CREATOR PASS",
@@ -138,6 +138,120 @@ test("admin issue, public lookup, single claim, recovery, and state sync", async
   assert.equal(stored.attendeeName, "測試來賓");
   const claimRows = env.DB.database.prepare("SELECT COUNT(*) AS count FROM audit_logs WHERE action = 'DRAW_CLAIMED'").get();
   assert.equal(claimRows.count, 1);
+});
+
+test("public sessions list only published open activity data with claimable availability", async () => {
+  const { env, api } = setup();
+  const visible = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: {
+      ...issuePayload,
+      requestId: "test-public-sessions-visible",
+      quantity: 4,
+      note: "Public attendee instructions"
+    }
+  });
+  const [claimedTicket, availableTicket, revokedTicket, expiredTicket] = visible.payload.data.tickets;
+  await api("/api/public/claim", {
+    method: "POST",
+    body: { code: claimedTicket.drawCode, attendeeName: "PRIVATE ATTENDEE NAME" }
+  });
+  await api(`/api/admin/tickets/${encodeURIComponent(revokedTicket.id)}`, {
+    method: "PATCH",
+    admin: true,
+    body: { status: "REVOKED" }
+  });
+  env.DB.database.prepare("UPDATE tickets SET draw_expires_at = '2020-01-01T00:00:00.000Z' WHERE id = ?").run(expiredTicket.id);
+
+  const closed = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: {
+      ...issuePayload,
+      requestId: "test-public-sessions-closed",
+      eventName: "PRIVATE CLOSED EVENT",
+      eventCode: "CLOSED1",
+      sessionCode: "SECRET",
+      note: "PRIVATE CLOSED NOTE",
+      quantity: 1
+    }
+  });
+  await api(`/api/admin/sessions/${encodeURIComponent(closed.payload.data.session.id)}`, {
+    method: "PATCH",
+    admin: true,
+    body: { status: "CLOSED" }
+  });
+
+  await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: {
+      ...issuePayload,
+      requestId: "test-public-sessions-draft",
+      eventName: "PRIVATE DRAFT EVENT",
+      eventCode: "DRAFT1",
+      sessionCode: "HIDDEN",
+      note: "PRIVATE DRAFT NOTE",
+      quantity: 1
+    }
+  });
+  env.DB.database.prepare("UPDATE events SET status = 'DRAFT' WHERE code = 'DRAFT1'").run();
+
+  const eventId = visible.payload.data.session.eventId;
+  const insertedAt = new Date().toISOString();
+  for (let index = 0; index < 25; index += 1) {
+    env.DB.database.prepare(`
+      INSERT INTO sessions (id, event_id, code, event_date, start_time, venue, note, status, created_at, updated_at)
+      VALUES (?, ?, ?, '2020-01-01', '09:00', 'PAST VENUE', 'PAST NOTE', 'OPEN', ?, ?)
+    `).run(`ses_past_${index}`, eventId, `PAST${index}`, insertedAt, insertedAt);
+  }
+
+  const listing = await api("/api/public/sessions");
+  assert.equal(listing.response.status, 200);
+  assert.equal(listing.response.headers.get("access-control-allow-origin"), "https://xieyaozhong.github.io");
+  assert.equal(listing.payload.ok, true);
+  assert.match(listing.payload.data.syncedAt, /^\d{4}-\d{2}-\d{2}T/);
+  assert.equal(listing.payload.data.sessions.length, 1);
+
+  const [session] = listing.payload.data.sessions;
+  assert.deepEqual(Object.keys(session).sort(), [
+    "date", "eventCode", "eventId", "eventName", "eventStatus", "id", "note",
+    "sessionCode", "status", "time", "totals", "venue"
+  ].sort());
+  assert.deepEqual(session, {
+    id: visible.payload.data.session.id,
+    eventId: visible.payload.data.session.eventId,
+    eventName: issuePayload.eventName,
+    eventCode: issuePayload.eventCode,
+    eventStatus: "PUBLISHED",
+    sessionCode: issuePayload.sessionCode,
+    date: issuePayload.date,
+    time: issuePayload.time,
+    venue: issuePayload.venue,
+    note: "Public attendee instructions",
+    status: "OPEN",
+    totals: { issued: 4, available: 1, claimed: 1 }
+  });
+  assert.equal(session.totals.available, Number(Boolean(availableTicket)));
+
+  const serialized = JSON.stringify(listing.payload);
+  for (const privateValue of [
+    claimedTicket.drawCode,
+    claimedTicket.verifyToken,
+    claimedTicket.serial,
+    "PRIVATE ATTENDEE NAME",
+    "PRIVATE CLOSED EVENT",
+    "PRIVATE CLOSED NOTE",
+    "PRIVATE DRAFT EVENT",
+    "PRIVATE DRAFT NOTE"
+  ]) {
+    assert.equal(serialized.includes(privateValue), false);
+  }
+  for (const privateKey of ["drawCode", "draw_code", "verifyToken", "verify_token", "attendeeName", "attendee_name", "tickets"]) {
+    assert.equal(privateKey in session, false);
+    assert.equal(serialized.includes(`\"${privateKey}\"`), false);
+  }
 });
 
 test("ticket status, verification, session close, and code regeneration are enforced", async () => {

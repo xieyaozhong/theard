@@ -31,7 +31,27 @@ test("ticket viewer and verification are read-only",async()=>{
   assert.doesNotMatch(verify,/updateTicketStatus|check.?in/i);
 });
 
-test("public and branch-root Pages both recover the admin route",async()=>{
+test("public and branch-root Pages recover app routes",async()=>{
   const [root404,site404,main]=await Promise.all([read('404.html'),read('site/404.html'),read('site/index.html')]);
-  assert.match(root404,/\/theard\/site\/admin\//);assert.match(site404,/\/theard\/admin\//);assert.match(main,/href="draw\/"[^>]*><span>\/\/05<\/span><b>TICKET<\/b>/);
+  assert.match(root404,/\/theard\/site\/admin\//);assert.match(site404,/\/theard\/admin\//);assert.match(main,/href="draw\/"[^>]*><span>\/\/06<\/span><b>TICKET<\/b>/);
+  assert.match(root404,/\/theard\/site\/workshop\//);assert.match(site404,/\/theard\/workshop\//);
+});
+
+test("homepage activity zone syncs safe public sessions",async()=>{
+  const [html,mainApp,activity,api]=await Promise.all([
+    read('site/index.html'),read('site/app.js'),read('site/activity.js'),read('site/api.js')
+  ]);
+  assert.match(html,/id="activities"/);assert.match(html,/href="workshop\/"/);
+  assert.match(html,/data-public-sessions-list/);assert.match(html,/data-public-session-template/);
+  assert.match(mainApp,/\.\/activity\.js/);assert.match(api,/listPublicSessions/);assert.match(activity,/listPublicSessions/);
+  assert.doesNotMatch(activity,/innerHTML/);assert.match(activity,/textContent/);
+});
+
+test("Prompt Lab supports a BYO-AI classroom flow without uploading outputs",async()=>{
+  const [html,app]=await Promise.all([read('site/workshop/index.html'),read('site/workshop/app.js')]);
+  for(const id of ['promptForm','timerPanel','lockAndShuffle','comparisonGrid','bingoGrid'])assert.match(html,new RegExp(`id="${id}"`));
+  assert.match(html,/DEVICE-LOCAL ONLY/);assert.match(html,/NO API \/ NO UPLOAD/);
+  assert.match(html,/提示詞抽取器/);
+  assert.match(html,/模型家族與架構/);assert.match(html,/系統指令/);assert.match(html,/取樣與解碼/);
+  assert.match(app,/localStorage/);assert.match(app,/clipboard/);assert.doesNotMatch(app,/fetch\s*\(/);
 });

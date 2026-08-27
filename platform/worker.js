@@ -98,6 +98,17 @@ function nowIso() {
   return new Date().toISOString();
 }
 
+function calendarDateInTaipei(value = new Date()) {
+  const parts = new Intl.DateTimeFormat("en", {
+    timeZone: "Asia/Taipei",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).formatToParts(value);
+  const part = (type) => parts.find((item) => item.type === type)?.value ?? "";
+  return `${part("year")}-${part("month")}-${part("day")}`;
+}
+
 function uuid(prefix) {
   const value = crypto.randomUUID?.() ?? `${Date.now().toString(36)}-${randomHex(8)}`;
   return `${prefix}_${value}`;
@@ -259,6 +270,47 @@ async function availableForSession(db, sessionId) {
       AND (draw_expires_at IS NULL OR draw_expires_at > ?)
   `).bind(sessionId, nowIso()).first();
   return Number(row?.count ?? 0);
+}
+
+async function handlePublicSessions(request, env) {
+  const currentTime = nowIso();
+  const currentDate = calendarDateInTaipei();
+  const rows = await env.DB.prepare(`
+    SELECT
+      s.id AS session_id, s.code AS session_code, s.event_date, s.start_time,
+      s.venue, s.note AS session_note, s.status AS session_status,
+      e.id AS event_id, e.code AS event_code, e.name AS event_name, e.status AS event_status,
+      COUNT(t.id) AS issued_count,
+      SUM(CASE WHEN t.claimed_at IS NOT NULL THEN 1 ELSE 0 END) AS claimed_count,
+      SUM(CASE WHEN t.status = 'ACTIVE' AND t.claimed_at IS NULL
+        AND (t.draw_expires_at IS NULL OR t.draw_expires_at > ?) THEN 1 ELSE 0 END) AS available_count
+    FROM sessions s
+    JOIN events e ON e.id = s.event_id
+    LEFT JOIN tickets t ON t.session_id = s.id
+    WHERE s.status = 'OPEN' AND e.status = 'PUBLISHED' AND s.event_date >= ?
+    GROUP BY s.id
+    ORDER BY s.event_date ASC, s.start_time ASC, e.name ASC, s.code ASC
+    LIMIT 24
+  `).bind(currentTime, currentDate).all();
+  const sessions = (rows.results ?? []).map((row) => ({
+    id: row.session_id,
+    eventId: row.event_id,
+    eventName: row.event_name,
+    eventCode: row.event_code,
+    eventStatus: row.event_status,
+    sessionCode: row.session_code,
+    date: row.event_date,
+    time: row.start_time,
+    venue: row.venue,
+    note: row.session_note,
+    status: row.session_status,
+    totals: {
+      issued: Number(row.issued_count ?? 0),
+      available: Number(row.available_count ?? 0),
+      claimed: Number(row.claimed_count ?? 0)
+    }
+  }));
+  return ok(request, env, { sessions, syncedAt: currentTime });
 }
 
 function codeUnavailable(row) {
@@ -657,6 +709,7 @@ async function route(request, env) {
   const method = request.method.toUpperCase();
   if (method === "OPTIONS") return new Response(null, { status: 204, headers: corsHeaders(request, env) });
   if (url.pathname === "/" || url.pathname === "/api/health") return ok(request, env, { service: "THEARD EVENT OPS", status: "READY", time: nowIso() });
+  if (url.pathname === "/api/public/sessions" && method === "GET") return handlePublicSessions(request, env);
   if (url.pathname === "/api/public/lookup" && method === "POST") return handleLookup(request, env);
   if (url.pathname === "/api/public/claim" && method === "POST") return handleClaim(request, env);
   if (url.pathname === "/api/public/verify" && (method === "POST" || method === "GET")) return handleVerify(request, env, url);

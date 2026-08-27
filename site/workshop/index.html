@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#070907" />
+  <meta name="description" content="THEARD Prompt Lab 實體課程工作台：組 prompt、跨工具實驗、盲測比較與團隊覆盤。" />
+  <title>THEARD — PROMPT LAB</title>
+  <link rel="stylesheet" href="styles.css?v=1" />
+</head>
+<body>
+  <a class="skip-link" href="#labMain">跳到課程內容</a>
+  <div class="lab-grid" aria-hidden="true"></div>
+  <div class="lab-scan" aria-hidden="true"></div>
+
+  <header class="lab-hud">
+    <a class="lab-back" href="../">← THEARD</a>
+    <div class="lab-brand" aria-label="THEARD Prompt Lab">
+      <span>THEARD / LEARNING SYSTEM</span>
+      <b>PROMPT LAB</b>
+    </div>
+    <div class="lab-hud__status">
+      <span id="hudStage">STAGE 00 / ORIENT</span>
+      <button id="hudTimer" type="button" aria-label="移到計時器">05:00</button>
+    </div>
+  </header>
+
+  <main id="labMain">
+    <section class="lab-hero" aria-labelledby="labTitle">
+      <div>
+        <p class="eyebrow">// PHYSICAL COURSE / HUMAN-LED / ZERO API KEY</p>
+        <h1 id="labTitle">PROMPT<br /><span>LAB.</span></h1>
+      </div>
+      <div class="lab-hero__copy">
+        <p class="lead">同一份 prompt，交給不同 AI、不同情境或不同次執行，為什麼會長出不同結構？別先猜答案——先做一場可比較的實驗。</p>
+        <p>這個工作台不連接任何 AI。參與者先在此組出同一份 prompt，再複製到自己使用的 AI，最後貼回 2–3 份輸出做匿名盲測。</p>
+        <div class="hero-tags" aria-label="課程特性">
+          <span>45 MIN</span><span>2–6 TEAMS</span><span>BYO AI</span><span>LOCAL-FIRST</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="lab-principles" aria-label="課程原則">
+      <div><span>01 / SAME INPUT</span><b>固定 prompt</b><p>先控制輸入，才有資格比較輸出。</p></div>
+      <div><span>02 / BLIND FIRST</span><b>先看作品</b><p>評分前隱藏工具名稱，降低品牌偏見。</p></div>
+      <div><span>03 / EXPLAIN LATER</span><b>用證據覆盤</b><p>談可觀察因素，不臆測私有模型內部。</p></div>
+    </section>
+
+    <div class="lab-layout">
+      <aside class="stage-rail" aria-label="課程控制台">
+        <nav class="stage-nav" aria-label="課程階段">
+          <button type="button" data-stage-target="0" aria-current="step"><span>00</span><b>ORIENT</b><small>5 MIN</small></button>
+          <button type="button" data-stage-target="1"><span>01</span><b>BUILD</b><small>10 MIN</small></button>
+          <button type="button" data-stage-target="2"><span>02</span><b>RUN</b><small>8 MIN</small></button>
+          <button type="button" data-stage-target="3"><span>03</span><b>COMPARE</b><small>12 MIN</small></button>
+          <button type="button" data-stage-target="4"><span>04</span><b>DEBRIEF</b><small>10 MIN</small></button>
+        </nav>
+
+        <section class="timer-panel" id="timerPanel" aria-labelledby="timerTitle">
+          <div class="panel-kicker"><span>// FACILITATOR TIMER</span><i id="timerSignal" aria-hidden="true"></i></div>
+          <h2 id="timerTitle" class="sr-only">課程計時器</h2>
+          <output id="timerDisplay" class="timer-display" aria-label="剩餘時間">05:00</output>
+          <p id="timerAnnouncement" class="sr-only" role="status" aria-live="polite"></p>
+          <label class="timer-preset">倒數長度
+            <select id="timerPreset">
+              <option value="180">03:00</option>
+              <option value="300" selected>05:00</option>
+              <option value="480">08:00</option>
+              <option value="600">10:00</option>
+              <option value="720">12:00</option>
+              <option value="900">15:00</option>
+            </select>
+          </label>
+          <div class="timer-actions">
+            <button class="acid-button" id="timerToggle" type="button">START</button>
+            <button id="timerReset" type="button">RESET</button>
+            <button id="timerAdd" type="button">+ 1 MIN</button>
+          </div>
+          <button class="stage-time-button" id="loadStageTime" type="button">LOAD STAGE 00 / 05:00</button>
+        </section>
+
+        <section class="progress-panel" aria-labelledby="progressTitle">
+          <div class="panel-kicker"><span id="progressTitle">// LAB PROGRESS</span><b id="progressCount">0 / 5</b></div>
+          <div class="progress-track" role="progressbar" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0" aria-labelledby="progressTitle"><i id="progressBar"></i></div>
+          <p id="progressText">STAGE 00 READY</p>
+        </section>
+      </aside>
+
+      <div class="stage-stack">
+        <section class="stage-card is-active" id="stage0" data-stage-panel="0" tabindex="-1" aria-labelledby="stage0Title">
+          <header class="stage-head">
+            <div><span>STAGE 00 / ORIENT</span><b>5 MIN / WHOLE ROOM</b></div>
+            <p>先建立公平實驗規則，再選擇互動方式。</p>
+          </header>
+          <div class="stage-title">
+            <p class="eyebrow">// CONTROL THE INPUT</p>
+            <h2 id="stage0Title">先把比賽<br /><span>變公平。</span></h2>
+          </div>
+
+          <div class="orient-grid">
+            <article class="instruction-card">
+              <span class="card-no">01</span>
+              <h3>宣布唯一規則</h3>
+              <p>每隊必須使用完全相同的 prompt。可以換 AI 工具，但不能在中途偷偷改字。</p>
+            </article>
+            <article class="instruction-card">
+              <span class="card-no">02</span>
+              <h3>隱藏工具名稱</h3>
+              <p>貼回輸出時只記錄來源，不公開。所有作品先以 A／B／C 盲測。</p>
+            </article>
+            <article class="instruction-card">
+              <span class="card-no">03</span>
+              <h3>要求可辯護</h3>
+              <p>投票不能只說「我喜歡」。必須引用輸出中的句子、結構或缺漏作證。</p>
+            </article>
+          </div>
+
+          <section class="roulette-panel" aria-labelledby="interactionTitle">
+            <div class="roulette-copy">
+              <span>// INTERACTION ROULETTE</span>
+              <h3 id="interactionTitle">今天怎麼互動？</h3>
+              <p>由主持人抽一種教室互動，讓比較不只停在個人直覺。</p>
+            </div>
+            <div class="roulette-output" id="interactionResult" aria-live="polite">
+              <span>WAITING FOR SPIN</span>
+              <b>抽一張互動任務</b>
+              <p>結果會留在本次頁面工作階段，不會上傳。</p>
+            </div>
+            <div class="roulette-actions">
+              <button class="acid-button" id="spinInteraction" type="button">SPIN INTERACTION</button>
+              <button id="copyInteraction" type="button" disabled>複製任務</button>
+            </div>
+          </section>
+
+          <aside class="facilitator-note">
+            <span>FACILITATOR CUE</span>
+            <p>開場句：「今天不是選最強 AI，而是練習看懂輸出差異從哪裡來，以及我們能如何用 prompt 控制它。」</p>
+          </aside>
+
+          <footer class="stage-actions">
+            <button class="complete-button" type="button" data-complete-stage="0">✓ MARK ORIENT COMPLETE</button>
+            <button class="acid-button next-button" type="button" data-next-stage="1">NEXT / BUILD PROMPT →</button>
+          </footer>
+        </section>
+
+        <section class="stage-card" id="stage1" data-stage-panel="1" tabindex="-1" aria-labelledby="stage1Title">
+          <header class="stage-head">
+            <div><span>STAGE 01 / BUILD</span><b>10 MIN / TEAM WORK</b></div>
+            <p>用六個欄位，把模糊要求變成可重複測試的 prompt。</p>
+          </header>
+          <div class="stage-title stage-title--compact">
+            <p class="eyebrow">// PROMPT EXTRACTOR / STRUCTURE BEFORE STYLE</p>
+            <h2 id="stage1Title">組出同一份<br /><span>測試輸入。</span></h2>
+          </div>
+
+          <div class="builder-layout">
+            <form class="prompt-form" id="promptForm">
+              <div class="form-head">
+                <div><span>// 提示詞抽取器 / 6 COMPONENTS</span><b id="promptCompleteness">0 / 6 READY</b></div>
+                <meter id="promptMeter" min="0" max="6" value="0">0 / 6</meter>
+              </div>
+
+              <label class="field field--wide" for="goal">
+                <span><b>01 / GOAL</b><em>這次要 AI 完成什麼？</em></span>
+                <textarea id="goal" name="goal" rows="3" required placeholder="例：把一份活動介紹改寫成 60 秒開場口播，讓聽眾願意留下來參與。"></textarea>
+              </label>
+
+              <label class="field field--wide" for="context">
+                <span><b>02 / CONTEXT</b><em>它需要知道哪些背景？</em></span>
+                <textarea id="context" name="context" rows="3" placeholder="例：這是給第一次接觸生成式 AI 的實體工作坊，現場約 30 人。"></textarea>
+              </label>
+
+              <div class="field-row">
+                <label class="field" for="audience">
+                  <span><b>03 / AUDIENCE</b><em>誰會讀或使用？</em></span>
+                  <input id="audience" name="audience" type="text" placeholder="例：非技術背景的中小企業主管" />
+                </label>
+                <label class="field" for="tone">
+                  <span><b>04 / TONE</b><em>語氣與風格</em></span>
+                  <input id="tone" name="tone" type="text" list="toneSuggestions" placeholder="例：清楚、直接、有現場感" />
+                  <datalist id="toneSuggestions">
+                    <option value="清楚、直接、友善，不使用術語"></option>
+                    <option value="專業、精準、保留不確定性"></option>
+                    <option value="有節奏、帶點挑戰感、適合口語表達"></option>
+                    <option value="簡潔、務實、以決策者觀點撰寫"></option>
+                  </datalist>
+                </label>
+              </div>
+
+              <label class="field field--wide" for="constraints">
+                <span><b>05 / CONSTRAINTS</b><em>長度、禁區、必須包含的內容</em></span>
+                <textarea id="constraints" name="constraints" rows="4" placeholder="例：不超過 180 字；不得虛構數據；必須包含一個具體行動句。"></textarea>
+              </label>
+
+              <label class="field field--wide" for="outputFormat">
+                <span><b>06 / OUTPUT FORMAT</b><em>你要什麼結構？</em></span>
+                <textarea id="outputFormat" name="outputFormat" rows="3" placeholder="例：先給一句標題，再給三段口播；最後列出 2 個可替換版本。"></textarea>
+              </label>
+
+              <div class="draft-control">
+                <label for="rememberDraft"><input id="rememberDraft" type="checkbox" /> 僅在私人裝置保留 prompt 草稿與計時偏好</label>
+                <p><b>DEVICE-LOCAL ONLY.</b> 開啟後僅使用 <code>localStorage</code> 保存上述草稿與計時偏好；輸出內容、投票與評分不會寫入，也不會傳到伺服器。共用裝置請保持關閉並在離開前清除。</p>
+                <div>
+                  <span id="storageState" role="status" aria-live="polite">LOCAL DRAFT OFF</span>
+                  <span class="draft-control__actions"><button id="loadSavedDraft" type="button">載入裝置草稿</button><button id="clearSavedDraft" type="button">清除裝置草稿</button></span>
+                </div>
+              </div>
+            </form>
+
+            <div class="prompt-console">
+              <div class="console-head"><span>// COMPOSED PROMPT</span><b id="promptCharacters">0 CHARS</b></div>
+              <pre id="composedPrompt" tabindex="0" aria-label="組合完成的 prompt"></pre>
+              <div class="console-checks" aria-label="Prompt 完整度">
+                <span data-check-field="goal">GOAL</span>
+                <span data-check-field="context">CONTEXT</span>
+                <span data-check-field="audience">AUDIENCE</span>
+                <span data-check-field="tone">TONE</span>
+                <span data-check-field="constraints">LIMITS</span>
+                <span data-check-field="outputFormat">FORMAT</span>
+              </div>
+              <div class="console-actions">
+                <button class="acid-button" id="copyPrompt" type="button">COPY PROMPT</button>
+                <button id="copyPromptPlain" type="button">複製精簡版</button>
+              </div>
+            </div>
+          </div>
+
+          <section class="roulette-panel roulette-panel--constraint" aria-labelledby="constraintTitle">
+            <div class="roulette-copy">
+              <span>// CONSTRAINT ROULETTE</span>
+              <h3 id="constraintTitle">加一個公平難題。</h3>
+              <p>抽到後可選擇加入「限制條件」。每個 AI 都必須面對同一項限制。</p>
+            </div>
+            <div class="roulette-output" id="constraintResult" aria-live="polite">
+              <span>NO CONSTRAINT DRAWN</span>
+              <b>讓限制測出結構能力</b>
+              <p>限制越明確，差異越容易被觀察。</p>
+            </div>
+            <div class="roulette-actions">
+              <button class="acid-button" id="spinConstraint" type="button">SPIN CONSTRAINT</button>
+              <button id="applyConstraint" type="button" disabled>加入 prompt</button>
+            </div>
+          </section>
+
+          <aside class="facilitator-note">
+            <span>FACILITATOR CHECK</span>
+            <p>請每隊互讀一次：不看原題的人，能否只靠這份 prompt 說出「要做什麼、給誰、限制在哪、最後長什麼樣」？</p>
+          </aside>
+
+          <footer class="stage-actions">
+            <button type="button" data-prev-stage="0">← BACK / ORIENT</button>
+            <button class="complete-button" type="button" data-complete-stage="1">✓ MARK BUILD COMPLETE</button>
+            <button class="acid-button next-button" type="button" data-next-stage="2">NEXT / RUN IN YOUR AI →</button>
+          </footer>
+        </section>
+
+        <section class="stage-card" id="stage2" data-stage-panel="2" tabindex="-1" aria-labelledby="stage2Title">
+          <header class="stage-head">
+            <div><span>STAGE 02 / RUN</span><b>8 MIN / BYO AI</b></div>
+            <p>把完全相同的 prompt 貼到 2–3 個 AI 執行，再把原始輸出貼回來。</p>
+          </header>
+          <div class="stage-title stage-title--compact">
+            <p class="eyebrow">// COPY OUT / PASTE BACK</p>
+            <h2 id="stage2Title">離開一下，<br /><span>帶證據回來。</span></h2>
+          </div>
+
+          <div class="handoff-strip">
+            <div><span>01</span><b>複製</b><p>使用上一步的同一份 prompt。</p></div>
+            <i aria-hidden="true">→</i>
+            <div><span>02</span><b>執行</b><p>在你自己的 AI 工具開新對話。</p></div>
+            <i aria-hidden="true">→</i>
+            <div><span>03</span><b>貼回</b><p>保留原始輸出，不先修飾。</p></div>
+          </div>
+
+          <div class="privacy-banner" role="note">
+            <span>NO API / NO UPLOAD</span>
+            <p>本頁沒有 AI 金鑰，也不會送出 prompt 或輸出。請勿貼入個資、機密、受保護資料。下方輸出只存在目前分頁的記憶體，重新整理即清除。</p>
+          </div>
+
+          <section class="output-collector" aria-labelledby="collectorTitle">
+            <header>
+              <div><span>// RAW OUTPUT COLLECTION</span><h3 id="collectorTitle">貼入 2–3 份完整輸出</h3></div>
+              <p id="collectionStatus" role="status" aria-live="polite">0 / 3 OUTPUTS READY</p>
+            </header>
+
+            <div class="output-grid">
+              <article class="output-entry">
+                <div class="output-entry__head"><span>OUTPUT 01</span><b>REQUIRED</b></div>
+                <label for="source1">來源名稱（盲測後才顯示）<input id="source1" type="text" autocomplete="off" placeholder="例：工具 X / 模型版本" /></label>
+                <label for="output1">原始輸出<textarea id="output1" rows="14" placeholder="將第一份 AI 輸出完整貼在這裡……"></textarea></label>
+                <span class="word-count" id="outputCount1">0 字元</span>
+              </article>
+              <article class="output-entry">
+                <div class="output-entry__head"><span>OUTPUT 02</span><b>REQUIRED</b></div>
+                <label for="source2">來源名稱（盲測後才顯示）<input id="source2" type="text" autocomplete="off" placeholder="例：工具 Y / 模型版本" /></label>
+                <label for="output2">原始輸出<textarea id="output2" rows="14" placeholder="將第二份 AI 輸出完整貼在這裡……"></textarea></label>
+                <span class="word-count" id="outputCount2">0 字元</span>
+              </article>
+              <article class="output-entry">
+                <div class="output-entry__head"><span>OUTPUT 03</span><b>OPTIONAL</b></div>
+                <label for="source3">來源名稱（盲測後才顯示）<input id="source3" type="text" autocomplete="off" placeholder="例：工具 Z / 第二次取樣" /></label>
+                <label for="output3">原始輸出<textarea id="output3" rows="14" placeholder="可選：貼入第三份輸出……"></textarea></label>
+                <span class="word-count" id="outputCount3">0 字元</span>
+              </article>
+            </div>
+
+            <div class="collector-actions">
+              <button id="clearOutputs" type="button">CLEAR OUTPUTS</button>
+              <button class="acid-button" id="lockAndShuffle" type="button">LOCK + SHUFFLE FOR BLIND TEST →</button>
+            </div>
+          </section>
+
+          <aside class="facilitator-note">
+            <span>FACILITATOR CUE</span>
+            <p>若只有一個 AI 工具，可在三個全新對話各執行一次。這能觀察「相同系統、不同取樣」也可能產生不同結構。</p>
+          </aside>
+
+          <footer class="stage-actions">
+            <button type="button" data-prev-stage="1">← BACK / BUILD</button>
+            <button class="complete-button" type="button" data-complete-stage="2">✓ MARK RUN COMPLETE</button>
+            <button class="acid-button next-button" type="button" data-next-stage="3">NEXT / BLIND COMPARE →</button>
+          </footer>
+        </section>
+
+        <section class="stage-card" id="stage3" data-stage-panel="3" tabindex="-1" aria-labelledby="stage3Title">
+          <header class="stage-head">
+            <div><span>STAGE 03 / COMPARE</span><b>12 MIN / BLIND REVIEW</b></div>
+            <p>先評作品，再揭曉來源。每一分都要有可指出的證據。</p>
+          </header>
+          <div class="stage-title stage-title--compact">
+            <p class="eyebrow">// OUTPUT OVER LOGO</p>
+            <h2 id="stage3Title">不看品牌，<br /><span>只看答案。</span></h2>
+          </div>
+
+          <div class="blind-empty" id="blindEmpty">
+            <span>BLIND SET NOT READY</span>
+            <h3>先在 Stage 02 貼入至少兩份輸出</h3>
+            <p>按下「LOCK + SHUFFLE」後，這裡會以匿名 A／B／C 顯示，並開啟量表與投票。</p>
+            <button type="button" data-stage-target="2">GO TO OUTPUT COLLECTION →</button>
+          </div>
+
+          <div id="blindWorkspace" hidden>
+            <section class="rubric-key" aria-labelledby="rubricTitle">
+              <div><span>// SHARED RUBRIC / 1–5</span><h3 id="rubricTitle">四個維度，一把尺。</h3></div>
+              <dl>
+                <div><dt>FIT</dt><dd>是否命中目標與受眾？</dd></div>
+                <div><dt>STRUCTURE</dt><dd>是否清楚、可掃描、符合格式？</dd></div>
+                <div><dt>SPECIFICITY</dt><dd>是否具體、有用、不空泛？</dd></div>
+                <div><dt>USABILITY</dt><dd>是否能直接採用或只需少量修改？</dd></div>
+              </dl>
+            </section>
+
+            <div class="comparison-grid" id="comparisonGrid"></div>
+
+            <section class="vote-panel" aria-labelledby="voteTitle">
+              <div class="vote-panel__entry">
+                <span>// TEAM VOTE</span>
+                <h3 id="voteTitle">哪一份最值得採用？</h3>
+                <label for="voterName">隊名 / 投票者
+                  <input id="voterName" type="text" autocomplete="off" maxlength="40" placeholder="例：TEAM ACID" />
+                </label>
+                <div class="vote-buttons" id="voteButtons" aria-label="候選輸出投票"></div>
+                <p>同一隊再次投票會覆蓋前一票；所有投票只留在目前分頁。</p>
+              </div>
+              <div class="vote-results">
+                <div class="vote-results__head"><span>LIVE TALLY</span><b id="voteTotal">0 VOTES</b></div>
+                <div id="voteTally" aria-live="polite"></div>
+              </div>
+            </section>
+
+            <div class="blind-actions">
+              <button id="revealSources" type="button">REVEAL SOURCES</button>
+              <button id="resetReview" type="button">RESET SCORES + VOTES</button>
+              <button class="acid-button" id="copyComparison" type="button">COPY REVIEW SNAPSHOT</button>
+            </div>
+          </div>
+
+          <aside class="facilitator-note">
+            <span>DISCUSSION PROTOCOL</span>
+            <p>每隊用句型回答：「我投給＿＿，因為它在＿＿維度做到＿＿；證據是＿＿。」禁止只用「比較自然」或「比較像人」作結論。</p>
+          </aside>
+
+          <footer class="stage-actions">
+            <button type="button" data-prev-stage="2">← BACK / RUN</button>
+            <button class="complete-button" type="button" data-complete-stage="3">✓ MARK COMPARE COMPLETE</button>
+            <button class="acid-button next-button" type="button" data-next-stage="4">NEXT / DEBRIEF →</button>
+          </footer>
+        </section>
+
+        <section class="stage-card" id="stage4" data-stage-panel="4" tabindex="-1" aria-labelledby="stage4Title">
+          <header class="stage-head">
+            <div><span>STAGE 04 / DEBRIEF</span><b>10 MIN / WHOLE ROOM</b></div>
+            <p>把差異連回可觀察因素，留下下一次能重複使用的方法。</p>
+          </header>
+          <div class="stage-title stage-title--compact">
+            <p class="eyebrow">// SAME PROMPT ≠ SAME STRUCTURE</p>
+            <h2 id="stage4Title">差異不是魔法，<br /><span>是條件的結果。</span></h2>
+          </div>
+
+          <section class="why-section" aria-labelledby="whyTitle">
+            <header><span>// FIVE OBSERVABLE FACTOR FAMILIES</span><h3 id="whyTitle">為什麼同 prompt 仍會產生不同結構？</h3></header>
+            <div class="factor-grid">
+              <article><span>01</span><h4>模型家族與架構</h4><p>不同模型家族可能採用不同設計、規模與推論方式，因此對規劃、段落組織與指令權重的表現可能不同。</p><b>觀察：篇章順序、拆解深度、長距離一致性</b></article>
+              <article><span>02</span><h4>訓練資料與目標</h4><p>資料分布、語言覆蓋、任務配方與訓練目標不同，會影響模型熟悉的文體、範例模式與知識表達。</p><b>觀察：例子類型、術語選擇、語言自然度</b></article>
+              <article><span>03</span><h4>系統指令與對齊</h4><p>產品層的系統訊息、安全規則和回應偏好可能先於使用者 prompt 生效，改變拒答、說明、格式與保守程度。</p><b>觀察：前言、警語、限制處理、是否主動澄清</b></article>
+              <article><span>04</span><h4>上下文與工具</h4><p>對話歷史、檢索內容、記憶、搜尋或其他工具若不同，即使最後一則 prompt 相同，模型實際取得的上下文仍可能不同。</p><b>觀察：引用、即時資訊、沿用前文、工具痕跡</b></article>
+              <article><span>05</span><h4>取樣與解碼</h4><p>生成通常不是固定模板輸出。溫度、top-p、隨機種子或平台預設可能讓同模型在不同執行中選到不同措辭與結構。</p><b>觀察：同工具重跑後的變異、開頭與排序差異</b></article>
+            </div>
+            <p class="epistemic-note"><b>邊界聲明：</b>以上是可用來提出與驗證假設的通用因素，不代表我們知道任何特定產品未公開的私有架構、資料、系統指令或取樣設定。課堂結論應以公開文件與本次可觀察輸出為準。</p>
+          </section>
+
+          <section class="bingo-section" aria-labelledby="bingoTitle">
+            <div class="bingo-copy">
+              <span>// TEAM CHALLENGE</span>
+              <h3 id="bingoTitle">PROMPT LAB BINGO</h3>
+              <p>每完成一格就按下標記。連成任一橫、直或斜線時，全隊要說出一個「下次會保留的 prompt 習慣」。</p>
+              <p class="bingo-status" id="bingoStatus" role="status" aria-live="polite">0 / 9 MARKED · NO LINE YET</p>
+            </div>
+            <div class="bingo-grid" id="bingoGrid">
+              <button type="button" data-bingo="goal" aria-pressed="false"><span>01</span><b>目標能被複述</b></button>
+              <button type="button" data-bingo="context" aria-pressed="false"><span>02</span><b>背景改變答案</b></button>
+              <button type="button" data-bingo="audience" aria-pressed="false"><span>03</span><b>受眾被明寫</b></button>
+              <button type="button" data-bingo="constraint" aria-pressed="false"><span>04</span><b>限制真的可驗證</b></button>
+              <button type="button" data-bingo="format" aria-pressed="false"><span>05</span><b>輸出格式清楚</b></button>
+              <button type="button" data-bingo="compare" aria-pressed="false"><span>06</span><b>比較至少兩份</b></button>
+              <button type="button" data-bingo="evidence" aria-pressed="false"><span>07</span><b>用原文當證據</b></button>
+              <button type="button" data-bingo="uncertainty" aria-pressed="false"><span>08</span><b>指出不確定性</b></button>
+              <button type="button" data-bingo="reuse" aria-pressed="false"><span>09</span><b>留下可重用版本</b></button>
+            </div>
+          </section>
+
+          <section class="takeaway-section" aria-labelledby="takeawayTitle">
+            <div>
+              <span>// CLOSE THE LOOP</span>
+              <h3 id="takeawayTitle">帶走實驗，不只帶走答案。</h3>
+              <ol>
+                <li>哪一個 prompt 欄位最明顯地改善了輸出結構？</li>
+                <li>哪一項差異可能來自工具或上下文，而不是 prompt？</li>
+                <li>下一次你會先固定哪個變因，再開始比較？</li>
+              </ol>
+            </div>
+            <div class="export-console">
+              <span>SESSION OUTPUT</span>
+              <p>匯出會在這台裝置產生 JSON 檔；不會上傳。內容包含 prompt、貼入的輸出、來源與投票者名稱，下載前請再確認沒有敏感資料。</p>
+              <div>
+                <button class="acid-button" id="exportSession" type="button">EXPORT LAB JSON</button>
+                <button id="copyDebrief" type="button">COPY DEBRIEF</button>
+                <button class="danger-button" id="openReset" type="button">RESET SESSION</button>
+              </div>
+              <p id="exportStatus" role="status" aria-live="polite">READY TO EXPORT LOCALLY</p>
+            </div>
+          </section>
+
+          <footer class="stage-actions">
+            <button type="button" data-prev-stage="3">← BACK / COMPARE</button>
+            <button class="complete-button" type="button" data-complete-stage="4">✓ COMPLETE PROMPT LAB</button>
+          </footer>
+        </section>
+      </div>
+    </div>
+
+    <footer class="lab-footer">
+      <div><b>THEARD / PROMPT LAB</b><span>HUMAN-LED EXPERIMENT SYSTEM · 2026</span></div>
+      <p>NO AI API · NO SERVER STORAGE · DEVICE-LOCAL DRAFT ONLY</p>
+      <a href="#labMain">BACK TO TOP ↑</a>
+    </footer>
+  </main>
+
+  <dialog class="reset-dialog" id="resetDialog" aria-labelledby="resetTitle">
+    <form method="dialog" class="reset-panel">
+      <div class="reset-head"><span>// DESTRUCTIVE LOCAL ACTION</span><button value="cancel" aria-label="關閉重置視窗">×</button></div>
+      <h2 id="resetTitle">重置這次 Prompt Lab？</h2>
+      <p>這會清除目前分頁中的輸出、盲測順序、評分、投票、Bingo 與進度。此動作無法復原，建議先匯出。</p>
+      <label><input id="resetSavedDraft" type="checkbox" /> 同時刪除這台裝置上的 prompt 草稿與計時偏好</label>
+      <div class="reset-actions"><button value="cancel">CANCEL</button><button class="danger-button" id="confirmReset" value="default">RESET NOW</button></div>
+    </form>
+  </dialog>
+
+  <div class="lab-toast" id="labToast" role="status" aria-live="polite"></div>
+  <script src="app.js?v=1"></script>
+</body>
+</html>

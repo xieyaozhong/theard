@@ -48,6 +48,7 @@
     clearAdminKey,
     connectAdmin,
     health:()=>request('/api/health'),
+    listPublicSessions:()=>request('/api/public/sessions'),
     lookupDrawCode:(code)=>request('/api/public/lookup',{method:'POST',body:{code:normalizeCode(code)}}),
     claimDrawCode:(code,{attendeeName=''}={})=>request('/api/public/claim',{method:'POST',body:{code:normalizeCode(code),attendeeName}}),
     verifyTicket:(serial,token)=>request('/api/public/verify',{method:'POST',body:{serial,token}}),

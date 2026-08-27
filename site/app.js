@@ -7,8 +7,8 @@ const boot=$('#boot');
 setTimeout(()=>{boot?.classList.add('done');document.documentElement.classList.add('entered')},1380);
 
 const menu=$('#menu'),openBtn=$('#menuBtn'),closeBtn=$('#menuClose');
-function setMenu(open){menu?.classList.toggle('open',open);menu?.setAttribute('aria-hidden',String(!open));document.body.classList.toggle('menu-open',open)}
-openBtn?.addEventListener('click',()=>setMenu(true));closeBtn?.addEventListener('click',()=>setMenu(false));$$('.menu__nav a').forEach(a=>a.addEventListener('click',()=>setMenu(false)));addEventListener('keydown',e=>{if(e.key==='Escape')setMenu(false)});
+function setMenu(open){menu?.classList.toggle('open',open);menu?.setAttribute('aria-hidden',String(!open));if(menu)menu.inert=!open;openBtn?.setAttribute('aria-expanded',String(open));document.body.classList.toggle('menu-open',open)}
+openBtn?.addEventListener('click',()=>{setMenu(true);closeBtn?.focus()});closeBtn?.addEventListener('click',()=>{setMenu(false);openBtn?.focus()});$$('.menu__nav a').forEach(a=>a.addEventListener('click',()=>setMenu(false)));addEventListener('keydown',e=>{if(e.key==='Escape'&&menu?.classList.contains('open')){setMenu(false);openBtn?.focus()}});
 
 const cursor=$('#cursor');
 if(!coarse){
@@ -20,10 +20,10 @@ function setViewportUnit(){const h=window.visualViewport?.height||innerHeight;do
 setViewportUnit();addEventListener('resize',setViewportUnit,{passive:true});window.visualViewport?.addEventListener('resize',setViewportUnit,{passive:true});
 
 const revealObserver=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting)entry.target.classList.add('visible')}),{threshold:.08,rootMargin:'0px 0px -8% 0px'});
-$$('.scene__label,.statement__grid,.work__head,.case__grid,.case__meta,.live__grid,.ticket,.finale h2,.finale__bottom').forEach(el=>{el.classList.add('reveal');revealObserver.observe(el)});
+$$('.scene__label,.statement__grid,.work__head,.case__grid,.case__meta,.activities__head,.activities__journey,.activities__play,.activities__schedule,.live__grid,.ticket,.finale h2,.finale__bottom').forEach(el=>{el.classList.add('reveal');revealObserver.observe(el)});
 
 const scenes=$$('.scene'),cases=$$('.case'),hudMeta=$('.hud__meta'),progress=$('#progress'),drift=$('[data-drift]');
-const sceneNames=new Map([[document.getElementById('home'),'HOME / ATTENTION FIELD'],[document.getElementById('system'),'SYSTEM / TECHNICAL DEPTH'],[document.getElementById('work'),'WORK / SELECTED SYSTEMS'],[document.getElementById('live'),'LIVE / 001']]);
+const sceneNames=new Map([[document.getElementById('home'),'HOME / ATTENTION FIELD'],[document.getElementById('system'),'SYSTEM / TECHNICAL DEPTH'],[document.getElementById('work'),'WORK / SELECTED SYSTEMS'],[document.getElementById('activities'),'ACTIVITY / PROMPT LAB'],[document.getElementById('live'),'LIVE / 001']]);
 let targetY=scrollY,currentY=scrollY,lastY=scrollY,lastT=performance.now(),rafPending=false,scrollTimer=0,activeScene=null,activeCase=null;
 
 function setHudLabel(label){if(!hudMeta||hudMeta.textContent===label)return;hudMeta.classList.add('changing');setTimeout(()=>{hudMeta.textContent=label;hudMeta.classList.remove('changing')},120)}
@@ -51,3 +51,4 @@ const hero=$('.hero');if(hero&&!$('.matter-readout',hero)){const readout=documen
 import('./matter.js?v=20260807-3').catch(err=>{document.documentElement.classList.add('webgl-fallback');console.warn('THEARD WebGL enhancement unavailable; base experience remains active.',err)});
 import('./trend.js?v=2').catch(err=>console.warn('THEARD trend generator unavailable; main experience remains active.',err));
 import('./pass-sync.js?v=2').catch(err=>console.warn('THEARD pass sync unavailable; main experience remains active.',err));
+import('./activity.js?v=1').catch(err=>console.warn('THEARD public activity sync unavailable; static activity experience remains active.',err));

@@ -7,7 +7,7 @@
   <meta name="description" content="THEARD — AI content engine, commerce automation and live experiences." />
   <title>THEARD — Attention Engine</title>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
-  <link rel="stylesheet" href="styles.css?v=20260807-3" />
+  <link rel="stylesheet" href="styles.css?v=20260827-1" />
   <link rel="stylesheet" href="matter.css?v=20260807-3" />
   <link rel="stylesheet" href="motion.css?v=20260807-3" />
 </head>
@@ -25,19 +25,20 @@
   <div class="progress" id="progress" aria-hidden="true"></div>
 
   <header class="hud">
-    <button class="hud__menu" id="menuBtn" type="button">MENU</button>
+    <button class="hud__menu" id="menuBtn" type="button" aria-controls="menu" aria-expanded="false">MENU</button>
     <a class="hud__brand" href="#home">THEARD / 2026</a>
     <div class="hud__meta">AI CONTENT ENGINE / TAIWAN</div>
   </header>
 
-  <aside class="menu" id="menu" aria-hidden="true">
+  <aside class="menu" id="menu" aria-hidden="true" inert>
     <div class="menu__top"><span>// NAVIGATION — THEARD / 2026</span><button id="menuClose" type="button">CLOSE ×</button></div>
-    <nav class="menu__nav">
+    <nav class="menu__nav menu__nav--expanded">
       <a href="#home"><span>//01</span><b>HOME</b><em>CURRENT ↗</em></a>
       <a href="#system"><span>//02</span><b>SYSTEM</b><em>OPEN ↗</em></a>
       <a href="#work"><span>//03</span><b>WORK</b><em>OPEN ↗</em></a>
-      <a href="#live"><span>//04</span><b>LIVE</b><em>OPEN ↗</em></a>
-      <a href="draw/"><span>//05</span><b>TICKET</b><em>DRAW ↗</em></a>
+      <a href="#activities"><span>//04</span><b>ACTIVITY</b><em>LAB ↗</em></a>
+      <a href="#live"><span>//05</span><b>LIVE</b><em>OPEN ↗</em></a>
+      <a href="draw/"><span>//06</span><b>TICKET</b><em>DRAW ↗</em></a>
     </nav>
     <div class="menu__bottom"><span>CONTENT / COMMERCE / AUTOMATION</span><span>REMOTE / TAIWAN</span></div>
   </aside>
@@ -124,7 +125,7 @@
           <div>
             <h3>Guarded<br>Publish</h3>
             <p>所有內容先經過 preview、URL、數量與狀態檢查。只有 READY_TO_PUBLISH 才能進入 API 發布流程。</p>
-            <a class="text-link" href="#live">ENTER LIVE EXPERIENCE ↘</a>
+            <a class="text-link" href="#activities">ENTER LIVE EXPERIENCE ↘</a>
           </div>
           <div class="case__visual visual--terminal" aria-hidden="true">
             <code>$ python scripts/publisher_pipeline.py</code>
@@ -138,8 +139,99 @@
       </article>
     </section>
 
+    <section id="activities" class="activities scene" aria-labelledby="activities-title" data-activities-root>
+      <div class="scene__label">//05 PHYSICAL COURSE / PROMPT LAB / BRING YOUR OWN AI</div>
+
+      <div class="activities__head">
+        <div>
+          <p class="activities__kicker">FROM ONE PROMPT → MANY STRUCTURES</p>
+          <h2 id="activities-title">AI PROMPT<br><span>LAB.</span></h2>
+        </div>
+        <div class="activities__intro">
+          <p class="activities__lead">帶著你慣用的 AI 進場。把現場想法交給提示詞抽取器整理，複製到自己的 ChatGPT、Claude、Gemini 或其他工具，立即生成並比較文本。</p>
+          <p class="activities__why"><strong>同一句提示詞，為什麼長得不一樣？</strong>模型架構、訓練資料、系統指令、上下文處理與生成取樣各有差異，因此段落順序、推理方式與語氣都可能改變。現場會把這些差異變成可觀察、可討論的材料。</p>
+          <div class="activities__actions">
+            <a class="activity-cta activity-cta--primary" href="workshop/">ENTER PROMPT LAB <span aria-hidden="true">↗</span></a>
+            <a class="activity-cta" href="draw/">DRAW A TICKET <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="activities__journey" aria-labelledby="journey-title">
+        <div class="activities__subhead">
+          <p id="journey-title">45-MINUTE FIELD JOURNEY</p>
+          <span>現場流程一眼看懂</span>
+        </div>
+        <ol class="journey-steps">
+          <li>
+            <span>01 / DRAW</span>
+            <strong>抽取任務</strong>
+            <p>用情境輪盤抽出受眾、語氣、格式與限制，讓每組拿到不同挑戰。</p>
+          </li>
+          <li>
+            <span>02 / EXTRACT</span>
+            <strong>組成提示詞</strong>
+            <p>提示詞抽取器把零散想法整理成任務、脈絡、受眾、語氣、限制與輸出格式。</p>
+          </li>
+          <li>
+            <span>03 / GENERATE</span>
+            <strong>帶回自己的 AI</strong>
+            <p>全員複製同一提示詞到各自工具生成文本，保留最真實的模型差異。</p>
+          </li>
+          <li>
+            <span>04 / COMPARE</span>
+            <strong>盲測與拆解</strong>
+            <p>隱藏模型名稱，依結構、清晰度與可用性投票，再一起逆向拆解。</p>
+          </li>
+        </ol>
+      </div>
+
+      <div class="activities__play">
+        <div>
+          <p class="activities__play-label">INTERACTION DECK / READY TO PLAY</p>
+          <h3>不是聽完就散場，<br>而是每輪都有輸出。</h3>
+        </div>
+        <ul aria-label="課程互動玩法">
+          <li><span>01</span>PROMPT ROULETTE / 限制輪盤</li>
+          <li><span>02</span>BLIND AI TEST / 匿名盲測</li>
+          <li><span>03</span>PROMPT RELAY / 團隊接力</li>
+          <li><span>04</span>STRUCTURE BINGO / 架構賓果</li>
+          <li><span>05</span>FINAL BATTLE / 成果對戰</li>
+        </ul>
+      </div>
+
+      <div class="activities__schedule" aria-labelledby="public-sessions-title">
+        <div class="activities__schedule-head">
+          <div>
+            <p class="activities__play-label">UPCOMING SESSIONS</p>
+            <h3 id="public-sessions-title">公開場次</h3>
+          </div>
+          <span class="activities__sync" data-public-sessions-sync>BACKSTAGE SYNC / READY</span>
+        </div>
+
+        <div id="publicSessions" class="activities__sessions" data-public-sessions aria-busy="false">
+          <p id="publicSessionsStatus" class="activities__sessions-status" data-public-sessions-status role="status" aria-live="polite" aria-atomic="true">公開場次將由後台同步顯示；你也可以先進入 Prompt Lab 預覽完整體驗。</p>
+          <div id="publicSessionsList" class="activities__sessions-list" data-public-sessions-list></div>
+        </div>
+
+        <template id="publicSessionCardTemplate" data-public-session-template>
+          <article class="activity-session-card" data-public-session-card>
+            <div>
+              <p class="activity-session-card__kicker" data-session-kicker>THEARD LIVE / SESSION</p>
+              <h4 data-session-title></h4>
+              <p data-session-meta></p>
+            </div>
+            <div class="activity-session-card__action">
+              <span data-session-availability></span>
+              <a href="draw/" data-session-action>抽取入場券 <span aria-hidden="true">↗</span></a>
+            </div>
+          </article>
+        </template>
+      </div>
+    </section>
+
     <section id="live" class="live scene">
-      <div class="scene__label">//05 THEARD LIVE / 001 / SYSTEM → ROOM</div>
+      <div class="scene__label">//06 THEARD LIVE / 001 / SYSTEM → ROOM</div>
       <div class="live__grid">
         <div>
           <p class="live__kicker">CONTENT × AI × COMMERCE</p>
@@ -167,7 +259,7 @@
     </section>
 
     <section class="finale scene">
-      <div class="scene__label">//06 SYSTEM COMPLETE</div>
+      <div class="scene__label">//07 SYSTEM COMPLETE</div>
       <h2>AMBITIOUS<br>IDEAS,<br><span>SHIPPED.</span></h2>
       <div class="finale__bottom">
         <p>THEARD / ATTENTION ENGINE / 2026</p>
@@ -176,6 +268,7 @@
     </section>
   </main>
 
-  <script src="app.js?v=20260825-1"></script>
+  <script src="api.js?v=3"></script>
+  <script src="app.js?v=20260827-1"></script>
 </body>
 </html>

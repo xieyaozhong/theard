@@ -8,6 +8,9 @@
     if(/^\/theard\/admin\/?$/.test(location.pathname)){
       location.replace('/theard/site/admin/'+location.search+location.hash);
     }
+    else if(/^\/theard\/workshop\/?$/.test(location.pathname)){
+      location.replace('/theard/site/workshop/'+location.search+location.hash);
+    }
     else if(location.pathname.indexOf('/theard/')===0){location.replace(root+location.search+location.hash)}
   </script>
 </body>

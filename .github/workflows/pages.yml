@@ -34,6 +34,7 @@ jobs:
           test -f site/index.html
           test -f site/styles.css
           test -f site/app.js
+          test -f site/activity.js
           test -f site/matter.js
           test -f site/trend.js
           test -f site/trend.css
@@ -57,12 +58,16 @@ jobs:
           test -f site/admin/styles.css
           test -f site/admin/sync.css
           test -f site/admin/app.js
+          test -f site/workshop/index.html
+          test -f site/workshop/styles.css
+          test -f site/workshop/app.js
 
           python - <<'PY'
           from pathlib import Path
 
           main = Path('site/index.html').read_text(encoding='utf-8')
           main_app = Path('site/app.js').read_text(encoding='utf-8')
+          activity_app = Path('site/activity.js').read_text(encoding='utf-8')
           trend_module = Path('site/trend.js').read_text(encoding='utf-8')
           pass_sync = Path('site/pass-sync.js').read_text(encoding='utf-8')
           analyzer = Path('site/trend/index.html').read_text(encoding='utf-8')
@@ -75,6 +80,8 @@ jobs:
           ticket = Path('site/ticket.html').read_text(encoding='utf-8')
           ticket_app = Path('site/ticket.js').read_text(encoding='utf-8')
           verify = Path('site/verify.html').read_text(encoding='utf-8')
+          workshop = Path('site/workshop/index.html').read_text(encoding='utf-8')
+          workshop_app = Path('site/workshop/app.js').read_text(encoding='utf-8')
           root_404 = Path('404.html').read_text(encoding='utf-8')
           site_404 = Path('site/404.html').read_text(encoding='utf-8')
 
@@ -85,7 +92,9 @@ jobs:
           assert 'href="../"' in analyzer, 'trend analyzer must return to main site'
           assert 'href="../"' in draw, 'draw page must return to main site'
           assert 'href="../"' in admin, 'admin page must return to main site'
-          assert '<a href="draw/"><span>//05</span><b>TICKET</b>' in main, 'main ticket navigation must open draw'
+          assert '<a href="#activities"><span>//04</span><b>ACTIVITY</b>' in main, 'main activity navigation missing'
+          assert '<a href="draw/"><span>//06</span><b>TICKET</b>' in main, 'main ticket navigation must open draw'
+          assert 'id="activities"' in main and 'href="workshop/"' in main, 'main activity zone must link to Prompt Lab'
 
           # Each entrance owns its runtime and visual namespace.
           assert 'src="draw/app.js' not in main
@@ -109,6 +118,12 @@ jobs:
           assert 'theard.passdraw.v3' in pass_sync, 'pass sync must consume draw state'
           assert "ticket.href='draw/'" in pass_sync, 'main live pass must open draw system'
           assert 'draw/app.js' not in pass_sync and 'draw/styles.css' not in pass_sync and 'pets.js' not in pass_sync, 'pass sync must not import draw assets'
+
+          # Main activity zone reads only the whitelisted public session feed.
+          assert 'api.js' in main and "./activity.js" in main_app, 'main must load the public activity sync'
+          assert 'listPublicSessions' in api and 'listPublicSessions' in activity_app
+          assert 'data-public-sessions-list' in main and 'data-public-session-template' in main
+          assert 'innerHTML' not in activity_app, 'public activity data must use safe DOM rendering'
 
           # Draw remains isolated from all trend/main runtimes.
           assert 'trend.js' not in draw and 'trend.css' not in draw, 'draw page must not load trend UI'
@@ -134,8 +149,17 @@ jobs:
               assert state in verify, f'verify state missing: {state}'
           assert 'updateTicketStatus' not in verify, 'public verify page must remain read-only'
           assert '/theard/site/admin/' in root_404 and '/theard/admin/' in site_404, 'admin recovery routes missing'
+          assert '/theard/site/workshop/' in root_404 and '/theard/workshop/' in site_404, 'Prompt Lab recovery routes missing'
 
-          print('Isolation check passed: /, /trend/, /draw/, /admin/, and pass-state bridge are independent.')
+          # Prompt Lab is a BYO-AI, local-first classroom tool with no model API or admin runtime.
+          for marker in ('promptForm', 'timerPanel', 'lockAndShuffle', 'comparisonGrid', 'bingoGrid'):
+              assert f'id="{marker}"' in workshop, f'Prompt Lab control missing: {marker}'
+          assert 'DEVICE-LOCAL ONLY' in workshop and 'NO API / NO UPLOAD' in workshop
+          assert '提示詞抽取器' in workshop, 'Prompt extractor label missing'
+          assert 'localStorage' in workshop_app and 'fetch(' not in workshop_app
+          assert '../api.js' not in workshop and '../admin/' not in workshop_app
+
+          print('Isolation check passed: /, /trend/, /draw/, /admin/, /workshop/, and public sync bridges are independent.')
           PY
 
       - name: Configure Pages
