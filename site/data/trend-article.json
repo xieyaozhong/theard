@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-08-27T04:05:41+08:00",
+  "generated_at": "2026-08-27T08:50:17+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "GLM-5.3-Flash",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "684 pts / 320 comments",
+      "score": 93,
+      "traffic": "868 pts / 435 comments",
       "url": "https://z.ai/blog/glm-5.3-flash",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AWS Acquires DuckLabs",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "847 pts / 241 comments",
+      "score": 93,
+      "traffic": "955 pts / 288 comments",
       "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Qwen3.8-Flash-Next",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "522 pts / 166 comments",
+      "score": 91,
+      "traffic": "609 pts / 197 comments",
       "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tim Curry has died",
+      "title": "U.S. State Department pauses immigrant visa applications",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "406 pts / 146 comments",
-      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Nebula Sans",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "260 pts / 100 comments",
-      "url": "https://www.nebulasans.com",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Disruption with Some GitHub Services",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "206 pts / 120 comments",
-      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "traffic": "247 pts / 301 comments",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "243 pts / 41 comments",
+      "score": 89,
+      "traffic": "460 pts / 90 comments",
       "url": "https://github.com/tailscale/tailcat",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "An ongoing 3D-printer AGPL violation",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "155 pts / 51 comments",
+      "score": 89,
+      "traffic": "295 pts / 131 comments",
       "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+      "title": "The Hugging Face incident and the road ahead",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "78 pts / 49 comments",
-      "url": "https://thetariffcost.com/",
+      "score": 89,
+      "traffic": "158 pts / 193 comments",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "台鐵",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/7266/9714341",
-      "context": "試辦大學生優惠搞烏龍！註冊空窗濫罰甚至趕下末班車 台鐵深夜道歉了"
+      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "167 pts / 87 comments",
+      "url": "https://isgithubcooked.com/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "tim curry",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.cnn.com/tim-curry-death",
-      "context": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80"
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "132 pts / 67 comments",
+      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "中秋節",
+      "title": "命理師",
       "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://www.vietnam.vn/ja/khoi-dong-mua-banh-trung-thu",
-      "context": "中秋節の月餅シーズンが始まります。"
+      "traffic": "58 pts / 16 comments",
+      "url": "https://www.mturk.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "45 pts / 18 comments",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
