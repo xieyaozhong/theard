@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-27T08:50:17+08:00",
+  "generated_at": "2026-08-27T22:16:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "GLM-5.3-Flash",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "868 pts / 435 comments",
-      "url": "https://z.ai/blog/glm-5.3-flash",
+      "score": 95,
+      "traffic": "1511 pts / 677 comments",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "AWS Acquires DuckLabs",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "955 pts / 288 comments",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Qwen3.8-Flash-Next",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "609 pts / 197 comments",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "U.S. State Department pauses immigrant visa applications",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "247 pts / 301 comments",
-      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "460 pts / 90 comments",
-      "url": "https://github.com/tailscale/tailcat",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "An ongoing 3D-printer AGPL violation",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "295 pts / 131 comments",
-      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "158 pts / 193 comments",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "167 pts / 87 comments",
-      "url": "https://isgithubcooked.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "title": "Pollen Robotics (Hugging Face) Microduck",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "132 pts / 67 comments",
-      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+      "traffic": "161 pts / 57 comments",
+      "url": "https://pollen-robotics.com/microduck/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "命理師",
+      "title": "威力彩",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E5%A8%81%E5%8A%9B%E5%BD%A9%E9%A0%AD%E7%8D%8E%E9%A3%863-4%E5%84%84-3%E7%94%9F%E8%82%96%E8%B2%A1%E9%81%8B%E9%A3%86%E5%8D%87-%E6%AD%A3%E5%81%8F%E8%B2%A1%E5%A4%A7%E7%88%86%E7%99%BC-075104764.html",
+      "context": "威力彩頭獎飆3.4億！3生肖財運飆升 正偏財大爆發"
+    },
+    {
+      "title": "dc",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://butwhytho.net/2026/08/next-level-one-shot-issue-1-review/",
+      "context": "REVIEW: ‘Next Level: One Shot’ Issue 1"
+    },
+    {
+      "title": "運動部",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "Mechanical Turk shutting down September 30",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "58 pts / 16 comments",
-      "url": "https://www.mturk.com/",
-      "context": "High-engagement technology discussion"
+      "title": "景甜",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5554808",
+      "context": "景甜遭爆討1.3億「代孕不給卵」！男方竟是超狂幣圈大佬 索錢內幕曝光"
     },
     {
-      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "title": "天气",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.nytimes.com/2026/08/26/us/los-angeles-california-humidity-weather-heat-climate.html",
+      "context": "Summer Weather in L.A. Was Perfect. Then Came Humidity and Mosquitoes."
+    },
+    {
+      "title": "宮美樂",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "拍賣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "風",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://news.yahoo.co.jp/pickup/6593325",
+      "context": "28日は広い範囲で大雨予想 警戒を"
+    },
+    {
+      "title": "李杜軒",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.mirrordaily.news/story/82226",
+      "context": "軟銀球探涉性騷／李杜軒驚人背景起底！一家三代都是棒球人 妹婿是統一獅投手胡智爲"
+    },
+    {
+      "title": "Show HN: Pause – weekly curated 1:1 coffee matches for London professionals",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "45 pts / 18 comments",
-      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "score": 78,
+      "traffic": "19 pts / 8 comments",
+      "url": "https://joinpause.co/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "GLM-5.3-Flash",
+      "topic": "Nvidia agrees to acquire Hugging Face for $13B",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「GLM-5.3-Flash」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Nvidia agrees to acquire Hugging Face for $13B」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GLM-5.3-Flash」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Nvidia agrees to acquire Hugging Face for $13B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "GLM-5.3-Flash",
-          "url": "https://z.ai/blog/glm-5.3-flash"
+          "title": "Nvidia agrees to acquire Hugging Face for $13B",
+          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"
         }
       ]
     },
     {
-      "topic": "AWS Acquires DuckLabs",
+      "topic": "Pollen Robotics (Hugging Face) Microduck",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「AWS Acquires DuckLabs」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Pollen Robotics (Hugging Face) Microduck」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AWS Acquires DuckLabs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Pollen Robotics (Hugging Face) Microduck」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "AWS Acquires DuckLabs",
-          "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"
+          "title": "Pollen Robotics (Hugging Face) Microduck",
+          "url": "https://pollen-robotics.com/microduck/"
         }
       ]
     },
     {
-      "topic": "Qwen3.8-Flash-Next",
+      "topic": "威力彩",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Qwen3.8-Flash-Next」開始升溫，我們真正該看的不是熱度",
+      "title": "當「威力彩」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Qwen3.8-Flash-Next」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「威力彩」推到更高的注意力位置。威力彩頭獎飆3.4億！3生肖財運飆升 正偏財大爆發。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Qwen3.8-Flash-Next",
-          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "威力彩",
+          "url": "https://tw.news.yahoo.com/%E5%A8%81%E5%8A%9B%E5%BD%A9%E9%A0%AD%E7%8D%8E%E9%A3%863-4%E5%84%84-3%E7%94%9F%E8%82%96%E8%B2%A1%E9%81%8B%E9%A3%86%E5%8D%87-%E6%AD%A3%E5%81%8F%E8%B2%A1%E5%A4%A7%E7%88%86%E7%99%BC-075104764.html"
         }
       ]
     }
