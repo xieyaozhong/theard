@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-27T22:16:42+08:00",
+  "generated_at": "2026-08-28T08:26:00+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1511 pts / 677 comments",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 90,
+      "traffic": "463 pts / 131 comments",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Pollen Robotics (Hugging Face) Microduck",
+      "title": "Small Models Have Arrived",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "161 pts / 57 comments",
+      "score": 90,
+      "traffic": "419 pts / 189 comments",
+      "url": "https://calv.info/small-models-have-arrived",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Microduck",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "491 pts / 180 comments",
       "url": "https://pollen-robotics.com/microduck/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "威力彩",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%A8%81%E5%8A%9B%E5%BD%A9%E9%A0%AD%E7%8D%8E%E9%A3%863-4%E5%84%84-3%E7%94%9F%E8%82%96%E8%B2%A1%E9%81%8B%E9%A3%86%E5%8D%87-%E6%AD%A3%E5%81%8F%E8%B2%A1%E5%A4%A7%E7%88%86%E7%99%BC-075104764.html",
-      "context": "威力彩頭獎飆3.4億！3生肖財運飆升 正偏財大爆發"
-    },
-    {
-      "title": "dc",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://butwhytho.net/2026/08/next-level-one-shot-issue-1-review/",
-      "context": "REVIEW: ‘Next Level: One Shot’ Issue 1"
-    },
-    {
-      "title": "運動部",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "景甜",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5554808",
-      "context": "景甜遭爆討1.3億「代孕不給卵」！男方竟是超狂幣圈大佬 索錢內幕曝光"
-    },
-    {
-      "title": "天气",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.nytimes.com/2026/08/26/us/los-angeles-california-humidity-weather-heat-climate.html",
-      "context": "Summer Weather in L.A. Was Perfect. Then Came Humidity and Mosquitoes."
-    },
-    {
-      "title": "宮美樂",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "拍賣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "風",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://news.yahoo.co.jp/pickup/6593325",
-      "context": "28日は広い範囲で大雨予想 警戒を"
-    },
-    {
-      "title": "李杜軒",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.mirrordaily.news/story/82226",
-      "context": "軟銀球探涉性騷／李杜軒驚人背景起底！一家三代都是棒球人 妹婿是統一獅投手胡智爲"
-    },
-    {
-      "title": "Show HN: Pause – weekly curated 1:1 coffee matches for London professionals",
+      "title": "507 Mechanical Movements",
       "source": "HACKER NEWS",
-      "score": 78,
-      "traffic": "19 pts / 8 comments",
-      "url": "https://joinpause.co/",
+      "score": 89,
+      "traffic": "448 pts / 64 comments",
+      "url": "https://507movements.com/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "162 pts / 122 comments",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Gemini-3.5-Transcribe",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "131 pts / 33 comments",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "gta 6",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.dazeddigital.com/life-culture/article/70859/1/gta-6-grand-theft-auto-vi-rockstar-exclusive-deep-dive-game-unparalleled-world",
+      "context": "GTAVI: An exclusive deep dive into the video game of the decade"
+    },
+    {
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "53 pts / 50 comments",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "銅箔",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "77 pts / 8 comments",
+      "url": "https://github.com/experientiallabs/experiential",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "40 pts / 9 comments",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "長 鑫 存儲",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Nvidia agrees to acquire Hugging Face for $13B",
+      "topic": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Nvidia agrees to acquire Hugging Face for $13B」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nvidia agrees to acquire Hugging Face for $13B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Nvidia agrees to acquire Hugging Face for $13B",
-          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"
+          "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+          "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
         }
       ]
     },
     {
-      "topic": "Pollen Robotics (Hugging Face) Microduck",
+      "topic": "Small Models Have Arrived",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Pollen Robotics (Hugging Face) Microduck」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Small Models Have Arrived」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Pollen Robotics (Hugging Face) Microduck」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Small Models Have Arrived」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Pollen Robotics (Hugging Face) Microduck",
-          "url": "https://pollen-robotics.com/microduck/"
+          "title": "Small Models Have Arrived",
+          "url": "https://calv.info/small-models-have-arrived"
         }
       ]
     },
     {
-      "topic": "威力彩",
+      "topic": "Microduck",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「威力彩」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Microduck」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「威力彩」推到更高的注意力位置。威力彩頭獎飆3.4億！3生肖財運飆升 正偏財大爆發。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Microduck」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "威力彩",
-          "url": "https://tw.news.yahoo.com/%E5%A8%81%E5%8A%9B%E5%BD%A9%E9%A0%AD%E7%8D%8E%E9%A3%863-4%E5%84%84-3%E7%94%9F%E8%82%96%E8%B2%A1%E9%81%8B%E9%A3%86%E5%8D%87-%E6%AD%A3%E5%81%8F%E8%B2%A1%E5%A4%A7%E7%88%86%E7%99%BC-075104764.html"
+          "source": "HACKER NEWS",
+          "title": "Microduck",
+          "url": "https://pollen-robotics.com/microduck/"
         }
       ]
     }
