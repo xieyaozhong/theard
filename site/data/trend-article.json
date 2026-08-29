@@ -1,45 +1,21 @@
 {
-  "generated_at": "2026-08-30T00:45:11+08:00",
+  "generated_at": "2026-08-30T04:57:48+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "GUIs should be fully keyboard-driven",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "953 pts / 470 comments",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "287 pts / 228 comments",
-      "url": "https://lwn.net/Articles/1091231/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "346 pts / 92 comments",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Samsung's Processing-in-Memory (PIM)",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "197 pts / 66 comments",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "traffic": "208 pts / 97 comments",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "EVE Online moves to Python 3",
+      "title": "Glacier Mice",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "154 pts / 79 comments",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "traffic": "214 pts / 45 comments",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
       "context": "High-engagement technology discussion"
     },
     {
@@ -51,65 +27,89 @@
       "context": "明起連濕7天！南部「紫爆」水氣轟炸 這時大雨恐擴全台"
     },
     {
-      "title": "柴油",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/%E4%B8%8B%E9%80%B1%E6%B1%BD%E6%9F%B4%E6%B2%B9%E5%83%B9%E9%9C%87%E6%92%BC%E5%87%BA%E7%88%90-%E4%B8%AD%E6%B2%B9%E5%86%8D%E6%8B%8B%E8%A3%9C%E8%B2%BC%E5%A4%A7%E6%8B%9B-%E9%87%8D%E7%A3%85%E5%AE%A3%E5%B8%83-%E5%B7%B2%E5%90%B8%E6%94%B6%E7%A0%B4%E7%99%BE%E5%84%84-094445057.html",
-      "context": "下週汽柴油價震撼出爐！中油再拋補貼大招 重磅宣布：已吸收破百億"
-    },
-    {
-      "title": "Glacier Mice",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "147 pts / 30 comments",
-      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "軍公教",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "黃金存摺",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
       "title": "SQLite as a Document Database (2020)",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "49 pts / 5 comments",
+      "score": 85,
+      "traffic": "129 pts / 40 comments",
       "url": "https://dgl.cx/2020/06/sqlite-json-support",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "title": "道奇老虎",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E5%AE%87%E5%AE%99%E9%81%93%E5%A5%87%E4%B9%9F%E6%80%95-%E5%8F%B0%E7%81%A3%E6%80%AA%E5%8A%9B%E7%94%B7-%E6%9D%8E%E7%81%9D%E5%AE%87-%E9%97%9C%E9%8D%B5%E6%99%82%E5%88%BB%E4%B8%8D%E7%B5%A6%E6%89%93-%E7%94%9F%E6%B6%AF%E9%A6%96%E6%AC%A1%E8%A2%AB%E6%95%AC%E9%81%A0-012742072.html",
+      "context": "宇宙道奇也怕「台灣怪力男」李灝宇？關鍵時刻不給打「生涯首次被敬遠」送上壘"
+    },
+    {
+      "title": "軍 公教",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "46 pts / 6 comments",
-      "url": "https://typebase.io",
+      "score": 84,
+      "traffic": "146 pts / 21 comments",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "137 pts / 24 comments",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Warp builds self-improving agents on Claude",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "41 pts / 37 comments",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "57 pts / 29 comments",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "熱刺 對 紐卡索聯",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "婚宴",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.cmoney.tw/forum/article/183514084",
+      "context": "婚宴17道主菜竟有10道被換掉！新人傻眼提告陸法院判飯店需賠- 股市爆料同學會"
     }
   ],
   "articles": [
     {
-      "topic": "GUIs should be fully keyboard-driven",
+      "topic": "Tether: iMessage, SMS, etc. on Linux",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「GUIs should be fully keyboard-driven」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Tether: iMessage, SMS, etc. on Linux」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GUIs should be fully keyboard-driven」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Tether: iMessage, SMS, etc. on Linux」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "GUIs should be fully keyboard-driven",
-          "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
+          "title": "Tether: iMessage, SMS, etc. on Linux",
+          "url": "https://zackbartel.com/blog/2026/08/tether/"
         }
       ]
     },
     {
-      "topic": "Debian votes to allow \"responsible use of generative AI\"",
+      "topic": "Glacier Mice",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Debian votes to allow \"responsible use of generative AI\"」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Glacier Mice」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Debian votes to allow \"responsible use of generative AI\"」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Glacier Mice」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231/"
+          "title": "Glacier Mice",
+          "url": "https://en.wikipedia.org/wiki/Glacier_mice"
         }
       ]
     },
     {
-      "topic": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "topic": "雨",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Boot a Virtual iPhone via Apple's Virtualization.framework」開始升溫，我們真正該看的不是熱度",
+      "title": "當「雨」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Boot a Virtual iPhone via Apple's Virtualization.framework」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「雨」推到更高的注意力位置。明起連濕7天！南部「紫爆」水氣轟炸 這時大雨恐擴全台。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-          "url": "https://github.com/Lakr233/vphone-cli"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "雨",
+          "url": "https://tw.news.yahoo.com/%E6%98%8E%E8%B5%B7%E9%80%A3%E6%BF%957%E5%A4%A9-%E5%8D%97%E9%83%A8-%E7%B4%AB%E7%88%86-%E6%B0%B4%E6%B0%A3%E8%BD%9F%E7%82%B8-%E9%80%99%E6%99%82%E5%A4%A7%E9%9B%A8%E6%81%90%E6%93%B4%E5%85%A8%E5%8F%B0-121800912.html"
         }
       ]
     }
