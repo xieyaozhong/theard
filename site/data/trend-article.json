@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-28T23:26:42+08:00",
+  "generated_at": "2026-08-29T09:46:26+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "\"IT WoRKs BeTter in the App \"",
+      "title": "GUIs should be fully keyboard-driven",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "611 pts / 304 comments",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "488 pts / 462 comments",
+      "url": "https://www.inventati.org/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "530 pts / 395 comments",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Htmx 4.0",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "357 pts / 164 comments",
-      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "traffic": "535 pts / 127 comments",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "266 pts / 88 comments",
-      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "EPA says power for data centers can sidestep pollution laws",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "169 pts / 143 comments",
-      "url": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "203 pts / 68 comments",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Get your Windows license refund",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "166 pts / 50 comments",
-      "url": "https://en.refund4freedom.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "176 pts / 43 comments",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "中華職棒",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "cpbl",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5555978",
-      "context": "中職》上周返美球迷擔心他一去不復返 艾速特哈哈大笑"
-    },
-    {
-      "title": "華航",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
     },
     {
       "title": "Inception-style curved map for turn-by-turn directions",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "115 pts / 42 comments",
+      "score": 90,
+      "traffic": "430 pts / 144 comments",
       "url": "https://www.orbify.eu/demo/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "OpenAI: Migrating to HTTPX2",
+      "title": "mlb",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://www.mlb.com/gameday/reds-vs-cubs/2026/08/28/824638/final",
+      "context": "MLB Gameday: Reds 10, Cubs 8 Final Score (08/28/2026)"
+    },
+    {
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "116 pts / 48 comments",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "score": 88,
+      "traffic": "260 pts / 92 comments",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "張士綸",
+      "title": "道奇",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://tw.sports.yahoo.com/news/%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-hao-%E6%88%B2%E4%BE%86%E4%BA%86-%E8%80%81%E8%99%8E%E6%9D%8E%E7%81%9D%E5%AE%87%E8%88%87%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3%E5%90%8C%E5%A0%B4%E8%BC%83%E5%8B%81-%E5%85%A9%E4%BA%BA%E9%A6%96%E6%89%93%E5%B8%AD%E9%83%BD%E5%90%9Ek-225633202.html",
+      "context": "MLB／李灝宇與大谷翔平同場較勁都沒敲安！道奇先發史庫柏對戰前東家老虎隊拿勝投"
+    },
+    {
+      "title": "航空 公司",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.storm.mg/lifestyle/11160029",
+      "context": "台灣最賺錢航空是哪一間？冠軍單月大賺222億，乘客讚設備新服務好、 飛機餐很好吃"
+    },
+    {
+      "title": "張繼科景甜",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.chinatimes.com/realtimenews/20260828003354-260404",
+      "context": "張繼科慘淪「禁忌詞」景甜後悔刺青洗不掉！不雅片事件再被挖出- 娛樂"
+    },
+    {
+      "title": "weather",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.nbcdfw.com/video/weather/weather-connection/weather-quiz-how-often-are-normal-tempeatures-updated/4069831/",
+      "context": "Weather Quiz: ‘How often are ‘normal' tempeatures updated?'"
+    },
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "71 pts / 16 comments",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "\"IT WoRKs BeTter in the App \"",
+      "topic": "GUIs should be fully keyboard-driven",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「\"IT WoRKs BeTter in the App \"」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GUIs should be fully keyboard-driven」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「\"IT WoRKs BeTter in the App \"」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GUIs should be fully keyboard-driven」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "\"IT WoRKs BeTter in the App \"",
-          "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"
+          "title": "GUIs should be fully keyboard-driven",
+          "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
         }
       ]
     },
     {
-      "topic": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "topic": "U.S. sanctions against the A/I Collective",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Pentagon's blacklisting of Anthropic was unlawful, US judge rules」開始升溫，我們真正該看的不是熱度",
+      "title": "當「U.S. sanctions against the A/I Collective」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Pentagon's blacklisting of Anthropic was unlawful, US judge rules」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「U.S. sanctions against the A/I Collective」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"
+          "title": "U.S. sanctions against the A/I Collective",
+          "url": "https://www.inventati.org/"
         }
       ]
     },
     {
-      "topic": "EPA says power for data centers can sidestep pollution laws",
+      "topic": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「EPA says power for data centers can sidestep pollution laws」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Judge rules Trump administration’s blacklisting of Anthropic was illegal」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「EPA says power for data centers can sidestep pollution laws」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Judge rules Trump administration’s blacklisting of Anthropic was illegal」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "EPA says power for data centers can sidestep pollution laws",
-          "url": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers"
+          "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+          "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"
         }
       ]
     }
