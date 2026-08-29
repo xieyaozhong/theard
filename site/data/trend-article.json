@@ -1,38 +1,62 @@
 {
-  "generated_at": "2026-08-30T04:57:48+08:00",
+  "generated_at": "2026-08-30T07:22:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Tether: iMessage, SMS, etc. on Linux",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "208 pts / 97 comments",
+      "score": 89,
+      "traffic": "289 pts / 121 comments",
       "url": "https://zackbartel.com/blog/2026/08/tether/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Glacier Mice",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "214 pts / 45 comments",
-      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "score": 87,
+      "traffic": "249 pts / 37 comments",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "雨",
+      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "136 pts / 85 comments",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "207 pts / 40 comments",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "軍 公教",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E6%98%8E%E8%B5%B7%E9%80%A3%E6%BF%957%E5%A4%A9-%E5%8D%97%E9%83%A8-%E7%B4%AB%E7%88%86-%E6%B0%B4%E6%B0%A3%E8%BD%9F%E7%82%B8-%E9%80%99%E6%99%82%E5%A4%A7%E9%9B%A8%E6%81%90%E6%93%B4%E5%85%A8%E5%8F%B0-121800912.html",
-      "context": "明起連濕7天！南部「紫爆」水氣轟炸 這時大雨恐擴全台"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "SQLite as a Document Database (2020)",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "129 pts / 40 comments",
+      "traffic": "154 pts / 43 comments",
       "url": "https://dgl.cx/2020/06/sqlite-json-support",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "邱臣遠",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://vip.udn.com/vip/story/122365/9722295?beltslide_ch2_index",
+      "context": "竹北藍白破局 小心骨牌一路倒向2028"
     },
     {
       "title": "道奇老虎",
@@ -43,60 +67,36 @@
       "context": "宇宙道奇也怕「台灣怪力男」李灝宇？關鍵時刻不給打「生涯首次被敬遠」送上壘"
     },
     {
-      "title": "軍 公教",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "86 pts / 34 comments",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "vLLM v0.28.0",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "76 pts / 28 comments",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "生肖",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5556776",
+      "context": "【8/30-9/5雨揚週運】9月開門紅！3生肖氣運貫頂、金流大豐收"
     },
     {
-      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "146 pts / 21 comments",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "137 pts / 24 comments",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Warp builds self-improving agents on Claude",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "41 pts / 37 comments",
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "57 pts / 29 comments",
-      "url": "https://uecker.codeberg.page/2026-08-29.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "熱刺 對 紐卡索聯",
+      "title": "謝金河",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
-    },
-    {
-      "title": "婚宴",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.cmoney.tw/forum/article/183514084",
-      "context": "婚宴17道主菜竟有10道被換掉！新人傻眼提告陸法院判飯店需賠- 股市爆料同學會"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Glacier Mice",
+      "topic": "DHS is using obscure law to snoop on journalists, non-profits, unions",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Glacier Mice」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DHS is using obscure law to snoop on journalists, non-profits, unions」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Glacier Mice」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DHS is using obscure law to snoop on journalists, non-profits, unions」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Glacier Mice",
-          "url": "https://en.wikipedia.org/wiki/Glacier_mice"
+          "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+          "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits"
         }
       ]
     },
     {
-      "topic": "雨",
+      "topic": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「雨」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Tencent Releases and Open-Sources Tencent Hy4 Preview」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「雨」推到更高的注意力位置。明起連濕7天！南部「紫爆」水氣轟炸 這時大雨恐擴全台。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Tencent Releases and Open-Sources Tencent Hy4 Preview」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "雨",
-          "url": "https://tw.news.yahoo.com/%E6%98%8E%E8%B5%B7%E9%80%A3%E6%BF%957%E5%A4%A9-%E5%8D%97%E9%83%A8-%E7%B4%AB%E7%88%86-%E6%B0%B4%E6%B0%A3%E8%BD%9F%E7%82%B8-%E9%80%99%E6%99%82%E5%A4%A7%E9%9B%A8%E6%81%90%E6%93%B4%E5%85%A8%E5%8F%B0-121800912.html"
+          "source": "HACKER NEWS",
+          "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/"
         }
       ]
     }
