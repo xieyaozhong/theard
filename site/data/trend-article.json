@@ -1,81 +1,73 @@
 {
-  "generated_at": "2026-08-29T18:09:22+08:00",
+  "generated_at": "2026-08-30T00:45:11+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "GUIs should be fully keyboard-driven",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "807 pts / 408 comments",
+      "traffic": "953 pts / 470 comments",
       "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "U.S. sanctions against the A/I Collective",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "602 pts / 583 comments",
-      "url": "https://www.inventati.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Htmx 4.0",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "658 pts / 164 comments",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "318 pts / 112 comments",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "score": 90,
+      "traffic": "287 pts / 228 comments",
+      "url": "https://lwn.net/Articles/1091231/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "270 pts / 76 comments",
+      "score": 89,
+      "traffic": "346 pts / 92 comments",
       "url": "https://github.com/Lakr233/vphone-cli",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I accidentally turned LLM memory into program analysis",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "156 pts / 32 comments",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "102 pts / 37 comments",
-      "url": "https://github.com/kingroryg/turbokv",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Samsung's Processing-in-Memory (PIM)",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "85 pts / 17 comments",
+      "score": 87,
+      "traffic": "197 pts / 66 comments",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "title": "EVE Online moves to Python 3",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "101 pts / 21 comments",
-      "url": "https://github.com/stemdeckapp/stemdeck",
+      "score": 86,
+      "traffic": "154 pts / 79 comments",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "欣 興 新聞",
+      "title": "雨",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E6%98%8E%E8%B5%B7%E9%80%A3%E6%BF%957%E5%A4%A9-%E5%8D%97%E9%83%A8-%E7%B4%AB%E7%88%86-%E6%B0%B4%E6%B0%A3%E8%BD%9F%E7%82%B8-%E9%80%99%E6%99%82%E5%A4%A7%E9%9B%A8%E6%81%90%E6%93%B4%E5%85%A8%E5%8F%B0-121800912.html",
+      "context": "明起連濕7天！南部「紫爆」水氣轟炸 這時大雨恐擴全台"
+    },
+    {
+      "title": "柴油",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.stock.yahoo.com/news/%E4%B8%8B%E9%80%B1%E6%B1%BD%E6%9F%B4%E6%B2%B9%E5%83%B9%E9%9C%87%E6%92%BC%E5%87%BA%E7%88%90-%E4%B8%AD%E6%B2%B9%E5%86%8D%E6%8B%8B%E8%A3%9C%E8%B2%BC%E5%A4%A7%E6%8B%9B-%E9%87%8D%E7%A3%85%E5%AE%A3%E5%B8%83-%E5%B7%B2%E5%90%B8%E6%94%B6%E7%A0%B4%E7%99%BE%E5%84%84-094445057.html",
+      "context": "下週汽柴油價震撼出爐！中油再拋補貼大招 重磅宣布：已吸收破百億"
+    },
+    {
+      "title": "Glacier Mice",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "147 pts / 30 comments",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "軍公教",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
@@ -83,20 +75,28 @@
       "context": ""
     },
     {
-      "title": "藥 華 藥",
+      "title": "黃金存摺",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E8%97%A5%E8%8F%AF%E8%97%A5%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4-ropeg%E6%8B%BF%E4%B8%8B%E7%BE%8Efda%E8%97%A5%E8%AD%89-%E6%90%B6%E6%94%BB17%E8%90%AC%E6%82%A3%E8%80%85%E5%B8%82%E5%A0%B4-%E5%B9%B4%E8%97%A5%E8%B2%BB%E4%BC%B026%E8%90%AC%E7%BE%8E%E5%85%83-060500256.html",
-      "context": "藥華藥重大突破！Ropeg拿下美FDA藥證 搶攻17萬患者市場、年藥費估26萬美元"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "三星 galaxy 系列",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.samsung.com/tw/%E4%B8%89%E6%98%9Fgalaxy-s26-fe",
-      "context": "三星Galaxy S26 FE：最新旗艦體驗，專注用戶最重視的核心需求"
+      "title": "SQLite as a Document Database (2020)",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "49 pts / 5 comments",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "46 pts / 6 comments",
+      "url": "https://typebase.io",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "U.S. sanctions against the A/I Collective",
+      "topic": "Debian votes to allow \"responsible use of generative AI\"",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「U.S. sanctions against the A/I Collective」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Debian votes to allow \"responsible use of generative AI\"」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「U.S. sanctions against the A/I Collective」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Debian votes to allow \"responsible use of generative AI\"」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "U.S. sanctions against the A/I Collective",
-          "url": "https://www.inventati.org/"
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231/"
         }
       ]
     },
     {
-      "topic": "Htmx 4.0",
+      "topic": "Boot a Virtual iPhone via Apple's Virtualization.framework",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Htmx 4.0」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Boot a Virtual iPhone via Apple's Virtualization.framework」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Htmx 4.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Boot a Virtual iPhone via Apple's Virtualization.framework」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Htmx 4.0",
-          "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
+          "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+          "url": "https://github.com/Lakr233/vphone-cli"
         }
       ]
     }
