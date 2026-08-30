@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-31T05:10:34+08:00",
+  "generated_at": "2026-08-31T07:32:50+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "低 氣壓",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608280021/",
-      "context": "天氣／豪大雨開炸4天！還有颱風要來？季風槽活躍「多個熱帶擾動恐生成」，降雨熱區、10日報先看"
-    },
-    {
       "title": "Creepy Crawlies",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "659 pts / 325 comments",
+      "score": 93,
+      "traffic": "858 pts / 389 comments",
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Hacking IKEA Furniture",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "230 pts / 134 comments",
-      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "155 pts / 93 comments",
-      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "186 pts / 76 comments",
-      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Haiku R1/beta6 has been released",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "193 pts / 51 comments",
+      "score": 87,
+      "traffic": "230 pts / 66 comments",
       "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "老虎 對 道奇",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/mlb-%E5%B0%8D%E6%B1%BA%E6%9D%8E%E7%81%9D%E5%AE%87%E7%AA%81%E6%B6%88%E5%A4%B1-%E5%8F%B2%E5%A5%88%E7%88%BE%E8%A2%AB%E7%96%91%E9%BB%8F%E6%80%A7%E7%89%A9%E8%B3%AA%E7%9C%9F%E7%9B%B8%E5%A4%A7%E5%8F%8D%E8%BD%89-054737170.html",
-      "context": "MLB》對決李灝宇突消失 史奈爾被疑黏性物質真相大反轉"
-    },
-    {
-      "title": "投資 組合",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "89 pts / 35 comments",
-      "url": "https://komoroske.com/slime-mold/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Zig: Pointer Stability for ArrayLists",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "65 pts / 25 comments",
-      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "33 pts / 18 comments",
+      "score": 83,
+      "traffic": "55 pts / 30 comments",
       "url": "https://github.com/KodeMunkie/sm750hdmifb",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Dad’s Custom Atari Peripherals",
+      "title": "欣興洗產地",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.businesstoday.com.tw/article/category/183008/post/202608300010/",
+      "context": "欣興(3037)開盤就跌停，殺破千元要搶？老手給下單3觀察點：最慘劇本這樣演…南電、景碩跟殺還是有甜頭？"
+    },
+    {
+      "title": "被動元件",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "退休",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/6812/9722615",
+      "context": "暑假兒孫全不回家！74歲嬤超失落 1個意外邀約讓她轉念：沒回來也沒關係"
+    },
+    {
+      "title": "thứ hạng của man utd gặp ipswich town",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.vietnam.vn/fa/truc-tieptruc-tiep-manchester-united-vs-ipswich-manchester-united-go-hoa-1-1",
+      "context": "پخش زنده منچستر یونایتد مقابل ایپسویچ: تساوی ۱-۱ منچستر یونایتد"
+    },
+    {
+      "title": "Sort branches by last commit date",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "67 pts / 18 comments",
+      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "\"I just chose words carefully.\"",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "64 pts / 9 comments",
-      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+      "traffic": "64 pts / 8 comments",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "55 pts / 9 comments",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "74 pts / 6 comments",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Mark Zuckerberg's Social Reckoning",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "18 pts / 23 comments",
+      "url": "https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "低 氣壓",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「低 氣壓」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「低 氣壓」推到更高的注意力位置。天氣／豪大雨開炸4天！還有颱風要來？季風槽活躍「多個熱帶擾動恐生成」，降雨熱區、10日報先看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "低 氣壓",
-          "url": "https://www.businesstoday.com.tw/article/category/183030/post/202608280021/"
-        }
-      ]
-    },
-    {
       "topic": "Creepy Crawlies",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Creepy Crawlies」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Hacking IKEA Furniture",
+      "topic": "Haiku R1/beta6 has been released",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Hacking IKEA Furniture」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Haiku R1/beta6 has been released」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Hacking IKEA Furniture」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Haiku R1/beta6 has been released」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Hacking IKEA Furniture",
-          "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/"
+          "title": "Haiku R1/beta6 has been released",
+          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6"
+        }
+      ]
+    },
+    {
+      "topic": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+          "url": "https://github.com/KodeMunkie/sm750hdmifb"
         }
       ]
     }
