@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-08-31T21:58:15+08:00",
+  "generated_at": "2026-09-01T04:51:36+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "“I just chose words carefully”",
+      "title": "Playa Phone",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "997 pts / 261 comments",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "明天 停 班 停課 最新 通知",
-      "source": "GOOGLE TRENDS / TW",
       "score": 90,
-      "traffic": "10000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "traffic": "386 pts / 153 comments",
+      "url": "https://playaphone.com/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "198 pts / 224 comments",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "256 pts / 71 comments",
-      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "traffic": "251 pts / 71 comments",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "177 pts / 70 comments",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "191 pts / 62 comments",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "traffic": "190 pts / 49 comments",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "My hobby of building miniatures and taking pretty pictures",
+      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "234 pts / 41 comments",
-      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "traffic": "117 pts / 79 comments",
+      "url": "https://ravynos.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "力 积 电",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "uv: Deduplicate all files in the wheel cache",
+      "title": "ChatGPT Work Tool and Skill Reference",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "113 pts / 46 comments",
-      "url": "https://github.com/astral-sh/uv/pull/21327",
+      "traffic": "148 pts / 46 comments",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "聯發科",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E6%89%8B%E4%BA%86%EF%BC%81%E8%BC%9D%E9%81%94%E9%A6%96%E5%BA%A6%E9%87%8D%E9%87%91%E6%8A%95%E8%B3%87%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8-%E8%AA%8D%E8%B3%BC%E8%81%AF%E7%99%BC%E7%A7%9135%E5%84%84%E7%BE%8E%E5%85%83%E6%B5%B7%E5%A4%96%E5%8F%AF%E8%BD%89%E5%82%B5-132628060.html",
-      "context": "黃仁勳出手了！輝達首度重金投資台灣公司 認購聯發科35億美元海外可轉債"
+      "traffic": "112 pts / 21 comments",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "0056",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Agent Memory as a File Format",
+      "title": "Smartphone LED detects hidden cameras with AI",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "46 pts / 37 comments",
-      "url": "https://calpaterson.com/memoryfields.html",
+      "traffic": "74 pts / 21 comments",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The startling 1960s theory that Stonehenge was a prehistoric computer",
+      "title": "阿斯頓維拉 對 兵工廠",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B91-%E5%85%B5%E5%B7%A5%E5%BB%A0%E9%96%8B%E5%B9%95%E6%88%B03%E7%90%83%E5%AE%8C%E5%8B%9D-%E7%B6%AD%E6%8B%89%E9%87%8D%E5%BB%BA%E6%9C%9F%E4%B8%BB%E5%A0%B4%E8%BF%8E%E7%A1%AC%E4%BB%97-084744622.html",
+      "context": "足球運彩分析》9/1 兵工廠開幕戰3球完勝 維拉重建期主場迎硬仗"
+    },
+    {
+      "title": "閃電狼",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Show HN: Laser Graffiti",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "22 pts / 23 comments",
-      "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+      "score": 82,
+      "traffic": "67 pts / 15 comments",
+      "url": "https://laser.consti.de",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Tmp.0ut, Vol. 5",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "76 pts / 3 comments",
+      "url": "https://tmpout.sh/5/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "“I just chose words carefully”",
+      "topic": "Playa Phone",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「“I just chose words carefully”」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Playa Phone」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「“I just chose words carefully”」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Playa Phone」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,57 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "“I just chose words carefully”",
-          "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/"
+          "title": "Playa Phone",
+          "url": "https://playaphone.com/"
         }
       ]
     },
     {
-      "topic": "明天 停 班 停課 最新 通知",
+      "topic": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「明天 停 班 停課 最新 通知」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Apple caught off guard by AI demand for Mac Mini and Mac Studio」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天 停 班 停課 最新 通知」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "明天 停 班 停課 最新 通知",
-          "url": "https://trends.google.com/trending?geo=TW"
-        }
-      ]
-    },
-    {
-      "topic": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「OpenShot 4.0: Record, Edit, and Color Like Never Before」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenShot 4.0: Record, Edit, and Color Like Never Before」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Apple caught off guard by AI demand for Mac Mini and Mac Studio」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-          "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/"
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
+        }
+      ]
+    },
+    {
+      "topic": "I turned my security cameras into an automatic bird identification system",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「I turned my security cameras into an automatic bird identification system」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「I turned my security cameras into an automatic bird identification system」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "I turned my security cameras into an automatic bird identification system",
+          "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
         }
       ]
     }
