@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-08-31T13:41:55+08:00",
+  "generated_at": "2026-08-31T21:58:15+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Creepy Crawlies",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1017 pts / 513 comments",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "“I just chose words carefully”",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "497 pts / 128 comments",
+      "score": 93,
+      "traffic": "997 pts / 261 comments",
       "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Haiku R1/beta6 has been released",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "281 pts / 85 comments",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "It takes 5 cloud services to hear my doorbell",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "84 pts / 63 comments",
-      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Understanding ChatGPT Work",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "111 pts / 40 comments",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "96 pts / 16 comments",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "陳重嘉",
+      "title": "明天 停 班 停課 最新 通知",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557968",
-      "context": "巧合？ 彰縣議員陳重嘉選縣長父親陳朝容也做過「這件事」說話了- 政治"
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Matrox: Graphics for Professionals",
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "62 pts / 13 comments",
-      "url": "https://www.abortretry.fail/p/matrox",
+      "score": 87,
+      "traffic": "256 pts / 71 comments",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "P99 0 ms* autocomplete for 240M domain names",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "36 pts / 20 comments",
+      "score": 87,
+      "traffic": "177 pts / 70 comments",
       "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "高國豪",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.sports.yahoo.com/news/tpbl-%E5%86%8D%E8%A6%8B%E6%96%B0%E7%AB%B9-%E6%94%BB%E5%9F%8E%E7%8D%85%E5%AE%A3%E5%B8%83%E9%AB%98%E5%9C%8B%E8%B1%AA%E7%B4%84%E6%BB%BF%E9%9B%A2%E9%9A%8A-%E4%B8%8B-%E6%AD%A5%E5%8B%95%E5%90%91%E5%BC%95%E9%97%9C%E6%B3%A8-051127083.html",
-      "context": "TPBL》再見新竹！攻城獅宣布高國豪約滿離隊 下一步動向引關注"
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "191 pts / 62 comments",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "卓 榮 泰",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E7%BF%81%E6%9B%89%E7%8E%B2%E8%AD%A6%E5%91%8A%E5%85%AC%E5%8B%99%E5%93%A1-%E9%81%95%E6%B3%95%E6%A0%B8%E8%96%AA%E7%B5%A6%E5%8D%93%E6%A6%AE%E6%B3%B0%E5%BF%85%E8%BF%BD%E7%A9%B6-023355254.html",
-      "context": "翁曉玲警告公務員：違法核薪給卓榮泰必追究"
+      "title": "My hobby of building miniatures and taking pretty pictures",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "234 pts / 41 comments",
+      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "裝甲超夢",
+      "title": "力 积 电",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
+      "score": 85,
+      "traffic": "2000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
+    },
+    {
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "113 pts / 46 comments",
+      "url": "https://github.com/astral-sh/uv/pull/21327",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "聯發科",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%87%BA%E6%89%8B%E4%BA%86%EF%BC%81%E8%BC%9D%E9%81%94%E9%A6%96%E5%BA%A6%E9%87%8D%E9%87%91%E6%8A%95%E8%B3%87%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8-%E8%AA%8D%E8%B3%BC%E8%81%AF%E7%99%BC%E7%A7%9135%E5%84%84%E7%BE%8E%E5%85%83%E6%B5%B7%E5%A4%96%E5%8F%AF%E8%BD%89%E5%82%B5-132628060.html",
+      "context": "黃仁勳出手了！輝達首度重金投資台灣公司 認購聯發科35億美元海外可轉債"
+    },
+    {
+      "title": "0056",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Agent Memory as a File Format",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "46 pts / 37 comments",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The startling 1960s theory that Stonehenge was a prehistoric computer",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "22 pts / 23 comments",
+      "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Creepy Crawlies",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Creepy Crawlies」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Creepy Crawlies」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Creepy Crawlies",
-          "url": "https://people.kernel.org/monsieuricon/creepy-crawlies"
-        }
-      ]
-    },
-    {
       "topic": "“I just chose words carefully”",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「“I just chose words carefully”」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,51 @@
       ]
     },
     {
-      "topic": "Haiku R1/beta6 has been released",
+      "topic": "明天 停 班 停課 最新 通知",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Haiku R1/beta6 has been released」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「明天 停 班 停課 最新 通知」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Haiku R1/beta6 has been released」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「明天 停 班 停課 最新 通知」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "GOOGLE TRENDS / TW",
+          "title": "明天 停 班 停課 最新 通知",
+          "url": "https://trends.google.com/trending?geo=TW"
+        }
+      ]
+    },
+    {
+      "topic": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「OpenShot 4.0: Record, Edit, and Color Like Never Before」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「OpenShot 4.0: Record, Edit, and Color Like Never Before」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Haiku R1/beta6 has been released",
-          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6"
+          "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+          "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/"
         }
       ]
     }
