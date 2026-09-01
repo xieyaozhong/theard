@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-01T22:10:27+08:00",
+  "generated_at": "2026-09-02T02:35:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Fastpotify",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "593 pts / 361 comments",
-      "url": "https://fastpotify.rocks/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Playa Phone",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "682 pts / 217 comments",
-      "url": "https://playaphone.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "550 pts / 144 comments",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "390 pts / 88 comments",
+      "score": 91,
+      "traffic": "696 pts / 195 comments",
       "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GPU World",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "309 pts / 184 comments",
-      "url": "https://www.gpuworld.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "505 pts / 69 comments",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "44% on ARC-AGI-1 in 67 cents",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "174 pts / 45 comments",
+      "traffic": "380 pts / 103 comments",
       "url": "https://mvakde.github.io/blog/44-on-arc-1/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "title": "上市 公司",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.stock.yahoo.com/news/%E9%80%99%E5%A4%A7%E5%BB%A0-%E8%82%A1%E6%9D%B1%E6%85%98%E4%BA%86-%E6%9C%80%E5%BF%AB11%E6%9C%88%E4%B8%8B%E5%B8%82-%E8%82%A1%E7%A5%A8%E6%81%90%E6%88%90%E5%A3%81%E7%B4%99-231112257.html",
+      "context": "「這大廠」股東慘了！最快11月下市⋯股票恐成壁紙"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "173 pts / 68 comments",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "score": 88,
+      "traffic": "204 pts / 147 comments",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Restroom Archive",
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "208 pts / 50 comments",
-      "url": "https://restroomarchive.com",
+      "score": 88,
+      "traffic": "278 pts / 107 comments",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "台積電",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "124 pts / 125 comments",
+      "url": "https://news.ycombinator.com/item?id=49522897",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "高 金素梅",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://udn.com/news/story/7321/9727547",
-      "context": "國安局監聽高金素梅14年才辦涉貪案？律師聲請調閱認可書 確認證據能力"
-    },
-    {
-      "title": "Tmp.0ut Volume 5",
+      "title": "Ambient CSS v3 – Blender meets CSS",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "129 pts / 28 comments",
-      "url": "https://tmpout.sh/5/",
+      "traffic": "92 pts / 38 comments",
+      "url": "https://ambientcss.vercel.app/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Io_uring Without Readahead",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "82 pts / 26 comments",
+      "url": "https://frn.sh/io-uring/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "熱帶低氣壓 沙德爾",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E6%B2%99%E5%BE%B7%E7%88%BE%E5%BE%A9%E6%B4%BB-%E7%9B%A4%E9%BB%9E%E6%AD%B7%E5%8F%B27%E5%80%8B%E5%9B%9E%E9%AD%82%E9%A2%B1%E9%A2%A8-%E5%AE%83%E6%9C%80%E5%A4%9A%E6%AC%A1%E8%A2%AB%E5%88%97-%E4%BE%B5%E5%8F%B0%E5%9B%9B%E5%A4%A7%E6%80%AA%E9%A2%B1-%E4%B9%8B-072300859.html",
+      "context": "沙德爾復活！盤點歷史7個回魂颱風：它最多次被列「侵台四大怪颱」之一"
+    },
+    {
+      "title": "playstation",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.gamefile.news/p/facing-lawsuit-sony-argues-its-already",
+      "context": "Facing lawsuit, Sony argues it’s already obvious that digital games aren’t owned by consumers"
+    },
+    {
+      "title": "The creator of Jujutsu has joined ERSC",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "26 pts / 14 comments",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "33 pts / 16 comments",
+      "url": "https://moviescenemap.com/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Fastpotify",
+      "topic": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Fastpotify」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AnkiDroid: Google Play no longer allowing Open Collective donation link」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Fastpotify」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AnkiDroid: Google Play no longer allowing Open Collective donation link」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Fastpotify",
-          "url": "https://fastpotify.rocks/"
+          "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+          "url": "https://github.com/ankidroid/Anki-Android/issues/21656"
         }
       ]
     },
     {
-      "topic": "Playa Phone",
+      "topic": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Playa Phone」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I trained a small transformer in 1.5hrs and it beats many LLMs」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Playa Phone」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I trained a small transformer in 1.5hrs and it beats many LLMs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Playa Phone",
-          "url": "https://playaphone.com/"
+          "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+          "url": "https://mvakde.github.io/blog/44-on-arc-1/"
         }
       ]
     },
     {
-      "topic": "I turned my security cameras into an automatic bird identification system",
+      "topic": "上市 公司",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「I turned my security cameras into an automatic bird identification system」開始升溫，我們真正該看的不是熱度",
+      "title": "當「上市 公司」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I turned my security cameras into an automatic bird identification system」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「上市 公司」推到更高的注意力位置。「這大廠」股東慘了！最快11月下市⋯股票恐成壁紙。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "I turned my security cameras into an automatic bird identification system",
-          "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "上市 公司",
+          "url": "https://tw.stock.yahoo.com/news/%E9%80%99%E5%A4%A7%E5%BB%A0-%E8%82%A1%E6%9D%B1%E6%85%98%E4%BA%86-%E6%9C%80%E5%BF%AB11%E6%9C%88%E4%B8%8B%E5%B8%82-%E8%82%A1%E7%A5%A8%E6%81%90%E6%88%90%E5%A3%81%E7%B4%99-231112257.html"
         }
       ]
     }
