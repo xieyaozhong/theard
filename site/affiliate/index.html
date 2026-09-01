@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#070807" />
+  <meta name="description" content="THEARD Affiliate Engine — Shopee affiliate ranking, local AI content and guarded Threads publishing architecture." />
+  <title>THEARD — Affiliate Engine</title>
+  <link rel="stylesheet" href="styles.css?v=20260901-1" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="shell topbar__inner">
+      <a class="brand" href="../">THEARD <span>/ AFFILIATE</span></a>
+      <nav aria-label="Affiliate Engine navigation">
+        <a href="#architecture">ARCHITECTURE</a>
+        <a href="#lab">CSV LAB</a>
+        <a href="#automation">AUTOMATION</a>
+        <a href="#safety">GUARDRAILS</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero shell">
+      <div class="eyebrow">// SHOPEE AFFILIATE × THREADS × LOCAL AI / V2</div>
+      <h1>AFFILIATE<br><span>LEARNING ENGINE.</span></h1>
+      <div class="hero__grid">
+        <p class="hero__lead">不是把商品大量丟到社群，而是把「選品、內容、發布、成效、下一輪決策」接成一個可觀察、可回復、可逐步自動化的循環。</p>
+        <div class="hero__note">預設不需要 OpenAI API。內容可以維持原本 deterministic 產生器，或在本機啟用 Ollama。蝦皮資料以官方分潤後台匯出的 CSV／合法取得的分潤連結為來源，不繞過登入、驗證或平台限制。</div>
+      </div>
+      <div class="pillrow" aria-label="system features">
+        <span class="pill">FILE-BASED</span><span class="pill">PYTHON</span><span class="pill">OLLAMA OPTIONAL</span><span class="pill">OFFICIAL LINKS</span><span class="pill">DRY-RUN FIRST</span><span class="pill">PERFORMANCE LOOP</span>
+      </div>
+    </section>
+
+    <section id="architecture" class="section">
+      <div class="shell">
+        <div class="section__head">
+          <h2>System loop</h2>
+          <p>THEARD 原本的 Topic → Content → Product → Verify → Publish 保留不動，新增 Affiliate Performance Layer，讓 Product Agent 能根據實際分潤表現調整排序，而不是只看關鍵字。</p>
+        </div>
+        <div class="flow">
+          <article class="node"><small>01 / INPUT</small><h3>Product Pool</h3><p>商品、分類、官方分潤連結、Sub ID、價格與圖片。沒有合法連結的商品不進入實際發布。</p></article>
+          <article class="node"><small>02 / DECIDE</small><h3>Ranking Agent</h3><p>綜合主題相關性、近期使用、CVR、EPC、分潤率與資料信心，挑出最值得測試的商品組合。</p></article>
+          <article class="node"><small>03 / CREATE</small><h3>Content + Ollama</h3><p>產生台灣 Threads 生活型內容。本機 Ollama 為可選模組，未啟用時回到 deterministic fallback。</p></article>
+          <article class="node"><small>04 / LEARN</small><h3>Performance Loop</h3><p>匯入分潤成效 CSV，更新商品 score，再回到下一輪選品。成效資料不會直接改寫發布安全閘門。</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="lab" class="section">
+      <div class="shell">
+        <div class="section__head">
+          <h2>Affiliate CSV lab</h2>
+          <p>這個工具完全在瀏覽器本機運算。你可以先用範例資料驗證 ranking 邏輯，再把蝦皮分潤後台匯出的欄位整理成相同格式。檔案不會上傳到 THEARD 伺服器。</p>
+        </div>
+        <div class="dashboard">
+          <section class="panel">
+            <h3>01 / 匯入成效資料</h3>
+            <p>支援欄位：<code>product_id</code>、<code>sub_id</code>、<code>clicks</code>、<code>orders</code>、<code>revenue</code>、<code>commission</code>、<code>ctr</code>、<code>commission_rate</code>。</p>
+            <label class="drop" id="dropZone">
+              <input id="csvFile" type="file" accept=".csv,text/csv" />
+              <strong>DROP CSV HERE</strong>
+              <p>或點一下選擇檔案。資料只留在目前分頁記憶體。</p>
+            </label>
+            <div class="buttonrow">
+              <button class="button" id="loadDemo" type="button">LOAD DEMO DATA</button>
+              <button class="button secondary" id="downloadTemplate" type="button">DOWNLOAD TEMPLATE</button>
+              <button class="button secondary" id="clearData" type="button">CLEAR</button>
+            </div>
+            <p class="status" id="status" role="status">WAITING FOR DATA / LOCAL ONLY</p>
+            <div class="metrics" aria-label="affiliate totals">
+              <div class="metric"><small>CLICKS</small><strong id="metricClicks">0</strong></div>
+              <div class="metric"><small>ORDERS</small><strong id="metricOrders">0</strong></div>
+              <div class="metric"><small>CVR</small><strong id="metricCvr">0%</strong></div>
+              <div class="metric"><small>COMMISSION</small><strong id="metricCommission">$0</strong></div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>02 / Ranking preview</h3>
+            <p>Score 不是「保證會賺錢」，只是排序訊號。低點擊樣本會被加上 confidence penalty，避免一筆偶然訂單霸榜。</p>
+            <div class="tablewrap">
+              <table>
+                <thead><tr><th>Product</th><th>Clicks</th><th>Orders</th><th>CVR</th><th>EPC</th><th>Rate</th><th>Score</th></tr></thead>
+                <tbody id="rankingBody"><tr><td colspan="7">尚未載入資料</td></tr></tbody>
+              </table>
+            </div>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <section id="automation" class="section">
+      <div class="shell">
+        <div class="section__head">
+          <h2>Production path</h2>
+          <p>建議先做到「每週補商品池 + 其餘流程自動」，而不是用瀏覽器機器人暴力登入蝦皮後台。這樣比較穩定，也比較符合平台授權邊界。</p>
+        </div>
+        <div class="grid2">
+          <article class="card"><b>A / 更新商品池</b><p>從官方分潤工具取得合法分潤連結與 Sub ID，寫入 <code>data/products.json</code>。不自動猜測或偽造 affiliate URL。</p></article>
+          <article class="card"><b>B / 匯入成效</b><p>執行 <code>python affiliate/import_performance.py report.csv</code>，回填 clicks、orders、CVR、EPC、commission 與 ranking score。</p></article>
+          <article class="card"><b>C / 每日生成</b><p><code>scripts/daily_production.py</code> 先選高相關且高品質商品，再產出 preview。設定 <code>THEARD_LOCAL_AI=1</code> 時可改用 Ollama。</p></article>
+          <article class="card"><b>D / Guarded publish</b><p>沿用現有 Publisher Pipeline。Preview、網址、狀態與內容檢查未通過就不發；真正發布仍需要明確授權。</p></article>
+        </div>
+        <div class="code" aria-label="command example"># 1. 匯入蝦皮分潤成效
+python affiliate/import_performance.py data/affiliate-performance.example.csv
+
+# 2. 產生當日內容
+python scripts/daily_production.py
+
+# 3. 檢查發布 payload
+python scripts/publisher_pipeline.py
+
+# 4. 預設仍為 dry-run
+python scripts/publisher_run.py
+
+# Optional: 本機 AI，不呼叫 OpenAI
+THEARD_LOCAL_AI=1
+OLLAMA_MODEL=qwen3:4b</div>
+      </div>
+    </section>
+
+    <section id="safety" class="section">
+      <div class="shell">
+        <div class="section__head"><h2>Guardrails</h2><p>全自動不是把所有保護機制拿掉。THEARD 的設計是：能自動的資料整理與決策盡量自動；涉及帳號權限、真假資訊、平台政策與實際發布時保留明確邊界。</p></div>
+        <div class="grid2">
+          <article class="card guard"><div class="eyebrow">BLOCK</div><b>不繞過平台驗證</b><p>不處理 CAPTCHA、MFA、裝置驗證、登入繞過或未授權的私有 API。若資料只能從後台匯出，就以人工匯出檔案作為穩定交接點。</p></article>
+          <article class="card guard"><div class="eyebrow">VERIFY</div><b>不捏造商品事實</b><p>本機 AI 只負責內容表達，不自行發明折扣、價格、療效、銷量或使用心得。缺資料就不寫成確定事實。</p></article>
+          <article class="card guard"><div class="eyebrow">TRACE</div><b>用 Sub ID 做歸因</b><p>把不同平台、內容主題、時段或活動編進 Sub ID，讓後續成效分析知道訂單來自哪個內容，而不是只看總營收。</p></article>
+          <article class="card guard"><div class="eyebrow">HUMAN GATE</div><b>發布權限獨立</b><p>Ranking 或 AI 產文成功，不代表允許發布。THEARD 仍把 Publisher State、Dry Run 與真實 API 授權分開。</p></article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer"><div class="shell"><strong>THEARD / AFFILIATE ENGINE V2</strong><br />LOCAL-FIRST / FILE-BASED / PERFORMANCE-AWARE / GUARDED PUBLISHING<br /><a href="../">← RETURN TO THEARD</a></div></footer>
+  <script type="module" src="app.js?v=20260901-1"></script>
+</body>
+</html>

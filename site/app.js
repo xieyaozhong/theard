@@ -7,6 +7,7 @@ const boot=$('#boot');
 setTimeout(()=>{boot?.classList.add('done');document.documentElement.classList.add('entered')},1380);
 
 const menu=$('#menu'),openBtn=$('#menuBtn'),closeBtn=$('#menuClose');
+const menuNav=$('.menu__nav');if(menuNav&&!menuNav.querySelector('a[href="affiliate/"]')){const affiliateLink=document.createElement('a');affiliateLink.href='affiliate/';affiliateLink.innerHTML='<span>//07</span><b>AFFILIATE</b><em>ENGINE ↗</em>';menuNav.appendChild(affiliateLink)}
 function setMenu(open){menu?.classList.toggle('open',open);menu?.setAttribute('aria-hidden',String(!open));if(menu)menu.inert=!open;openBtn?.setAttribute('aria-expanded',String(open));document.body.classList.toggle('menu-open',open)}
 openBtn?.addEventListener('click',()=>{setMenu(true);closeBtn?.focus()});closeBtn?.addEventListener('click',()=>{setMenu(false);openBtn?.focus()});$$('.menu__nav a').forEach(a=>a.addEventListener('click',()=>setMenu(false)));addEventListener('keydown',e=>{if(e.key==='Escape'&&menu?.classList.contains('open')){setMenu(false);openBtn?.focus()}});
 

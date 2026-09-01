@@ -6,12 +6,15 @@ A maintainable, file-based content production system for creating Taiwan-style T
 
 - Content Agent: generates short Traditional Chinese lifestyle captions.
 - Product Agent: selects active products by topic/category and avoids recent reuse.
+- Affiliate Performance Layer: imports Shopee affiliate performance CSV and ranks products with CVR, EPC, commission rate, confidence, topic relevance, and freshness.
+- Local AI Adapter: optional Ollama/Qwen generation path that does not require OpenAI API credits; deterministic generation remains the fallback.
 - Smart Topic Selector: rotates topics with priority and history penalties.
-- Daily Production: creates three preview posts with four products each.
+- Daily Production: creates three preview posts with four products each and exposes affiliate score signals in the preview payload.
 - URL Strategy: validates reply links and prefers official Shopee affiliate short links.
 - Publisher Pipeline: validates content before any network call.
 - Threads Publisher: uses the official Threads Graph API when explicitly enabled.
 - Safe Runner: dry-run by default; real publishing needs explicit confirmation.
+- Affiliate Engine Dashboard: browser-local CSV ranking lab and architecture guide under `site/affiliate/`.
 - Showcase Site: static immersive portfolio-style project page under `site/`.
 
 ## Quick start
@@ -32,6 +35,94 @@ Dry-run is the default. A real publish requires environment variables plus:
 python scripts/publisher_run.py --publish --confirm PUBLISH_THREADS_NOW
 ```
 
+## Affiliate learning loop
+
+THEARD can now use real affiliate performance as an input to the Product Agent without turning platform access into an unsafe browser bot.
+
+```text
+Official affiliate product/link pool
+        ↓
+Shopee performance CSV export
+        ↓
+affiliate/import_performance.py
+        ↓
+products.json
+(CVR / EPC / commission / score)
+        ↓
+Product Agent + topic relevance
+        ↓
+Daily Production
+        ↓
+Optional local Ollama content
+        ↓
+Preview / quality / URL checks
+        ↓
+Guarded Threads publisher
+        ↓
+Next performance export → repeat
+```
+
+Import the included example report:
+
+```powershell
+python affiliate/import_performance.py data/affiliate-performance.example.csv
+python scripts/daily_production.py
+```
+
+The importer accepts common English/Traditional Chinese column aliases for product ID, Sub ID, clicks, orders, revenue, commission, CTR, and commission rate. Rows are matched by `product_id` first and then `sub_id`.
+
+### Product ranking
+
+The Product Agent keeps topic relevance and content diversity as major signals, then blends in affiliate performance. The performance score considers:
+
+- conversion rate (CVR)
+- earnings per click (EPC)
+- commission rate
+- click-volume confidence
+- recent-use penalty
+- topic/category relevance
+
+Low-volume products receive a confidence penalty so one accidental conversion does not automatically dominate selection. A high score is a ranking signal, not a promise of future revenue.
+
+### Optional local AI / zero OpenAI credits
+
+The default content generator remains deterministic and needs no model API. To generate copy with a local Ollama model instead:
+
+```text
+THEARD_LOCAL_AI=1
+OLLAMA_BASE_URL=http://127.0.0.1:11434
+OLLAMA_MODEL=qwen3:4b
+```
+
+Then run:
+
+```powershell
+python scripts/daily_production.py
+```
+
+If Ollama is unavailable, Daily Production falls back to the deterministic Content Agent instead of failing the whole production run.
+
+The local prompt explicitly avoids inventing price, discount, sales-volume, medical/effect claims, or personal-use claims. Affiliate URLs remain in the reply/link pipeline rather than being fabricated by the model.
+
+### Affiliate dashboard
+
+When Pages is deployed, open:
+
+```text
+https://xieyaozhong.github.io/theard/affiliate/
+```
+
+The dashboard includes:
+
+- the full Product → Ranking → Content → Performance architecture
+- local CSV drag-and-drop
+- CVR/EPC/commission calculations
+- confidence-adjusted product ranking
+- downloadable CSV template
+- production commands and platform guardrails
+
+CSV processing in this page runs in the browser and does not upload the report to THEARD.
+
 ## Environment
 
 Copy `.env.example` to `.env` and fill values locally. Never commit `.env`.
@@ -40,6 +131,11 @@ Copy `.env.example` to `.env` and fill values locally. Never commit `.env`.
 THREADS_ACCESS_TOKEN=
 THREADS_USER_ID=
 THREADS_API_BASE_URL=https://graph.threads.net/v1.0
+
+# Optional local AI; no OpenAI API key is required.
+THEARD_LOCAL_AI=0
+OLLAMA_BASE_URL=http://127.0.0.1:11434
+OLLAMA_MODEL=qwen3:4b
 
 # Set these in the backend hosting environment, never in the public site.
 THEARD_ADMIN_KEY=
@@ -50,6 +146,14 @@ ALLOWED_ORIGINS=https://xieyaozhong.github.io
 ## Showcase
 
 Open `site/index.html` locally, or deploy `site/` with the included GitHub Pages workflow. The visual direction is inspired by contemporary creative-developer portfolios: large typography, numbered sections, strong contrast, motion, and an interactive canvas background — without copying another site's content or assets.
+
+The main navigation also exposes the Affiliate Engine at `site/affiliate/`.
+
+## Affiliate safety boundary
+
+THEARD does not automate around CAPTCHA, MFA, device verification, account authorization, payment steps, or undocumented private endpoints. The stable handoff is official affiliate links plus reports exported through authorized platform flows. Missing affiliate links are never invented.
+
+Performance automation and publishing authorization remain separate. A product receiving a high ranking score does not grant permission to publish; the existing preview, publisher state, dry-run, and explicit publish confirmation remain in force.
 
 ## 活動票務
 
