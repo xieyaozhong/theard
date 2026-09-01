@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-09-01T04:51:36+08:00",
+  "generated_at": "2026-09-01T08:39:18+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "416 pts / 334 comments",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "context": "High-engagement technology discussion"
+    },
     {
       "title": "Playa Phone",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "386 pts / 153 comments",
+      "traffic": "476 pts / 177 comments",
       "url": "https://playaphone.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "198 pts / 224 comments",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I turned my security cameras into an automatic bird identification system",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "251 pts / 71 comments",
+      "score": 89,
+      "traffic": "351 pts / 91 comments",
       "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Dwarf Fortress is getting the mother of all magic updates",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "190 pts / 49 comments",
+      "score": 88,
+      "traffic": "277 pts / 102 comments",
       "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "title": "'Mad honey' that can stop your heart is being sold online",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "117 pts / 79 comments",
-      "url": "https://ravynos.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "148 pts / 46 comments",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "traffic": "119 pts / 69 comments",
+      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "112 pts / 21 comments",
+      "score": 86,
+      "traffic": "189 pts / 28 comments",
       "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "74 pts / 21 comments",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "阿斯頓維拉 對 兵工廠",
+      "title": "華航",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B91-%E5%85%B5%E5%B7%A5%E5%BB%A0%E9%96%8B%E5%B9%95%E6%88%B03%E7%90%83%E5%AE%8C%E5%8B%9D-%E7%B6%AD%E6%8B%89%E9%87%8D%E5%BB%BA%E6%9C%9F%E4%B8%BB%E5%A0%B4%E8%BF%8E%E7%A1%AC%E4%BB%97-084744622.html",
-      "context": "足球運彩分析》9/1 兵工廠開幕戰3球完勝 維拉重建期主場迎硬仗"
-    },
-    {
-      "title": "閃電狼",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 85,
+      "traffic": "2000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "184 pts / 22 comments",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "南亞 科技",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.businesstoday.com.tw/article/category/183008/post/202608300012/",
+      "context": "南亞科、陽明、00403A、00981A…台股9月怎麼走？多空交戰不悲觀，先看外資掃貨對象有哪些？"
+    },
+    {
       "title": "Show HN: Laser Graffiti",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "67 pts / 15 comments",
+      "score": 84,
+      "traffic": "110 pts / 24 comments",
       "url": "https://laser.consti.de",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tmp.0ut, Vol. 5",
+      "title": "Run macOS Software on Linux",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "76 pts / 3 comments",
-      "url": "https://tmpout.sh/5/",
+      "score": 82,
+      "traffic": "58 pts / 15 comments",
+      "url": "https://www.darlinghq.org/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "semicon taiwan 2026",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=5ae59b52-532b-4f03-9d7d-751e4485c055",
+      "context": "崇越攜日商推奈米壓印技術，攻CPO商機 - 新聞"
     }
   ],
   "articles": [
     {
-      "topic": "Playa Phone",
+      "topic": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+          "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/"
+        }
+      ]
+    },
+    {
+      "topic": "Playa Phone",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Playa Phone」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -133,42 +169,6 @@
           "source": "HACKER NEWS",
           "title": "Playa Phone",
           "url": "https://playaphone.com/"
-        }
-      ]
-    },
-    {
-      "topic": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Apple caught off guard by AI demand for Mac Mini and Mac Studio」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Apple caught off guard by AI demand for Mac Mini and Mac Studio」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
         }
       ]
     },
