@@ -93,6 +93,37 @@ class AffiliateTests(unittest.TestCase):
             self.assertAlmostEqual(saved[0]["commission_rate"], 0.10)
             self.assertEqual(classify_csv(links_path), "links")
 
+    def test_headerless_link_pool_imports_every_url(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            products_path = root / "products.json"
+            links_path = root / "links.csv"
+            products_path.write_text("[]", encoding="utf-8")
+            links_path.write_text(
+                "https://s.shopee.tw/example-a\n"
+                "https://s.shopee.tw/example-b\n"
+                "https://s.shopee.tw/example-c\n",
+                encoding="utf-8",
+            )
+
+            result = import_links(links_path, products_path)
+            saved = json.loads(products_path.read_text(encoding="utf-8"))
+
+            self.assertEqual(classify_csv(links_path), "links")
+            self.assertEqual(result["created"], 3)
+            self.assertEqual(result["skipped"], 0)
+            self.assertEqual(len(saved), 3)
+            self.assertTrue(all(item["category"] == "蝦皮連結池" for item in saved))
+            self.assertTrue(all("link-pool" in item["tags"] for item in saved))
+            self.assertEqual(
+                {item["affiliate_url"] for item in saved},
+                {
+                    "https://s.shopee.tw/example-a",
+                    "https://s.shopee.tw/example-b",
+                    "https://s.shopee.tw/example-c",
+                },
+            )
+
 
 if __name__ == "__main__":
     unittest.main()
