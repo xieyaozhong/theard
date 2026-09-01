@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-09-01T08:39:18+08:00",
+  "generated_at": "2026-09-01T16:43:00+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "416 pts / 334 comments",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Playa Phone",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "476 pts / 177 comments",
+      "score": 91,
+      "traffic": "611 pts / 209 comments",
       "url": "https://playaphone.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I turned my security cameras into an automatic bird identification system",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "351 pts / 91 comments",
+      "score": 90,
+      "traffic": "486 pts / 114 comments",
       "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Dwarf Fortress is getting the mother of all magic updates",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "277 pts / 102 comments",
+      "score": 90,
+      "traffic": "402 pts / 165 comments",
       "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "'Mad honey' that can stop your heart is being sold online",
+      "title": "Fastpotify",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "119 pts / 69 comments",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+      "score": 89,
+      "traffic": "328 pts / 157 comments",
+      "url": "https://fastpotify.rocks/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "189 pts / 28 comments",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "華航",
+      "title": "欣 興 新聞",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "score": 88,
+      "traffic": "5000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "184 pts / 22 comments",
+      "score": 88,
+      "traffic": "405 pts / 56 comments",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "南亞 科技",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "221 pts / 151 comments",
+      "url": "https://datacolada.org/138",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "GPU World",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "194 pts / 80 comments",
+      "url": "https://www.gpuworld.org/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "316 pts / 37 comments",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "伍程嶸",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://today.line.me/tw/v3/article/Nvzy65k",
+      "context": "救泛舟客殉職！消防員死因出爐 老母掩面淚崩：到靈前看看我兒子為你們犧牲 | 鏡週刊"
+    },
+    {
+      "title": "敬老之日",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.storm.mg/lifestyle/11160770",
+      "context": "65歲長輩快領錢！今天9/1起「每人領10000元現金紅包」1縣市自動入帳，全國22 縣市重陽敬老金金額資格"
+    },
+    {
+      "title": "股市",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.businesstoday.com.tw/article/category/183008/post/202608300012/",
-      "context": "南亞科、陽明、00403A、00981A…台股9月怎麼走？多空交戰不悲觀，先看外資掃貨對象有哪些？"
-    },
-    {
-      "title": "Show HN: Laser Graffiti",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "110 pts / 24 comments",
-      "url": "https://laser.consti.de",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Run macOS Software on Linux",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "58 pts / 15 comments",
-      "url": "https://www.darlinghq.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "semicon taiwan 2026",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=5ae59b52-532b-4f03-9d7d-751e4485c055",
-      "context": "崇越攜日商推奈米壓印技術，攻CPO商機 - 新聞"
+      "url": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E8%BD%89%E8%B2%B7%E8%B6%85267%E5%84%84%E5%85%83%EF%BC%81%E7%A9%BA%E5%96%AE%E7%9D%BD%E9%81%95%E4%B8%80%E5%80%8B%E6%9C%88%E3%80%8C%E4%BD%8E%E6%96%BC8%E8%90%AC%E5%8F%A3%E3%80%8D-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E6%85%8B%E5%BA%A6%E5%81%8F%E5%A4%9A-070043462.html",
+      "context": "【Follow法人】外資轉買超267億元！空單睽違一個月「低於8萬口」 分析師：態度偏多"
     }
   ],
   "articles": [
     {
-      "topic": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-          "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/"
-        }
-      ]
-    },
-    {
       "topic": "Playa Phone",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Playa Phone」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "I turned my security cameras into an automatic bird identification system",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「I turned my security cameras into an automatic bird identification system」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "I turned my security cameras into an automatic bird identification system",
           "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
+        }
+      ]
+    },
+    {
+      "topic": "Dwarf Fortress is getting the mother of all magic updates",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Dwarf Fortress is getting the mother of all magic updates」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Dwarf Fortress is getting the mother of all magic updates」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Dwarf Fortress is getting the mother of all magic updates",
+          "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe"
         }
       ]
     }
