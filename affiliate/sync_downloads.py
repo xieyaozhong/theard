@@ -21,21 +21,26 @@ def _alias_set(groups: dict[str, tuple[str, ...]]) -> set[str]:
     return {alias.casefold() for aliases in groups.values() for alias in aliases}
 
 
-def _read_headers(path: Path) -> set[str]:
+def _read_first_row(path: Path) -> list[str]:
     try:
         with path.open("r", encoding="utf-8-sig", newline="") as handle:
             reader = csv.reader(handle)
-            row = next(reader, [])
+            return [str(value).strip() for value in next(reader, []) if str(value).strip()]
     except (UnicodeDecodeError, OSError):
-        return set()
-    return {str(value).strip().casefold() for value in row if str(value).strip()}
+        return []
 
 
 def classify_csv(path: Path) -> str:
-    headers = _read_headers(path)
-    if not headers:
+    first_row = _read_first_row(path)
+    if not first_row:
         return "unknown"
 
+    if len(first_row) == 1:
+        value = first_row[0].lower()
+        if value.startswith(("https://", "http://")) and "shopee" in value:
+            return "links"
+
+    headers = {value.casefold() for value in first_row}
     link_aliases = _alias_set(LINK_ALIASES)
     performance_aliases = _alias_set(PERFORMANCE_ALIASES)
     link_hits = len(headers & link_aliases)
