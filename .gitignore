@@ -7,3 +7,4 @@ preview/*.json
 preview/*.md
 dist/
 .openai/*.tar.gz
+.theard-shopee-sync.json
