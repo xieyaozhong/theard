@@ -1,0 +1,66 @@
+name: Daily affiliate Threads post
+
+on:
+  schedule:
+    # 12:30 Asia/Taipei = 04:30 UTC
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Preview only; do not publish to Threads'
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: theard-daily-affiliate-post
+  cancel-in-progress: false
+
+jobs:
+  prepare-and-publish:
+    runs-on: ubuntu-latest
+    env:
+      THEARD_LINK_POOL_MODE: '1'
+      THEARD_DAILY_POSTS: '1'
+      THEARD_LOCAL_AI: '0'
+      THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+      THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+      THREADS_API_BASE_URL: https://graph.threads.net/v1.0
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Import official Shopee affiliate link pool
+        run: python affiliate/import_links.py data/affiliate-link-pool.csv
+
+      - name: Generate today's post
+        run: python scripts/daily_production.py
+
+      - name: Validate publisher payload
+        run: python scripts/publisher_pipeline.py
+
+      - name: Dry-run preview
+        if: github.event_name == 'workflow_dispatch' && inputs.dry_run == true
+        run: python scripts/publisher_run.py
+
+      - name: Verify Threads credentials
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.dry_run == false)
+        shell: bash
+        run: |
+          if [ -z "$THREADS_ACCESS_TOKEN" ] || [ -z "$THREADS_USER_ID" ]; then
+            echo 'Missing THREADS_ACCESS_TOKEN or THREADS_USER_ID GitHub Actions secret.'
+            exit 1
+          fi
+
+      - name: Publish one Threads post and affiliate reply
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.dry_run == false)
+        run: python scripts/publisher_run.py --publish --confirm PUBLISH_THREADS_NOW
