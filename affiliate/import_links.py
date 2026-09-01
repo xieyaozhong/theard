@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import io
 import sys
 from pathlib import Path
 from typing import Any
@@ -58,6 +59,24 @@ def _stable_id(product_url: str, affiliate_url: str, title: str) -> str:
     return f"shopee-{digest}"
 
 
+def _looks_like_shopee_link(value: str) -> bool:
+    value = str(value or "").strip().lower()
+    return value.startswith(("https://", "http://")) and "shopee" in value
+
+
+def _read_rows(csv_path: Path) -> list[dict[str, str]]:
+    text = csv_path.read_text(encoding="utf-8-sig")
+    raw_rows = [row for row in csv.reader(io.StringIO(text)) if any(str(cell).strip() for cell in row)]
+
+    # Shopee's batch-link export may be a simple one-link-per-line CSV with no
+    # header. Treat every line as an official affiliate link instead of losing
+    # the first URL as a DictReader header.
+    if raw_rows and all(len(row) == 1 and _looks_like_shopee_link(row[0]) for row in raw_rows):
+        return [{"affiliate_url": row[0].strip()} for row in raw_rows]
+
+    return list(csv.DictReader(io.StringIO(text)))
+
+
 def import_links(csv_path: Path, products_path: Path = DATA / "products.json") -> dict[str, int]:
     products = load_json(products_path, default=[])
     if not isinstance(products, list):
@@ -74,6 +93,11 @@ def import_links(csv_path: Path, products_path: Path = DATA / "products.json") -
         for item in products
         if isinstance(item, dict) and str(item.get("product_url", "")).strip()
     }
+    by_affiliate_url = {
+        str(item.get("affiliate_url", "")): item
+        for item in products
+        if isinstance(item, dict) and str(item.get("affiliate_url", "")).strip()
+    }
     by_title = {
         str(item.get("title", "")).strip(): item
         for item in products
@@ -84,64 +108,75 @@ def import_links(csv_path: Path, products_path: Path = DATA / "products.json") -
     updated = 0
     skipped = 0
 
-    with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
-        reader = csv.DictReader(handle)
-        for row in reader:
-            affiliate_url = _pick(row, "affiliate_url")
-            if not affiliate_url:
-                skipped += 1
-                continue
+    for row in _read_rows(csv_path):
+        affiliate_url = _pick(row, "affiliate_url")
+        if not affiliate_url or not _looks_like_shopee_link(affiliate_url):
+            skipped += 1
+            continue
 
-            title = _pick(row, "title") or "Shopee imported product"
-            product_url = _pick(row, "product_url")
-            sub_id = _pick(row, "sub_id")
-            category = _pick(row, "category") or "蝦皮匯入"
-            commission_rate = _rate(_pick(row, "commission_rate"))
+        raw_title = _pick(row, "title")
+        product_url = _pick(row, "product_url")
+        link_only = not raw_title and not product_url
+        product_id = _stable_id(product_url, affiliate_url, raw_title)
+        title = raw_title or f"Shopee 分潤連結 {product_id[-6:].upper()}"
+        sub_id = _pick(row, "sub_id") or (f"threads-auto-{product_id[-8:]}" if link_only else "")
+        category = _pick(row, "category") or ("蝦皮連結池" if link_only else "蝦皮匯入")
+        commission_rate = _rate(_pick(row, "commission_rate"))
 
-            product = (
-                by_sub.get(sub_id)
-                or by_product_url.get(product_url)
-                or by_title.get(title)
-            )
+        product = (
+            by_affiliate_url.get(affiliate_url)
+            or by_sub.get(sub_id)
+            or by_product_url.get(product_url)
+            or (by_title.get(raw_title) if raw_title else None)
+        )
 
-            if product is None:
-                product_id = _stable_id(product_url, affiliate_url, title)
-                product = {
-                    "id": product_id,
-                    "title": title,
-                    "category": category,
-                    "affiliate_url": affiliate_url,
-                    "affiliate_short_url": "",
-                    "product_url": product_url,
-                    "sub_id": sub_id,
-                    "commission_rate": round(commission_rate, 6),
-                    "tags": [category] if category else [],
-                    "last_used": "",
-                    "use_count": 0,
-                    "active": True,
-                }
-                products.append(product)
-                by_id[product_id] = product
-                created += 1
-            else:
-                product.update({
-                    "title": title or str(product.get("title", "")),
-                    "category": category or str(product.get("category", "")),
-                    "affiliate_url": affiliate_url,
-                    "product_url": product_url or str(product.get("product_url", "")),
-                    "sub_id": sub_id or str(product.get("sub_id", "")),
-                    "active": True,
-                })
-                if commission_rate:
-                    product["commission_rate"] = round(commission_rate, 6)
-                updated += 1
+        if product is None:
+            tags = [category] if category else []
+            if link_only:
+                tags.extend(["link-pool", "threads-auto"])
+            product = {
+                "id": product_id,
+                "title": title,
+                "category": category,
+                "affiliate_url": affiliate_url,
+                "affiliate_short_url": "",
+                "product_url": product_url,
+                "sub_id": sub_id,
+                "commission_rate": round(commission_rate, 6),
+                "tags": tags,
+                "last_used": "",
+                "use_count": 0,
+                "active": True,
+            }
+            products.append(product)
+            by_id[product_id] = product
+            created += 1
+        else:
+            product.update({
+                "title": raw_title or str(product.get("title", title)),
+                "category": category or str(product.get("category", "")),
+                "affiliate_url": affiliate_url,
+                "product_url": product_url or str(product.get("product_url", "")),
+                "sub_id": sub_id or str(product.get("sub_id", "")),
+                "active": True,
+            })
+            if link_only:
+                tags = list(product.get("tags", []))
+                for tag in ("link-pool", "threads-auto"):
+                    if tag not in tags:
+                        tags.append(tag)
+                product["tags"] = tags
+            if commission_rate:
+                product["commission_rate"] = round(commission_rate, 6)
+            updated += 1
 
-            if sub_id:
-                by_sub[sub_id] = product
-            if product_url:
-                by_product_url[product_url] = product
-            if title:
-                by_title[title] = product
+        by_affiliate_url[affiliate_url] = product
+        if sub_id:
+            by_sub[sub_id] = product
+        if product_url:
+            by_product_url[product_url] = product
+        if raw_title:
+            by_title[raw_title] = product
 
     save_json(products_path, products)
     return {"created": created, "updated": updated, "skipped": skipped}

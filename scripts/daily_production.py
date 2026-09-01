@@ -1,8 +1,11 @@
 from __future__ import annotations
 
+import hashlib
 import os
 import sys
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
@@ -15,10 +18,80 @@ from core.io import DATA, PREVIEW, load_json, save_json
 from core.models import Product, Topic
 from scripts.smart_topic_selector import select_topics
 
+LINK_POOL_CATEGORY = "蝦皮連結池"
+LINK_POOL_CAPTIONS = (
+    "今天整理了 4 個連結放留言，有需要再慢慢看 👇",
+    "今天的四個選物連結整理好了，想看的我放留言 👇",
+    "把今天看到的四個連結收成一組，放留言給需要的人 👇",
+    "今天先整理四個連結，想逛的直接看留言就好 👇",
+)
+
+
+def _flag(name: str, default: str = "0") -> bool:
+    return os.getenv(name, default).strip().lower() in {"1", "true", "yes", "on"}
+
+
+def _link_pool_post_count() -> int:
+    try:
+        value = int(os.getenv("THEARD_DAILY_POSTS", "1"))
+    except ValueError:
+        value = 1
+    return max(1, min(value, 6))
+
+
+def _product_payload(product: Product) -> dict:
+    return {
+        "id": product.id,
+        "title": product.title,
+        "category": product.category,
+        "reply_url": product.reply_url,
+        "sub_id": product.sub_id,
+        "affiliate_score": product.score,
+        "commission_rate": product.commission_rate,
+        "conversion_rate": product.conversion_rate,
+        "epc": product.epc,
+    }
+
+
+def _build_link_pool_previews(products: list[Product]) -> list[dict]:
+    pool = sorted(
+        (
+            product
+            for product in products
+            if product.active and product.reply_url and product.category == LINK_POOL_CATEGORY
+        ),
+        key=lambda product: product.id,
+    )
+    if len(pool) < 4:
+        raise RuntimeError("THEARD link-pool mode requires at least 4 active Shopee links")
+
+    post_count = _link_pool_post_count()
+    today = datetime.now(ZoneInfo("Asia/Taipei")).date()
+    start = (today.toordinal() * post_count * 4) % len(pool)
+    previews: list[dict] = []
+
+    for index in range(1, post_count + 1):
+        offset = start + (index - 1) * 4
+        chosen = [pool[(offset + item) % len(pool)] for item in range(4)]
+        caption = LINK_POOL_CAPTIONS[(today.toordinal() + index - 1) % len(LINK_POOL_CAPTIONS)]
+        similarity_hash = hashlib.sha1(
+            f"{today.isoformat()}|{index}|{caption}".encode("utf-8")
+        ).hexdigest()[:16]
+        previews.append({
+            "id": f"post-{index:03d}",
+            "topic": "每日選物",
+            "caption": caption,
+            "caption_source": "link-pool-safe",
+            "similarity_hash": similarity_hash,
+            "products": [_product_payload(product) for product in chosen],
+        })
+
+    return previews
+
 
 def _caption_for_topic(topic: Topic, chosen: list[Product], index: int) -> tuple[str, str, str]:
     fallback = generate_caption(topic.name, salt=f"daily-{index}")
-    if os.getenv("THEARD_LOCAL_AI", "0").strip() not in {"1", "true", "TRUE", "yes", "YES"}:
+    if not _flag("THEARD_LOCAL_AI"):
         return fallback.content, fallback.similarity_hash, "deterministic"
 
     model = os.getenv("OLLAMA_MODEL", "qwen3:4b").strip() or "qwen3:4b"
@@ -45,11 +118,18 @@ def _caption_for_topic(topic: Topic, chosen: list[Product], index: int) -> tuple
 
 
 def build_daily_previews() -> list[dict]:
-    raw_topics = load_json(DATA / "topics.json")
     raw_products = load_json(DATA / "products.json")
+    products = [Product.from_dict(item) for item in raw_products]
+
+    if _flag("THEARD_LINK_POOL_MODE"):
+        previews = _build_link_pool_previews(products)
+        PREVIEW.mkdir(parents=True, exist_ok=True)
+        save_json(PREVIEW / "daily.json", previews)
+        return previews
+
+    raw_topics = load_json(DATA / "topics.json")
     history = load_json(DATA / "post-history.json", default=[])
     topics = [Topic.from_dict(item) for item in raw_topics]
-    products = [Product.from_dict(item) for item in raw_products]
     recent_ids = {pid for post in history[-10:] for pid in post.get("product_ids", [])}
 
     previews = []
@@ -62,20 +142,7 @@ def build_daily_previews() -> list[dict]:
             "caption": caption,
             "caption_source": caption_source,
             "similarity_hash": similarity_hash,
-            "products": [
-                {
-                    "id": product.id,
-                    "title": product.title,
-                    "category": product.category,
-                    "reply_url": product.reply_url,
-                    "sub_id": product.sub_id,
-                    "affiliate_score": product.score,
-                    "commission_rate": product.commission_rate,
-                    "conversion_rate": product.conversion_rate,
-                    "epc": product.epc,
-                }
-                for product in chosen
-            ],
+            "products": [_product_payload(product) for product in chosen],
         })
 
     PREVIEW.mkdir(parents=True, exist_ok=True)

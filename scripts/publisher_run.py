@@ -18,7 +18,15 @@ CONFIRMATION = "PUBLISH_THREADS_NOW"
 
 def build_reply(post: dict) -> str:
     labels = ("第一個", "第二個", "第三個", "第四個")
-    return "\n\n".join(f"{label}\n{product['reply_url']}" for label, product in zip(labels, post["products"]))
+    links = "\n\n".join(
+        f"{label}\n{product['reply_url']}"
+        for label, product in zip(labels, post["products"])
+    )
+    disclosure = (
+        "※ 以下為分潤連結，若透過連結購買，我可能獲得分潤；"
+        "價格與活動以平台頁面為準"
+    )
+    return f"{disclosure}\n\n{links}"
 
 
 def main() -> None:
