@@ -38,7 +38,6 @@ def classify_csv(path: Path) -> str:
 
     link_aliases = _alias_set(LINK_ALIASES)
     performance_aliases = _alias_set(PERFORMANCE_ALIASES)
-
     link_hits = len(headers & link_aliases)
     performance_hits = len(headers & performance_aliases)
 
@@ -106,6 +105,11 @@ def sync_once(downloads: Path, state_path: Path = DEFAULT_STATE) -> dict[str, in
     return result
 
 
+def default_downloads_path() -> Path:
+    configured = os.getenv("THEARD_SHOPEE_DOWNLOADS", "").strip()
+    return Path(configured) if configured else Path.home() / "Downloads"
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
@@ -113,11 +117,7 @@ def main() -> None:
             "This never logs in to Shopee or stores account credentials."
         )
     )
-    parser.add_argument(
-        "--downloads",
-        type=Path,
-        default=Path(os.getenv("THEARD_SHOPEE_DOWNLOADS", Path.home() / "Downloads")),
-    )
+    parser.add_argument("--downloads", type=Path, default=default_downloads_path())
     parser.add_argument("--state", type=Path, default=DEFAULT_STATE)
     args = parser.parse_args()
     result = sync_once(args.downloads, args.state)
