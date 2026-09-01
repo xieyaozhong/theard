@@ -1,0 +1,4 @@
+product_id,sub_id,clicks,orders,revenue,commission,ctr,commission_rate
+product-001,threads-desk-001,120,7,3493,279,4.8%,8%
+product-002,threads-wall-001,82,3,1797,144,3.2%,8%
+product-003,threads-bedside-001,156,11,6589,527,5.1%,8%
