@@ -34,6 +34,17 @@ class Product:
     last_used: str = ""
     use_count: int = 0
     active: bool = True
+    sub_id: str = ""
+    price: float = 0.0
+    commission_rate: float = 0.0
+    clicks: int = 0
+    orders: int = 0
+    revenue: float = 0.0
+    commission: float = 0.0
+    ctr: float = 0.0
+    conversion_rate: float = 0.0
+    epc: float = 0.0
+    score: float = 0.0
 
     @classmethod
     def from_dict(cls, raw: dict[str, Any]) -> "Product":
@@ -47,8 +58,23 @@ class Product:
             last_used=str(raw.get("last_used", "")),
             use_count=int(raw.get("use_count", 0)),
             active=bool(raw.get("active", True)),
+            sub_id=str(raw.get("sub_id", "")).strip(),
+            price=float(raw.get("price", 0) or 0),
+            commission_rate=float(raw.get("commission_rate", 0) or 0),
+            clicks=int(raw.get("clicks", 0) or 0),
+            orders=int(raw.get("orders", 0) or 0),
+            revenue=float(raw.get("revenue", 0) or 0),
+            commission=float(raw.get("commission", 0) or 0),
+            ctr=float(raw.get("ctr", 0) or 0),
+            conversion_rate=float(raw.get("conversion_rate", 0) or 0),
+            epc=float(raw.get("epc", 0) or 0),
+            score=float(raw.get("score", 0) or 0),
         )
 
     @property
     def reply_url(self) -> str:
         return self.affiliate_short_url or self.affiliate_url
+
+    @property
+    def has_performance_data(self) -> bool:
+        return self.clicks > 0 or self.orders > 0 or self.commission > 0
