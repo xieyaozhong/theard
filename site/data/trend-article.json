@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-09-03T05:06:08+08:00",
+  "generated_at": "2026-09-03T07:20:54+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "688 pts / 403 comments",
+      "traffic": "772 pts / 459 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "325 pts / 138 comments",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Muse Spark 1.3",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "185 pts / 101 comments",
+      "score": 90,
+      "traffic": "306 pts / 218 comments",
       "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Biggest dark matter detector spots a single weird particle",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "209 pts / 60 comments",
-      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Google avoids a breakup of its ad tech business",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "128 pts / 59 comments",
+      "score": 88,
+      "traffic": "203 pts / 118 comments",
       "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "債券",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "276 pts / 124 comments",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Wendell Berry has died",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "120 pts / 62 comments",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "欣 興 電子",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -51,51 +51,51 @@
       "context": ""
     },
     {
-      "title": "國際油價",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%BB%8D%E6%93%B4%E5%A4%A7%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%B7%9D%E6%99%AE%E8%AD%A6%E5%91%8A-%E6%9B%B4%E5%A4%A7%E6%89%93%E6%93%8A%E9%82%84%E5%9C%A8%E9%86%9E%E9%87%80-212151441.html",
-      "context": "美軍擴大攻擊伊朗 川普警告：更大打擊還在醞釀"
-    },
-    {
-      "title": "Wendell Berry has died",
+      "title": "Fable 5.1 World Modeling",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "77 pts / 35 comments",
-      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "traffic": "98 pts / 39 comments",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "I wanna live an NPC life",
+      "title": "除 役",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "道瓊工業平均指數",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "67 pts / 38 comments",
-      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "score": 82,
+      "traffic": "47 pts / 29 comments",
+      "url": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "范琪斐",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E9%99%B3%E5%B9%B8%E5%A6%A4%E8%AD%89%E5%AF%A6-%E5%B7%B2%E8%B7%9F%E8%8C%83%E7%90%AA%E6%96%90%E5%92%8C%E8%A7%A3-%E9%9C%80%E8%A6%81%E5%B9%AB%E5%A5%B9%E8%A7%A3%E9%87%8B-%E4%B8%8B-135200653.html",
-      "context": "陳幸妤證實「已跟范琪斐和解」：需要幫她解釋一下"
-    },
-    {
-      "title": "劉揚偉",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5561189",
-      "context": "聯發科取得輝達千億元投資！ 蔡力行急向台積電、日月光、欣興預約3年產能"
-    },
-    {
-      "title": "AI Agents and the Refactoring That Never Happens",
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "22 pts / 27 comments",
-      "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+      "traffic": "65 pts / 7 comments",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "34 pts / 13 comments",
+      "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "Can I opt out of my input or output data being used for training?",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Can I opt out of my input or output data being used for training?」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Can I opt out of my input or output data being used for training?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Can I opt out of my input or output data being used for training?",
-          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"
-        }
-      ]
-    },
-    {
       "topic": "Muse Spark 1.3",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Muse Spark 1.3」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Muse Spark 1.3",
           "url": "https://developer.meta.com/ai/models/muse-spark/"
+        }
+      ]
+    },
+    {
+      "topic": "Google avoids a breakup of its ad tech business",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Google avoids a breakup of its ad tech business」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Google avoids a breakup of its ad tech business」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Google avoids a breakup of its ad tech business",
+          "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
         }
       ]
     }
