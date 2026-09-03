@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-04T00:29:02+08:00",
+  "generated_at": "2026-09-04T05:05:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "chatgpt",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
-      "context": "Widespread AI outage underway"
-    },
-    {
-      "title": "Audacity 4.0",
+      "title": "GPT-6 Astra",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "745 pts / 170 comments",
-      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "score": 93,
+      "traffic": "746 pts / 468 comments",
+      "url": "https://openai.com/index/gpt-6-astra/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "ChatGPT Is Throwing 404",
+      "title": ".name Termination",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "346 pts / 263 comments",
-      "url": "https://chatgpt.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Pre-Release of Polars 2.0",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "321 pts / 106 comments",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Elevated Errors for Multiple Models",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "194 pts / 146 comments",
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Browser's Main Thread Is Expensive",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "292 pts / 99 comments",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Grok Outage",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "123 pts / 99 comments",
-      "url": "https://status.x.ai/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Sony makes bold claim about game ownership",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "72 pts / 66 comments",
-      "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+      "score": 93,
+      "traffic": "1046 pts / 313 comments",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "89 pts / 51 comments",
+      "score": 89,
+      "traffic": "348 pts / 159 comments",
       "url": "https://anyhumanever.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "chatgpt 當機",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": ".name Termination",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "127 pts / 29 comments",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "score": 88,
+      "traffic": "297 pts / 97 comments",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "206 pts / 70 comments",
+      "url": "https://ifm.ai/blog/k2/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "106 pts / 39 comments",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "80 pts / 21 comments",
-      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "traffic": "77 pts / 21 comments",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "67 pts / 28 comments",
+      "url": "https://arcprize.org/blog/astra",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The largest electric aircraft just flew [video]",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "42 pts / 26 comments",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Unusual Suspects",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "58 pts / 14 comments",
+      "url": "https://neal.fun/unusual-suspects/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The death of San Francisco's Market Street",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "28 pts / 28 comments",
+      "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "tesla",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://finance.yahoo.com/markets/article/teslas-cybercab-event-is-tonight-heres-what-the-industry--and-wall-street--expects-110000729.html",
+      "context": "Tesla's Cybercab event is tonight. Here's what the industry — and Wall Street — expects"
     }
   ],
   "articles": [
     {
-      "topic": "chatgpt",
+      "topic": "GPT-6 Astra",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「chatgpt」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GPT-6 Astra」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「chatgpt」推到更高的注意力位置。Widespread AI outage underway。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GPT-6 Astra」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "chatgpt",
-          "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages"
+          "source": "HACKER NEWS",
+          "title": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra/"
         }
       ]
     },
     {
-      "topic": "Audacity 4.0",
+      "topic": ".name Termination",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Audacity 4.0」開始升溫，我們真正該看的不是熱度",
+      "title": "當「.name Termination」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Audacity 4.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「.name Termination」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Audacity 4.0",
-          "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
+          "title": ".name Termination",
+          "url": "https://neil.fraser.name/news/2026/09/03/"
         }
       ]
     },
     {
-      "topic": "ChatGPT Is Throwing 404",
+      "topic": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「ChatGPT Is Throwing 404」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Any Human Ever – One life, drawn at random from all who have ever lived」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「ChatGPT Is Throwing 404」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Any Human Ever – One life, drawn at random from all who have ever lived」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "ChatGPT Is Throwing 404",
-          "url": "https://chatgpt.com/"
+          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+          "url": "https://anyhumanever.com/"
         }
       ]
     }
