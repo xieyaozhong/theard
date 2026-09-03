@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-03T19:20:30+08:00",
+  "generated_at": "2026-09-04T00:29:02+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1045 pts / 581 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Muse Spark 1.3",
-      "source": "HACKER NEWS",
+      "title": "chatgpt",
+      "source": "GOOGLE TRENDS / TW",
       "score": 92,
-      "traffic": "601 pts / 395 comments",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "context": "High-engagement technology discussion"
+      "traffic": "20000+",
+      "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
+      "context": "Widespread AI outage underway"
     },
     {
-      "title": "Google avoids a breakup of its ad tech business",
+      "title": "Audacity 4.0",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "406 pts / 284 comments",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "traffic": "745 pts / 170 comments",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "title": "ChatGPT Is Throwing 404",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "438 pts / 213 comments",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "455 pts / 207 comments",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "traffic": "346 pts / 263 comments",
+      "url": "https://chatgpt.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Pre-Release of Polars 2.0",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "194 pts / 41 comments",
+      "score": 89,
+      "traffic": "321 pts / 106 comments",
       "url": "https://pola.rs/posts/announcing-polars-2/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Elevated Errors for Multiple Models",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "194 pts / 146 comments",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The Browser's Main Thread Is Expensive",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "117 pts / 37 comments",
+      "score": 88,
+      "traffic": "292 pts / 99 comments",
       "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Holden's Lightning Flight",
+      "title": "Grok Outage",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "123 pts / 99 comments",
+      "url": "https://status.x.ai/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Sony makes bold claim about game ownership",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "167 pts / 35 comments",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "traffic": "72 pts / 66 comments",
+      "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "73 pts / 24 comments",
-      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "score": 85,
+      "traffic": "89 pts / 51 comments",
+      "url": "https://anyhumanever.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "緯 創",
+      "title": "chatgpt 當機",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "全聯軍人節優惠",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/124378/9730965",
-      "context": "九三軍人節優惠懶人包！全聯咖啡免費喝 超商買1送1、全店折扣一次看"
+      "title": ".name Termination",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "127 pts / 29 comments",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "雷暴",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "http://cj.sina.cn/articles/view/6012681959/166623ee700101hnde?cre=tianyi&mod=wlocal&loc=5&r=0&rfunc=47&tj=cxvertical_wlocal&tr=1047&pos=79",
-      "context": "台风“沙德尔”第三次登陆我国，它为何如此独特"
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "80 pts / 21 comments",
+      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "topic": "chatgpt",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Gemini 3.8 Flash and 3.8 Flash Cyber」開始升溫，我們真正該看的不是熱度",
+      "title": "當「chatgpt」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gemini 3.8 Flash and 3.8 Flash Cyber」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「chatgpt」推到更高的注意力位置。Widespread AI outage underway。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "chatgpt",
+          "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages"
         }
       ]
     },
     {
-      "topic": "Muse Spark 1.3",
+      "topic": "Audacity 4.0",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Muse Spark 1.3」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Audacity 4.0」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Muse Spark 1.3」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Audacity 4.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Muse Spark 1.3",
-          "url": "https://developer.meta.com/ai/models/muse-spark/"
+          "title": "Audacity 4.0",
+          "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0"
         }
       ]
     },
     {
-      "topic": "Google avoids a breakup of its ad tech business",
+      "topic": "ChatGPT Is Throwing 404",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Google avoids a breakup of its ad tech business」開始升溫，我們真正該看的不是熱度",
+      "title": "當「ChatGPT Is Throwing 404」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Google avoids a breakup of its ad tech business」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「ChatGPT Is Throwing 404」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Google avoids a breakup of its ad tech business",
-          "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html"
+          "title": "ChatGPT Is Throwing 404",
+          "url": "https://chatgpt.com/"
         }
       ]
     }
