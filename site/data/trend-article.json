@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-09-04T05:05:27+08:00",
+  "generated_at": "2026-09-04T07:18:41+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "GPT-6 Astra",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "746 pts / 468 comments",
+      "score": 95,
+      "traffic": "1117 pts / 851 comments",
       "url": "https://openai.com/index/gpt-6-astra/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": ".name Termination",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1046 pts / 313 comments",
+      "score": 94,
+      "traffic": "1220 pts / 351 comments",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "348 pts / 159 comments",
+      "score": 90,
+      "traffic": "427 pts / 208 comments",
       "url": "https://anyhumanever.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "297 pts / 97 comments",
+      "score": 89,
+      "traffic": "396 pts / 122 comments",
       "url": "https://inference-docs.cerebras.ai/models/overview",
       "context": "High-engagement technology discussion"
     },
@@ -38,65 +38,65 @@
       "title": "K2 Horizon: A connected fleet of six open models",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "206 pts / 70 comments",
+      "traffic": "236 pts / 77 comments",
       "url": "https://ifm.ai/blog/k2/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "106 pts / 39 comments",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "77 pts / 21 comments",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "67 pts / 28 comments",
-      "url": "https://arcprize.org/blog/astra",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The largest electric aircraft just flew [video]",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "42 pts / 26 comments",
+      "score": 86,
+      "traffic": "138 pts / 88 comments",
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Unusual Suspects",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "58 pts / 14 comments",
-      "url": "https://neal.fun/unusual-suspects/",
+      "score": 86,
+      "traffic": "160 pts / 56 comments",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The death of San Francisco's Market Street",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "28 pts / 28 comments",
-      "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "tesla",
+      "title": "台北 市長 民 調",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://finance.yahoo.com/markets/article/teslas-cybercab-event-is-tonight-heres-what-the-industry--and-wall-street--expects-110000729.html",
-      "context": "Tesla's Cybercab event is tonight. Here's what the industry — and Wall Street — expects"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "台彩",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%A0%AD%E7%8D%8E%E6%B2%92%E9%A0%98-%E5%8F%B0%E5%BD%A9%E6%9B%9D%E4%BB%8A%E5%B9%B45%E7%AD%867-04%E5%84%84%E9%80%BE%E6%9C%9F%E5%85%85%E5%85%AC-033118029.html",
+      "context": "中頭獎沒領！台彩曝今年5筆7.04億逾期充公"
+    },
+    {
+      "title": "us open",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.atptour.com/en/news/alcaraz-faria-us-open-2026-wednesday",
+      "context": "Alcaraz drops first set, then cruises to continue US Open title defence"
+    },
+    {
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "115 pts / 34 comments",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "今天天氣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562579",
+      "context": "低壓帶發威！各地續防大雨 午後防瞬間強降雨"
     }
   ],
   "articles": [
