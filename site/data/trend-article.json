@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-03T12:37:32+08:00",
+  "generated_at": "2026-09-03T19:20:30+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "895 pts / 521 comments",
+      "traffic": "1045 pts / 581 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Muse Spark 1.3",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "454 pts / 305 comments",
+      "score": 92,
+      "traffic": "601 pts / 395 comments",
       "url": "https://developer.meta.com/ai/models/muse-spark/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Google avoids a breakup of its ad tech business",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "310 pts / 228 comments",
+      "score": 91,
+      "traffic": "406 pts / 284 comments",
       "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "438 pts / 213 comments",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Can I opt out of my input or output data being used for training?",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "399 pts / 170 comments",
+      "traffic": "455 pts / 207 comments",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "340 pts / 159 comments",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Fable 5.1 World Modeling",
+      "title": "Pre-Release of Polars 2.0",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "169 pts / 56 comments",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "traffic": "194 pts / 41 comments",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "國民年金",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E6%97%A9%E5%85%A5%E5%B8%B34-2%E8%90%AC-5%E5%B9%B4%E5%85%A7%E6%B2%92%E7%94%B3%E8%AB%8B%E5%85%85%E5%85%AC-9%E6%9C%88-19%E7%AD%86%E6%B4%A5%E8%B2%BC-000200096.html",
-      "context": "一早入帳4.2萬！5年內沒申請充公 9月「19筆津貼」一路發到月底"
-    },
-    {
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "title": "The Browser's Main Thread Is Expensive",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "135 pts / 29 comments",
-      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "77 pts / 48 comments",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "traffic": "117 pts / 37 comments",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Holden's Lightning Flight",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "92 pts / 14 comments",
+      "score": 85,
+      "traffic": "167 pts / 35 comments",
       "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "37 pts / 45 comments",
-      "url": "https://news.ycombinator.com/item?id=49543530",
+      "traffic": "73 pts / 24 comments",
+      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "范振宗",
+      "title": "緯 創",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%96%8A-%E9%81%B8%E6%88%B0%E9%80%B2%E5%85%A5%E8%97%8D%E7%99%BD%E5%B0%8D%E6%B1%BA-%E9%84%AD%E9%BA%97%E6%96%87%E7%9B%B4%E7%A8%B1%E5%90%B3%E6%97%AD%E6%99%BA-%E7%AB%B9%E5%8C%97%E6%9C%AA%E4%BE%86%E7%9A%84%E5%B8%82%E9%95%B7-030122298.html",
-      "context": "喊「選戰進入藍白對決」 鄭麗文直稱吳旭智：竹北未來的市長"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "全聯軍人節優惠",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/124378/9730965",
+      "context": "九三軍人節優惠懶人包！全聯咖啡免費喝 超商買1送1、全店折扣一次看"
+    },
+    {
+      "title": "雷暴",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "http://cj.sina.cn/articles/view/6012681959/166623ee700101hnde?cre=tianyi&mod=wlocal&loc=5&r=0&rfunc=47&tj=cxvertical_wlocal&tr=1047&pos=79",
+      "context": "台风“沙德尔”第三次登陆我国，它为何如此独特"
     }
   ],
   "articles": [
