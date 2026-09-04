@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-04T12:38:58+08:00",
+  "generated_at": "2026-09-04T19:23:29+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "GPT-6 Astra",
       "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1488 pts / 1256 comments",
+      "score": 97,
+      "traffic": "1867 pts / 1666 comments",
       "url": "https://openai.com/index/gpt-6-astra/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": ".name Termination",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1514 pts / 405 comments",
+      "score": 95,
+      "traffic": "1888 pts / 465 comments",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "495 pts / 148 comments",
+      "score": 91,
+      "traffic": "579 pts / 191 comments",
       "url": "https://inference-docs.cerebras.ai/models/overview",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The largest electric aircraft just flew [video]",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "239 pts / 160 comments",
+      "score": 90,
+      "traffic": "350 pts / 241 comments",
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "228 pts / 68 comments",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "195 pts / 60 comments",
+      "score": 88,
+      "traffic": "274 pts / 86 comments",
       "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "基隆淹水",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://udn.com/news/story/7266/9734154",
-      "context": "影／大雨狂炸基隆！基金一路義一路多處民宅淹水 武崙溪暴漲溢堤"
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "137 pts / 51 comments",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "score": 88,
+      "traffic": "306 pts / 101 comments",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "彰化 市 市長",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "A Mysterious Kidney Disease Has Arrived in Texas",
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "27 pts / 25 comments",
-      "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+      "score": 87,
+      "traffic": "203 pts / 65 comments",
+      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "How an MIT research project became the Julia programming language",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "42 pts / 8 comments",
+      "score": 84,
+      "traffic": "106 pts / 39 comments",
       "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "旺 宏",
+      "title": "Authorization terminology is a mess: Let's fix it",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "56 pts / 29 comments",
+      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "非農就業數據",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.stock.yahoo.com/news/%E7%9B%AE%E6%A8%99%E5%83%B9%E5%96%8A%E5%88%B0220%E5%85%83-%E5%9C%8B%E5%AE%B6%E9%9A%8A-%E5%8A%A0%E7%A2%BC2-5%E5%84%84%E5%85%83%E6%8E%83%E9%80%B2%E6%97%BA%E5%AE%8F2142%E5%BC%B5-%E9%80%99%E6%AA%94-004000804.html",
-      "context": "目標價喊到220元！「國家隊」加碼2.5億元掃進旺宏2142張 「這檔」切輝達、亞馬遜供應鏈大舉搶進1979張"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%B7%B4%E5%85%8B%E8%90%8A-%E8%82%A1%E5%B8%82%E5%B0%8D%E8%83%BD%E6%BA%90%E5%83%B9%E6%A0%BC%E8%88%87%E5%8D%87%E6%81%AF%E6%95%8F%E6%84%9F%E5%BA%A6%E5%9B%9E%E5%8D%87-%E6%81%90%E5%8A%A0%E5%8A%87%E7%A7%8B%E5%AD%A3%E6%B3%A2%E5%8B%95-091002925.html",
+      "context": "巴克萊：股市對能源價格與升息敏感度回升 恐加劇秋季波動"
+    },
+    {
+      "title": "菲律賓",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5563246",
+      "context": "菲律賓副總統揚言殺害小馬可仕 法院發出逮捕令"
+    },
+    {
+      "title": "雷暴",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=7&kindid=0&docid=107230855",
+      "context": "台风“沙德尔”三次登陆 给我们什么警示？"
     }
   ],
   "articles": [
