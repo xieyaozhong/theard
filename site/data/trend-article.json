@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-09-05T04:47:59+08:00",
+  "generated_at": "2026-09-05T07:03:44+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Discovery of a new OpenAI agent message board",
       "source": "HACKER NEWS",
       "score": 96,
-      "traffic": "1272 pts / 1031 comments",
+      "traffic": "1401 pts / 1122 comments",
       "url": "https://collusion.wiki/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "253 pts / 139 comments",
+      "score": 91,
+      "traffic": "403 pts / 261 comments",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "IBM Bob",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "184 pts / 219 comments",
-      "url": "https://bob.ibm.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Solving the Jane Street reverse engineering challenge",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "354 pts / 79 comments",
-      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "208 pts / 121 comments",
-      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "157 pts / 54 comments",
-      "url": "https://opentrailpaper.com",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Shutting down our public encrypted DNS",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "123 pts / 32 comments",
+      "score": 87,
+      "traffic": "200 pts / 73 comments",
       "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "deSEC – Free Secure DNS",
+      "title": "Show HN: Open-Source eInk Bike Computer",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "78 pts / 30 comments",
-      "url": "https://desec.io/",
+      "score": 87,
+      "traffic": "206 pts / 66 comments",
+      "url": "https://opentrailpaper.com",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "對 賴清德 政府 的 民意 調查",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/9%E6%9C%88%E6%94%BF%E9%BB%A8%E6%B0%91%E8%AA%BF%E5%A4%AA%E9%9C%87%E6%92%BC-%E5%90%B3%E5%AD%90%E5%98%89%E9%A9%9A%E5%96%8A-%E9%80%99%E9%BB%A8-%E5%B9%B4%E5%BA%95%E9%81%B8%E8%88%89%E6%9C%83%E8%B4%8F-%E6%95%B8%E6%93%9A%E5%85%A8%E7%82%B8%E5%87%BA-061804147.html",
-      "context": "9月政黨民調太震撼！吳子嘉驚喊「這黨」年底選舉會贏 數據全炸出"
-    },
-    {
-      "title": "吳申梅",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%90%B3%E7%94%B3%E6%A2%85%E8%BB%8A%E7%A6%8D-%E4%B8%89%E9%9D%A2%E6%8E%9B%E5%BD%A9-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89-%E5%AF%8C%E5%95%86%E8%80%81%E5%85%AC%E5%BF%83%E7%96%BC%E5%8B%B8%E9%80%80%E5%96%8A-%E4%BC%91%E6%81%AF-101342999.html",
-      "context": "吳申梅車禍「三面掛彩」慘況曝光 富商老公心疼勸退喊「休息」"
     },
     {
       "title": "Can AI design circuit boards yet?",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "36 pts / 23 comments",
+      "score": 86,
+      "traffic": "115 pts / 70 comments",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Rust React Compiler is now native in Vite",
+      "title": "Statichost.eu – European static site hosting",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "121 pts / 39 comments",
+      "url": "https://www.statichost.eu/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "mu",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://currently.att.yahoo.com/att/micron-guided-single-quarter-50-080101250.html",
+      "context": "Micron Guided a Single Quarter to $50 Billion. The Stock Sits 24% Below Its High."
+    },
+    {
+      "title": "敬老 之 日",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "選舉",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "60 pts / 12 comments",
-      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "traffic": "56 pts / 11 comments",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "44 pts / 21 comments",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "60 pts / 13 comments",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "IBM Bob",
+      "topic": "Shutting down our public encrypted DNS",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「IBM Bob」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Shutting down our public encrypted DNS」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「IBM Bob」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Shutting down our public encrypted DNS」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "IBM Bob",
-          "url": "https://bob.ibm.com/"
+          "title": "Shutting down our public encrypted DNS",
+          "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"
         }
       ]
     }
