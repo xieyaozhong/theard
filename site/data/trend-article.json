@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T07:18:41+08:00",
+  "generated_at": "2026-09-04T12:38:58+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "GPT-6 Astra",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1117 pts / 851 comments",
+      "score": 96,
+      "traffic": "1488 pts / 1256 comments",
       "url": "https://openai.com/index/gpt-6-astra/",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": ".name Termination",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "1220 pts / 351 comments",
+      "traffic": "1514 pts / 405 comments",
       "url": "https://neil.fraser.name/news/2026/09/03/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "427 pts / 208 comments",
-      "url": "https://anyhumanever.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "396 pts / 122 comments",
+      "score": 90,
+      "traffic": "495 pts / 148 comments",
       "url": "https://inference-docs.cerebras.ai/models/overview",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "236 pts / 77 comments",
-      "url": "https://ifm.ai/blog/k2/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The largest electric aircraft just flew [video]",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "138 pts / 88 comments",
+      "score": 89,
+      "traffic": "239 pts / 160 comments",
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "160 pts / 56 comments",
+      "score": 87,
+      "traffic": "228 pts / 68 comments",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "台北 市長 民 調",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "台彩",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E4%B8%AD%E9%A0%AD%E7%8D%8E%E6%B2%92%E9%A0%98-%E5%8F%B0%E5%BD%A9%E6%9B%9D%E4%BB%8A%E5%B9%B45%E7%AD%867-04%E5%84%84%E9%80%BE%E6%9C%9F%E5%85%85%E5%85%AC-033118029.html",
-      "context": "中頭獎沒領！台彩曝今年5筆7.04億逾期充公"
-    },
-    {
-      "title": "us open",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.atptour.com/en/news/alcaraz-faria-us-open-2026-wednesday",
-      "context": "Alcaraz drops first set, then cruises to continue US Open title defence"
-    },
-    {
       "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "115 pts / 34 comments",
+      "score": 86,
+      "traffic": "195 pts / 60 comments",
       "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "今天天氣",
+      "title": "基隆淹水",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://udn.com/news/story/7266/9734154",
+      "context": "影／大雨狂炸基隆！基金一路義一路多處民宅淹水 武崙溪暴漲溢堤"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "137 pts / 51 comments",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "彰化 市 市長",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5562579",
-      "context": "低壓帶發威！各地續防大雨 午後防瞬間強降雨"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "A Mysterious Kidney Disease Has Arrived in Texas",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "27 pts / 25 comments",
+      "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How an MIT research project became the Julia programming language",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "42 pts / 8 comments",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "旺 宏",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.stock.yahoo.com/news/%E7%9B%AE%E6%A8%99%E5%83%B9%E5%96%8A%E5%88%B0220%E5%85%83-%E5%9C%8B%E5%AE%B6%E9%9A%8A-%E5%8A%A0%E7%A2%BC2-5%E5%84%84%E5%85%83%E6%8E%83%E9%80%B2%E6%97%BA%E5%AE%8F2142%E5%BC%B5-%E9%80%99%E6%AA%94-004000804.html",
+      "context": "目標價喊到220元！「國家隊」加碼2.5億元掃進旺宏2142張 「這檔」切輝達、亞馬遜供應鏈大舉搶進1979張"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "topic": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Any Human Ever – One life, drawn at random from all who have ever lived」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Qwen 3.8 27B available on Cerebras at 1500 tokens/s」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Any Human Ever – One life, drawn at random from all who have ever lived」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Qwen 3.8 27B available on Cerebras at 1500 tokens/s」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-          "url": "https://anyhumanever.com/"
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          "url": "https://inference-docs.cerebras.ai/models/overview"
         }
       ]
     }
