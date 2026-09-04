@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-09-05T00:25:04+08:00",
+  "generated_at": "2026-09-05T04:47:59+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "GPT-6 Astra",
-      "source": "HACKER NEWS",
-      "score": 98,
-      "traffic": "2027 pts / 1848 comments",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": ".name Termination",
-      "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "2068 pts / 507 comments",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Discovery of a new OpenAI agent message board",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "732 pts / 513 comments",
+      "score": 96,
+      "traffic": "1272 pts / 1031 comments",
       "url": "https://collusion.wiki/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "title": "Formalizing Fermat's Last Theorem",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "648 pts / 211 comments",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 89,
+      "traffic": "253 pts / 139 comments",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The largest electric aircraft just flew [video]",
+      "title": "IBM Bob",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "420 pts / 302 comments",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "score": 89,
+      "traffic": "184 pts / 219 comments",
+      "url": "https://bob.ibm.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "title": "Solving the Jane Street reverse engineering challenge",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "453 pts / 186 comments",
-      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "262 pts / 49 comments",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Solving the Jane Street Reverse Engineering Challenge",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "259 pts / 66 comments",
+      "score": 88,
+      "traffic": "354 pts / 79 comments",
       "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "自燃",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "90 pts / 29 comments",
-      "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
+      "score": 88,
+      "traffic": "208 pts / 121 comments",
+      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ok, but Does It Scale?",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "157 pts / 54 comments",
+      "url": "https://opentrailpaper.com",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "123 pts / 32 comments",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "deSEC – Free Secure DNS",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "71 pts / 37 comments",
-      "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+      "traffic": "78 pts / 30 comments",
+      "url": "https://desec.io/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "對賴清德政府的民意調查",
+      "title": "對 賴清德 政府 的 民意 調查",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
       "url": "https://tw.news.yahoo.com/9%E6%9C%88%E6%94%BF%E9%BB%A8%E6%B0%91%E8%AA%BF%E5%A4%AA%E9%9C%87%E6%92%BC-%E5%90%B3%E5%AD%90%E5%98%89%E9%A9%9A%E5%96%8A-%E9%80%99%E9%BB%A8-%E5%B9%B4%E5%BA%95%E9%81%B8%E8%88%89%E6%9C%83%E8%B4%8F-%E6%95%B8%E6%93%9A%E5%85%A8%E7%82%B8%E5%87%BA-061804147.html",
       "context": "9月政黨民調太震撼！吳子嘉驚喊「這黨」年底選舉會贏 數據全炸出"
+    },
+    {
+      "title": "吳申梅",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E5%90%B3%E7%94%B3%E6%A2%85%E8%BB%8A%E7%A6%8D-%E4%B8%89%E9%9D%A2%E6%8E%9B%E5%BD%A9-%E6%85%98%E6%B3%81%E6%9B%9D%E5%85%89-%E5%AF%8C%E5%95%86%E8%80%81%E5%85%AC%E5%BF%83%E7%96%BC%E5%8B%B8%E9%80%80%E5%96%8A-%E4%BC%91%E6%81%AF-101342999.html",
+      "context": "吳申梅車禍「三面掛彩」慘況曝光 富商老公心疼勸退喊「休息」"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "36 pts / 23 comments",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Rust React Compiler is now native in Vite",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "60 pts / 12 comments",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "GPT-6 Astra",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「GPT-6 Astra」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GPT-6 Astra」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "GPT-6 Astra",
-          "url": "https://openai.com/index/gpt-6-astra/"
-        }
-      ]
-    },
-    {
-      "topic": ".name Termination",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「.name Termination」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「.name Termination」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": ".name Termination",
-          "url": "https://neil.fraser.name/news/2026/09/03/"
-        }
-      ]
-    },
-    {
       "topic": "Discovery of a new OpenAI agent message board",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Discovery of a new OpenAI agent message board」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "Discovery of a new OpenAI agent message board",
           "url": "https://collusion.wiki/"
+        }
+      ]
+    },
+    {
+      "topic": "Formalizing Fermat's Last Theorem",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Formalizing Fermat's Last Theorem」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Formalizing Fermat's Last Theorem」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+        }
+      ]
+    },
+    {
+      "topic": "IBM Bob",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「IBM Bob」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「IBM Bob」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "IBM Bob",
+          "url": "https://bob.ibm.com/"
         }
       ]
     }
