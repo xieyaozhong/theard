@@ -177,10 +177,12 @@ test("public sessions list only published open activity data with claimable avai
       quantity: 1
     }
   });
+  const stateBeforeClose = await api("/api/admin/state", { admin: true });
+  const closedSession = stateBeforeClose.payload.data.sessions.find((session) => session.id === closed.payload.data.session.id);
   await api(`/api/admin/sessions/${encodeURIComponent(closed.payload.data.session.id)}`, {
     method: "PATCH",
     admin: true,
-    body: { status: "CLOSED" }
+    body: { status: "CLOSED", expectedUpdatedAt: closedSession.updatedAt }
   });
 
   await api("/api/admin/issue", {
@@ -259,6 +261,8 @@ test("ticket status, verification, session close, and code regeneration are enfo
   const issued = await api("/api/admin/issue", { method: "POST", admin: true, body: issuePayload });
   const [claimedTicket, pendingTicket, closedTicket] = issued.payload.data.tickets;
   const sessionId = issued.payload.data.session.id;
+  const issuedState = await api("/api/admin/state", { admin: true });
+  const sessionUpdatedAt = issuedState.payload.data.sessions.find((session) => session.id === sessionId).updatedAt;
 
   const claim = await api("/api/public/claim", { method: "POST", body: { code: claimedTicket.drawCode } });
   const verifyToken = claim.payload.data.ticket.verifyToken;
@@ -278,7 +282,7 @@ test("ticket status, verification, session close, and code regeneration are enfo
   const newLookup = await api("/api/public/lookup", { method: "POST", body: { code: regenerated.payload.data.drawCode } });
   assert.equal(newLookup.response.status, 200);
 
-  const closed = await api(`/api/admin/sessions/${encodeURIComponent(sessionId)}`, { method: "PATCH", admin: true, body: { status: "CLOSED" } });
+  const closed = await api(`/api/admin/sessions/${encodeURIComponent(sessionId)}`, { method: "PATCH", admin: true, body: { status: "CLOSED", expectedUpdatedAt: sessionUpdatedAt } });
   assert.equal(closed.payload.data.status, "CLOSED");
   const closedLookup = await api("/api/public/lookup", { method: "POST", body: { code: closedTicket.drawCode } });
   assert.equal(closedLookup.response.status, 404);
@@ -286,6 +290,208 @@ test("ticket status, verification, session close, and code regeneration are enfo
   const regenerateClaimed = await api(`/api/admin/tickets/${encodeURIComponent(claimedTicket.id)}/regenerate`, { method: "POST", admin: true });
   assert.equal(regenerateClaimed.response.status, 409);
   assert.equal(regenerateClaimed.payload.error.code, "ALREADY_CLAIMED");
+});
+
+test("session metadata editing is optimistic, audited, and visible across public views", async () => {
+  const { env, api } = setup();
+  const payload = { ...issuePayload, requestId: "test-session-edit-0001", quantity: 1 };
+  const issued = await api("/api/admin/issue", { method: "POST", admin: true, body: payload });
+  const ticket = issued.payload.data.tickets[0];
+  const sessionId = issued.payload.data.session.id;
+  const initialState = await api("/api/admin/state", { admin: true });
+  const initial = initialState.payload.data.sessions.find((session) => session.id === sessionId);
+
+  const unauthorized = await api(`/api/admin/sessions/${encodeURIComponent(sessionId)}`, {
+    method: "PATCH",
+    body: { time: "20:30", expectedUpdatedAt: initial.updatedAt }
+  });
+  assert.equal(unauthorized.response.status, 401);
+
+  const immutable = await api(`/api/admin/sessions/${encodeURIComponent(sessionId)}`, {
+    method: "PATCH",
+    admin: true,
+    body: { date: "2099-09-13", expectedUpdatedAt: initial.updatedAt }
+  });
+  assert.equal(immutable.response.status, 400);
+  assert.equal(immutable.payload.error.code, "IMMUTABLE_FIELD");
+
+  const missingVersion = await api(`/api/admin/sessions/${encodeURIComponent(sessionId)}`, {
+    method: "PATCH",
+    admin: true,
+    body: { time: "20:30" }
+  });
+  assert.equal(missingVersion.response.status, 400);
+  assert.equal(missingVersion.payload.error.code, "EXPECTED_VERSION_REQUIRED");
+
+  const edited = await api(`/api/admin/sessions/${encodeURIComponent(sessionId)}`, {
+    method: "PATCH",
+    admin: true,
+    body: {
+      time: "20:30",
+      venue: "TAIPEI / UPDATED VENUE",
+      note: "Updated attendee instructions",
+      expectedUpdatedAt: initial.updatedAt
+    }
+  });
+  assert.equal(edited.response.status, 200);
+  assert.notEqual(edited.payload.data.updatedAt, initial.updatedAt);
+
+  const stale = await api(`/api/admin/sessions/${encodeURIComponent(sessionId)}`, {
+    method: "PATCH",
+    admin: true,
+    body: { time: "21:00", expectedUpdatedAt: initial.updatedAt }
+  });
+  assert.equal(stale.response.status, 409);
+  assert.equal(stale.payload.error.code, "SESSION_CHANGED");
+
+  const state = await api("/api/admin/state", { admin: true });
+  const stored = state.payload.data.sessions.find((session) => session.id === sessionId);
+  assert.equal(stored.time, "20:30");
+  assert.equal(stored.venue, "TAIPEI / UPDATED VENUE");
+  assert.equal(stored.note, "Updated attendee instructions");
+  assert.equal(stored.eventName, payload.eventName);
+  assert.equal(stored.date, payload.date);
+  assert.equal(stored.tickets[0].serial, ticket.serial);
+  assert.equal(stored.tickets[0].drawCode, ticket.drawCode);
+
+  const listing = await api("/api/public/sessions");
+  const publicSession = listing.payload.data.sessions.find((session) => session.id === sessionId);
+  assert.equal(publicSession.time, "20:30");
+  assert.equal(publicSession.venue, "TAIPEI / UPDATED VENUE");
+  assert.equal(publicSession.note, "Updated attendee instructions");
+
+  const lookup = await api("/api/public/lookup", { method: "POST", body: { code: ticket.drawCode } });
+  assert.equal(lookup.payload.data.session.time, "20:30");
+  assert.equal(lookup.payload.data.session.venue, "TAIPEI / UPDATED VENUE");
+  const verify = await api("/api/public/verify", { method: "POST", body: { serial: ticket.serial, token: ticket.verifyToken } });
+  assert.equal(verify.payload.data.session.time, "20:30");
+  assert.equal(verify.payload.data.session.venue, "TAIPEI / UPDATED VENUE");
+
+  const oldMetadataIssue = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: { ...payload, requestId: "test-session-edit-old-data" }
+  });
+  assert.equal(oldMetadataIssue.response.status, 409);
+  assert.equal(oldMetadataIssue.payload.error.code, "SESSION_METADATA_CONFLICT");
+  const matchingIssue = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: {
+      ...payload,
+      requestId: "test-session-edit-new-data",
+      time: "20:30",
+      venue: "TAIPEI / UPDATED VENUE",
+      note: "Updated attendee instructions"
+    }
+  });
+  assert.equal(matchingIssue.response.status, 201);
+  assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM audit_logs WHERE action = 'SESSION_UPDATED'").get().count, 1);
+});
+
+test("session deletion revokes unclaimed codes, preserves siblings, and blocks claimed records", async () => {
+  const { env, api } = setup();
+  const deletablePayload = {
+    ...issuePayload,
+    requestId: "test-session-delete-0001",
+    eventCode: "DEL001",
+    sessionCode: "A",
+    quantity: 2
+  };
+  const deletable = await api("/api/admin/issue", { method: "POST", admin: true, body: deletablePayload });
+  const sibling = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: { ...deletablePayload, requestId: "test-session-delete-sibling", sessionCode: "B" }
+  });
+  const state = await api("/api/admin/state", { admin: true });
+  const session = state.payload.data.sessions.find((item) => item.id === deletable.payload.data.session.id);
+  const [firstTicket] = deletable.payload.data.tickets;
+
+  const preflight = await api(`/api/admin/sessions/${encodeURIComponent(session.id)}`, { method: "OPTIONS" });
+  assert.equal(preflight.response.status, 204);
+  assert.match(preflight.response.headers.get("access-control-allow-methods"), /DELETE/);
+
+  const unauthorized = await api(`/api/admin/sessions/${encodeURIComponent(session.id)}`, {
+    method: "DELETE",
+    body: { expectedUpdatedAt: session.updatedAt }
+  });
+  assert.equal(unauthorized.response.status, 401);
+
+  const deleted = await api(`/api/admin/sessions/${encodeURIComponent(session.id)}`, {
+    method: "DELETE",
+    admin: true,
+    body: { expectedUpdatedAt: session.updatedAt }
+  });
+  assert.equal(deleted.response.status, 200);
+  assert.equal(deleted.payload.data.affectedTickets, 2);
+  const deletedRow = env.DB.database.prepare("SELECT status, deleted_at FROM sessions WHERE id = ?").get(session.id);
+  assert.equal(deletedRow.status, "CLOSED");
+  assert.ok(deletedRow.deleted_at);
+  assert.deepEqual(
+    env.DB.database.prepare("SELECT DISTINCT status FROM tickets WHERE session_id = ?").all(session.id).map((row) => row.status),
+    ["REVOKED"]
+  );
+
+  const after = await api("/api/admin/state", { admin: true });
+  assert.equal(after.payload.data.sessions.some((item) => item.id === session.id), false);
+  assert.equal(after.payload.data.sessions.some((item) => item.id === sibling.payload.data.session.id), true);
+  const listing = await api("/api/public/sessions");
+  assert.equal(listing.payload.data.sessions.some((item) => item.id === session.id), false);
+  const lookup = await api("/api/public/lookup", { method: "POST", body: { code: firstTicket.drawCode } });
+  assert.equal(lookup.response.status, 404);
+  const claim = await api("/api/public/claim", { method: "POST", body: { code: firstTicket.drawCode } });
+  assert.equal(claim.response.status, 404);
+  const verify = await api("/api/public/verify", { method: "POST", body: { serial: firstTicket.serial, token: firstTicket.verifyToken } });
+  assert.equal(verify.response.status, 404);
+  const regenerate = await api(`/api/admin/tickets/${encodeURIComponent(firstTicket.id)}/regenerate`, { method: "POST", admin: true });
+  assert.equal(regenerate.response.status, 404);
+  const ticketPatch = await api(`/api/admin/tickets/${encodeURIComponent(firstTicket.id)}`, { method: "PATCH", admin: true, body: { status: "ACTIVE" } });
+  assert.equal(ticketPatch.response.status, 404);
+
+  const oldRetry = await api("/api/admin/issue", { method: "POST", admin: true, body: deletablePayload });
+  assert.equal(oldRetry.response.status, 409);
+  assert.equal(oldRetry.payload.error.code, "SESSION_DELETED");
+  const newRetry = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: { ...deletablePayload, requestId: "test-session-delete-new-request" }
+  });
+  assert.equal(newRetry.response.status, 409);
+  assert.equal(newRetry.payload.error.code, "SESSION_DELETED");
+  const patchDeleted = await api(`/api/admin/sessions/${encodeURIComponent(session.id)}`, {
+    method: "PATCH",
+    admin: true,
+    body: { status: "OPEN", expectedUpdatedAt: session.updatedAt }
+  });
+  assert.equal(patchDeleted.response.status, 404);
+  const deleteAgain = await api(`/api/admin/sessions/${encodeURIComponent(session.id)}`, {
+    method: "DELETE",
+    admin: true,
+    body: { expectedUpdatedAt: session.updatedAt }
+  });
+  assert.equal(deleteAgain.response.status, 404);
+  assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM audit_logs WHERE action = 'SESSION_DELETED'").get().count, 1);
+
+  const protectedIssue = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: { ...issuePayload, requestId: "test-session-delete-claimed", eventCode: "KEEP01", quantity: 1 }
+  });
+  const protectedTicket = protectedIssue.payload.data.tickets[0];
+  await api("/api/public/claim", { method: "POST", body: { code: protectedTicket.drawCode } });
+  await api(`/api/admin/tickets/${encodeURIComponent(protectedTicket.id)}`, { method: "PATCH", admin: true, body: { status: "REVOKED" } });
+  const protectedState = await api("/api/admin/state", { admin: true });
+  const protectedSession = protectedState.payload.data.sessions.find((item) => item.id === protectedIssue.payload.data.session.id);
+  const blocked = await api(`/api/admin/sessions/${encodeURIComponent(protectedSession.id)}`, {
+    method: "DELETE",
+    admin: true,
+    body: { expectedUpdatedAt: protectedSession.updatedAt }
+  });
+  assert.equal(blocked.response.status, 409);
+  assert.equal(blocked.payload.error.code, "SESSION_HAS_CLAIMS");
+  assert.equal(env.DB.database.prepare("SELECT deleted_at FROM sessions WHERE id = ?").get(protectedSession.id).deleted_at, null);
+  assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM audit_logs WHERE action = 'SESSION_DELETED'").get().count, 1);
 });
 
 test("competing requests return one claim and one recovery for the same code", async () => {
@@ -303,6 +509,40 @@ test("competing requests return one claim and one recovery for the same code", a
   const ticket = env.DB.database.prepare("SELECT claimed_at, claim_id FROM tickets").get();
   assert.ok(ticket.claimed_at);
   assert.ok(ticket.claim_id);
+});
+
+test("competing claim and session deletion cannot produce a claimed deleted ticket", async () => {
+  const { env, api } = setup();
+  const issued = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: { ...issuePayload, requestId: "test-delete-claim-race", eventCode: "RACE01", quantity: 1 }
+  });
+  const ticket = issued.payload.data.tickets[0];
+  const state = await api("/api/admin/state", { admin: true });
+  const session = state.payload.data.sessions.find((item) => item.id === issued.payload.data.session.id);
+  const [deletion, claim] = await Promise.all([
+    api(`/api/admin/sessions/${encodeURIComponent(session.id)}`, {
+      method: "DELETE",
+      admin: true,
+      body: { expectedUpdatedAt: session.updatedAt }
+    }),
+    api("/api/public/claim", { method: "POST", body: { code: ticket.drawCode } })
+  ]);
+  const storedSession = env.DB.database.prepare("SELECT deleted_at FROM sessions WHERE id = ?").get(session.id);
+  const storedTicket = env.DB.database.prepare("SELECT claimed_at FROM tickets WHERE id = ?").get(ticket.id);
+  assert.equal(Boolean(storedSession.deleted_at && storedTicket.claimed_at), false);
+  if (deletion.response.status === 200) {
+    assert.equal(claim.response.status, 404);
+    assert.ok(storedSession.deleted_at);
+    assert.equal(storedTicket.claimed_at, null);
+  } else {
+    assert.equal(deletion.response.status, 409);
+    assert.equal(deletion.payload.error.code, "SESSION_HAS_CLAIMS");
+    assert.equal(claim.response.status, 200);
+    assert.equal(storedSession.deleted_at, null);
+    assert.ok(storedTicket.claimed_at);
+  }
 });
 
 test("issuing the same request twice is idempotent", async () => {
@@ -378,14 +618,32 @@ test("common ticket lookups use SQLite indexes", async () => {
   assert.match(sessionPlan.map((row) => row.detail).join(" "), /idx_tickets_session_claim/i);
 });
 
-test("packaged migration enforces the runtime status constraints", () => {
+test("packaged migrations upgrade existing sessions and guard deleted ticket inserts", () => {
   const database = new DatabaseSync(":memory:");
-  const migration = readFileSync(new URL("../drizzle/0000_theard_event_ops.sql", import.meta.url), "utf8")
+  const statements = (file) => readFileSync(new URL(file, import.meta.url), "utf8")
     .split("--> statement-breakpoint")
     .map((statement) => statement.trim())
     .filter(Boolean);
   database.exec("PRAGMA foreign_keys = ON");
-  for (const statement of migration) database.exec(statement);
+  for (const statement of statements("../drizzle/0000_theard_event_ops.sql")) database.exec(statement);
   assert.throws(() => database.prepare("INSERT INTO events (id, code, name, status, created_at, updated_at) VALUES ('bad','BAD','Bad','BROKEN','x','x')").run());
   assert.equal(database.prepare("SELECT COUNT(*) AS count FROM sqlite_schema WHERE type='table' AND name='issue_requests'").get().count, 1);
+  database.prepare("INSERT INTO events (id, code, name, status, created_at, updated_at) VALUES ('evt_old','OLD','Existing','PUBLISHED','x','x')").run();
+  database.prepare("INSERT INTO sessions (id, event_id, code, event_date, start_time, status, created_at, updated_at) VALUES ('ses_old','evt_old','A','2099-01-01','19:00','OPEN','x','x')").run();
+
+  for (const statement of statements("../drizzle/0001_session_soft_delete.sql")) database.exec(statement);
+  const columns = database.prepare("PRAGMA table_info(sessions)").all().map((column) => column.name);
+  assert.ok(columns.includes("deleted_at"));
+  assert.equal(database.prepare("SELECT deleted_at FROM sessions WHERE id = 'ses_old'").get().deleted_at, null);
+  const schemaObjects = database.prepare("SELECT name FROM sqlite_schema WHERE type IN ('index','trigger')").all().map((row) => row.name);
+  assert.ok(schemaObjects.includes("idx_sessions_visible_date"));
+  assert.ok(schemaObjects.includes("block_ticket_insert_deleted_session"));
+
+  database.prepare("UPDATE sessions SET deleted_at = '2099-01-02T00:00:00.000Z' WHERE id = 'ses_old'").run();
+  assert.throws(() => database.prepare(`
+    INSERT INTO tickets (
+      id, session_id, serial, pass_type, rarity, zone, status, draw_code, draw_code_key,
+      verify_token, batch_id, issued_at, updated_at
+    ) VALUES ('tkt_late','ses_old','OLD-1','GENERAL PASS','COMMON','G','ACTIVE','OLD-CODE','OLDCODE','TOKEN','BATCH','x','x')
+  `).run(), /SESSION_DELETED/);
 });

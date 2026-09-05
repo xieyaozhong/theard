@@ -56,7 +56,9 @@
     issueSession:(payload)=>request('/api/admin/issue',{method:'POST',body:payload,admin:true,timeout:30000}),
     updateTicketStatus:(ticketId,status)=>request(`/api/admin/tickets/${encodeURIComponent(ticketId)}`,{method:'PATCH',body:{status},admin:true}),
     regenerateDrawCode:(ticketId)=>request(`/api/admin/tickets/${encodeURIComponent(ticketId)}/regenerate`,{method:'POST',body:{},admin:true}),
-    updateSessionStatus:(sessionId,status)=>request(`/api/admin/sessions/${encodeURIComponent(sessionId)}`,{method:'PATCH',body:{status},admin:true}),
+    updateSession:(sessionId,payload)=>request(`/api/admin/sessions/${encodeURIComponent(sessionId)}`,{method:'PATCH',body:payload,admin:true}),
+    updateSessionStatus:(sessionId,status,expectedUpdatedAt)=>request(`/api/admin/sessions/${encodeURIComponent(sessionId)}`,{method:'PATCH',body:{status,expectedUpdatedAt},admin:true}),
+    deleteSession:(sessionId,expectedUpdatedAt)=>request(`/api/admin/sessions/${encodeURIComponent(sessionId)}`,{method:'DELETE',body:{expectedUpdatedAt},admin:true}),
     TheardApiError
   });
 })(window);

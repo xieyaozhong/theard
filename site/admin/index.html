@@ -7,7 +7,7 @@
   <meta name="robots" content="noindex,nofollow" />
   <title>THEARD — Ticket Issuance Admin</title>
   <link rel="stylesheet" href="styles.css?v=2" />
-  <link rel="stylesheet" href="sync.css?v=1" />
+  <link rel="stylesheet" href="sync.css?v=2" />
 </head>
 <body>
   <div class="adm-noise" aria-hidden="true"></div>
@@ -99,8 +99,41 @@
 
   <dialog id="detailDialog" class="adm-dialog"><div class="adm-dialog__panel"><div class="adm-dialog__head"><span>TICKET DETAIL</span><button id="closeDialog" type="button" aria-label="關閉">×</button></div><div id="detailBody"></div></div></dialog>
   <dialog id="batchDialog" class="adm-dialog"><div class="adm-dialog__panel adm-dialog__panel--batch"><div class="adm-dialog__head"><span>NEW DRAW CODES</span><button id="closeBatch" type="button" aria-label="關閉">×</button></div><div id="batchBody"></div><div class="adm-dialog__actions"><button id="copyBatch" type="button">COPY ALL CODES</button><button id="downloadBatch" class="adm-primary" type="button">DOWNLOAD CSV</button></div></div></dialog>
+  <dialog id="sessionEditDialog" class="adm-dialog" aria-labelledby="sessionEditTitle" aria-describedby="sessionEditHelp">
+    <div class="adm-dialog__panel adm-dialog__panel--session">
+      <div class="adm-dialog__head"><span id="sessionEditTitle">EDIT SESSION</span><button id="closeSessionEdit" type="button" aria-label="關閉場次編輯">×</button></div>
+      <form id="sessionEditForm" class="adm-session-form">
+        <p id="sessionEditHelp" class="adm-dialog__intro">更新後會同步到活動專區、抽取頁與票券驗證。為維持既有票券識別，活動名稱、代碼、場次碼與日期不可在此修改。</p>
+        <label>EVENT NAME / FIXED<input id="editEventName" readonly /></label>
+        <div class="adm-row">
+          <label>EVENT CODE / FIXED<input id="editEventCode" readonly /></label>
+          <label>SESSION CODE / FIXED<input id="editSessionCode" readonly /></label>
+        </div>
+        <div class="adm-row">
+          <label>DATE / FIXED<input id="editSessionDate" type="date" readonly /></label>
+          <label>START TIME<input id="editSessionTime" type="time" required /></label>
+        </div>
+        <label>VENUE<input id="editVenue" maxlength="80" /></label>
+        <label>PUBLIC ATTENDEE NOTE<textarea id="editNote" rows="4" maxlength="180"></textarea></label>
+        <p class="adm-form-error" id="sessionEditError" role="alert"></p>
+        <div class="adm-dialog__actions"><button id="cancelSessionEdit" type="button">CANCEL</button><button id="saveSessionEdit" class="adm-primary" type="submit">SAVE SESSION →</button></div>
+      </form>
+    </div>
+  </dialog>
+  <dialog id="sessionDeleteDialog" class="adm-dialog" aria-labelledby="sessionDeleteTitle" aria-describedby="sessionDeleteHelp">
+    <div class="adm-dialog__panel adm-dialog__panel--session adm-dialog__panel--danger">
+      <div class="adm-dialog__head"><span id="sessionDeleteTitle">DELETE SESSION</span><button id="closeSessionDelete" type="button" aria-label="關閉刪除確認">×</button></div>
+      <form id="sessionDeleteForm" class="adm-session-form">
+        <div id="sessionDeleteSummary" class="adm-delete-summary"></div>
+        <p id="sessionDeleteHelp" class="adm-dialog__intro">刪除後，所有尚未領取的抽取碼會永久失效，場次不再顯示；稽核紀錄仍會安全保留。已有參加者領票的場次不可刪除。</p>
+        <label>TYPE <b id="sessionDeletePhrase"></b> TO CONFIRM<input id="sessionDeleteConfirm" autocomplete="off" spellcheck="false" required /></label>
+        <p class="adm-form-error" id="sessionDeleteError" role="alert"></p>
+        <div class="adm-dialog__actions"><button id="cancelSessionDelete" type="button">CANCEL</button><button id="confirmSessionDelete" class="adm-danger" type="submit" disabled>DELETE SESSION</button></div>
+      </form>
+    </div>
+  </dialog>
   <div class="adm-toast" id="toast" role="status" aria-live="polite">DONE</div>
-  <script src="../api.js?v=2"></script>
-  <script src="app.js?v=3"></script>
+  <script src="../api.js?v=3"></script>
+  <script src="app.js?v=4"></script>
 </body>
 </html>

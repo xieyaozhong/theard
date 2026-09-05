@@ -19,7 +19,10 @@ test("draw uses a verified code and server-decided ticket",async()=>{
 test("admin uses the shared ledger and memory-only runtime key",async()=>{
   const [html,app,api]=await Promise.all([read('site/admin/index.html'),read('site/admin/app.js'),read('site/api.js')]);
   assert.match(html,/\.\.\/api\.js/);assert.match(html,/id="authForm"/);assert.match(html,/id="drawExpiresAt"/);
-  for(const method of ['connectAdmin','getAdminState','issueSession','updateTicketStatus','regenerateDrawCode','updateSessionStatus'])assert.match(app,new RegExp(method));
+  for(const method of ['connectAdmin','getAdminState','issueSession','updateTicketStatus','regenerateDrawCode','updateSession','updateSessionStatus','deleteSession'])assert.match(app,new RegExp(method));
+  for(const id of ['sessionEditDialog','sessionEditForm','sessionDeleteDialog','sessionDeleteConfirm','confirmSessionDelete'])assert.match(html,new RegExp(`id="${id}"`));
+  for(const action of ['edit-session','toggle-session','delete-session'])assert.match(app,new RegExp(action));
+  assert.match(api,/method:'DELETE'/);assert.match(app,/expectedUpdatedAt/);assert.match(app,/SESSION DELETED/);
   assert.doesNotMatch(app,/localStorage/);assert.doesNotMatch(api,/sessionStorage|localStorage/);assert.match(app,/authEpoch/);assert.match(app,/requestId/);assert.match(app,/setInterval\([^,]+,5000\)/s);assert.match(app,/DRAW CODE/);
 });
 

@@ -137,6 +137,9 @@ jobs:
           # Admin is protected by runtime key and reads the shared server ledger.
           assert '../api.js' in admin, 'admin must load the shared API client'
           assert 'connectAdmin' in admin_app and 'getAdminState' in admin_app and 'issueSession' in admin_app
+          assert 'updateSession' in admin_app and 'deleteSession' in admin_app, 'admin session edit/delete actions missing'
+          assert 'sessionEditDialog' in admin and 'sessionDeleteDialog' in admin, 'admin session dialogs missing'
+          assert "method:'DELETE'" in api, 'shared API client session delete method missing'
           assert 'localStorage' not in admin_app, 'admin localStorage must not be the ticket authority'
           assert 'matter.js' not in admin_app and 'pets.js' not in admin_app and 'trend.js' not in admin_app, 'admin runtime must remain isolated'
           assert 'draw/app.js' not in admin and 'trend/app.js' not in admin, 'admin page must not load public app runtimes'

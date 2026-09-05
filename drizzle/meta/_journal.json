@@ -8,6 +8,13 @@
       "when": 1787640000000,
       "tag": "0000_theard_event_ops",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788540000000,
+      "tag": "0001_session_soft_delete",
+      "breakpoints": true
     }
   ]
 }

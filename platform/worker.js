@@ -31,6 +31,7 @@ const SCHEMA = [
     venue TEXT NOT NULL DEFAULT '',
     note TEXT NOT NULL DEFAULT '',
     status TEXT NOT NULL DEFAULT 'OPEN' CHECK (status IN ('OPEN','CLOSED')),
+    deleted_at TEXT,
     created_at TEXT NOT NULL,
     updated_at TEXT NOT NULL,
     UNIQUE(event_id, code, event_date)
@@ -56,6 +57,13 @@ const SCHEMA = [
     revoked_at TEXT,
     updated_at TEXT NOT NULL
   )`,
+  `CREATE TRIGGER IF NOT EXISTS block_ticket_insert_deleted_session
+    BEFORE INSERT ON tickets
+    FOR EACH ROW
+    WHEN EXISTS (SELECT 1 FROM sessions WHERE id = NEW.session_id AND deleted_at IS NOT NULL)
+    BEGIN
+      SELECT RAISE(ABORT, 'SESSION_DELETED');
+    END`,
   `CREATE TABLE IF NOT EXISTS audit_logs (
     id TEXT PRIMARY KEY,
     action TEXT NOT NULL,
@@ -76,6 +84,7 @@ const SCHEMA = [
     request_count INTEGER NOT NULL
   )`,
   `CREATE INDEX IF NOT EXISTS idx_sessions_event_date ON sessions(event_id, event_date, start_time)`,
+  `CREATE INDEX IF NOT EXISTS idx_sessions_visible_date ON sessions(deleted_at, event_date, start_time)`,
   `CREATE INDEX IF NOT EXISTS idx_tickets_session_claim ON tickets(session_id, claimed_at, status)`,
   `CREATE INDEX IF NOT EXISTS idx_tickets_batch ON tickets(batch_id)`,
   `CREATE INDEX IF NOT EXISTS idx_audit_created_at ON audit_logs(created_at)`,
@@ -96,6 +105,12 @@ async function ensureSchema(db) {
 
 function nowIso() {
   return new Date().toISOString();
+}
+
+function nextIso(previous) {
+  const current = Date.now();
+  const prior = Date.parse(previous ?? "");
+  return new Date(Number.isFinite(prior) && current <= prior ? prior + 1 : current).toISOString();
 }
 
 function calendarDateInTaipei(value = new Date()) {
@@ -136,7 +151,7 @@ function corsHeaders(request, env) {
   const origin = allowedOrigin(request, env);
   const headers = {
     "Access-Control-Allow-Headers": "Authorization, Content-Type",
-    "Access-Control-Allow-Methods": "GET, POST, PATCH, OPTIONS",
+    "Access-Control-Allow-Methods": "GET, POST, PATCH, DELETE, OPTIONS",
     "Access-Control-Max-Age": "86400",
     "Cache-Control": "no-store",
     "Content-Type": "application/json; charset=utf-8",
@@ -250,7 +265,7 @@ const CODE_QUERY = `
     t.status AS ticket_status, t.verify_token, t.draw_code, t.draw_expires_at,
     t.claimed_at, t.claim_id, t.attendee_name,
     s.id AS session_id, s.code AS session_code, s.event_date, s.start_time,
-    s.venue, s.note AS session_note, s.status AS session_status,
+    s.venue, s.note AS session_note, s.status AS session_status, s.deleted_at AS session_deleted_at,
     e.id AS event_id, e.code AS event_code, e.name AS event_name, e.status AS event_status
   FROM tickets t
   JOIN sessions s ON s.id = t.session_id
@@ -265,9 +280,11 @@ async function lookupCode(db, code) {
 async function availableForSession(db, sessionId) {
   const row = await db.prepare(`
     SELECT COUNT(*) AS count
-    FROM tickets
-    WHERE session_id = ? AND status = 'ACTIVE' AND claimed_at IS NULL
-      AND (draw_expires_at IS NULL OR draw_expires_at > ?)
+    FROM tickets t
+    JOIN sessions s ON s.id = t.session_id
+    WHERE t.session_id = ? AND s.deleted_at IS NULL
+      AND t.status = 'ACTIVE' AND t.claimed_at IS NULL
+      AND (t.draw_expires_at IS NULL OR t.draw_expires_at > ?)
   `).bind(sessionId, nowIso()).first();
   return Number(row?.count ?? 0);
 }
@@ -287,7 +304,7 @@ async function handlePublicSessions(request, env) {
     FROM sessions s
     JOIN events e ON e.id = s.event_id
     LEFT JOIN tickets t ON t.session_id = s.id
-    WHERE s.status = 'OPEN' AND e.status = 'PUBLISHED' AND s.event_date >= ?
+    WHERE s.deleted_at IS NULL AND s.status = 'OPEN' AND e.status = 'PUBLISHED' AND s.event_date >= ?
     GROUP BY s.id
     ORDER BY s.event_date ASC, s.start_time ASC, e.name ASC, s.code ASC
     LIMIT 24
@@ -314,7 +331,7 @@ async function handlePublicSessions(request, env) {
 }
 
 function codeUnavailable(row) {
-  if (!row || row.ticket_status === "REVOKED" || row.event_status === "CLOSED") return true;
+  if (!row || row.session_deleted_at || row.ticket_status === "REVOKED" || row.event_status === "CLOSED") return true;
   if (row.claimed_at) return false;
   if (row.ticket_status !== "ACTIVE" || row.session_status !== "OPEN") return true;
   return Boolean(row.draw_expires_at && row.draw_expires_at <= nowIso());
@@ -355,7 +372,8 @@ async function handleClaim(request, env) {
         AND EXISTS (
           SELECT 1 FROM sessions s
           JOIN events e ON e.id = s.event_id
-          WHERE s.id = tickets.session_id AND s.status = 'OPEN' AND e.status = 'PUBLISHED'
+          WHERE s.id = tickets.session_id AND s.deleted_at IS NULL
+            AND s.status = 'OPEN' AND e.status = 'PUBLISHED'
         )
     `).bind(claimedAt, claimId, attendeeName, claimedAt, row.ticket_id, key, claimedAt).run();
 
@@ -431,7 +449,14 @@ async function handleIssue(request, env) {
   const prior = await env.DB.prepare(`SELECT payload_hash, response_json FROM issue_requests WHERE request_id = ?`).bind(requestId).first();
   if (prior) {
     if (prior.payload_hash !== payloadHash) return fail(request, env, 409, "REQUEST_ID_CONFLICT", "此發行請求識別碼已用於不同內容。");
-    return ok(request, env, JSON.parse(prior.response_json), 201);
+    const cached = JSON.parse(prior.response_json);
+    const cachedSession = cached?.session?.id
+      ? await env.DB.prepare(`SELECT deleted_at FROM sessions WHERE id = ?`).bind(cached.session.id).first()
+      : null;
+    if (!cachedSession || cachedSession.deleted_at) {
+      return fail(request, env, 409, "SESSION_DELETED", "此發行請求所屬場次已刪除，不能重新送出舊的票券資料。");
+    }
+    return ok(request, env, cached, 201);
   }
   const data = validateIssue(body);
 
@@ -439,9 +464,28 @@ async function handleIssue(request, env) {
   const eventId = `evt_${data.eventCode}`;
   const sessionId = `${data.eventCode}-${data.date.replaceAll("-", "")}-${data.sessionCode}`;
   const batchId = `bat_${data.eventCode}_${Date.now().toString(36)}_${randomHex(3)}`;
-  const existingSession = await env.DB.prepare(`SELECT status FROM sessions WHERE id = ?`).bind(sessionId).first();
+  const existingSession = await env.DB.prepare(`
+    SELECT s.status, s.deleted_at, s.start_time, s.venue, s.note, e.name AS event_name
+    FROM sessions s JOIN events e ON e.id = s.event_id
+    WHERE s.id = ?
+  `).bind(sessionId).first();
+  if (existingSession?.deleted_at) {
+    return fail(request, env, 409, "SESSION_DELETED", "此活動代碼、日期與場次碼已刪除；請改用新的場次碼。");
+  }
   if (existingSession?.status === "CLOSED") {
     return fail(request, env, 409, "SESSION_CLOSED", "此場次已關閉；請先在後台重新開啟後再發行。");
+  }
+  if (existingSession && (
+    existingSession.event_name !== data.eventName
+    || existingSession.start_time !== data.time
+    || existingSession.venue !== data.venue
+    || existingSession.note !== data.note
+  )) {
+    return fail(request, env, 409, "SESSION_METADATA_CONFLICT", "此場次已存在但資料不同；請先使用場次編輯功能，再發行新的票券批次。");
+  }
+  const existingEvent = await env.DB.prepare(`SELECT name FROM events WHERE id = ?`).bind(eventId).first();
+  if (existingEvent && existingEvent.name !== data.eventName) {
+    return fail(request, env, 409, "EVENT_METADATA_CONFLICT", "此活動代碼已使用其他活動名稱，請確認活動代碼。");
   }
 
   const existingResult = await env.DB.prepare(`SELECT serial FROM tickets WHERE session_id = ?`).bind(sessionId).all();
@@ -488,7 +532,7 @@ async function handleIssue(request, env) {
     env.DB.prepare(`
       INSERT INTO events (id, code, name, note, status, created_at, updated_at)
       VALUES (?, ?, ?, ?, 'PUBLISHED', ?, ?)
-      ON CONFLICT(code) DO UPDATE SET name = excluded.name, note = excluded.note, updated_at = excluded.updated_at
+      ON CONFLICT(code) DO NOTHING
     `).bind(eventId, data.eventCode, data.eventName, data.note, now, now),
     env.DB.prepare(`
       INSERT INTO sessions (id, event_id, code, event_date, start_time, venue, note, status, created_at, updated_at)
@@ -528,7 +572,18 @@ async function handleIssue(request, env) {
     const raced = await env.DB.prepare(`SELECT payload_hash, response_json FROM issue_requests WHERE request_id = ?`).bind(requestId).first();
     if (raced) {
       if (raced.payload_hash !== payloadHash) return fail(request, env, 409, "REQUEST_ID_CONFLICT", "此發行請求識別碼已用於不同內容。");
-      return ok(request, env, JSON.parse(raced.response_json), 201);
+      const cached = JSON.parse(raced.response_json);
+      const cachedSession = cached?.session?.id
+        ? await env.DB.prepare(`SELECT deleted_at FROM sessions WHERE id = ?`).bind(cached.session.id).first()
+        : null;
+      if (!cachedSession || cachedSession.deleted_at) {
+        return fail(request, env, 409, "SESSION_DELETED", "此發行請求所屬場次已刪除，不能重新送出舊的票券資料。");
+      }
+      return ok(request, env, cached, 201);
+    }
+    const deletedSession = await env.DB.prepare(`SELECT deleted_at FROM sessions WHERE id = ?`).bind(sessionId).first();
+    if (deletedSession?.deleted_at) {
+      return fail(request, env, 409, "SESSION_DELETED", "場次已刪除，不能再加入票券。");
     }
     throw error;
   }
@@ -574,10 +629,16 @@ async function handleAdminState(request, env) {
     FROM sessions s
     JOIN events e ON e.id = s.event_id
     LEFT JOIN tickets t ON t.session_id = s.id
+    WHERE s.deleted_at IS NULL
     GROUP BY s.id
     ORDER BY s.event_date DESC, s.start_time DESC, s.created_at DESC
   `).bind(currentTime).all();
-  const ticketRows = await env.DB.prepare(`SELECT * FROM tickets ORDER BY issued_at DESC, serial DESC`).all();
+  const ticketRows = await env.DB.prepare(`
+    SELECT t.* FROM tickets t
+    JOIN sessions s ON s.id = t.session_id
+    WHERE s.deleted_at IS NULL
+    ORDER BY t.issued_at DESC, t.serial DESC
+  `).all();
   const ticketsBySession = new Map();
   for (const row of ticketRows.results ?? []) {
     if (!ticketsBySession.has(row.session_id)) ticketsBySession.set(row.session_id, []);
@@ -612,7 +673,11 @@ async function handleTicketPatch(request, env, ticketId) {
   const body = await readJson(request);
   const status = String(body.status ?? "").toUpperCase();
   if (!new Set(["ACTIVE", "USED", "REVOKED"]).has(status)) return fail(request, env, 400, "INVALID_STATUS", "票券狀態不正確。");
-  const ticket = await env.DB.prepare(`SELECT status, claimed_at FROM tickets WHERE id = ?`).bind(ticketId).first();
+  const ticket = await env.DB.prepare(`
+    SELECT t.status, t.claimed_at
+    FROM tickets t JOIN sessions s ON s.id = t.session_id
+    WHERE t.id = ? AND s.deleted_at IS NULL
+  `).bind(ticketId).first();
   if (!ticket) return fail(request, env, 404, "NOT_FOUND", "找不到票券。");
   if (status === "USED" && !ticket.claimed_at) return fail(request, env, 409, "NOT_CLAIMED", "尚未領取的票券不能標記為已使用。");
   if (ticket.status === "REVOKED" && status !== "REVOKED") return fail(request, env, 409, "INVALID_TRANSITION", "已撤銷的票券不能重新啟用。");
@@ -624,7 +689,9 @@ async function handleTicketPatch(request, env, ticketId) {
       used_at = CASE WHEN ? = 'USED' THEN COALESCE(used_at, ?) ELSE used_at END,
       revoked_at = CASE WHEN ? = 'REVOKED' THEN COALESCE(revoked_at, ?) ELSE revoked_at END,
       updated_at = ?
-    WHERE id = ?
+    WHERE id = ? AND EXISTS (
+      SELECT 1 FROM sessions s WHERE s.id = tickets.session_id AND s.deleted_at IS NULL
+    )
   `).bind(status, status, now, status, now, now, ticketId).run();
   if (Number(result?.meta?.changes ?? 0) !== 1) return fail(request, env, 404, "NOT_FOUND", "找不到票券。");
   await audit(env.DB, "TICKET_STATUS_CHANGED", "ticket", ticketId, { status });
@@ -636,7 +703,7 @@ async function handleRegenerate(request, env, ticketId) {
     SELECT t.id, t.claimed_at, t.status, t.draw_expires_at, t.draw_code_key,
       e.code AS event_code, e.status AS event_status, s.code AS session_code, s.status AS session_status
     FROM tickets t JOIN sessions s ON s.id = t.session_id JOIN events e ON e.id = s.event_id
-    WHERE t.id = ?
+    WHERE t.id = ? AND s.deleted_at IS NULL
   `).bind(ticketId).first();
   if (!row) return fail(request, env, 404, "NOT_FOUND", "找不到票券。");
   if (row.claimed_at) return fail(request, env, 409, "ALREADY_CLAIMED", "已抽取的票券不能重新產生抽取碼。");
@@ -651,7 +718,8 @@ async function handleRegenerate(request, env, ticketId) {
       AND (draw_expires_at IS NULL OR draw_expires_at > ?)
       AND EXISTS (
         SELECT 1 FROM sessions s JOIN events e ON e.id = s.event_id
-        WHERE s.id = tickets.session_id AND s.status = 'OPEN' AND e.status = 'PUBLISHED'
+        WHERE s.id = tickets.session_id AND s.deleted_at IS NULL
+          AND s.status = 'OPEN' AND e.status = 'PUBLISHED'
       )
   `).bind(drawCode, normalizeAccessCode(drawCode), updatedAt, ticketId, row.draw_code_key, updatedAt).run();
   if (Number(result?.meta?.changes ?? 0) !== 1) return fail(request, env, 409, "CODE_CHANGED", "票券狀態剛剛已變更，請同步後再試。");
@@ -661,15 +729,139 @@ async function handleRegenerate(request, env, ticketId) {
 
 async function handleSessionPatch(request, env, sessionId) {
   const body = await readJson(request);
-  const status = String(body.status ?? "").toUpperCase();
-  if (!new Set(["OPEN", "CLOSED"]).has(status)) return fail(request, env, 400, "INVALID_STATUS", "場次狀態不正確。");
-  const updatedAt = nowIso();
-  const result = await env.DB.prepare(`UPDATE sessions SET status = ?, updated_at = ? WHERE id = ?`)
-    .bind(status, updatedAt, sessionId)
-    .run();
-  if (Number(result?.meta?.changes ?? 0) !== 1) return fail(request, env, 404, "NOT_FOUND", "找不到場次。");
-  await audit(env.DB, "SESSION_STATUS_CHANGED", "session", sessionId, { status });
-  return ok(request, env, { id: sessionId, status, updatedAt });
+  const immutableFields = ["id", "eventId", "eventName", "eventCode", "sessionCode", "date", "deletedAt"];
+  if (immutableFields.some((field) => Object.hasOwn(body, field))) {
+    return fail(request, env, 400, "IMMUTABLE_FIELD", "活動名稱、活動代碼、場次碼與日期已綁定既有票券；若填寫錯誤，請刪除未領取場次後重新建立。");
+  }
+  const expectedUpdatedAt = text(body.expectedUpdatedAt, 40);
+  if (!expectedUpdatedAt) return fail(request, env, 400, "EXPECTED_VERSION_REQUIRED", "請先同步最新場次資料再操作。");
+  const session = await env.DB.prepare(`
+    SELECT id, start_time, venue, note, status, updated_at
+    FROM sessions WHERE id = ? AND deleted_at IS NULL
+  `).bind(sessionId).first();
+  if (!session) return fail(request, env, 404, "NOT_FOUND", "找不到場次，可能已被刪除。");
+  if (session.updated_at !== expectedUpdatedAt) {
+    return fail(request, env, 409, "SESSION_CHANGED", "場次資料剛剛已更新，請同步後再試。");
+  }
+
+  if (Object.hasOwn(body, "status")) {
+    const status = String(body.status ?? "").toUpperCase();
+    if (!new Set(["OPEN", "CLOSED"]).has(status)) return fail(request, env, 400, "INVALID_STATUS", "場次狀態不正確。");
+    if (status === session.status) return ok(request, env, { id: sessionId, status, updatedAt: session.updated_at, unchanged: true });
+    const updatedAt = nextIso(session.updated_at);
+    const results = await env.DB.batch([
+      env.DB.prepare(`
+        UPDATE sessions SET status = ?, updated_at = ?
+        WHERE id = ? AND deleted_at IS NULL AND updated_at = ?
+      `).bind(status, updatedAt, sessionId, expectedUpdatedAt),
+      env.DB.prepare(`
+        INSERT INTO audit_logs (id, action, entity_type, entity_id, detail_json, created_at)
+        SELECT ?, 'SESSION_STATUS_CHANGED', 'session', ?, ?, ?
+        WHERE EXISTS (SELECT 1 FROM sessions WHERE id = ? AND deleted_at IS NULL AND updated_at = ?)
+      `).bind(uuid("log"), sessionId, JSON.stringify({ before: session.status, after: status }), updatedAt, sessionId, updatedAt)
+    ]);
+    if (Number(results?.[0]?.meta?.changes ?? 0) !== 1) {
+      return fail(request, env, 409, "SESSION_CHANGED", "場次資料剛剛已更新，請同步後再試。");
+    }
+    return ok(request, env, { id: sessionId, status, updatedAt });
+  }
+
+  if (!["time", "venue", "note"].some((field) => Object.hasOwn(body, field))) {
+    return fail(request, env, 400, "INVALID_UPDATE", "沒有可更新的場次欄位。");
+  }
+  const rawTime = String(Object.hasOwn(body, "time") ? body.time : session.start_time).trim();
+  const rawVenue = String(Object.hasOwn(body, "venue") ? body.venue : session.venue).trim();
+  const rawNote = String(Object.hasOwn(body, "note") ? body.note : session.note).trim();
+  if (!validTime(rawTime) || rawVenue.length > 80 || rawNote.length > 180) {
+    return fail(request, env, 400, "INVALID_SESSION", "請確認開始時間、場地與公開說明的格式及長度。");
+  }
+  const changed = {};
+  if (rawTime !== session.start_time) changed.time = { before: session.start_time, after: rawTime };
+  if (rawVenue !== session.venue) changed.venue = { before: session.venue, after: rawVenue };
+  if (rawNote !== session.note) changed.note = { before: session.note, after: rawNote };
+  if (!Object.keys(changed).length) {
+    return ok(request, env, {
+      id: sessionId, time: session.start_time, venue: session.venue, note: session.note,
+      updatedAt: session.updated_at, unchanged: true
+    });
+  }
+  const updatedAt = nextIso(session.updated_at);
+  const results = await env.DB.batch([
+    env.DB.prepare(`
+      UPDATE sessions SET start_time = ?, venue = ?, note = ?, updated_at = ?
+      WHERE id = ? AND deleted_at IS NULL AND updated_at = ?
+    `).bind(rawTime, rawVenue, rawNote, updatedAt, sessionId, expectedUpdatedAt),
+    env.DB.prepare(`
+      INSERT INTO audit_logs (id, action, entity_type, entity_id, detail_json, created_at)
+      SELECT ?, 'SESSION_UPDATED', 'session', ?, ?, ?
+      WHERE EXISTS (SELECT 1 FROM sessions WHERE id = ? AND deleted_at IS NULL AND updated_at = ?)
+    `).bind(uuid("log"), sessionId, JSON.stringify({ changed }), updatedAt, sessionId, updatedAt)
+  ]);
+  if (Number(results?.[0]?.meta?.changes ?? 0) !== 1) {
+    return fail(request, env, 409, "SESSION_CHANGED", "場次資料剛剛已更新，請同步後再試。");
+  }
+  return ok(request, env, { id: sessionId, time: rawTime, venue: rawVenue, note: rawNote, updatedAt });
+}
+
+async function handleSessionDelete(request, env, sessionId) {
+  const body = await readJson(request);
+  const expectedUpdatedAt = text(body.expectedUpdatedAt, 40);
+  if (!expectedUpdatedAt) return fail(request, env, 400, "EXPECTED_VERSION_REQUIRED", "請先同步最新場次資料再刪除。");
+  const session = await env.DB.prepare(`
+    SELECT s.id, s.status, s.updated_at,
+      COUNT(t.id) AS issued_count,
+      SUM(CASE WHEN t.claimed_at IS NOT NULL OR t.status = 'USED' THEN 1 ELSE 0 END) AS protected_count
+    FROM sessions s LEFT JOIN tickets t ON t.session_id = s.id
+    WHERE s.id = ? AND s.deleted_at IS NULL
+    GROUP BY s.id
+  `).bind(sessionId).first();
+  if (!session) return fail(request, env, 404, "NOT_FOUND", "找不到場次，可能已被刪除。");
+  if (session.updated_at !== expectedUpdatedAt) {
+    return fail(request, env, 409, "SESSION_CHANGED", "場次資料剛剛已更新，請同步後重新確認刪除。");
+  }
+  if (Number(session.protected_count ?? 0) > 0) {
+    return fail(request, env, 409, "SESSION_HAS_CLAIMS", "此場次已有參加者領票，為保留票券與核銷紀錄不能刪除；請改為關閉場次。");
+  }
+  const deletedAt = nextIso(session.updated_at);
+  const detail = JSON.stringify({ issued: Number(session.issued_count ?? 0), previousStatus: session.status });
+  const results = await env.DB.batch([
+    env.DB.prepare(`
+      UPDATE sessions SET status = 'CLOSED', deleted_at = ?, updated_at = ?
+      WHERE id = ? AND deleted_at IS NULL AND updated_at = ?
+        AND NOT EXISTS (
+          SELECT 1 FROM tickets
+          WHERE session_id = sessions.id AND (claimed_at IS NOT NULL OR status = 'USED')
+        )
+    `).bind(deletedAt, deletedAt, sessionId, expectedUpdatedAt),
+    env.DB.prepare(`
+      UPDATE tickets SET status = 'REVOKED', revoked_at = COALESCE(revoked_at, ?), updated_at = ?
+      WHERE session_id = ? AND claimed_at IS NULL AND status = 'ACTIVE'
+        AND EXISTS (SELECT 1 FROM sessions WHERE id = ? AND deleted_at = ?)
+    `).bind(deletedAt, deletedAt, sessionId, sessionId, deletedAt),
+    env.DB.prepare(`
+      INSERT INTO audit_logs (id, action, entity_type, entity_id, detail_json, created_at)
+      SELECT ?, 'SESSION_DELETED', 'session', ?, ?, ?
+      WHERE EXISTS (SELECT 1 FROM sessions WHERE id = ? AND deleted_at = ?)
+    `).bind(uuid("log"), sessionId, detail, deletedAt, sessionId, deletedAt)
+  ]);
+  if (Number(results?.[0]?.meta?.changes ?? 0) !== 1) {
+    const latest = await env.DB.prepare(`
+      SELECT s.deleted_at, s.updated_at,
+        SUM(CASE WHEN t.claimed_at IS NOT NULL OR t.status = 'USED' THEN 1 ELSE 0 END) AS protected_count
+      FROM sessions s LEFT JOIN tickets t ON t.session_id = s.id
+      WHERE s.id = ? GROUP BY s.id
+    `).bind(sessionId).first();
+    if (!latest || latest.deleted_at) return fail(request, env, 404, "NOT_FOUND", "場次已被刪除。");
+    if (Number(latest.protected_count ?? 0) > 0) {
+      return fail(request, env, 409, "SESSION_HAS_CLAIMS", "刪除前已有參加者完成領票，場次已保留；請改為關閉場次。");
+    }
+    return fail(request, env, 409, "SESSION_CHANGED", "場次資料剛剛已更新，請同步後重新確認刪除。");
+  }
+  return ok(request, env, {
+    id: sessionId,
+    deletedAt,
+    affectedTickets: Number(results?.[1]?.meta?.changes ?? 0)
+  });
 }
 
 async function handleVerify(request, env, url) {
@@ -683,7 +875,7 @@ async function handleVerify(request, env, url) {
       s.id AS session_id, s.code AS session_code, s.event_date, s.start_time, s.venue,
       e.code AS event_code, e.name AS event_name
     FROM tickets t JOIN sessions s ON s.id = t.session_id JOIN events e ON e.id = s.event_id
-    WHERE t.serial = ? AND t.verify_token = ?
+    WHERE t.serial = ? AND t.verify_token = ? AND s.deleted_at IS NULL
   `).bind(serial, token).first();
   if (!row) return fail(request, env, 404, "NOT_FOUND", "查無此票券或驗證資訊不正確。");
   return ok(request, env, {
@@ -727,6 +919,7 @@ async function route(request, env) {
     if (regenerateMatch && method === "POST") return handleRegenerate(request, env, decodeURIComponent(regenerateMatch[1]));
     const sessionMatch = url.pathname.match(/^\/api\/admin\/sessions\/([^/]+)$/);
     if (sessionMatch && method === "PATCH") return handleSessionPatch(request, env, decodeURIComponent(sessionMatch[1]));
+    if (sessionMatch && method === "DELETE") return handleSessionDelete(request, env, decodeURIComponent(sessionMatch[1]));
   }
   return fail(request, env, 404, "NOT_FOUND", "找不到此服務路徑。");
 }
