@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-09-05T18:40:08+08:00",
+  "generated_at": "2026-09-05T23:17:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Discovery of a new OpenAI agent message board",
       "source": "HACKER NEWS",
       "score": 97,
-      "traffic": "1737 pts / 1331 comments",
+      "traffic": "1867 pts / 1423 comments",
       "url": "https://collusion.wiki/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "623 pts / 388 comments",
+      "score": 93,
+      "traffic": "675 pts / 424 comments",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "513 pts / 279 comments",
+      "score": 92,
+      "traffic": "628 pts / 353 comments",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Statichost.eu – European static site hosting",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "298 pts / 122 comments",
-      "url": "https://www.statichost.eu/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "263 pts / 160 comments",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Shutting down our public encrypted DNS",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "353 pts / 157 comments",
-      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Nitter has more working instances than before the takedowns",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "244 pts / 85 comments",
+      "score": 90,
+      "traffic": "402 pts / 161 comments",
       "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GPT-6 Astra on OpenRouter",
+      "title": "Statichost.eu – European static site hosting",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "368 pts / 170 comments",
+      "url": "https://www.statichost.eu/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "232 pts / 142 comments",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "traffic": "206 pts / 128 comments",
+      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "127 pts / 99 comments",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "title": "Global warming will exceed 1.5-degree limit, UN says",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "144 pts / 63 comments",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "traffic": "125 pts / 88 comments",
+      "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "庇護工場",
+      "title": "f1",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5564080",
-      "context": "庇護工場傻眼「1通電話、8字冷回」國民黨回應了"
+      "url": "https://www.bbc.com/sport/formula1/live/c8ejw95jj4rt",
+      "context": "F1 qualifying LIVE: Italian Grand Prix 2026 times, results, radio & updates"
     },
     {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "title": "alpine",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://nz.news.yahoo.com/monaco-grand-prix-result-changes-113223286.html",
+      "context": "Monaco Grand Prix result changes three months after race – with Pierre Gasly losing F1 podium"
+    },
+    {
+      "title": "沈政男",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E6%9E%97%E8%8A%B3%E9%83%81%E5%A5%B3%E5%85%92%E5%88%A9%E7%9B%8A%E8%BF%B4%E9%81%BF%E7%BF%BB%E8%BB%8A-%E6%B2%88%E6%94%BF%E7%94%B7%E7%88%86%E5%A5%B9%E4%B9%9F-%E8%B5%B4%E7%BE%8E%E4%BA%A4%E6%8F%9B-%E7%88%B6%E8%A6%AA%E7%95%B6%E6%99%82%E6%98%AF%E5%8F%B0%E5%A4%A7%E6%95%99%E6%8E%88-065433820.html",
+      "context": "林芳郁女兒利益迴避翻車？沈政男爆她也「赴美交換」：父親當時是台大教授"
+    },
+    {
+      "title": "汽車",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.reuters.com/world/automakers-urge-congress-quickly-pass-law-banning-chinese-cars-2026-09-03/",
+      "context": "Automakers urge Congress to quickly pass law banning Chinese cars"
+    },
+    {
+      "title": "There's No Limit to How Bad Code Can Get",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "48 pts / 24 comments",
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "traffic": "53 pts / 23 comments",
+      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
       "context": "High-engagement technology discussion"
     }
   ],
