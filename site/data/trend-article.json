@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-05T12:35:09+08:00",
+  "generated_at": "2026-09-05T18:40:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Discovery of a new OpenAI agent message board",
       "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1559 pts / 1237 comments",
+      "score": 97,
+      "traffic": "1737 pts / 1331 comments",
       "url": "https://collusion.wiki/",
       "context": "High-engagement technology discussion"
     },
@@ -14,88 +14,88 @@
       "title": "Formalizing Fermat's Last Theorem",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "543 pts / 338 comments",
+      "traffic": "623 pts / 388 comments",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "347 pts / 197 comments",
+      "score": 91,
+      "traffic": "513 pts / 279 comments",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Statichost.eu – European static site hosting",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "298 pts / 122 comments",
+      "url": "https://www.statichost.eu/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "263 pts / 160 comments",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Shutting down our public encrypted DNS",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "287 pts / 128 comments",
+      "traffic": "353 pts / 157 comments",
       "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Can AI design circuit boards yet?",
+      "title": "Nitter has more working instances than before the takedowns",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "200 pts / 127 comments",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "256 pts / 90 comments",
-      "url": "https://opentrailpaper.com",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Statichost.eu – European static site hosting",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "194 pts / 64 comments",
-      "url": "https://www.statichost.eu/",
+      "traffic": "244 pts / 85 comments",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "157 pts / 82 comments",
+      "score": 88,
+      "traffic": "232 pts / 142 comments",
       "url": "https://openrouter.ai/openai/gpt-6-astra",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "中間選民",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.chinatimes.com/realtimenews/20260904003992-260407",
-      "context": "賴清德上任後面對多項挑戰最新民調出乎意料- 政治"
-    },
-    {
-      "title": "bigbang 演唱會",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.nownews.com/news/6870914",
-      "context": "BIGBANG加場今中信卡友先買！這3張卡不能用　先做這1步更快中2張"
-    },
-    {
-      "title": "詹皓晴",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E7%BE%8E%E7%B6%B2-%E8%A9%B9%E7%9A%93%E6%99%B4%E5%8A%9B%E5%85%8Bwilliams%E5%A7%8A%E5%A6%B9-%E8%AC%9D%E6%B7%91%E8%96%87-%E5%90%B3%E8%8A%B3%E5%AB%BA%E4%B9%9F%E6%99%89%E7%B4%9A%E5%A5%B3%E9%9B%99%E7%AC%AC2%E8%BC%AA-022623714.html",
-      "context": "美網》詹皓晴力克Williams姊妹 謝淑薇、吳芳嫺也晉級女雙第2輪"
-    },
-    {
-      "title": "Artificial Analysis Intelligence Index v4.2",
+      "title": "AI handles incidents, engineers lose touch with their systems",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "81 pts / 23 comments",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "score": 87,
+      "traffic": "127 pts / 99 comments",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "144 pts / 63 comments",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "庇護工場",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5564080",
+      "context": "庇護工場傻眼「1通電話、8字冷回」國民黨回應了"
+    },
+    {
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "48 pts / 24 comments",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
       "context": "High-engagement technology discussion"
     }
   ],
