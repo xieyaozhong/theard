@@ -19,7 +19,7 @@
     <p class="privacy">此頁只查詢票券狀態，不會執行入場核銷。正式入場仍由工作人員在受保護後台完成。</p>
     <a href="ticket.html">← RETURN TO TICKET</a>
   </main>
-  <script src="api.js?v=2"></script>
+  <script src="api.js?v=4"></script>
   <script>
     (async function(){
       const query=new URLSearchParams(location.search),fragment=new URLSearchParams(location.hash.slice(1)),serial=fragment.get('serial')||query.get('serial')||'',token=fragment.get('token')||query.get('token')||'',root=document.getElementById('state'),headline=document.getElementById('headline'),message=document.getElementById('message'),details=document.getElementById('details');
@@ -32,7 +32,7 @@
         else if(status==='USED')setState('USED','此票券已完成入場核銷，不能重複使用。');
         else if(status==='REVOKED')setState('REVOKED','此票券已由活動後台停用。');
         else setState('NOT FOUND','查無可使用的票券狀態。');
-        const ticket=data.ticket||{},session=data.session||{};details.hidden=false;document.getElementById('eventName').textContent=session.eventName||session.eventCode||'—';document.getElementById('session').textContent=[session.eventCode,session.sessionCode].filter(Boolean).join(' / ')||'—';document.getElementById('dateTime').textContent=[session.date,session.time].filter(Boolean).join(' / ')||'—';document.getElementById('passType').textContent=[ticket.passType,ticket.rarity].filter(Boolean).join(' / ')||'—';document.getElementById('zone').textContent=ticket.zone||'—';document.getElementById('venue').textContent=session.venue||'—';
+        const ticket=data.ticket||{},session=data.session||{};details.hidden=false;document.getElementById('eventName').textContent=session.eventName||session.eventCode||'—';document.getElementById('session').textContent=[session.eventCode,session.sessionName||session.sessionCode,session.sessionCode].filter(Boolean).join(' / ')||'—';document.getElementById('dateTime').textContent=[session.date,session.time].filter(Boolean).join(' / ')||'—';document.getElementById('passType').textContent=[ticket.passType,ticket.rarity].filter(Boolean).join(' / ')||'—';document.getElementById('zone').textContent=ticket.zone||'—';document.getElementById('venue').textContent=session.venue||'—';
       }catch(error){if(error.code==='NOT_FOUND')setState('NOT FOUND','查無此票券或驗證資訊不正確。');else setState('SERVICE ERROR',error.message||'驗證服務暫時無法使用，請稍後再試。')}
     })();
   </script>

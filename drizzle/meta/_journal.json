@@ -15,6 +15,13 @@
       "when": 1788540000000,
       "tag": "0001_session_soft_delete",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788681600000,
+      "tag": "0002_event_archive_and_session_name",
+      "breakpoints": true
     }
   ]
 }

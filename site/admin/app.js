@@ -2,7 +2,7 @@ const $=(selector,parent=document)=>parent.querySelector(selector);
 const $$=(selector,parent=document)=>[...parent.querySelectorAll(selector)];
 const api=window.TheardAPI;
 
-let state={sessions:[]};
+let state={events:[],sessions:[],checkins:[]};
 let selectedSessionId=null;
 let visibleTickets=[];
 let latestBatch=null;
@@ -14,22 +14,26 @@ let pendingIssueId=null;
 let activeSyncPromise=null;
 let editingSession=null;
 let deletingSession=null;
+let deletingEvent=null;
 let dialogReturnFocus=null;
 const pendingSessionIds=new Set();
+const pendingEventIds=new Set();
 
 const els={
   authGate:$('#authGate'),authForm:$('#authForm'),adminKey:$('#adminKey'),authSubmit:$('#authSubmit'),authError:$('#authError'),
   shell:$('#adminShell'),connection:$('#connectionStatus span'),logout:$('#logoutBtn'),syncedAt:$('#syncedAt'),
-  form:$('#sessionForm'),formError:$('#formError'),issueBtn:$('#issueBtn'),eventName:$('#eventName'),eventCode:$('#eventCode'),sessionCode:$('#sessionCode'),
+  form:$('#sessionForm'),formError:$('#formError'),issueBtn:$('#issueBtn'),eventName:$('#eventName'),eventCode:$('#eventCode'),sessionCode:$('#sessionCode'),sessionName:$('#sessionName'),
   sessionDate:$('#sessionDate'),sessionTime:$('#sessionTime'),venue:$('#venue'),passType:$('#passType'),quantity:$('#quantity'),startNumber:$('#startNumber'),
-  expires:$('#drawExpiresAt'),note:$('#note'),clearForm:$('#clearForm'),sessionList:$('#sessionList'),ledger:$('#ticketLedger'),search:$('#searchInput'),
+  expires:$('#drawExpiresAt'),note:$('#note'),clearForm:$('#clearForm'),sessionList:$('#sessionList'),ledger:$('#ticketLedger'),search:$('#searchInput'),checkinLedger:$('#checkinLedger'),exportCheckins:$('#exportCheckins'),
   kpiSessions:$('#kpiSessions'),kpiIssued:$('#kpiIssued'),kpiClaimed:$('#kpiClaimed'),kpiAvailable:$('#kpiAvailable'),
   syncNow:$('#syncNow'),exportAll:$('#exportAll'),exportVisible:$('#exportVisible'),detail:$('#detailDialog'),detailBody:$('#detailBody'),closeDetail:$('#closeDialog'),
   batch:$('#batchDialog'),batchBody:$('#batchBody'),closeBatch:$('#closeBatch'),copyBatch:$('#copyBatch'),downloadBatch:$('#downloadBatch'),toast:$('#toast'),
   editDialog:$('#sessionEditDialog'),editForm:$('#sessionEditForm'),closeEdit:$('#closeSessionEdit'),cancelEdit:$('#cancelSessionEdit'),saveEdit:$('#saveSessionEdit'),editError:$('#sessionEditError'),
-  editEventName:$('#editEventName'),editEventCode:$('#editEventCode'),editSessionCode:$('#editSessionCode'),editDate:$('#editSessionDate'),editTime:$('#editSessionTime'),editVenue:$('#editVenue'),editNote:$('#editNote'),
+  editEventName:$('#editEventName'),editEventCode:$('#editEventCode'),editSessionCode:$('#editSessionCode'),editSessionName:$('#editSessionName'),editDate:$('#editSessionDate'),editTime:$('#editSessionTime'),editVenue:$('#editVenue'),editNote:$('#editNote'),
   deleteDialog:$('#sessionDeleteDialog'),deleteForm:$('#sessionDeleteForm'),closeDelete:$('#closeSessionDelete'),cancelDelete:$('#cancelSessionDelete'),confirmDelete:$('#confirmSessionDelete'),deleteError:$('#sessionDeleteError'),
-  deleteSummary:$('#sessionDeleteSummary'),deletePhrase:$('#sessionDeletePhrase'),deleteConfirm:$('#sessionDeleteConfirm')
+  deleteSummary:$('#sessionDeleteSummary'),deletePhrase:$('#sessionDeletePhrase'),deleteConfirm:$('#sessionDeleteConfirm'),
+  eventDeleteDialog:$('#eventDeleteDialog'),eventDeleteForm:$('#eventDeleteForm'),closeEventDelete:$('#closeEventDelete'),cancelEventDelete:$('#cancelEventDelete'),confirmEventDelete:$('#confirmEventDelete'),eventDeleteError:$('#eventDeleteError'),
+  eventDeleteSummary:$('#eventDeleteSummary'),eventDeletePhrase:$('#eventDeletePhrase'),eventDeleteConfirm:$('#eventDeleteConfirm')
 };
 
 function esc(value){return String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]))}
@@ -54,15 +58,15 @@ async function copyText(value){
 }
 
 function lockAdmin(message=''){
-  authEpoch+=1;authenticated=false;syncing=false;stopPolling();state={sessions:[]};selectedSessionId=null;latestBatch=null;pendingIssueId=null;
-  editingSession=null;deletingSession=null;dialogReturnFocus=null;pendingSessionIds.clear();
-  api?.clearAdminKey();els.adminKey.value='';els.detailBody.textContent='';els.batchBody.textContent='';els.editError.textContent='';els.deleteError.textContent='';els.deleteConfirm.value='';if(els.detail.open)els.detail.close();if(els.batch.open)els.batch.close();if(els.editDialog.open)els.editDialog.close();if(els.deleteDialog.open)els.deleteDialog.close();els.sessionList.innerHTML='';els.ledger.innerHTML='';
+  authEpoch+=1;authenticated=false;syncing=false;stopPolling();state={events:[],sessions:[],checkins:[]};selectedSessionId=null;latestBatch=null;pendingIssueId=null;
+  editingSession=null;deletingSession=null;deletingEvent=null;dialogReturnFocus=null;pendingSessionIds.clear();pendingEventIds.clear();
+  api?.clearAdminKey();els.adminKey.value='';els.detailBody.textContent='';els.batchBody.textContent='';els.editError.textContent='';els.deleteError.textContent='';els.eventDeleteError.textContent='';els.deleteConfirm.value='';els.eventDeleteConfirm.value='';if(els.detail.open)els.detail.close();if(els.batch.open)els.batch.close();if(els.editDialog.open)els.editDialog.close();if(els.deleteDialog.open)els.deleteDialog.close();if(els.eventDeleteDialog.open)els.eventDeleteDialog.close();els.sessionList.innerHTML='';els.ledger.innerHTML='';els.checkinLedger.innerHTML='';
   setBusy(els.authSubmit,false);setBusy(els.syncNow,false);setBusy(els.issueBtn,false);els.shell.hidden=true;els.authGate.hidden=false;els.authError.textContent=message;setConnection('LOCKED','locked');
   setTimeout(()=>els.adminKey.focus(),50);
 }
 
 function unlockAdmin(data){
-  authenticated=true;els.authGate.hidden=true;els.shell.hidden=false;els.authError.textContent='';state=data&&Array.isArray(data.sessions)?data:{sessions:[]};
+  authenticated=true;els.authGate.hidden=true;els.shell.hidden=false;els.authError.textContent='';state=data&&Array.isArray(data.sessions)?{events:Array.isArray(data.events)?data.events:[],sessions:data.sessions,checkins:Array.isArray(data.checkins)?data.checkins:[],syncedAt:data.syncedAt}:{events:[],sessions:[],checkins:[]};
   if(!selectedSessionId||!state.sessions.some(session=>session.id===selectedSessionId))selectedSessionId=state.sessions[0]?.id||null;
   render();setConnection('SECURE SYNC','online');startPolling();
 }
@@ -83,7 +87,7 @@ function syncState({quiet=false,force=false}={}){
   syncing=true;setConnection('SYNCING…','syncing');setBusy(els.syncNow,true);
   const task=(async()=>{
     try{
-      const fresh=await api.getAdminState();if(epoch!==authEpoch||!authenticated)return null;state=fresh&&Array.isArray(fresh.sessions)?fresh:{sessions:[]};
+      const fresh=await api.getAdminState();if(epoch!==authEpoch||!authenticated)return null;state=fresh&&Array.isArray(fresh.sessions)?{events:Array.isArray(fresh.events)?fresh.events:[],sessions:fresh.sessions,checkins:Array.isArray(fresh.checkins)?fresh.checkins:[],syncedAt:fresh.syncedAt}:{events:[],sessions:[],checkins:[]};
       if(!selectedSessionId||!state.sessions.some(session=>session.id===selectedSessionId))selectedSessionId=state.sessions[0]?.id||null;
       render();els.syncedAt.textContent=`SYNCED / ${formatDateTime(fresh.syncedAt)}`;setConnection('SECURE SYNC','online');if(!quiet)showToast('DATA SYNCED');return fresh;
     }catch(error){
@@ -104,19 +108,22 @@ function render(){
   els.kpiIssued.textContent=String(tickets.length).padStart(3,'0');
   els.kpiClaimed.textContent=String(tickets.filter(ticket=>ticket.claimedAt).length).padStart(3,'0');
   els.kpiAvailable.textContent=String(sessions.reduce((sum,session)=>sum+Number(session.totals?.available||0),0)).padStart(3,'0');
-  renderSessions();renderLedger();
+  renderSessions();renderLedger();renderCheckins();
 }
 
 function renderSessions(){
-  if(!state.sessions.length){els.sessionList.innerHTML='<div class="adm-empty">NO SESSION ISSUED / CREATE THE FIRST BATCH</div>';return}
-  els.sessionList.innerHTML=state.sessions.map(session=>{const deleteBlocked=Number(session.totals?.claimed||0)>0||Number(session.totals?.used||0)>0,pending=pendingSessionIds.has(session.id);return`<article class="adm-session ${session.id===selectedSessionId?'is-active':''}" data-id="${esc(session.id)}">
+  if(!state.events.length){els.sessionList.innerHTML='<div class="adm-empty">NO ACTIVE EVENT / CREATE THE FIRST BATCH</div>';return}
+  els.sessionList.innerHTML=state.events.map(activity=>{const sessions=state.sessions.filter(session=>session.eventId===activity.id),active=Number(activity.totals?.active||0),eventPending=pendingEventIds.has(activity.id);return`<section class="adm-event" data-event-id="${esc(activity.id)}">
+    <div class="adm-event__head"><div><span>EVENT / ${esc(activity.code)}</span><b>${esc(activity.name)}</b><small>${activity.totals?.sessions||0} SESSIONS · ${activity.totals?.issued||0} ISSUED · ${activity.totals?.checkedIn||0} CHECKED IN · ${active} ACTIVE</small></div><button class="is-danger" type="button" data-act="delete-event" title="${active?'仍有 ACTIVE 票券，請先核銷或撤銷':'刪除活動，只保留核銷紀錄'}" ${eventPending||active?'disabled':''}>${eventPending?'DELETING…':'DELETE COMPLETED EVENT'}</button></div>
+    ${sessions.length?sessions.map(session=>{const deleteBlocked=Number(session.totals?.claimed||0)>0||Number(session.totals?.used||0)>0,pending=pendingSessionIds.has(session.id)||eventPending;return`<article class="adm-session ${session.id===selectedSessionId?'is-active':''}" data-id="${esc(session.id)}">
     <button class="adm-session__main" data-act="select" type="button" aria-pressed="${session.id===selectedSessionId?'true':'false'}" style="width:100%;border:0;background:transparent;color:inherit;text-align:left;padding:0;font:inherit;cursor:pointer">
       <div class="adm-session__date">${esc(compactDate(session.date))}<br>${esc(session.time||'—')}</div>
-      <div class="adm-session__title"><b>${esc(session.eventName)}</b><span>${esc(session.eventCode)} / SESSION ${esc(session.sessionCode)} / ${esc(session.venue||'VENUE TBA')}</span></div>
+      <div class="adm-session__title"><b>${esc(session.sessionName||session.sessionCode)}</b><span>${esc(session.eventName)} / ${esc(session.eventCode)} · ${esc(session.sessionCode)} / ${esc(session.venue||'VENUE TBA')}</span></div>
       <div class="adm-session__meta"><b>${session.totals?.claimed||0}/${session.totals?.issued||0}</b><span>${session.totals?.available||0} AVAILABLE</span></div>
     </button>
-    <div class="adm-session__foot"><span>${esc(formatDate(session.date))} / ${esc(session.status)}${deleteBlocked?` / <i class="adm-session__lock">${session.totals.claimed} CLAIMED · DELETE LOCKED</i>`:''}</span><div class="adm-session__actions"><button type="button" data-act="edit-session" aria-label="編輯 ${esc(session.eventName)} 場次 ${esc(session.sessionCode)}" ${pending?'disabled':''}>EDIT</button><button type="button" data-act="toggle-session" aria-label="${session.status==='OPEN'?'關閉':'開啟'} ${esc(session.eventName)} 場次 ${esc(session.sessionCode)} 抽取" ${pending?'disabled':''}>${session.status==='OPEN'?'CLOSE DRAW':'OPEN DRAW'}</button><button class="is-danger" type="button" data-act="delete-session" aria-label="刪除 ${esc(session.eventName)} 場次 ${esc(session.sessionCode)}" title="${deleteBlocked?'已有領票紀錄，請改為關閉場次':'刪除場次與停用未領取碼'}" ${pending||deleteBlocked?'disabled':''}>DELETE</button></div></div>
-  </article>`}).join('');
+    <div class="adm-session__foot"><span>${esc(formatDate(session.date))} / ${esc(session.status)}${deleteBlocked?` / <i class="adm-session__lock">${session.totals.claimed} CLAIMED · SESSION DELETE LOCKED</i>`:''}</span><div class="adm-session__actions"><button type="button" data-act="edit-session" aria-label="編輯 ${esc(session.sessionName||session.sessionCode)}" ${pending?'disabled':''}>EDIT</button><button type="button" data-act="toggle-session" aria-label="${session.status==='OPEN'?'關閉':'開啟'} ${esc(session.sessionName||session.sessionCode)} 抽取" ${pending?'disabled':''}>${session.status==='OPEN'?'CLOSE DRAW':'OPEN DRAW'}</button><button class="is-danger" type="button" data-act="delete-session" aria-label="刪除 ${esc(session.sessionName||session.sessionCode)}" title="${deleteBlocked?'已有領票紀錄，請改為關閉場次':'刪除場次與停用未領取碼'}" ${pending||deleteBlocked?'disabled':''}>DELETE SESSION</button></div></div>
+  </article>`}).join(''):'<div class="adm-event__empty">NO VISIBLE SESSIONS / EVENT CAN BE ARCHIVED WHEN ALL TICKETS ARE COMPLETE</div>'}
+  </section>`}).join('');
 }
 
 function renderLedger(){
@@ -130,9 +137,22 @@ function renderLedger(){
     <span class="adm-ticket-id"><code>${esc(ticket.serial)}</code><small>${esc(ticket.passType)} / ${esc(ticket.rarity)} / ${esc(ticket.zone)}</small></span>
     <button class="adm-code-copy" type="button" data-act="copy" title="複製抽取碼"><code>${esc(ticket.drawCode)}</code></button>
     <span class="adm-claim ${ticket.claimedAt?'is-claimed':''}"><b>${claimState}</b><small>${ticket.claimedAt?`${esc(ticket.attendeeName||'ANONYMOUS')} / ${esc(formatDateTime(ticket.claimedAt))}`:isExpired(ticket)?`EXPIRED / ${esc(formatDateTime(ticket.expiresAt))}`:'ONE-TIME CODE'}</small></span>
-    <span>${esc(session.sessionCode)} / ${esc(compactDate(session.date))}</span>
+    <span>${esc(session.sessionName||session.sessionCode)} / ${esc(session.sessionCode)} / ${esc(compactDate(session.date))}</span>
     <span class="adm-ticket-actions"><button type="button" data-act="view" title="檢視">↗</button><button type="button" data-act="state" title="切換票券狀態" ${ticket.status==='REVOKED'?'disabled':''}>◎</button><button type="button" data-act="regen" title="重新產生抽取碼" ${available?'':'disabled'}>↻</button></span>
   </div>`}).join('');
+}
+
+function renderCheckins(){
+  const rows=state.checkins||[];
+  if(!rows.length){els.checkinLedger.innerHTML='<div class="adm-empty">NO ARCHIVED CHECK-INS</div>';return}
+  els.checkinLedger.innerHTML=rows.map(record=>`<div class="adm-checkin-row">
+    <span><b>${esc(formatDateTime(record.checkedInAt))}</b><small>${esc(record.finalStatus||'USED')}</small></span>
+    <span><b>${esc(record.eventName)}</b><small>${esc(record.eventCode)}</small></span>
+    <span><b>${esc(record.sessionName||record.sessionCode)}</b><small>${esc(record.sessionCode)} / ${esc(formatDate(record.date))} ${esc(record.time)}</small></span>
+    <span><b>${esc(record.passType)}</b><small>${esc(record.rarity)} / ${esc(record.zone)} / ${esc(record.serial)}</small></span>
+    <span><b>${esc(record.attendeeName||'ANONYMOUS')}</b><small>CHECK-IN SNAPSHOT</small></span>
+    <span><b>${esc(formatDateTime(record.archivedAt))}</b><small>SECRETS REMOVED</small></span>
+  </div>`).join('');
 }
 
 async function issueBatch(event){
@@ -141,11 +161,11 @@ async function issueBatch(event){
   if(expiryValue){const expiry=new Date(expiryValue);if(Number.isNaN(expiry.valueOf())||expiry<=new Date()){els.formError.textContent='抽取碼到期時間必須晚於現在。';els.expires.focus();return}drawExpiresAt=expiry.toISOString()}
   const payload={
     requestId:pendingIssueId||(pendingIssueId=makeRequestId()),
-    eventName:els.eventName.value.trim(),eventCode:sanitizeCode(els.eventCode.value),sessionCode:sanitizeCode(els.sessionCode.value,10),
+    eventName:els.eventName.value.trim(),eventCode:sanitizeCode(els.eventCode.value),sessionCode:sanitizeCode(els.sessionCode.value,10),sessionName:els.sessionName.value.trim(),
     date:els.sessionDate.value,time:els.sessionTime.value,venue:els.venue.value.trim(),passType:els.passType.value,
     quantity:Math.max(1,Math.min(25,Number(els.quantity.value)||1)),startNumber:Math.max(1,Number(els.startNumber.value)||1),note:els.note.value.trim(),drawExpiresAt
   };
-  if(!payload.eventName||!payload.eventCode||!payload.sessionCode||!payload.date||!payload.time){els.formError.textContent='請完整填寫活動名稱、代碼、場次、日期與時間。';return}
+  if(!payload.eventName||!payload.eventCode||!payload.sessionCode||!payload.sessionName||!payload.date||!payload.time){els.formError.textContent='請完整填寫活動名稱、代碼、場次名稱、場次碼、日期與時間。';return}
   const epoch=authEpoch;setBusy(els.issueBtn,true);els.form.setAttribute('aria-busy','true');
   try{
     const issued=await api.issueSession(payload);if(epoch!==authEpoch||!authenticated)return;latestBatch=issued;pendingIssueId=null;selectedSessionId=latestBatch.session.id;renderBatch(latestBatch);els.batch.showModal();await refreshAfterMutation(epoch);if(epoch===authEpoch)showToast(`${latestBatch.batch.issued} CODES ISSUED`);
@@ -154,13 +174,13 @@ async function issueBatch(event){
 }
 
 function renderBatch(result){
-  els.batchBody.innerHTML=`<div class="adm-batch"><p>// ${esc(result.session.eventName)} / SESSION ${esc(result.session.sessionCode)}</p><h2>${result.batch.issued} CODES<br>READY.</h2><p>抽取碼已與本場次票券綁定。可直接複製或下載 CSV 發送給受邀者。</p><div class="adm-batch-list">${result.tickets.map(ticket=>`<div><code>${esc(ticket.drawCode)}</code><span>${esc(ticket.serial)} / ${esc(ticket.passType)}</span></div>`).join('')}</div></div>`;
+  els.batchBody.innerHTML=`<div class="adm-batch"><p>// ${esc(result.session.eventName)} / ${esc(result.session.sessionName||result.session.sessionCode)} · ${esc(result.session.sessionCode)}</p><h2>${result.batch.issued} CODES<br>READY.</h2><p>抽取碼已與本場次票券綁定。可直接複製或下載 CSV 發送給受邀者。</p><div class="adm-batch-list">${result.tickets.map(ticket=>`<div><code>${esc(ticket.drawCode)}</code><span>${esc(ticket.serial)} / ${esc(ticket.passType)}</span></div>`).join('')}</div></div>`;
 }
 
 function openDetail(session,ticket){
   const verifyUrl=new URL('../verify.html',location.href);verifyUrl.hash=new URLSearchParams({serial:ticket.serial,token:ticket.verifyToken});
   els.detailBody.innerHTML=`<div class="adm-detail"><span class="adm-status ${ticket.status.toLowerCase()}">${esc(ticket.status)}</span><h2>${esc(ticket.serial)}</h2>
-    <div class="adm-detail-grid"><div><span>EVENT</span><b>${esc(session.eventName)}</b></div><div><span>SESSION</span><b>${esc(session.sessionCode)} / ${esc(formatDate(session.date))} ${esc(session.time)}</b></div><div><span>PASS</span><b>${esc(ticket.passType)} / ${esc(ticket.rarity)}</b></div><div><span>ZONE</span><b>${esc(ticket.zone)}</b></div><div><span>CLAIM</span><b>${ticket.claimedAt?`${esc(formatDateTime(ticket.claimedAt))} / ${esc(ticket.attendeeName||'ANONYMOUS')}`:'AVAILABLE'}</b></div><div><span>EXPIRES</span><b>${esc(formatDateTime(ticket.expiresAt))}</b></div></div>
+    <div class="adm-detail-grid"><div><span>EVENT</span><b>${esc(session.eventName)}</b></div><div><span>SESSION</span><b>${esc(session.sessionName||session.sessionCode)} / ${esc(session.sessionCode)} / ${esc(formatDate(session.date))} ${esc(session.time)}</b></div><div><span>PASS</span><b>${esc(ticket.passType)} / ${esc(ticket.rarity)}</b></div><div><span>ZONE</span><b>${esc(ticket.zone)}</b></div><div><span>CLAIM</span><b>${ticket.claimedAt?`${esc(formatDateTime(ticket.claimedAt))} / ${esc(ticket.attendeeName||'ANONYMOUS')}`:'AVAILABLE'}</b></div><div><span>EXPIRES</span><b>${esc(formatDateTime(ticket.expiresAt))}</b></div></div>
     <div><span class="adm-field-label">DRAW CODE</span><button class="adm-token adm-token--button" data-copy="${esc(ticket.drawCode)}">${esc(ticket.drawCode)}</button></div>
     <div><span class="adm-field-label">VERIFY TOKEN</span><div class="adm-token">${esc(ticket.verifyToken)}</div></div><a class="adm-token" href="${esc(verifyUrl.href)}" target="_blank" rel="noreferrer">${esc(verifyUrl.href)}</a></div>`;
   els.detail.showModal();
@@ -171,8 +191,8 @@ function restoreDialogFocus(){const target=dialogReturnFocus;dialogReturnFocus=n
 
 function openSessionEdit(session,trigger){
   editingSession={id:session.id,updatedAt:session.updatedAt};rememberDialogTrigger(trigger);els.editError.textContent='';
-  els.editEventName.value=session.eventName||'';els.editEventCode.value=session.eventCode||'';els.editSessionCode.value=session.sessionCode||'';els.editDate.value=session.date||'';els.editTime.value=session.time||'';els.editVenue.value=session.venue||'';els.editNote.value=session.note||'';
-  els.editDialog.showModal();setTimeout(()=>els.editTime.focus(),0);
+  els.editEventName.value=session.eventName||'';els.editEventCode.value=session.eventCode||'';els.editSessionCode.value=session.sessionCode||'';els.editSessionName.value=session.sessionName||session.sessionCode||'';els.editDate.value=session.date||'';els.editTime.value=session.time||'';els.editVenue.value=session.venue||'';els.editNote.value=session.note||'';
+  els.editDialog.showModal();setTimeout(()=>els.editSessionName.focus(),0);
 }
 
 function openSessionDelete(session,trigger){
@@ -184,12 +204,12 @@ function openSessionDelete(session,trigger){
 
 async function saveSessionEdit(event){
   event.preventDefault();if(!editingSession||pendingSessionIds.has(editingSession.id))return;els.editError.textContent='';
-  const snapshot={...editingSession},payload={time:els.editTime.value,venue:els.editVenue.value.trim(),note:els.editNote.value.trim(),expectedUpdatedAt:editingSession.updatedAt};
-  if(!payload.time){els.editError.textContent='請填寫開始時間。';els.editTime.focus();return}
+  const snapshot={...editingSession},payload={name:els.editSessionName.value.trim(),time:els.editTime.value,venue:els.editVenue.value.trim(),note:els.editNote.value.trim(),expectedUpdatedAt:editingSession.updatedAt};
+  if(!payload.name){els.editError.textContent='請填寫場次名稱。';els.editSessionName.focus();return}if(!payload.time){els.editError.textContent='請填寫開始時間。';els.editTime.focus();return}
   const epoch=authEpoch;pendingSessionIds.add(snapshot.id);els.editForm.setAttribute('aria-busy','true');setBusy(els.saveEdit,true);els.cancelEdit.disabled=true;els.closeEdit.disabled=true;renderSessions();
   try{
     const result=await api.updateSession(snapshot.id,payload);if(epoch!==authEpoch||!authenticated)return;
-    const session=state.sessions.find(item=>item.id===snapshot.id);if(session)Object.assign(session,{time:result.time,venue:result.venue,note:result.note,updatedAt:result.updatedAt});
+    const session=state.sessions.find(item=>item.id===snapshot.id);if(session)Object.assign(session,{sessionName:result.name,time:result.time,venue:result.venue,note:result.note,updatedAt:result.updatedAt});
     editingSession=null;els.editDialog.close();render();showToast(result.unchanged?'SESSION UNCHANGED':'SESSION UPDATED');await refreshAfterMutation(epoch);
   }catch(error){if(epoch===authEpoch&&authenticated)els.editError.textContent=error.message||'場次更新失敗，請稍後再試。'}
   finally{pendingSessionIds.delete(snapshot.id);if(epoch===authEpoch){els.editForm.setAttribute('aria-busy','false');setBusy(els.saveEdit,false);els.cancelEdit.disabled=false;els.closeEdit.disabled=false;renderSessions()}}
@@ -207,9 +227,31 @@ async function deleteSession(event){
   finally{pendingSessionIds.delete(snapshot.id);if(epoch===authEpoch){els.deleteForm.setAttribute('aria-busy','false');setBusy(els.confirmDelete,false);els.cancelDelete.disabled=false;els.closeDelete.disabled=false;els.deleteConfirm.disabled=false;els.confirmDelete.disabled=els.deleteConfirm.value.trim().toUpperCase()!==snapshot.phrase;renderSessions()}}
 }
 
+function openEventDelete(activity,trigger){
+  const active=Number(activity.totals?.active||0);if(active>0){showToast(`EVENT HAS ${active} ACTIVE TICKETS`,true);return}
+  deletingEvent={id:activity.id,updatedAt:activity.updatedAt,phrase:`DELETE ${activity.code}`};rememberDialogTrigger(trigger);els.eventDeleteError.textContent='';els.eventDeleteConfirm.value='';els.confirmEventDelete.disabled=true;els.eventDeletePhrase.textContent=deletingEvent.phrase;
+  els.eventDeleteSummary.innerHTML=`<div><span>EVENT</span><b>${esc(activity.name)}</b></div><div><span>EVENT CODE</span><b>${esc(activity.code)}</b></div><div><span>SESSIONS / TICKETS</span><b>${activity.totals?.sessions||0} / ${activity.totals?.issued||0}</b></div><div><span>KEEP / REMOVE</span><b>${activity.totals?.checkedIn||0} CHECK-INS / ${activity.totals?.issued||0} LIVE TICKETS</b></div>`;
+  els.eventDeleteDialog.showModal();setTimeout(()=>els.eventDeleteConfirm.focus(),0);
+}
+
+async function deleteEvent(event){
+  event.preventDefault();if(!deletingEvent||pendingEventIds.has(deletingEvent.id))return;els.eventDeleteError.textContent='';
+  if(els.eventDeleteConfirm.value.trim().toUpperCase()!==deletingEvent.phrase){els.eventDeleteError.textContent=`請完整輸入 ${deletingEvent.phrase}`;els.eventDeleteConfirm.focus();return}
+  const snapshot={...deletingEvent},epoch=authEpoch;pendingEventIds.add(snapshot.id);els.eventDeleteForm.setAttribute('aria-busy','true');setBusy(els.confirmEventDelete,true);els.cancelEventDelete.disabled=true;els.closeEventDelete.disabled=true;els.eventDeleteConfirm.disabled=true;renderSessions();
+  try{
+    const result=await api.deleteEvent(snapshot.id,snapshot.updatedAt);if(epoch!==authEpoch||!authenticated)return;
+    const removedSessionIds=new Set(state.sessions.filter(item=>item.eventId===snapshot.id).map(item=>item.id));state.events=state.events.filter(item=>item.id!==snapshot.id);state.sessions=state.sessions.filter(item=>item.eventId!==snapshot.id);if(removedSessionIds.has(selectedSessionId))selectedSessionId=state.sessions[0]?.id||null;
+    deletingEvent=null;els.eventDeleteDialog.close();render();showToast(`EVENT DELETED / ${result.archivedCheckins} CHECK-INS KEPT`);await refreshAfterMutation(epoch);
+  }catch(error){if(epoch===authEpoch&&authenticated)els.eventDeleteError.textContent=error.message||'活動刪除失敗，請稍後再試。'}
+  finally{pendingEventIds.delete(snapshot.id);if(epoch===authEpoch){els.eventDeleteForm.setAttribute('aria-busy','false');setBusy(els.confirmEventDelete,false);els.cancelEventDelete.disabled=false;els.closeEventDelete.disabled=false;els.eventDeleteConfirm.disabled=false;els.confirmEventDelete.disabled=!deletingEvent||els.eventDeleteConfirm.value.trim().toUpperCase()!==snapshot.phrase;renderSessions()}}
+}
+
 async function handleSessionAction(event){
-  const card=event.target.closest('.adm-session');if(!card)return;const session=state.sessions.find(item=>item.id===card.dataset.id);if(!session)return;
   const action=event.target.closest('button[data-act]');
+  if(action?.dataset.act==='delete-event'){
+    const block=action.closest('.adm-event'),activity=state.events.find(item=>item.id===block?.dataset.eventId);if(activity)openEventDelete(activity,action);return;
+  }
+  const card=event.target.closest('.adm-session');if(!card)return;const session=state.sessions.find(item=>item.id===card.dataset.id);if(!session)return;
   if(action?.dataset.act==='edit-session'){openSessionEdit(session,action);return}
   if(action?.dataset.act==='delete-session'){openSessionDelete(session,action);return}
   if(action?.dataset.act==='toggle-session'){
@@ -236,36 +278,44 @@ async function handleTicketAction(event){
 }
 
 function csvCell(value){let text=String(value??'');if(/^[=+\-@\t\r]/.test(text))text=`'${text}`;return`"${text.replaceAll('"','""')}"`}
-function csvFor(rows){const header=['event_name','event_code','session_code','date','time','venue','session_status','serial','pass_type','rarity','zone','ticket_status','draw_code','verify_token','batch_id','issued_at','expires_at','claim_status','claim_id','claimed_at','attendee_name','used_at','revoked_at'];return[header.join(','),...rows.map(({session,...ticket})=>[session.eventName,session.eventCode,session.sessionCode,session.date,session.time,session.venue,session.status,ticket.serial,ticket.passType,ticket.rarity,ticket.zone,ticket.status,ticket.drawCode,ticket.verifyToken,ticket.batchId,ticket.issuedAt,ticket.expiresAt,ticket.claimedAt?'CLAIMED':'AVAILABLE',ticket.claimId,ticket.claimedAt,ticket.attendeeName,ticket.usedAt,ticket.revokedAt].map(csvCell).join(','))].join('\n')}
+function csvFor(rows){const header=['event_name','event_code','session_name','session_code','date','time','venue','session_status','serial','pass_type','rarity','zone','ticket_status','draw_code','verify_token','batch_id','issued_at','expires_at','claim_status','claim_id','claimed_at','attendee_name','used_at','revoked_at'];return[header.join(','),...rows.map(({session,...ticket})=>[session.eventName,session.eventCode,session.sessionName,session.sessionCode,session.date,session.time,session.venue,session.status,ticket.serial,ticket.passType,ticket.rarity,ticket.zone,ticket.status,ticket.drawCode,ticket.verifyToken,ticket.batchId,ticket.issuedAt,ticket.expiresAt,ticket.claimedAt?'CLAIMED':'AVAILABLE',ticket.claimId,ticket.claimedAt,ticket.attendeeName,ticket.usedAt,ticket.revokedAt].map(csvCell).join(','))].join('\n')}
+function checkinCsv(rows){const header=['checked_in_at','event_name','event_code','session_name','session_code','date','time','venue','serial','pass_type','rarity','zone','attendee_name','final_status','archived_at'];return[header.join(','),...rows.map(row=>[row.checkedInAt,row.eventName,row.eventCode,row.sessionName,row.sessionCode,row.date,row.time,row.venue,row.serial,row.passType,row.rarity,row.zone,row.attendeeName,row.finalStatus,row.archivedAt].map(csvCell).join(','))].join('\n')}
 function download(content,name,type='text/csv;charset=utf-8'){const blob=new Blob(['\ufeff'+content],{type}),url=URL.createObjectURL(blob),link=document.createElement('a');link.href=url;link.download=name;link.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}
 
 els.authForm.addEventListener('submit',event=>{event.preventDefault();authenticate(els.adminKey.value)});
 els.form.addEventListener('submit',issueBatch);
 els.editForm.addEventListener('submit',saveSessionEdit);
 els.deleteForm.addEventListener('submit',deleteSession);
+els.eventDeleteForm.addEventListener('submit',deleteEvent);
 els.form.addEventListener('input',()=>{if(els.form.getAttribute('aria-busy')!=='true')pendingIssueId=null});
 els.sessionList.addEventListener('click',handleSessionAction);
 els.ledger.addEventListener('click',handleTicketAction);
 els.search.addEventListener('input',renderLedger);
 els.syncNow.addEventListener('click',()=>syncState());
 els.logout.addEventListener('click',()=>lockAdmin('後台已鎖定。'));
-els.clearForm.addEventListener('click',()=>{els.form.reset();pendingIssueId=null;els.eventCode.value='THD001';els.sessionCode.value='A';els.sessionTime.value='19:00';els.quantity.value='20';els.startNumber.value='1';els.sessionDate.value=localDateValue();els.formError.textContent=''});
+els.clearForm.addEventListener('click',()=>{els.form.reset();pendingIssueId=null;els.eventCode.value='THD001';els.sessionCode.value='A';els.sessionName.value='主場次';els.sessionTime.value='19:00';els.quantity.value='20';els.startNumber.value='1';els.sessionDate.value=localDateValue();els.formError.textContent=''});
 els.exportAll.addEventListener('click',()=>{const rows=allTickets();if(!rows.length)return showToast('NO DATA',true);download(csvFor(rows),`THEARD_all_tickets_${new Date().toISOString().slice(0,10)}.csv`)});
 els.exportVisible.addEventListener('click',()=>{const session=currentSession();if(!session||!visibleTickets.length)return showToast('NO DATA',true);download(csvFor(visibleTickets.map(ticket=>({...ticket,session}))),`THEARD_${session.id}.csv`)});
+els.exportCheckins.addEventListener('click',()=>{const rows=state.checkins||[];if(!rows.length)return showToast('NO ARCHIVED CHECK-INS',true);download(checkinCsv(rows),`THEARD_archived_checkins_${new Date().toISOString().slice(0,10)}.csv`)});
 els.copyBatch.addEventListener('click',async()=>{if(!latestBatch)return;await copyText(latestBatch.tickets.map(ticket=>`${ticket.drawCode}\t${ticket.serial}`).join('\n'));showToast('ALL CODES COPIED')});
 els.downloadBatch.addEventListener('click',()=>{if(!latestBatch)return;const header='draw_code,serial,pass_type,rarity,zone';const rows=latestBatch.tickets.map(ticket=>[ticket.drawCode,ticket.serial,ticket.passType,ticket.rarity,ticket.zone].map(csvCell).join(','));download([header,...rows].join('\n'),`THEARD_${latestBatch.batch.id}_draw_codes.csv`)});
 els.closeDetail.addEventListener('click',()=>els.detail.close());els.closeBatch.addEventListener('click',()=>els.batch.close());
 els.cancelEdit.addEventListener('click',()=>els.editDialog.close());els.closeEdit.addEventListener('click',()=>els.editDialog.close());
 els.cancelDelete.addEventListener('click',()=>els.deleteDialog.close());els.closeDelete.addEventListener('click',()=>els.deleteDialog.close());
+els.cancelEventDelete.addEventListener('click',()=>els.eventDeleteDialog.close());els.closeEventDelete.addEventListener('click',()=>els.eventDeleteDialog.close());
 els.deleteConfirm.addEventListener('input',()=>{els.confirmDelete.disabled=!deletingSession||els.deleteConfirm.value.trim().toUpperCase()!==deletingSession.phrase});
+els.eventDeleteConfirm.addEventListener('input',()=>{els.confirmEventDelete.disabled=!deletingEvent||els.eventDeleteConfirm.value.trim().toUpperCase()!==deletingEvent.phrase});
 els.detail.addEventListener('click',async event=>{if(event.target===els.detail)els.detail.close();const copy=event.target.closest('[data-copy]');if(copy){await copyText(copy.dataset.copy);showToast('COPIED')}});
 els.batch.addEventListener('click',event=>{if(event.target===els.batch)els.batch.close()});
 els.editDialog.addEventListener('click',event=>{if(event.target===els.editDialog&&els.editForm.getAttribute('aria-busy')!=='true')els.editDialog.close()});
 els.deleteDialog.addEventListener('click',event=>{if(event.target===els.deleteDialog&&els.deleteForm.getAttribute('aria-busy')!=='true')els.deleteDialog.close()});
+els.eventDeleteDialog.addEventListener('click',event=>{if(event.target===els.eventDeleteDialog&&els.eventDeleteForm.getAttribute('aria-busy')!=='true')els.eventDeleteDialog.close()});
 els.editDialog.addEventListener('cancel',event=>{if(els.editForm.getAttribute('aria-busy')==='true')event.preventDefault()});
 els.deleteDialog.addEventListener('cancel',event=>{if(els.deleteForm.getAttribute('aria-busy')==='true')event.preventDefault()});
+els.eventDeleteDialog.addEventListener('cancel',event=>{if(els.eventDeleteForm.getAttribute('aria-busy')==='true')event.preventDefault()});
 els.editDialog.addEventListener('close',()=>{editingSession=null;els.editError.textContent='';restoreDialogFocus()});
 els.deleteDialog.addEventListener('close',()=>{deletingSession=null;els.deleteError.textContent='';els.deleteConfirm.value='';restoreDialogFocus()});
+els.eventDeleteDialog.addEventListener('close',()=>{deletingEvent=null;els.eventDeleteError.textContent='';els.eventDeleteConfirm.value='';restoreDialogFocus()});
 addEventListener('theard:admin-auth-required',()=>lockAdmin('登入已失效，請重新輸入後台金鑰。'));
 document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible'&&authenticated)syncState({quiet:true})});
 

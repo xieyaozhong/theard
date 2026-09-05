@@ -27,19 +27,20 @@ if(root){
     const eventName=String(session?.eventName||session?.eventCode||'THEARD LIVE');
     const eventCode=String(session?.eventCode||'THEARD');
     const sessionCode=String(session?.sessionCode||'SESSION');
+    const sessionName=String(session?.sessionName||sessionCode);
     const available=normalizedCount(session?.totals?.available);
     const claimed=normalizedCount(session?.totals?.claimed);
     const meta=[formatDate(session?.date),session?.time,session?.venue].filter(Boolean).join(' / ');
 
-    fragment.querySelector('[data-session-kicker]').textContent=`${eventCode} / ${sessionCode}`;
-    fragment.querySelector('[data-session-title]').textContent=eventName;
+    fragment.querySelector('[data-session-kicker]').textContent=`${eventName} / ${eventCode} · ${sessionCode}`;
+    fragment.querySelector('[data-session-title]').textContent=sessionName;
     fragment.querySelector('[data-session-meta]').textContent=meta;
     fragment.querySelector('[data-session-availability]').textContent=available>0
       ? `AVAILABLE ${String(available).padStart(2,'0')} / CLAIMED ${String(claimed).padStart(2,'0')}`
       : `FULL / CLAIMED ${String(claimed).padStart(2,'0')}`;
     const action=fragment.querySelector('[data-session-action]');
     action.textContent=available>0?'輸入抽取碼 ↗':'查看／恢復票券 ↗';
-    action.setAttribute('aria-label',`${eventName} ${sessionCode}：${action.textContent.replace(' ↗','')}`);
+    action.setAttribute('aria-label',`${eventName} ${sessionName}：${action.textContent.replace(' ↗','')}`);
     card?.classList.toggle('is-full',available===0);
     if(session?.note){
       const note=document.createElement('p');

@@ -7,7 +7,7 @@
   <meta name="robots" content="noindex,nofollow" />
   <title>THEARD — Ticket Issuance Admin</title>
   <link rel="stylesheet" href="styles.css?v=2" />
-  <link rel="stylesheet" href="sync.css?v=2" />
+  <link rel="stylesheet" href="sync.css?v=3" />
 </head>
 <body>
   <div class="adm-noise" aria-hidden="true"></div>
@@ -56,6 +56,7 @@
             <label>EVENT CODE<input id="eventCode" required maxlength="12" value="THD001" placeholder="THD001" /></label>
             <label>SESSION CODE<input id="sessionCode" required maxlength="10" value="A" placeholder="A" /></label>
           </div>
+          <label>SESSION NAME<input id="sessionName" required maxlength="60" value="主場次" placeholder="晚間主場 / Workshop A" /></label>
           <div class="adm-row">
             <label>DATE<input id="sessionDate" required type="date" /></label>
             <label>START TIME<input id="sessionTime" required type="time" value="19:00" /></label>
@@ -87,11 +88,18 @@
       <div id="ticketLedger" class="adm-ledger"><div class="adm-empty">SELECT OR ISSUE A SESSION</div></div>
     </section>
 
+    <section class="adm-panel adm-panel--checkins">
+      <div class="adm-panel__head"><span>//04 ARCHIVED CHECK-IN RECORDS</span><div><button id="exportCheckins" type="button">EXPORT CHECK-INS</button></div></div>
+      <p class="adm-archive-note">活動刪除後只保留真正完成核銷的紀錄；抽取碼、驗證碼、領票識別碼、未核銷票券與一般稽核資料都會移除。</p>
+      <div class="adm-checkin-head"><span>CHECK-IN</span><span>EVENT</span><span>SESSION</span><span>PASS / ZONE</span><span>ATTENDEE</span><span>ARCHIVED</span></div>
+      <div id="checkinLedger" class="adm-checkin-ledger"><div class="adm-empty">NO ARCHIVED CHECK-INS</div></div>
+    </section>
+
     <section class="adm-schema">
       <div><span>// RELATION</span><b>EVENT → SESSION</b><code>每個場次有獨立日期、時間、地點與開放狀態</code></div>
       <div><span>// INVITATION</span><b>DRAW CODE</b><code>每個抽取碼只對應一張票券，可重新開啟同一結果</code></div>
       <div><span>// VERIFICATION</span><b>VERIFY TOKEN</b><code>與抽取碼分離，用於票券真偽驗證</code></div>
-      <div><span>// SYNC</span><b>SHARED LEDGER</b><code>不同裝置共用資料，後台每五秒自動更新</code></div>
+      <div><span>// ARCHIVE</span><b>CHECK-IN ONLY</b><code>活動完成刪除後，只留下核銷快照與必要場次資訊</code></div>
     </section>
 
     <footer class="adm-footer"><span>THEARD / ACCESS OPERATIONS / 2026</span><span>SERVER-ISSUED / ONE-TIME CLAIM / AUDITED STATE</span></footer>
@@ -103,12 +111,13 @@
     <div class="adm-dialog__panel adm-dialog__panel--session">
       <div class="adm-dialog__head"><span id="sessionEditTitle">EDIT SESSION</span><button id="closeSessionEdit" type="button" aria-label="關閉場次編輯">×</button></div>
       <form id="sessionEditForm" class="adm-session-form">
-        <p id="sessionEditHelp" class="adm-dialog__intro">更新後會同步到活動專區、抽取頁與票券驗證。為維持既有票券識別，活動名稱、代碼、場次碼與日期不可在此修改。</p>
+        <p id="sessionEditHelp" class="adm-dialog__intro">場次名稱、時間、地點與說明更新後會同步到活動專區、抽取頁與票券驗證。活動名稱、代碼、場次碼與日期維持不變。</p>
         <label>EVENT NAME / FIXED<input id="editEventName" readonly /></label>
         <div class="adm-row">
           <label>EVENT CODE / FIXED<input id="editEventCode" readonly /></label>
           <label>SESSION CODE / FIXED<input id="editSessionCode" readonly /></label>
         </div>
+        <label>SESSION NAME<input id="editSessionName" required maxlength="60" /></label>
         <div class="adm-row">
           <label>DATE / FIXED<input id="editSessionDate" type="date" readonly /></label>
           <label>START TIME<input id="editSessionTime" type="time" required /></label>
@@ -132,8 +141,20 @@
       </form>
     </div>
   </dialog>
+  <dialog id="eventDeleteDialog" class="adm-dialog" aria-labelledby="eventDeleteTitle" aria-describedby="eventDeleteHelp">
+    <div class="adm-dialog__panel adm-dialog__panel--session adm-dialog__panel--danger">
+      <div class="adm-dialog__head"><span id="eventDeleteTitle">DELETE COMPLETED EVENT</span><button id="closeEventDelete" type="button" aria-label="關閉活動刪除確認">×</button></div>
+      <form id="eventDeleteForm" class="adm-session-form">
+        <div id="eventDeleteSummary" class="adm-delete-summary"></div>
+        <p id="eventDeleteHelp" class="adm-dialog__intro">此操作不可復原。活動、全部場次、票券、抽取碼、驗證碼、發行重試資料與一般稽核資料都會永久移除；只保留已完成核銷的歷史快照。仍有 ACTIVE 票券時不能刪除。</p>
+        <label>TYPE <b id="eventDeletePhrase"></b> TO CONFIRM<input id="eventDeleteConfirm" autocomplete="off" spellcheck="false" required /></label>
+        <p class="adm-form-error" id="eventDeleteError" role="alert"></p>
+        <div class="adm-dialog__actions"><button id="cancelEventDelete" type="button">CANCEL</button><button id="confirmEventDelete" class="adm-danger" type="submit" disabled>DELETE EVENT</button></div>
+      </form>
+    </div>
+  </dialog>
   <div class="adm-toast" id="toast" role="status" aria-live="polite">DONE</div>
-  <script src="../api.js?v=3"></script>
-  <script src="app.js?v=4"></script>
+  <script src="../api.js?v=4"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>

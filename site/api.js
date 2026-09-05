@@ -59,6 +59,7 @@
     updateSession:(sessionId,payload)=>request(`/api/admin/sessions/${encodeURIComponent(sessionId)}`,{method:'PATCH',body:payload,admin:true}),
     updateSessionStatus:(sessionId,status,expectedUpdatedAt)=>request(`/api/admin/sessions/${encodeURIComponent(sessionId)}`,{method:'PATCH',body:{status,expectedUpdatedAt},admin:true}),
     deleteSession:(sessionId,expectedUpdatedAt)=>request(`/api/admin/sessions/${encodeURIComponent(sessionId)}`,{method:'DELETE',body:{expectedUpdatedAt},admin:true}),
+    deleteEvent:(eventId,expectedUpdatedAt)=>request(`/api/admin/events/${encodeURIComponent(eventId)}`,{method:'DELETE',body:{expectedUpdatedAt},admin:true,timeout:30000}),
     TheardApiError
   });
 })(window);

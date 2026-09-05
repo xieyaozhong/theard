@@ -83,6 +83,7 @@ const issuePayload = {
   eventName: "THEARD LIVE / 001",
   eventCode: "THD001",
   sessionCode: "A",
+  sessionName: "晚間主場",
   date: "2099-09-12",
   time: "19:00",
   venue: "TAIPEI / TEST VENUE",
@@ -114,6 +115,7 @@ test("admin issue, public lookup, single claim, recovery, and state sync", async
   const lookup = await api("/api/public/lookup", { method: "POST", body: { code: first.drawCode.toLowerCase().replaceAll("-", " ") } });
   assert.equal(lookup.response.status, 200);
   assert.equal(lookup.payload.data.session.eventName, issuePayload.eventName);
+  assert.equal(lookup.payload.data.session.sessionName, issuePayload.sessionName);
   assert.equal(lookup.payload.data.session.availableCount, 3);
   assert.equal(lookup.payload.data.code.claimed, false);
   assert.equal("ticket" in lookup.payload.data, false);
@@ -219,7 +221,7 @@ test("public sessions list only published open activity data with claimable avai
   const [session] = listing.payload.data.sessions;
   assert.deepEqual(Object.keys(session).sort(), [
     "date", "eventCode", "eventId", "eventName", "eventStatus", "id", "note",
-    "sessionCode", "status", "time", "totals", "venue"
+    "sessionCode", "sessionName", "status", "time", "totals", "venue"
   ].sort());
   assert.deepEqual(session, {
     id: visible.payload.data.session.id,
@@ -228,6 +230,7 @@ test("public sessions list only published open activity data with claimable avai
     eventCode: issuePayload.eventCode,
     eventStatus: "PUBLISHED",
     sessionCode: issuePayload.sessionCode,
+    sessionName: issuePayload.sessionName,
     date: issuePayload.date,
     time: issuePayload.time,
     venue: issuePayload.venue,
@@ -328,6 +331,7 @@ test("session metadata editing is optimistic, audited, and visible across public
     admin: true,
     body: {
       time: "20:30",
+      name: "深夜創作場",
       venue: "TAIPEI / UPDATED VENUE",
       note: "Updated attendee instructions",
       expectedUpdatedAt: initial.updatedAt
@@ -347,6 +351,7 @@ test("session metadata editing is optimistic, audited, and visible across public
   const state = await api("/api/admin/state", { admin: true });
   const stored = state.payload.data.sessions.find((session) => session.id === sessionId);
   assert.equal(stored.time, "20:30");
+  assert.equal(stored.sessionName, "深夜創作場");
   assert.equal(stored.venue, "TAIPEI / UPDATED VENUE");
   assert.equal(stored.note, "Updated attendee instructions");
   assert.equal(stored.eventName, payload.eventName);
@@ -357,14 +362,17 @@ test("session metadata editing is optimistic, audited, and visible across public
   const listing = await api("/api/public/sessions");
   const publicSession = listing.payload.data.sessions.find((session) => session.id === sessionId);
   assert.equal(publicSession.time, "20:30");
+  assert.equal(publicSession.sessionName, "深夜創作場");
   assert.equal(publicSession.venue, "TAIPEI / UPDATED VENUE");
   assert.equal(publicSession.note, "Updated attendee instructions");
 
   const lookup = await api("/api/public/lookup", { method: "POST", body: { code: ticket.drawCode } });
   assert.equal(lookup.payload.data.session.time, "20:30");
+  assert.equal(lookup.payload.data.session.sessionName, "深夜創作場");
   assert.equal(lookup.payload.data.session.venue, "TAIPEI / UPDATED VENUE");
   const verify = await api("/api/public/verify", { method: "POST", body: { serial: ticket.serial, token: ticket.verifyToken } });
   assert.equal(verify.payload.data.session.time, "20:30");
+  assert.equal(verify.payload.data.session.sessionName, "深夜創作場");
   assert.equal(verify.payload.data.session.venue, "TAIPEI / UPDATED VENUE");
 
   const oldMetadataIssue = await api("/api/admin/issue", {
@@ -381,6 +389,7 @@ test("session metadata editing is optimistic, audited, and visible across public
       ...payload,
       requestId: "test-session-edit-new-data",
       time: "20:30",
+      sessionName: "深夜創作場",
       venue: "TAIPEI / UPDATED VENUE",
       note: "Updated attendee instructions"
     }
@@ -494,6 +503,133 @@ test("session deletion revokes unclaimed codes, preserves siblings, and blocks c
   assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM audit_logs WHERE action = 'SESSION_DELETED'").get().count, 1);
 });
 
+test("completed event deletion keeps only check-in snapshots and blocks stale credentials", async () => {
+  const { env, api } = setup();
+  const base = {
+    ...issuePayload,
+    requestId: "test-event-purge-main",
+    eventCode: "PURGE01",
+    eventName: "活動完成封存測試",
+    sessionCode: "A",
+    sessionName: "上午場",
+    quantity: 3
+  };
+  const main = await api("/api/admin/issue", { method: "POST", admin: true, body: base });
+  const sibling = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: { ...base, requestId: "test-event-purge-sibling", sessionCode: "B", sessionName: "下午場", quantity: 1 }
+  });
+  const softDeleted = await api("/api/admin/issue", {
+    method: "POST",
+    admin: true,
+    body: { ...base, requestId: "test-event-purge-soft", sessionCode: "C", sessionName: "備用場", quantity: 1 }
+  });
+  let state = await api("/api/admin/state", { admin: true });
+  const softSession = state.payload.data.sessions.find((item) => item.id === softDeleted.payload.data.session.id);
+  await api(`/api/admin/sessions/${encodeURIComponent(softSession.id)}`, {
+    method: "DELETE",
+    admin: true,
+    body: { expectedUpdatedAt: softSession.updatedAt }
+  });
+
+  const [checked, checkedThenRevoked, neverChecked] = main.payload.data.tickets;
+  const siblingTicket = sibling.payload.data.tickets[0];
+  await api("/api/public/claim", { method: "POST", body: { code: checked.drawCode, attendeeName: "已核銷甲" } });
+  await api(`/api/admin/tickets/${encodeURIComponent(checked.id)}`, { method: "PATCH", admin: true, body: { status: "USED" } });
+  await api("/api/public/claim", { method: "POST", body: { code: checkedThenRevoked.drawCode, attendeeName: "已核銷乙" } });
+  await api(`/api/admin/tickets/${encodeURIComponent(checkedThenRevoked.id)}`, { method: "PATCH", admin: true, body: { status: "USED" } });
+  await api(`/api/admin/tickets/${encodeURIComponent(checkedThenRevoked.id)}`, { method: "PATCH", admin: true, body: { status: "REVOKED" } });
+  await api(`/api/admin/tickets/${encodeURIComponent(neverChecked.id)}`, { method: "PATCH", admin: true, body: { status: "REVOKED" } });
+
+  state = await api("/api/admin/state", { admin: true });
+  let activity = state.payload.data.events.find((item) => item.id === main.payload.data.session.eventId);
+  assert.equal(activity.totals.active, 1);
+  const unauthorized = await api(`/api/admin/events/${encodeURIComponent(activity.id)}`, {
+    method: "DELETE",
+    body: { expectedUpdatedAt: activity.updatedAt }
+  });
+  assert.equal(unauthorized.response.status, 401);
+  const blocked = await api(`/api/admin/events/${encodeURIComponent(activity.id)}`, {
+    method: "DELETE",
+    admin: true,
+    body: { expectedUpdatedAt: activity.updatedAt }
+  });
+  assert.equal(blocked.response.status, 409);
+  assert.equal(blocked.payload.error.code, "EVENT_NOT_COMPLETE");
+  assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM sessions WHERE event_id = ?").get(activity.id).count, 3);
+
+  await api(`/api/admin/tickets/${encodeURIComponent(siblingTicket.id)}`, { method: "PATCH", admin: true, body: { status: "REVOKED" } });
+  state = await api("/api/admin/state", { admin: true });
+  activity = state.payload.data.events.find((item) => item.id === activity.id);
+  assert.equal(activity.totals.active, 0);
+  assert.equal(activity.totals.checkedIn, 2);
+
+  const stale = await api(`/api/admin/events/${encodeURIComponent(activity.id)}`, {
+    method: "DELETE",
+    admin: true,
+    body: { expectedUpdatedAt: "2000-01-01T00:00:00.000Z" }
+  });
+  assert.equal(stale.response.status, 409);
+  assert.equal(stale.payload.error.code, "EVENT_CHANGED");
+
+  const deleted = await api(`/api/admin/events/${encodeURIComponent(activity.id)}`, {
+    method: "DELETE",
+    admin: true,
+    body: { expectedUpdatedAt: activity.updatedAt }
+  });
+  assert.equal(deleted.response.status, 200);
+  assert.deepEqual(
+    {
+      removedSessions: deleted.payload.data.removedSessions,
+      removedTickets: deleted.payload.data.removedTickets,
+      archivedCheckins: deleted.payload.data.archivedCheckins
+    },
+    { removedSessions: 3, removedTickets: 5, archivedCheckins: 2 }
+  );
+
+  const tombstone = env.DB.database.prepare("SELECT code, name, note, status, deleted_at FROM events WHERE id = ?").get(activity.id);
+  assert.equal(tombstone.code, "PURGE01");
+  assert.equal(tombstone.name, "");
+  assert.equal(tombstone.note, "");
+  assert.equal(tombstone.status, "CLOSED");
+  assert.ok(tombstone.deleted_at);
+  assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM sessions WHERE event_id = ?").get(activity.id).count, 0);
+  assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM tickets").get().count, 0);
+  assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM issue_requests").get().count, 0);
+  assert.equal(env.DB.database.prepare("SELECT COUNT(*) AS count FROM audit_logs").get().count, 0);
+
+  const archives = env.DB.database.prepare("SELECT * FROM checkin_records ORDER BY attendee_name").all();
+  assert.equal(archives.length, 2);
+  assert.deepEqual(archives.map((row) => row.attendee_name), ["已核銷乙", "已核銷甲"]);
+  assert.deepEqual(new Set(archives.map((row) => row.final_status)), new Set(["USED", "REVOKED"]));
+  assert.equal(archives.some((row) => row.ticket_serial === neverChecked.serial), false);
+  const archiveColumns = Object.keys(archives[0]);
+  for (const secret of ["draw_code", "draw_code_key", "verify_token", "claim_id", "claimed_at"]) assert.equal(archiveColumns.includes(secret), false);
+
+  const after = await api("/api/admin/state", { admin: true });
+  assert.equal(after.payload.data.events.length, 0);
+  assert.equal(after.payload.data.sessions.length, 0);
+  assert.equal(after.payload.data.checkins.length, 2);
+  assert.equal(JSON.stringify(after.payload.data.checkins).includes(checked.drawCode), false);
+  assert.equal(JSON.stringify(after.payload.data.checkins).includes(checked.verifyToken), false);
+
+  const lookup = await api("/api/public/lookup", { method: "POST", body: { code: checked.drawCode } });
+  const claim = await api("/api/public/claim", { method: "POST", body: { code: checked.drawCode } });
+  const verify = await api("/api/public/verify", { method: "POST", body: { serial: checked.serial, token: checked.verifyToken } });
+  assert.deepEqual([lookup.response.status, claim.response.status, verify.response.status], [404, 404, 404]);
+  const oldRetry = await api("/api/admin/issue", { method: "POST", admin: true, body: base });
+  const newRetry = await api("/api/admin/issue", { method: "POST", admin: true, body: { ...base, requestId: "test-event-purge-new" } });
+  assert.equal(oldRetry.payload.error.code, "EVENT_DELETED");
+  assert.equal(newRetry.payload.error.code, "EVENT_DELETED");
+  const secondDelete = await api(`/api/admin/events/${encodeURIComponent(activity.id)}`, {
+    method: "DELETE",
+    admin: true,
+    body: { expectedUpdatedAt: activity.updatedAt }
+  });
+  assert.equal(secondDelete.response.status, 404);
+});
+
 test("competing requests return one claim and one recovery for the same code", async () => {
   const { env, api } = setup();
   const issued = await api("/api/admin/issue", { method: "POST", admin: true, body: { ...issuePayload, quantity: 1 } });
@@ -542,6 +678,47 @@ test("competing claim and session deletion cannot produce a claimed deleted tick
     assert.equal(claim.response.status, 200);
     assert.equal(storedSession.deleted_at, null);
     assert.ok(storedTicket.claimed_at);
+  }
+});
+
+test("competing event deletion and issuance cannot revive a deleted activity", async () => {
+  const { env, api } = setup();
+  const payload = { ...issuePayload, requestId: "test-event-race-base", eventCode: "EVRACE", quantity: 1 };
+  const issued = await api("/api/admin/issue", { method: "POST", admin: true, body: payload });
+  await api(`/api/admin/tickets/${encodeURIComponent(issued.payload.data.tickets[0].id)}`, {
+    method: "PATCH",
+    admin: true,
+    body: { status: "REVOKED" }
+  });
+  const state = await api("/api/admin/state", { admin: true });
+  const activity = state.payload.data.events.find((item) => item.id === issued.payload.data.session.eventId);
+  const [deletion, concurrentIssue] = await Promise.all([
+    api(`/api/admin/events/${encodeURIComponent(activity.id)}`, {
+      method: "DELETE",
+      admin: true,
+      body: { expectedUpdatedAt: activity.updatedAt }
+    }),
+    api("/api/admin/issue", {
+      method: "POST",
+      admin: true,
+      body: { ...payload, requestId: "test-event-race-new-session", sessionCode: "B", sessionName: "競態新增場" }
+    })
+  ]);
+  const stored = env.DB.database.prepare("SELECT deleted_at FROM events WHERE id = ?").get(activity.id);
+  const liveTickets = env.DB.database.prepare(`
+    SELECT COUNT(*) AS count FROM tickets t JOIN sessions s ON s.id = t.session_id WHERE s.event_id = ?
+  `).get(activity.id).count;
+  if (deletion.response.status === 200) {
+    assert.equal(concurrentIssue.response.status, 409);
+    assert.equal(concurrentIssue.payload.error.code, "EVENT_DELETED");
+    assert.ok(stored.deleted_at);
+    assert.equal(liveTickets, 0);
+  } else {
+    assert.equal(deletion.response.status, 409);
+    assert.equal(deletion.payload.error.code, "EVENT_NOT_COMPLETE");
+    assert.equal(concurrentIssue.response.status, 201);
+    assert.equal(stored.deleted_at, null);
+    assert.equal(liveTickets, 2);
   }
 });
 
@@ -618,7 +795,7 @@ test("common ticket lookups use SQLite indexes", async () => {
   assert.match(sessionPlan.map((row) => row.detail).join(" "), /idx_tickets_session_claim/i);
 });
 
-test("packaged migrations upgrade existing sessions and guard deleted ticket inserts", () => {
+test("packaged migrations upgrade existing sessions, add archives, and guard deleted parents", () => {
   const database = new DatabaseSync(":memory:");
   const statements = (file) => readFileSync(new URL(file, import.meta.url), "utf8")
     .split("--> statement-breakpoint")
@@ -632,14 +809,21 @@ test("packaged migrations upgrade existing sessions and guard deleted ticket ins
   database.prepare("INSERT INTO sessions (id, event_id, code, event_date, start_time, status, created_at, updated_at) VALUES ('ses_old','evt_old','A','2099-01-01','19:00','OPEN','x','x')").run();
 
   for (const statement of statements("../drizzle/0001_session_soft_delete.sql")) database.exec(statement);
+  for (const statement of statements("../drizzle/0002_event_archive_and_session_name.sql")) database.exec(statement);
   const columns = database.prepare("PRAGMA table_info(sessions)").all().map((column) => column.name);
+  const eventColumns = database.prepare("PRAGMA table_info(events)").all().map((column) => column.name);
   assert.ok(columns.includes("deleted_at"));
+  assert.ok(columns.includes("name"));
+  assert.ok(eventColumns.includes("deleted_at"));
   assert.equal(database.prepare("SELECT deleted_at FROM sessions WHERE id = 'ses_old'").get().deleted_at, null);
+  assert.equal(database.prepare("SELECT name FROM sessions WHERE id = 'ses_old'").get().name, "A");
+  assert.equal(database.prepare("SELECT COUNT(*) AS count FROM sqlite_schema WHERE type='table' AND name='checkin_records'").get().count, 1);
   let schemaObjects = database.prepare("SELECT name FROM sqlite_schema WHERE type IN ('index','trigger')").all().map((row) => row.name);
   assert.ok(schemaObjects.includes("idx_sessions_visible_date"));
   for (const statement of SCHEMA) database.exec(statement);
   schemaObjects = database.prepare("SELECT name FROM sqlite_schema WHERE type IN ('index','trigger')").all().map((row) => row.name);
   assert.ok(schemaObjects.includes("block_ticket_insert_deleted_session"));
+  assert.ok(schemaObjects.includes("block_session_insert_deleted_event"));
 
   database.prepare("UPDATE sessions SET deleted_at = '2099-01-02T00:00:00.000Z' WHERE id = 'ses_old'").run();
   assert.throws(() => database.prepare(`
@@ -648,4 +832,10 @@ test("packaged migrations upgrade existing sessions and guard deleted ticket ins
       verify_token, batch_id, issued_at, updated_at
     ) VALUES ('tkt_late','ses_old','OLD-1','GENERAL PASS','COMMON','G','ACTIVE','OLD-CODE','OLDCODE','TOKEN','BATCH','x','x')
   `).run(), /SESSION_DELETED/);
+
+  database.prepare("INSERT INTO events (id, code, name, status, deleted_at, created_at, updated_at) VALUES ('evt_gone','GONE','', 'CLOSED','2099-01-02T00:00:00.000Z','x','x')").run();
+  assert.throws(() => database.prepare(`
+    INSERT INTO sessions (id, event_id, code, name, event_date, start_time, status, created_at, updated_at)
+    VALUES ('ses_late','evt_gone','A','Late','2099-01-03','19:00','OPEN','x','x')
+  `).run(), /EVENT_DELETED/);
 });
