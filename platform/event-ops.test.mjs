@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import test from "node:test";
 import { DatabaseSync } from "node:sqlite";
-import worker from "./worker.js";
+import worker, { SCHEMA } from "./worker.js";
 import { makeSerial, normalizeAccessCode, passMeta, sanitizeCode } from "./lib.js";
 
 class PreparedStatement {
@@ -635,8 +635,10 @@ test("packaged migrations upgrade existing sessions and guard deleted ticket ins
   const columns = database.prepare("PRAGMA table_info(sessions)").all().map((column) => column.name);
   assert.ok(columns.includes("deleted_at"));
   assert.equal(database.prepare("SELECT deleted_at FROM sessions WHERE id = 'ses_old'").get().deleted_at, null);
-  const schemaObjects = database.prepare("SELECT name FROM sqlite_schema WHERE type IN ('index','trigger')").all().map((row) => row.name);
+  let schemaObjects = database.prepare("SELECT name FROM sqlite_schema WHERE type IN ('index','trigger')").all().map((row) => row.name);
   assert.ok(schemaObjects.includes("idx_sessions_visible_date"));
+  for (const statement of SCHEMA) database.exec(statement);
+  schemaObjects = database.prepare("SELECT name FROM sqlite_schema WHERE type IN ('index','trigger')").all().map((row) => row.name);
   assert.ok(schemaObjects.includes("block_ticket_insert_deleted_session"));
 
   database.prepare("UPDATE sessions SET deleted_at = '2099-01-02T00:00:00.000Z' WHERE id = 'ses_old'").run();
