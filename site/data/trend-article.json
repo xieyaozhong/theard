@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-09-06T12:44:45+08:00",
+  "generated_at": "2026-09-06T19:02:07+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Discovery of a new OpenAI agent message board",
-      "source": "HACKER NEWS",
-      "score": 97,
-      "traffic": "2149 pts / 1528 comments",
-      "url": "https://collusion.wiki/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "430 pts / 236 comments",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "240 pts / 100 comments",
+      "score": 90,
+      "traffic": "430 pts / 207 comments",
       "url": "https://cloudinabottle.org/blog/launch-post",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "313 pts / 93 comments",
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The revolt of the reader",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "202 pts / 74 comments",
+      "score": 90,
+      "traffic": "380 pts / 155 comments",
       "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Learn Programming with OCaml",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "205 pts / 81 comments",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Chrome again exempts Google from user site data settings",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "189 pts / 28 comments",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "traffic": "201 pts / 30 comments",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GPT-6 Astra on robot arms",
+      "title": "Music Theory for Programmers",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "98 pts / 54 comments",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "score": 86,
+      "traffic": "155 pts / 71 comments",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "投手",
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "118 pts / 68 comments",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "酪 梨",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5564860",
+      "context": "天天吃1顆酪梨真能顧腦？ 人體實測半年 結果出乎意料"
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "71 pts / 23 comments",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "新竹市市长",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://sports.ettoday.net/news/3231868",
-      "context": "亞運最終名單揭曉倒數！林昱珉仍在陣中　劉致榮有望入列"
+      "url": "https://www.chinatimes.com/realtimenews/20260906002004-260407",
+      "context": "民眾挺誰當市長？ 最新新竹市長街訪民調曝光- 政治"
     },
     {
-      "title": "勒布朗·詹姆斯",
+      "title": "曹西平",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://m.sohu.com/a/1072415954_121630162?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "context": "未来可期，勒布朗·詹姆斯再次与马克西和杰伦·布朗共同训练"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8D%81%E4%BA%8C%E7%94%9F%E8%82%96-%E8%B2%9D%E7%91%AA%E5%8F%83%E9%81%B8%E5%8C%97%E5%B8%82%E8%AD%B0%E5%93%A1-%E5%93%A5%E5%93%A5%E5%8A%89%E8%87%B3%E7%BF%B0%E9%99%AA%E7%99%BB%E8%A8%98%E6%9B%9D%E5%BF%83%E8%81%B2-%E5%A5%BD%E6%80%95%E5%A5%B9%E5%8F%97%E5%82%B7-035028672.html",
+      "context": "《新十二生肖》貝瑪參選北市議員！哥哥劉至翰陪登記曝心聲：好怕她受傷"
     },
     {
-      "title": "湯米·艾德曼",
+      "title": "波克夏·海瑟威",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.nownews.com/news/6872664",
-      "context": "完美頂替大谷翔平！艾德曼敲出逆轉3分砲、還上演六星級美技守備"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "9月7日",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/9-7%E8%BF%8E%E7%99%BD%E9%9C%B2-5%E6%98%9F%E5%BA%A7-3%E7%94%9F%E8%82%96-%E8%B2%A1%E9%81%8B%E7%99%BC%E5%A8%81-221500134.html",
-      "context": "9／7迎白露！「5星座、3生肖」財運發威 威力彩4.1億快下注"
+      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "70 pts / 11 comments",
+      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "OpenBSD Stories: Strange Medieval Devices",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "68 pts / 13 comments",
+      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Discovery of a new OpenAI agent message board",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Discovery of a new OpenAI agent message board」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Discovery of a new OpenAI agent message board」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Discovery of a new OpenAI agent message board",
-          "url": "https://collusion.wiki/"
-        }
-      ]
-    },
-    {
-      "topic": "Private German rocket makes history, reaches orbit from European soil",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Private German rocket makes history, reaches orbit from European soil」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Private German rocket makes history, reaches orbit from European soil」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Private German rocket makes history, reaches orbit from European soil",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
-        }
-      ]
-    },
-    {
       "topic": "Cloud in a Bottle: making self-hosting accessible to everyone",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Cloud in a Bottle: making self-hosting accessible to everyone」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
           "url": "https://cloudinabottle.org/blog/launch-post"
+        }
+      ]
+    },
+    {
+      "topic": "The revolt of the reader",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「The revolt of the reader」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「The revolt of the reader」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "The revolt of the reader",
+          "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/"
+        }
+      ]
+    },
+    {
+      "topic": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Isar Aerospace reaches orbit and deploys payloads on second flight」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Isar Aerospace reaches orbit and deploys payloads on second flight」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+          "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight"
         }
       ]
     }
