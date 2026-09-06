@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-06T06:56:44+08:00",
+  "generated_at": "2026-09-06T12:44:45+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Discovery of a new OpenAI agent message board",
       "source": "HACKER NEWS",
       "score": 97,
-      "traffic": "2066 pts / 1498 comments",
+      "traffic": "2149 pts / 1528 comments",
       "url": "https://collusion.wiki/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "730 pts / 429 comments",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Private German rocket makes history, reaches orbit from European soil",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "211 pts / 89 comments",
+      "score": 91,
+      "traffic": "430 pts / 236 comments",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "240 pts / 100 comments",
+      "url": "https://cloudinabottle.org/blog/launch-post",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "244 pts / 74 comments",
+      "score": 88,
+      "traffic": "313 pts / 93 comments",
       "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The revolt of the reader",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "202 pts / 74 comments",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Learn Programming with OCaml",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "136 pts / 61 comments",
+      "score": 87,
+      "traffic": "205 pts / 81 comments",
       "url": "https://usr.lmf.cnrs.fr/lpo/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "LLMs as a Cognitive Virus",
+      "title": "Chrome again exempts Google from user site data settings",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "124 pts / 96 comments",
-      "url": "https://arxiv.org/abs/2609.03344",
+      "traffic": "189 pts / 28 comments",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "饅頭",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.yahoo.co.jp/pickup/6594297",
-      "context": "まんじゅうをネット転売 通常便で"
-    },
-    {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "title": "GPT-6 Astra on robot arms",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "107 pts / 14 comments",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "score": 85,
+      "traffic": "98 pts / 54 comments",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "盜版",
+      "title": "投手",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5564290",
-      "context": "「電腦王阿達」教看盜版翻車 惹怒台日多家電視台慘付代價"
+      "url": "https://sports.ettoday.net/news/3231868",
+      "context": "亞運最終名單揭曉倒數！林昱珉仍在陣中　劉致榮有望入列"
     },
     {
-      "title": "中國信託",
+      "title": "勒布朗·詹姆斯",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://m.sohu.com/a/1072415954_121630162?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "context": "未来可期，勒布朗·詹姆斯再次与马克西和杰伦·布朗共同训练"
     },
     {
-      "title": "沙爾克04 對 拜仁慕尼黑",
+      "title": "湯米·艾德曼",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.sportsv.net/articles/128331",
-      "context": "賽季正式開張!從兩場比賽觀察拜仁開季第一週的表現- 足球"
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.nownews.com/news/6872664",
+      "context": "完美頂替大谷翔平！艾德曼敲出逆轉3分砲、還上演六星級美技守備"
     },
     {
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "46 pts / 20 comments",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "context": "High-engagement technology discussion"
+      "title": "9月7日",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.news.yahoo.com/9-7%E8%BF%8E%E7%99%BD%E9%9C%B2-5%E6%98%9F%E5%BA%A7-3%E7%94%9F%E8%82%96-%E8%B2%A1%E9%81%8B%E7%99%BC%E5%A8%81-221500134.html",
+      "context": "9／7迎白露！「5星座、3生肖」財運發威 威力彩4.1億快下注"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "Actively exploited sandbox RCE in all Chromium versions",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Actively exploited sandbox RCE in all Chromium versions」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Actively exploited sandbox RCE in all Chromium versions」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Actively exploited sandbox RCE in all Chromium versions",
-          "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046"
-        }
-      ]
-    },
-    {
       "topic": "Private German rocket makes history, reaches orbit from European soil",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Private German rocket makes history, reaches orbit from European soil」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Private German rocket makes history, reaches orbit from European soil",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
+        }
+      ]
+    },
+    {
+      "topic": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Cloud in a Bottle: making self-hosting accessible to everyone」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Cloud in a Bottle: making self-hosting accessible to everyone」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+          "url": "https://cloudinabottle.org/blog/launch-post"
         }
       ]
     }
