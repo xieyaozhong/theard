@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-07T04:27:26+08:00",
+  "generated_at": "2026-09-07T06:54:34+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Your intellectual fly is open (2025)",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "390 pts / 257 comments",
+      "traffic": "462 pts / 295 comments",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A/I shuts down – Stay human",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "405 pts / 268 comments",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "491 pts / 155 comments",
+      "traffic": "531 pts / 172 comments",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Doomscrolling Ourselves to Death",
+      "title": "Asahi Linux on M3",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "299 pts / 204 comments",
-      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "score": 89,
+      "traffic": "291 pts / 171 comments",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "An Alien Mind",
+      "title": "It took a year to ship WebAssembly in Anubis",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "219 pts / 152 comments",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Nitter is unarchived and will continue",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "231 pts / 80 comments",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Following legal advice, the Nitter project will continue",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "245 pts / 64 comments",
-      "url": "https://github.com/zedeus/nitter",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "馬傑森",
-      "source": "GOOGLE TRENDS / TW",
       "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "traffic": "94 pts / 58 comments",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "arsenal",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "104 pts / 31 comments",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "73 pts / 29 comments",
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "好市多",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.bbc.com/sport/football/live/ck1wx0010el5t",
-      "context": "Arsenal 2-1 Chesleas: Martin Odegaard sinks Chelsea in London derby thriller"
+      "url": "https://www.facebook.com/ETtoday/posts/%E9%AB%98%E9%9B%84%E5%A5%BD%E5%B8%82%E5%A4%9A%E6%89%8B%E6%89%B6%E6%A2%AF%E6%95%85%E9%9A%9C%E5%AE%A2%E4%BA%BA%E5%90%83%E5%8A%9B%E6%89%9B%E6%8E%A8%E8%BB%8A-%E7%B6%B2%E5%98%86%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%96xienhong%E6%8E%88%E6%AC%8A%E5%BC%95%E7%94%A8%E8%B2%B7%E5%BE%88%E5%A4%9A%E7%9A%84%E8%A9%B1%E8%B6%85%E9%9B%A3%E6%8E%A8%E8%B5%B7%E5%95%B5/1548821547276925/",
+      "context": "【高雄好市多「手扶梯」故障！客人吃力扛推車 網嘆：不是第一次】 （圖／@xienhong授權引用） 買很多的話，超難推！(#起啵)"
     },
     {
-      "title": "兵工廠",
+      "title": "氣溫",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://today.line.me/tw/v3/article/oqRGrlw",
-      "context": "英超週末三大焦點：兵工廠逆轉藍軍 曼聯防線崩潰遭逼平 | 民視新聞網"
+      "url": "https://udn.com/news/story/7266/9737702",
+      "context": "出門帶傘！4縣市大雨特報 恐一路下到明天"
     },
     {
-      "title": "病毒",
+      "title": "股價",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%86%A0%E6%B5%81%E6%84%9F%E5%A4%A7%E7%88%86%E7%99%BC-%E6%88%B3-%E5%80%8B%E4%B8%AD-%E5%80%8B-%E6%80%A5%E8%A8%BA%E9%86%AB%E6%9B%9D-022700527.html",
-      "context": "新冠流感大爆發「戳一個中一個」！急診醫曝：上班改戴N95口罩"
+      "url": "https://tw.stock.yahoo.com/news/%E8%82%A1%E5%83%B95%E5%B9%B4%E8%B7%8C%E8%BF%9180-%E5%A4%A7%E4%B8%AD%E8%8F%AF%E9%80%A3%E5%85%AB%E5%AD%A3%E4%B8%8B%E6%BB%91-%E6%A8%99%E6%99%AE100%E6%8C%87%E6%95%B89%E6%9C%8821%E6%97%A5%E5%B0%87nike%E5%89%94%E9%99%A4-%E6%96%B0%E5%A2%9E%E6%88%B4%E7%88%BE-palo-112006162.html",
+      "context": "股價5年跌近80%、大中華連八季下滑！標普100指數9月21日將Nike剔除新增戴爾、Palo Alto與閃迪等股"
     },
     {
-      "title": "lisa",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://www.billboard.com/music/pop/blackpink-lisa-video-single-sawadika-watch-1236334220/",
-      "context": "BLACKPINK'S Lisa Drops Fierce, High-Fashion Video Rap Single 'SaWaDiKa'"
+      "traffic": "97 pts / 4 comments",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Research carried out using NetBSD",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "69 pts / 14 comments",
+      "url": "https://www.netbsd.org/gallery/research.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "44 pts / 17 comments",
+      "url": "https://github.com/marsbos/mador",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "A/I shuts down – Stay human",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「A/I shuts down – Stay human」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A/I shuts down – Stay human」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "A/I shuts down – Stay human",
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"
-        }
-      ]
-    },
-    {
       "topic": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Isar Aerospace reaches orbit and deploys payloads on second flight」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
           "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight"
+        }
+      ]
+    },
+    {
+      "topic": "Asahi Linux on M3",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Asahi Linux on M3」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Asahi Linux on M3」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Asahi Linux on M3",
+          "url": "https://asahilinux.org/2026/09/m2-episode-1/"
         }
       ]
     }
