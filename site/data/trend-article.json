@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-07T06:54:34+08:00",
+  "generated_at": "2026-09-07T12:47:59+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Your intellectual fly is open (2025)",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "462 pts / 295 comments",
+      "score": 92,
+      "traffic": "600 pts / 392 comments",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "title": "Nitter and XCancel resume service after legal advice",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "531 pts / 172 comments",
-      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Asahi Linux on M3",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "291 pts / 171 comments",
-      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "score": 91,
+      "traffic": "561 pts / 283 comments",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "It took a year to ship WebAssembly in Anubis",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "94 pts / 58 comments",
+      "score": 87,
+      "traffic": "190 pts / 103 comments",
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "title": "Making a Python interpreter in 1024 bytes",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "104 pts / 31 comments",
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "score": 86,
+      "traffic": "146 pts / 56 comments",
+      "url": "https://austinhenley.com/blog/python1024.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "73 pts / 29 comments",
+      "score": 86,
+      "traffic": "122 pts / 63 comments",
       "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "好市多",
+      "title": "大立光",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.facebook.com/ETtoday/posts/%E9%AB%98%E9%9B%84%E5%A5%BD%E5%B8%82%E5%A4%9A%E6%89%8B%E6%89%B6%E6%A2%AF%E6%95%85%E9%9A%9C%E5%AE%A2%E4%BA%BA%E5%90%83%E5%8A%9B%E6%89%9B%E6%8E%A8%E8%BB%8A-%E7%B6%B2%E5%98%86%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%96xienhong%E6%8E%88%E6%AC%8A%E5%BC%95%E7%94%A8%E8%B2%B7%E5%BE%88%E5%A4%9A%E7%9A%84%E8%A9%B1%E8%B6%85%E9%9B%A3%E6%8E%A8%E8%B5%B7%E5%95%B5/1548821547276925/",
-      "context": "【高雄好市多「手扶梯」故障！客人吃力扛推車 網嘆：不是第一次】 （圖／@xienhong授權引用） 買很多的話，超難推！(#起啵)"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.ctee.com.tw/news/20260907700848-430201",
+      "context": "9／7盤中熱門焦點股- 證券"
     },
     {
-      "title": "氣溫",
+      "title": "京 元 電子",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/7266/9737702",
-      "context": "出門帶傘！4縣市大雨特報 恐一路下到明天"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "股價",
+      "title": "台 達 電",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E8%82%A1%E5%83%B95%E5%B9%B4%E8%B7%8C%E8%BF%9180-%E5%A4%A7%E4%B8%AD%E8%8F%AF%E9%80%A3%E5%85%AB%E5%AD%A3%E4%B8%8B%E6%BB%91-%E6%A8%99%E6%99%AE100%E6%8C%87%E6%95%B89%E6%9C%8821%E6%97%A5%E5%B0%87nike%E5%89%94%E9%99%A4-%E6%96%B0%E5%A2%9E%E6%88%B4%E7%88%BE-palo-112006162.html",
-      "context": "股價5年跌近80%、大中華連八季下滑！標普100指數9月21日將Nike剔除新增戴爾、Palo Alto與閃迪等股"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "97 pts / 4 comments",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Research carried out using NetBSD",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "69 pts / 14 comments",
-      "url": "https://www.netbsd.org/gallery/research.html",
+      "score": 83,
+      "traffic": "92 pts / 22 comments",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "44 pts / 17 comments",
+      "score": 83,
+      "traffic": "82 pts / 23 comments",
       "url": "https://github.com/marsbos/mador",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "張俊傑",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "lalaport高雄",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Your intellectual fly is open (2025)",
+      "topic": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Your intellectual fly is open (2025)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Your intellectual fly is open when you use an LLM to author a post (2025)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Your intellectual fly is open (2025)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Your intellectual fly is open when you use an LLM to author a post (2025)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Your intellectual fly is open (2025)",
+          "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
           "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
         }
       ]
     },
     {
-      "topic": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "topic": "Nitter and XCancel resume service after legal advice",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Isar Aerospace reaches orbit and deploys payloads on second flight」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Nitter and XCancel resume service after legal advice」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Isar Aerospace reaches orbit and deploys payloads on second flight」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Nitter and XCancel resume service after legal advice」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-          "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight"
+          "title": "Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
         }
       ]
     },
     {
-      "topic": "Asahi Linux on M3",
+      "topic": "It took a year to ship WebAssembly in Anubis",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Asahi Linux on M3」開始升溫，我們真正該看的不是熱度",
+      "title": "當「It took a year to ship WebAssembly in Anubis」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Asahi Linux on M3」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「It took a year to ship WebAssembly in Anubis」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Asahi Linux on M3",
-          "url": "https://asahilinux.org/2026/09/m2-episode-1/"
+          "title": "It took a year to ship WebAssembly in Anubis",
+          "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
         }
       ]
     }
