@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-09-07T12:47:59+08:00",
+  "generated_at": "2026-09-07T20:40:31+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "600 pts / 392 comments",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Nitter and XCancel resume service after legal advice",
+      "title": "Keep Our Servers Running",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "561 pts / 283 comments",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "traffic": "615 pts / 147 comments",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "It took a year to ship WebAssembly in Anubis",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "190 pts / 103 comments",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "score": 90,
+      "traffic": "371 pts / 199 comments",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Making a Python interpreter in 1024 bytes",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "146 pts / 56 comments",
+      "score": 88,
+      "traffic": "253 pts / 89 comments",
       "url": "https://austinhenley.com/blog/python1024.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "title": "Ask HN: How do you manage skills files?",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "122 pts / 63 comments",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "score": 88,
+      "traffic": "172 pts / 154 comments",
+      "url": "https://news.ycombinator.com/item?id=49589914",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "大立光",
+      "title": "cpbl",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://www.ctee.com.tw/news/20260907700848-430201",
-      "context": "9／7盤中熱門焦點股- 證券"
+      "url": "https://www.nownews.com/news/6872979",
+      "context": "中職搶先報／兄弟力拚重返下半季龍頭！德保拉掛帥戰台鋼「奇兵」"
     },
     {
-      "title": "京 元 電子",
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "115 pts / 64 comments",
+      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "命理 師",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -59,7 +59,15 @@
       "context": ""
     },
     {
-      "title": "台 達 電",
+      "title": "運動幣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://corp.taiwanmobile.com/press-release/news/press_20260907_751865.html",
+      "context": "台灣大哥大運動紀錄MySports App助攻運動部「揮汗有禮」活動"
+    },
+    {
+      "title": "中華職棒",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -67,49 +75,41 @@
       "context": ""
     },
     {
-      "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "92 pts / 22 comments",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 23 comments",
-      "url": "https://github.com/marsbos/mador",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "張俊傑",
+      "title": "遺產",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "lalaport高雄",
+      "title": "Live map of public transport in Belgium",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "90 pts / 30 comments",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "謝 衣 鳯",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://bj.crntt.com/doc/7_0_160265414_1_0907095939.html",
+      "context": "彰化之战蓝军陷危机 沈富雄：要怪谢典霖"
     }
   ],
   "articles": [
     {
-      "topic": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "topic": "Keep Our Servers Running",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Your intellectual fly is open when you use an LLM to author a post (2025)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Keep Our Servers Running」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Your intellectual fly is open when you use an LLM to author a post (2025)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Keep Our Servers Running」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"
+          "title": "Keep Our Servers Running",
+          "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/"
         }
       ]
     },
     {
-      "topic": "Nitter and XCancel resume service after legal advice",
+      "topic": "LG smart TVs caught logging audio with screen off and snooping on local devices",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Nitter and XCancel resume service after legal advice」開始升溫，我們真正該看的不是熱度",
+      "title": "當「LG smart TVs caught logging audio with screen off and snooping on local devices」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nitter and XCancel resume service after legal advice」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「LG smart TVs caught logging audio with screen off and snooping on local devices」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Nitter and XCancel resume service after legal advice",
-          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
+          "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+          "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html"
         }
       ]
     },
     {
-      "topic": "It took a year to ship WebAssembly in Anubis",
+      "topic": "Making a Python interpreter in 1024 bytes",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「It took a year to ship WebAssembly in Anubis」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Making a Python interpreter in 1024 bytes」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「It took a year to ship WebAssembly in Anubis」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Making a Python interpreter in 1024 bytes」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "It took a year to ship WebAssembly in Anubis",
-          "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/"
+          "title": "Making a Python interpreter in 1024 bytes",
+          "url": "https://austinhenley.com/blog/python1024.html"
         }
       ]
     }
