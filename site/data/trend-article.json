@@ -1,73 +1,81 @@
 {
-  "generated_at": "2026-09-09T07:25:47+08:00",
+  "generated_at": "2026-09-09T12:47:49+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1032 pts / 859 comments",
+      "score": 96,
+      "traffic": "1193 pts / 1029 comments",
       "url": "https://openai.com/index/navier-stokes-solution/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1098 pts / 484 comments",
+      "score": 95,
+      "traffic": "1422 pts / 606 comments",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "title": "Muse – Meta’s personal AI agent",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "391 pts / 412 comments",
+      "url": "https://ai.meta.com/muse/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "471 pts / 113 comments",
+      "traffic": "514 pts / 118 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DaVinci Resolve 21.1",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "330 pts / 148 comments",
+      "score": 90,
+      "traffic": "375 pts / 166 comments",
       "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "188 pts / 90 comments",
-      "url": "https://github.com/argonautlabsai/deltafin",
+      "score": 89,
+      "traffic": "247 pts / 179 comments",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "title": "How to build a printer",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "200 pts / 97 comments",
-      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "score": 86,
+      "traffic": "212 pts / 39 comments",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "地震",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5567626",
-      "context": "台灣東部海域06:32發生規模4.8地震 最大震度2級"
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "122 pts / 59 comments",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Mercury 2.5",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "108 pts / 13 comments",
+      "score": 85,
+      "traffic": "146 pts / 23 comments",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "美網",
+      "title": "國民旅遊卡",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
@@ -75,27 +83,19 @@
       "context": ""
     },
     {
-      "title": "美國股市",
+      "title": "柯志恩",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E7%9B%A4%E5%89%8D-%E6%B2%B9%E5%83%B9%E9%80%BC%E8%BF%91100%E7%BE%8E%E5%85%83%E8%B2%BB%E5%8D%8A%E9%80%86%E5%8B%A2%E6%BC%B2-%E5%8F%B0%E6%8C%87%E5%A4%9C%E7%9B%A4%E6%BC%B2100%E9%BB%9E-%E5%8F%B0%E8%82%A1%E4%BB%8A%E6%8B%9A%E6%AD%A2%E8%B7%8C-222500791.html",
-      "context": "【盤前】油價逼近100美元費半逆勢漲！台指夜盤漲100點 台股今拚止跌"
+      "url": "https://tw.news.yahoo.com/%E6%9F%AF%E5%BF%97%E6%81%A9%E7%99%BC%E5%B8%83%E5%85%92%E5%B0%91%E4%BF%9D%E8%AD%B7%E6%94%BF%E7%AD%96-%E5%BC%B7%E5%8C%96%E5%AE%89%E5%85%A8%E7%B6%B2-%E5%8A%A0%E8%96%AA%E8%B3%87-%E9%A1%A7%E7%A4%BE%E5%B7%A5%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7-113600058.html",
+      "context": "柯志恩發布兒少保護政策 強化安全網、加薪資、顧社工心理健康"
     },
     {
-      "title": "禁忌",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "51 pts / 18 comments",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "traffic": "66 pts / 8 comments",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Google DeepMind Releases AlphaGenome Atlas",
+      "topic": "Muse – Meta’s personal AI agent",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Google DeepMind Releases AlphaGenome Atlas」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Muse – Meta’s personal AI agent」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Google DeepMind Releases AlphaGenome Atlas」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Muse – Meta’s personal AI agent」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Google DeepMind Releases AlphaGenome Atlas",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+          "title": "Muse – Meta’s personal AI agent",
+          "url": "https://ai.meta.com/muse/"
         }
       ]
     }
