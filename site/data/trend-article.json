@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-10T04:58:12+08:00",
+  "generated_at": "2026-09-10T07:18:03+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "iPhone Duo",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "534 pts / 1169 comments",
+      "score": 96,
+      "traffic": "764 pts / 1508 comments",
       "url": "https://www.apple.com/iphone-duo/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Shopify acquires Tailwind",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "739 pts / 307 comments",
+      "score": 93,
+      "traffic": "837 pts / 335 comments",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AirPods 5",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "251 pts / 208 comments",
+      "score": 91,
+      "traffic": "338 pts / 275 comments",
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "232 pts / 239 comments",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "No Man's Sky Cosmos",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "191 pts / 206 comments",
+      "score": 90,
+      "traffic": "260 pts / 267 comments",
       "url": "https://www.nomanssky.com/cosmos-update/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "What do Visa and Mastercard do? An intro to card networks",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "211 pts / 120 comments",
+      "score": 89,
+      "traffic": "304 pts / 184 comments",
       "url": "https://tautology.town/2026/06/01/card-networks.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "title": "Growing proof that autonomous cars save lives",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "170 pts / 130 comments",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "score": 89,
+      "traffic": "155 pts / 263 comments",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Apple Watch Series 12",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "145 pts / 147 comments",
+      "score": 89,
+      "traffic": "185 pts / 208 comments",
       "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "259 pts / 100 comments",
+      "score": 89,
+      "traffic": "318 pts / 116 comments",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Desert Ant Labs: local, fast models that run on device",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "343 pts / 85 comments",
+      "score": 89,
+      "traffic": "373 pts / 88 comments",
       "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Growing proof that autonomous cars save lives",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "83 pts / 121 comments",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "108 pts / 52 comments",
+      "score": 86,
+      "traffic": "150 pts / 61 comments",
       "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "apple watch",
+      "title": "川 普",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "context": "Introducing Apple Watch Series 12, with the all-new Health Sensing System"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
