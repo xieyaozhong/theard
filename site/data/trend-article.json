@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-09T19:29:16+08:00",
+  "generated_at": "2026-09-10T00:42:06+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "title": "Claude, change the \"Add to Cart\" button to blue",
       "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1734 pts / 730 comments",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "score": 91,
+      "traffic": "620 pts / 236 comments",
+      "url": "https://opusfived.dev/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Muse – Meta’s personal AI agent",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "534 pts / 583 comments",
-      "url": "https://ai.meta.com/muse/",
-      "context": "High-engagement technology discussion"
+      "title": "高鐵訂票",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://tw.news.yahoo.com/%E8%A8%98%E5%BE%97%E6%90%B6%E7%A5%A8-%E9%AB%98%E9%90%B5%E5%9C%8B%E6%85%B6%E5%8A%A0%E9%96%8B88%E7%8F%AD-9-10%E5%87%8C%E6%99%A8%E8%B5%B7%E9%96%8B%E6%94%BE%E8%B3%BC%E7%A5%A8-141105241.html",
+      "context": "記得搶票！高鐵國慶加開88班 9/10凌晨起開放購票"
     },
     {
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "title": "Tailwind Labs is joining Shopify",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "569 pts / 123 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "traffic": "481 pts / 187 comments",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How to build a printer",
+      "title": "I advertise malicious software on Google Ads",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "355 pts / 78 comments",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "score": 89,
+      "traffic": "252 pts / 147 comments",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "264 pts / 69 comments",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "127 pts / 34 comments",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "traffic": "121 pts / 35 comments",
+      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "title": "No Man's Sky Cosmos",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "84 pts / 65 comments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "洛杉磯道奇",
-      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "51 pts / 22 comments",
-      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+      "traffic": "77 pts / 52 comments",
+      "url": "https://www.nomanssky.com/cosmos-update/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How An AI math breakthrough ignited a controversy",
+      "title": "布蘭特原油",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E5%8F%88%E7%A0%B4%E7%99%BE%E4%BA%86-%E7%BE%8E%E8%82%A1%E6%9C%9F%E8%B2%A8%E7%9B%A4%E5%89%8D%E5%85%A8%E9%9D%A2%E8%B5%B0%E4%BD%8E-%E9%81%93%E6%8C%87%E6%9C%9F%E6%8C%AB%E9%80%BE400%E9%BB%9E-123953076.html",
+      "context": "國際油價又破百了！美股期貨盤前全面走低 道指期挫逾400點"
+    },
+    {
+      "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "45 pts / 15 comments",
-      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "traffic": "65 pts / 8 comments",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Lotus Notes and the dangers of starting from scratch",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "25 pts / 14 comments",
-      "url": "https://buttondown.com/blog/lotus-notes-email",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "臺北市長",
+      "title": "barcelona vs feyenoord",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.espn.com/soccer/story/_/id/49829954/uefa-champions-league-live-updates-barcelona-feyenoord-liverpool-atletico-madrid-napoli-arsenal",
+      "context": "UEFA Champions League live updates: Barcelona begin campaign against Feyenoord"
     },
     {
-      "title": "退貨",
+      "title": "鄭欽文",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://japanese.cgtn.com/2026/09/09/ARTI1788934434377679/",
+      "context": "鄭欽文選手 全米オープン女子シングルスの準々決勝でリバキナと対戦へ"
+    },
+    {
+      "title": "雙十連假",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E6%85%B6%E9%80%A3%E5%81%87%E5%9C%8B%E9%81%93%E7%AE%A1%E5%88%B6-%E9%AB%98%E4%B9%98%E8%BC%89-%E5%8C%9D%E9%81%93%E5%B0%81%E9%96%89-%E5%85%8D%E8%B2%BB%E6%99%82%E6%AE%B5-%E6%AC%A1%E7%9C%8B-095800613.html",
+      "context": "國慶連假國道管制！高乘載、匝道封閉 免費時段一次看"
     }
   ],
   "articles": [
     {
-      "topic": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "topic": "Claude, change the \"Add to Cart\" button to blue",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Navier-Stokes – Tristan Buckmaster [pdf]」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Claude, change the \"Add to Cart\" button to blue」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Navier-Stokes – Tristan Buckmaster [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Claude, change the \"Add to Cart\" button to blue」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-          "url": "https://cims.nyu.edu/~tristanb/statement.pdf"
+          "title": "Claude, change the \"Add to Cart\" button to blue",
+          "url": "https://opusfived.dev/"
         }
       ]
     },
     {
-      "topic": "Muse – Meta’s personal AI agent",
+      "topic": "高鐵訂票",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Muse – Meta’s personal AI agent」開始升溫，我們真正該看的不是熱度",
+      "title": "當「高鐵訂票」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Muse – Meta’s personal AI agent」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「高鐵訂票」推到更高的注意力位置。記得搶票！高鐵國慶加開88班 9/10凌晨起開放購票。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,22 +166,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Muse – Meta’s personal AI agent",
-          "url": "https://ai.meta.com/muse/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "高鐵訂票",
+          "url": "https://tw.news.yahoo.com/%E8%A8%98%E5%BE%97%E6%90%B6%E7%A5%A8-%E9%AB%98%E9%90%B5%E5%9C%8B%E6%85%B6%E5%8A%A0%E9%96%8B88%E7%8F%AD-9-10%E5%87%8C%E6%99%A8%E8%B5%B7%E9%96%8B%E6%94%BE%E8%B3%BC%E7%A5%A8-141105241.html"
         }
       ]
     },
     {
-      "topic": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "topic": "Tailwind Labs is joining Shopify",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「AlphaGenome Atlas: a high-resolution map of human DNA」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Tailwind Labs is joining Shopify」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AlphaGenome Atlas: a high-resolution map of human DNA」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Tailwind Labs is joining Shopify」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+          "title": "Tailwind Labs is joining Shopify",
+          "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
         }
       ]
     }
