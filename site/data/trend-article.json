@@ -1,28 +1,20 @@
 {
-  "generated_at": "2026-09-09T12:47:49+08:00",
+  "generated_at": "2026-09-09T19:29:16+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1193 pts / 1029 comments",
-      "url": "https://openai.com/index/navier-stokes-solution/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1422 pts / 606 comments",
+      "score": 96,
+      "traffic": "1734 pts / 730 comments",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Muse – Meta’s personal AI agent",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "391 pts / 412 comments",
+      "score": 93,
+      "traffic": "534 pts / 583 comments",
       "url": "https://ai.meta.com/muse/",
       "context": "High-engagement technology discussion"
     },
@@ -30,116 +22,88 @@
       "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "514 pts / 118 comments",
+      "traffic": "569 pts / 123 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DaVinci Resolve 21.1",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "375 pts / 166 comments",
-      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "247 pts / 179 comments",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "How to build a printer",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "212 pts / 39 comments",
+      "score": 88,
+      "traffic": "355 pts / 78 comments",
       "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Large language models develop novel social biases through adaptive exploration",
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "122 pts / 59 comments",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "traffic": "127 pts / 34 comments",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Mercury 2.5",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "146 pts / 23 comments",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "traffic": "84 pts / 65 comments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "國民旅遊卡",
+      "title": "洛杉磯道奇",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "柯志恩",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E6%9F%AF%E5%BF%97%E6%81%A9%E7%99%BC%E5%B8%83%E5%85%92%E5%B0%91%E4%BF%9D%E8%AD%B7%E6%94%BF%E7%AD%96-%E5%BC%B7%E5%8C%96%E5%AE%89%E5%85%A8%E7%B6%B2-%E5%8A%A0%E8%96%AA%E8%B3%87-%E9%A1%A7%E7%A4%BE%E5%B7%A5%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7-113600058.html",
-      "context": "柯志恩發布兒少保護政策 強化安全網、加薪資、顧社工心理健康"
+      "traffic": "51 pts / 22 comments",
+      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "title": "How An AI math breakthrough ignited a controversy",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "66 pts / 8 comments",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "traffic": "45 pts / 15 comments",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "25 pts / 14 comments",
+      "url": "https://buttondown.com/blog/lotus-notes-email",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "臺北市長",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "退貨",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "On the Navier–Stokes Millennium Prize Problem",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「On the Navier–Stokes Millennium Prize Problem」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「On the Navier–Stokes Millennium Prize Problem」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "On the Navier–Stokes Millennium Prize Problem",
-          "url": "https://openai.com/index/navier-stokes-solution/"
-        }
-      ]
-    },
-    {
       "topic": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Navier-Stokes – Tristan Buckmaster [pdf]」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "Muse – Meta’s personal AI agent",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Muse – Meta’s personal AI agent」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Muse – Meta’s personal AI agent",
           "url": "https://ai.meta.com/muse/"
+        }
+      ]
+    },
+    {
+      "topic": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「AlphaGenome Atlas: a high-resolution map of human DNA」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「AlphaGenome Atlas: a high-resolution map of human DNA」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
         }
       ]
     }
