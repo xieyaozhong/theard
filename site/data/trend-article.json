@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T07:18:03+08:00",
+  "generated_at": "2026-09-10T12:48:59+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "iPhone Duo",
       "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "764 pts / 1508 comments",
+      "score": 97,
+      "traffic": "1027 pts / 1854 comments",
       "url": "https://www.apple.com/iphone-duo/",
       "context": "High-engagement technology discussion"
     },
@@ -14,87 +14,87 @@
       "title": "Shopify acquires Tailwind",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "837 pts / 335 comments",
+      "traffic": "947 pts / 376 comments",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Growing proof that autonomous cars save lives",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "281 pts / 482 comments",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "442 pts / 245 comments",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AirPods 5",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "338 pts / 275 comments",
+      "traffic": "413 pts / 330 comments",
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "232 pts / 239 comments",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "No Man's Sky Cosmos",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "260 pts / 267 comments",
+      "score": 91,
+      "traffic": "329 pts / 349 comments",
       "url": "https://www.nomanssky.com/cosmos-update/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "304 pts / 184 comments",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Growing proof that autonomous cars save lives",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "155 pts / 263 comments",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Apple Watch Series 12",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "185 pts / 208 comments",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "score": 91,
+      "traffic": "321 pts / 339 comments",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "318 pts / 116 comments",
+      "traffic": "375 pts / 131 comments",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "373 pts / 88 comments",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "150 pts / 61 comments",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "川 普",
+      "title": "kktix",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.setn.com/news/1904196",
+      "context": "不管2300萬後噤聲了！鍘美辦桌明開搶　陳幸妤突公開籲1事：不要添亂啦"
+    },
+    {
+      "title": "梅西",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://m.sohu.com/a/1074134273_121894857?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "context": "梅西左晃右扣，甩开防守后将皮球打飞：美职联第24轮精彩回顾"
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "98 pts / 44 comments",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "威秀",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     }
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "AirPods 5",
+      "topic": "Growing proof that autonomous cars save lives",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「AirPods 5」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Growing proof that autonomous cars save lives」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AirPods 5」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Growing proof that autonomous cars save lives」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "AirPods 5",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
+          "title": "Growing proof that autonomous cars save lives",
+          "url": "https://spectrum.ieee.org/are-self-driving-cars-safe"
         }
       ]
     }
