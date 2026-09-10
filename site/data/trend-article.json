@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-11T00:28:07+08:00",
+  "generated_at": "2026-09-11T04:54:47+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "DeepSeek v4.1 Flash",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "740 pts / 391 comments",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "score": 92,
+      "traffic": "392 pts / 478 comments",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Shopify moves back to Native from React Native",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "330 pts / 223 comments",
+      "score": 92,
+      "traffic": "585 pts / 402 comments",
       "url": "https://shopify.engineering/back-to-native",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "title": "Rust is tier-1 language at Microsoft",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "58 pts / 289 comments",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "威力 彩",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.stock.yahoo.com/news/%E6%8B%9C%E5%AE%8C%E9%BE%8D%E5%B1%B1%E5%AF%BA%E7%88%BD%E4%B8%AD%E9%A0%AD%E7%8D%8E%EF%BC%9F%E5%A8%81%E5%8A%9B%E5%BD%A92%E5%84%84%E5%85%83%E9%99%8D%E8%87%A8%E8%90%AC%E8%8F%AF-1%E6%B3%A8%E7%8D%A8%E5%BE%97-135908884.html",
-      "context": "拜完龍山寺爽中頭獎？威力彩2億元降臨萬華 1注獨得"
-    },
-    {
-      "title": "Rust Is Tier-1 Language at Microsoft",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "243 pts / 115 comments",
+      "score": 91,
+      "traffic": "517 pts / 282 comments",
       "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "187 pts / 151 comments",
+      "score": 89,
+      "traffic": "255 pts / 205 comments",
       "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "256 pts / 122 comments",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "traffic": "250 pts / 112 comments",
+      "url": "https://cognition.com/blog/swe-2",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "List of references on Sony websites to players \"owning\" their digital games",
+      "title": "Don't let anyone take away your big box of cables",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "202 pts / 65 comments",
-      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "traffic": "130 pts / 104 comments",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "貓",
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "185 pts / 32 comments",
+      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Neki",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "158 pts / 64 comments",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "96 pts / 57 comments",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "楊貴 媚",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E8%8A%B1%E4%BA%86%E8%BF%91%E8%90%AC%E5%8F%B0%E5%B9%A3%E5%AE%89%E6%A8%82%E6%AD%BB-18%E5%80%8B%E6%9C%88%E5%BE%8C%E6%84%9B%E8%B2%93%E7%AB%9F-%E5%A5%87%E8%B9%9F%E5%BE%A9%E6%B4%BB-%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89%E9%A3%BC%E4%B8%BB%E5%BF%83%E7%A2%8E-103449951.html",
-      "context": "花了近萬台幣安樂死！18個月後愛貓竟「奇蹟復活」 真相曝光飼主心碎"
-    },
-    {
-      "title": "朱安雄",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.chinatimes.com/realtimenews/20260910005025-260407",
-      "context": "因案逃亡海外 前高市議長朱安雄大陸離世享壽82歲"
-    },
-    {
-      "title": "人民幣匯率",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "楊貴媚",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Music Theory for the 21st-Century Classroom",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "76 pts / 41 comments",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "100 pts / 41 comments",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "DeepSeek v4.1 Flash",
+      "topic": "More questions about whether researchers can trust OpenAI with unpublished math",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「DeepSeek v4.1 Flash」開始升溫，我們真正該看的不是熱度",
+      "title": "當「More questions about whether researchers can trust OpenAI with unpublished math」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「DeepSeek v4.1 Flash」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「More questions about whether researchers can trust OpenAI with unpublished math」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,8 +131,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "DeepSeek v4.1 Flash",
-          "url": "https://twitter.com/deepseek_ai/status/2097930608790167907"
+          "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+          "url": "https://mathstodon.xyz/@andreasthom/117240535270608201"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "topic": "Rust is tier-1 language at Microsoft",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「More questions about whether researchers can trust OpenAI with unpublished math」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Rust is tier-1 language at Microsoft」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「More questions about whether researchers can trust OpenAI with unpublished math」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Rust is tier-1 language at Microsoft」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-          "url": "https://mathstodon.xyz/@andreasthom/117240535270608201"
+          "title": "Rust is tier-1 language at Microsoft",
+          "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"
         }
       ]
     }
