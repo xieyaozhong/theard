@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-09-11T04:54:47+08:00",
+  "generated_at": "2026-09-11T07:12:44+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "392 pts / 478 comments",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Shopify moves back to Native from React Native",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "585 pts / 402 comments",
+      "score": 93,
+      "traffic": "652 pts / 437 comments",
       "url": "https://shopify.engineering/back-to-native",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Rust is tier-1 language at Microsoft",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "517 pts / 282 comments",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "255 pts / 205 comments",
-      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "score": 93,
+      "traffic": "565 pts / 566 comments",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "250 pts / 112 comments",
+      "score": 89,
+      "traffic": "334 pts / 137 comments",
       "url": "https://cognition.com/blog/swe-2",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Don't let anyone take away your big box of cables",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "130 pts / 104 comments",
+      "score": 89,
+      "traffic": "252 pts / 206 comments",
       "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "109 pts / 105 comments",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "185 pts / 32 comments",
+      "traffic": "241 pts / 36 comments",
       "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Neki",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "158 pts / 64 comments",
-      "url": "https://planetscale.com/blog/introducing-neki",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "96 pts / 57 comments",
-      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "楊貴 媚",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
       "title": "Music Theory for the 21st-Century Classroom",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "76 pts / 41 comments",
+      "score": 86,
+      "traffic": "135 pts / 61 comments",
       "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
       "context": "High-engagement technology discussion"
     },
     {
+      "title": "ios 18",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "context": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max"
+    },
+    {
+      "title": "熱帶 擾動",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E5%8C%97%E6%9D%B1%E6%B0%B4%E6%B0%A3%E5%A2%9E-%E5%8D%97%E6%B5%B7%E6%93%BE%E5%8B%95-%E8%B7%AF%E5%A5%94%E8%A5%BF-%E6%9D%9C%E9%B5%91%E9%A2%B1%E9%A2%A8-%E9%80%99%E5%A4%A9-223500453.html",
+      "context": "北東水氣增！南海擾動一路奔西 杜鵑颱風「這天」恐生成專家示警了"
+    },
+    {
       "title": "Forgejo <=16.0.3 Critical RCE",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "100 pts / 41 comments",
+      "score": 85,
+      "traffic": "135 pts / 49 comments",
       "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "陳幸妤",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E6%90%B6%E7%95%B6%E9%8D%98%E7%BE%8E%E8%97%9D%E8%A1%93%E7%AF%80%E6%A1%8C%E9%95%B7-2%E9%BB%9E%E9%96%8B%E8%B3%A3-%E5%9C%A8%E7%B7%9A%E4%BA%BA%E6%95%B8-%E6%9B%9D%E5%85%89-%E7%B6%B2%E5%B4%A9%E6%BD%B0-075700678.html",
+      "context": "搶當鍘美藝術節桌長！2點開賣「在線人數」曝光 網崩潰：1秒賣完"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "68 pts / 52 comments",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "topic": "Shopify is moving from React Native back to Swift and Kotlin",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Shopify is moving from React Native back to Swift and Kotlin」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Shopify is moving from React Native back to Swift and Kotlin」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Shopify is moving from React Native back to Swift and Kotlin",
+          "url": "https://shopify.engineering/back-to-native"
+        }
+      ]
+    },
+    {
+      "topic": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「More questions about whether researchers can trust OpenAI with unpublished math」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -137,51 +173,15 @@
       ]
     },
     {
-      "topic": "Shopify moves back to Native from React Native",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Shopify moves back to Native from React Native」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Shopify moves back to Native from React Native」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Shopify moves back to Native from React Native",
-          "url": "https://shopify.engineering/back-to-native"
-        }
-      ]
-    },
-    {
-      "topic": "Rust is tier-1 language at Microsoft",
+      "topic": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Rust is tier-1 language at Microsoft」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Rust is tier-1 language at Microsoft」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Rust is tier-1 language at Microsoft",
-          "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"
+          "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "url": "https://cognition.com/blog/swe-2"
         }
       ]
     }
