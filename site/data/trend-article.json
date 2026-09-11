@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-11T19:27:32+08:00",
+  "generated_at": "2026-09-12T00:32:19+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "source": "HACKER NEWS",
       "score": 95,
-      "traffic": "1093 pts / 789 comments",
+      "traffic": "1199 pts / 888 comments",
       "url": "https://shopify.engineering/back-to-native",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Don't let anyone take away your big box of cables",
+      "title": "Claude is only available to people over 18 years",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "572 pts / 366 comments",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI Agents API",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "273 pts / 152 comments",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Cherenkov Radiation - traveling faster than light",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "88 pts / 53 comments",
-      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "score": 91,
+      "traffic": "323 pts / 395 comments",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "So you want to use OpenRouter?",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "166 pts / 20 comments",
+      "score": 90,
+      "traffic": "484 pts / 125 comments",
       "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Claude is no longer available for minors",
+      "title": "Logo Programming Language",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "49 pts / 50 comments",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "score": 85,
+      "traffic": "100 pts / 51 comments",
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "紅包",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "97 pts / 54 comments",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "曾馨瑩",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E6%9B%BE%E9%A6%A8%E7%91%A9%E9%A6%96%E5%BA%A6%E5%85%AC%E9%96%8B%E7%8F%BE%E8%BA%AB-%E9%9D%A2%E9%9C%B2%E7%AC%91%E5%AE%B9%E6%9C%AA%E5%9B%9E%E6%87%89%E3%80%8C%E9%83%AD%E5%8F%B0%E9%8A%98%E5%AF%86%E6%9C%83%E5%A5%B3%E7%90%83%E5%8F%8B%E3%80%8D-112632999.html",
+      "context": "曾馨瑩首度公開現身 被問「郭台銘密會女球友」連回謝謝"
+    },
+    {
+      "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "62 pts / 30 comments",
+      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "HuggingFace: Security.txt",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "112 pts / 17 comments",
+      "url": "https://huggingface.co/security.txt",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "士兵",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E8%A3%BD%E6%88%B0%E8%BB%8A-%E9%96%8B%E7%A0%B2%E7%9E%AC%E9%96%93%E7%88%86%E7%82%B8-%E5%AD%9F%E5%8A%A0%E6%8B%89%E9%99%B8%E8%BB%8D2%E6%AD%BB1%E9%87%8D%E5%82%B7-%E6%8B%8B%E9%A3%9B%E7%95%AB%E9%9D%A2%E6%9B%9D-135100612.html",
+      "context": "「中國製戰車」開砲瞬間爆炸？孟加拉陸軍2死1重傷 拋飛畫面曝"
+    },
+    {
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "48 pts / 15 comments",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "美債10年殖利率",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "u18 賽程",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5569539",
-      "context": "U18亞青》繼承大谷翔平背號 日本好手初嚐台灣料理給評價"
-    },
-    {
-      "title": "The Death of Shame Is Tearing Us Apart",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "35 pts / 37 comments",
-      "url": "https://www.newyorker.com/news/fault-lines/the-death-of-shame-is-tearing-us-apart",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Working with Git Worktrees in Magit",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "60 pts / 20 comments",
-      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Resist \"AI\"",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "32 pts / 21 comments",
-      "url": "https://ronjeffries.com/articles/-v026/x/t/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "李 多 慧",
+      "title": "栗子",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%A4%9A%E6%85%A7%E9%A9%9A%E8%A6%8B%E9%99%BD%E6%98%8E%E5%B1%B1-%E9%9B%A2%E8%AD%9C%E6%99%AF%E8%B1%A1-%E7%A7%92%E8%AE%8A%E8%87%89%E6%80%92%E8%BD%9F%E9%81%8A%E5%AE%A2-%E9%80%99%E6%98%AF%E5%85%AC%E5%85%B1%E5%A0%B4%E6%89%80-053500247.html",
-      "context": "李多慧驚見陽明山「離譜景象」 秒變臉怒轟遊客：這是公共場所"
+      "url": "https://tw.news.yahoo.com/%E8%96%94%E8%96%94-%E5%BF%8D%E7%97%9B%E5%AE%89%E6%A8%82%E6%AD%BB-%E9%99%AA%E4%BC%B416%E5%B9%B4%E6%84%9B%E7%8A%AC%E6%A0%97%E5%AD%90-%E6%B7%9A%E5%B4%A9%E5%91%8A%E5%88%A5-%E8%A6%81%E6%8A%95%E8%83%8E%E6%89%BE%E5%88%B0%E6%88%91-142837373.html",
+      "context": "薔薔「忍痛安樂死」陪伴16年愛犬栗子 淚崩告別：要投胎找到我"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Don't let anyone take away your big box of cables",
+      "topic": "Claude is only available to people over 18 years",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Don't let anyone take away your big box of cables」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Claude is only available to people over 18 years」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Don't let anyone take away your big box of cables」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Claude is only available to people over 18 years」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Don't let anyone take away your big box of cables",
-          "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/"
+          "title": "Claude is only available to people over 18 years",
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude"
         }
       ]
     },
     {
-      "topic": "OpenAI Agents API",
+      "topic": "So you want to use OpenRouter?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「OpenAI Agents API」開始升溫，我們真正該看的不是熱度",
+      "title": "當「So you want to use OpenRouter?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenAI Agents API」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「So you want to use OpenRouter?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "OpenAI Agents API",
-          "url": "https://developers.openai.com/api/docs/guides/agents-api/overview"
+          "title": "So you want to use OpenRouter?",
+          "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/"
         }
       ]
     }
