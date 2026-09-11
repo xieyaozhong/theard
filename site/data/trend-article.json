@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-09-12T05:00:47+08:00",
+  "generated_at": "2026-09-12T07:18:07+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Claude is only available to people over 18 years",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "498 pts / 547 comments",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "A misalignment of AI in mathematics",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "301 pts / 393 comments",
+      "score": 93,
+      "traffic": "519 pts / 581 comments",
       "url": "https://mathandai.org/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The EPA is planning to scrap public review rules for data center pollution",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "203 pts / 127 comments",
+      "score": 89,
+      "traffic": "291 pts / 193 comments",
       "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "139 pts / 53 comments",
-      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-      "context": "High-engagement technology discussion"
+      "title": "大樂透開獎",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://news.nextapple.com/life/20260911/38C75037CB7265E76CCD4A993BAB6BB9",
+      "context": "樂透開獎！20260911大樂透、49樂合彩、今彩539、39樂合彩、三星彩、四星彩獎號出爐"
     },
     {
-      "title": "大 樂 透",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/50%E5%85%83%E6%8A%B1%E8%B5%B0253%E5%84%84%E5%A4%A7%E6%A8%82%E9%80%8F%EF%BC%81%E5%8F%B0%E6%9D%B1%E3%80%8C5000%E4%BA%BA%E5%B0%8F%E9%8E%AE%E3%80%8D%E7%8B%82%E7%8C%9C%E5%B9%B8%E9%81%8B%E5%85%92-%E8%B2%B7%E6%B3%95%E6%9B%9D%E5%85%89-080412898.html",
-      "context": "50元抱走2.53億大樂透！台東「5000人小鎮」狂猜幸運兒 買法曝光"
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "203 pts / 103 comments",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "GrapheneOS' rewritten Messages app is released",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "86 pts / 39 comments",
+      "score": 87,
+      "traffic": "162 pts / 90 comments",
       "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
       "context": "High-engagement technology discussion"
     },
     {
+      "title": "yahoo股市",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E7%88%86%E6%AE%BA%E5%96%AE%EF%BC%81%E8%B7%8C40%E5%85%83%E5%8A%9B%E5%AE%88%E6%9C%88%E7%B7%9A-%E5%88%86%E6%9E%90%E5%B8%AB%E4%BB%8D%E7%9C%8B%E5%A4%9A-011442514.html",
+      "context": "台積電尾盤爆殺單！跌40元力守月線 分析師仍看多"
+    },
+    {
       "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "72 pts / 45 comments",
+      "score": 85,
+      "traffic": "93 pts / 50 comments",
       "url": "https://snap.berkeley.edu/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Rune is now open source",
-      "source": "HACKER NEWS",
+      "title": "美網",
+      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "87 pts / 35 comments",
-      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "槍手",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://udn.com/news/story/7315/9749272",
+      "context": "打離婚官司保護令未下！陸籍妻門口遭槍擊 監視器拍下「女槍手正臉」"
+    },
+    {
+      "title": "0050股價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%B7%8C%E7%A0%B44%E8%90%AC7-%E9%83%AD%E5%93%B2%E6%A6%AE%E9%80%86%E9%A2%A8%E5%96%8A-%E8%A6%AA%E6%8F%AD%E5%B8%83%E5%B1%80%E5%90%8D%E5%96%AE-%E4%B8%8A%E7%9C%8B%E5%8D%81%E8%90%AC%E9%BB%9E-123421153.html",
+      "context": "台股跌破4萬7！郭哲榮逆風喊「親揭布局名單」上看十萬點"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "86 pts / 18 comments",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "伊朗",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E7%B7%8A%E5%BC%B5%E5%8D%87%E7%B4%9A-%E4%BC%8A%E6%9C%97%E8%A5%B2%E6%93%8A%E7%BE%8E%E8%BB%8D%E5%9F%BA%E5%9C%B0%E8%88%87%E6%B2%B9%E8%BC%AA-%E7%BE%8E%E6%A9%9F%E5%8F%97%E6%90%8D-011752076.html",
-      "context": "中東緊張升級：伊朗襲擊美軍基地與油輪 美機受損"
-    },
-    {
-      "title": "nifty",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.reuters.com/world/india/india-stocks-log-fifth-weekly-loss-oil-fears-grip-markets-2026-09-11/",
-      "context": "India stocks log fifth weekly loss as oil fears grip markets"
     },
     {
       "title": "Litelm: LiteLLM Without the Bloat",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "52 pts / 19 comments",
+      "score": 83,
+      "traffic": "80 pts / 30 comments",
       "url": "https://github.com/kennethwolters/litelm",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "43 pts / 34 comments",
-      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Claude is only available to people over 18 years",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Claude is only available to people over 18 years」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Claude is only available to people over 18 years」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Claude is only available to people over 18 years",
-          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude"
-        }
-      ]
-    },
-    {
       "topic": "A misalignment of AI in mathematics",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「A misalignment of AI in mathematics」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "The EPA is planning to scrap public review rules for data center pollution",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「The EPA is planning to scrap public review rules for data center pollution」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "The EPA is planning to scrap public review rules for data center pollution",
           "url": "https://capitalbnews.org/data-centers-permit-rules-epa/"
+        }
+      ]
+    },
+    {
+      "topic": "大樂透開獎",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「大樂透開獎」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「大樂透開獎」推到更高的注意力位置。樂透開獎！20260911大樂透、49樂合彩、今彩539、39樂合彩、三星彩、四星彩獎號出爐。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "GOOGLE TRENDS / TW",
+          "title": "大樂透開獎",
+          "url": "https://news.nextapple.com/life/20260911/38C75037CB7265E76CCD4A993BAB6BB9"
         }
       ]
     }
