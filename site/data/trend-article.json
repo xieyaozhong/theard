@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-12T23:34:50+08:00",
+  "generated_at": "2026-09-13T04:37:12+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "A misalignment of AI in mathematics",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1092 pts / 1036 comments",
-      "url": "https://mathandai.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "title": "We must pace the frontier",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "652 pts / 357 comments",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "traffic": "373 pts / 522 comments",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Fuck it, make it anyway",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "337 pts / 287 comments",
-      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "score": 90,
+      "traffic": "267 pts / 242 comments",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "IKEA made a mod for Skyrim [video]",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "389 pts / 82 comments",
+      "score": 90,
+      "traffic": "496 pts / 128 comments",
       "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A Design Space Exploration of Async/Await",
+      "title": "Nvidia is the central bank of AI",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "367 pts / 98 comments",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "traffic": "250 pts / 185 comments",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "庫克",
+      "title": "Make your first edit to OpenStreetMap",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "148 pts / 52 comments",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "188 pts / 58 comments",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "聯邦銀行",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5572029",
+      "context": "蘋果「完勝」 三星！iPhone Duo做對了5件事 三星第8代至今仍未做到"
     },
     {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "title": "Will There Be a 7G?",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "166 pts / 18 comments",
-      "url": "https://eiln.github.io/posts/ane.html",
+      "traffic": "55 pts / 88 comments",
+      "url": "https://arxiv.org/abs/2609.01877",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "f1",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.bbc.com/sport/formula1/live/c5yvxd2x8xkt",
-      "context": "F1 practice LIVE: Spanish Grand Prix 226 times, results, radio & updates from Madrid"
-    },
-    {
-      "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "113 pts / 29 comments",
-      "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "64 pts / 30 comments",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "血壓",
+      "title": "getty",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://news.ttv.com.tw/news/11509100001900W",
-      "context": "每天1把堅果血壓風險降26%！14萬人研究揭：吃對有助心血管健康"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-getty-images-gety-stock-050705856.html",
+      "context": "Why Getty Images (GETY) Stock Is Trading Lower Today"
     },
     {
-      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "37 pts / 18 comments",
-      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "score": 82,
+      "traffic": "58 pts / 18 comments",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "62 pts / 14 comments",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "45 pts / 9 comments",
+      "url": "https://lalitm.com/post/buildprof/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "A misalignment of AI in mathematics",
+      "topic": "We must pace the frontier",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「A misalignment of AI in mathematics」開始升溫，我們真正該看的不是熱度",
+      "title": "當「We must pace the frontier」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A misalignment of AI in mathematics」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「We must pace the frontier」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A misalignment of AI in mathematics",
-          "url": "https://mathandai.org/"
+          "title": "We must pace the frontier",
+          "url": "https://darioamodei.com/post/we-must-pace-the-frontier"
         }
       ]
     },
     {
-      "topic": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "topic": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「I spent $220 on Google app ads and 60% of the installs were robots」開始升溫，我們真正該看的不是熱度",
+      "title": "當「LG denies TV spying claims, says tracking and snooping concerns 'not true'」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I spent $220 on Google app ads and 60% of the installs were robots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「LG denies TV spying claims, says tracking and snooping concerns 'not true'」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-          "url": "https://dayzlegame.com/blog/google-ads-bot-farm/"
+          "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio"
         }
       ]
     },
     {
-      "topic": "Fuck it, make it anyway",
+      "topic": "IKEA made a mod for Skyrim [video]",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Fuck it, make it anyway」開始升溫，我們真正該看的不是熱度",
+      "title": "當「IKEA made a mod for Skyrim [video]」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Fuck it, make it anyway」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「IKEA made a mod for Skyrim [video]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Fuck it, make it anyway",
-          "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+          "title": "IKEA made a mod for Skyrim [video]",
+          "url": "https://www.youtube.com/watch?v=iZODN0QUgjI"
         }
       ]
     }
