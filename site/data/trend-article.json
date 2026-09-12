@@ -1,100 +1,100 @@
 {
-  "generated_at": "2026-09-12T07:18:07+08:00",
+  "generated_at": "2026-09-12T12:40:18+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "A misalignment of AI in mathematics",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "519 pts / 581 comments",
+      "score": 94,
+      "traffic": "769 pts / 758 comments",
       "url": "https://mathandai.org/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "291 pts / 193 comments",
-      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "score": 91,
+      "traffic": "491 pts / 287 comments",
+      "url": "https://www.rubyhack.ai/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "大樂透開獎",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://news.nextapple.com/life/20260911/38C75037CB7265E76CCD4A993BAB6BB9",
-      "context": "樂透開獎！20260911大樂透、49樂合彩、今彩539、39樂合彩、三星彩、四星彩獎號出爐"
     },
     {
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "203 pts / 103 comments",
+      "score": 90,
+      "traffic": "389 pts / 201 comments",
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
       "context": "High-engagement technology discussion"
     },
     {
+      "title": "吳德榮",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.news.yahoo.com/%E5%A5%BD%E5%A4%A9%E6%B0%A3%E5%80%92%E6%95%B8-%E7%AC%AC2%E6%B3%A2%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E8%A6%81%E4%BE%86%E4%BA%86-%E8%BD%89%E6%B6%BC%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89-041400705.html",
+      "context": "好天氣倒數！第2波東北季風要來了 轉涼時間曝光"
+    },
+    {
+      "title": "亞運男籃",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E7%B1%83%E7%90%83%E3%80%8B%E4%B8%AD%E8%8F%AF%E9%9A%8A69%E6%AF%9472%E6%95%97%E7%B5%A6%E4%BC%8A%E6%9C%97-%E5%B0%8F%E7%B5%84%E8%B3%BD%E5%BD%A2%E6%88%901%E5%8B%9D1%E6%95%97-010511155.html",
+      "context": "亞運籃球》中華隊69比72敗給伊朗 小組賽形成1勝1敗"
+    },
+    {
       "title": "GrapheneOS' rewritten Messages app is released",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "162 pts / 90 comments",
+      "score": 88,
+      "traffic": "226 pts / 140 comments",
       "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "yahoo股市",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E7%88%86%E6%AE%BA%E5%96%AE%EF%BC%81%E8%B7%8C40%E5%85%83%E5%8A%9B%E5%AE%88%E6%9C%88%E7%B7%9A-%E5%88%86%E6%9E%90%E5%B8%AB%E4%BB%8D%E7%9C%8B%E5%A4%9A-011442514.html",
-      "context": "台積電尾盤爆殺單！跌40元力守月線 分析師仍看多"
-    },
-    {
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "title": "A Design Space Exploration of Async/Await",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "93 pts / 50 comments",
-      "url": "https://snap.berkeley.edu/",
+      "score": 86,
+      "traffic": "198 pts / 43 comments",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "美網",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "槍手",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://udn.com/news/story/7315/9749272",
-      "context": "打離婚官司保護令未下！陸籍妻門口遭槍擊 監視器拍下「女槍手正臉」"
-    },
-    {
-      "title": "0050股價",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%B7%8C%E7%A0%B44%E8%90%AC7-%E9%83%AD%E5%93%B2%E6%A6%AE%E9%80%86%E9%A2%A8%E5%96%8A-%E8%A6%AA%E6%8F%AD%E5%B8%83%E5%B1%80%E5%90%8D%E5%96%AE-%E4%B8%8A%E7%9C%8B%E5%8D%81%E8%90%AC%E9%BB%9E-123421153.html",
-      "context": "台股跌破4萬7！郭哲榮逆風喊「親揭布局名單」上看十萬點"
-    },
-    {
-      "title": "A Design Space Exploration of Async/Await",
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "86 pts / 18 comments",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 86,
+      "traffic": "126 pts / 84 comments",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "ben shelton",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.bbc.com/sport/tennis/articles/clykzn81n4go",
+      "context": "US Open 2026 results: Ben Shelton beats Frances Tiafoe to set up final against Alexander Zverev"
+    },
+    {
+      "title": "Google no longer provides direct URLs in search results",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "89 pts / 50 comments",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Pandas Should Go Extinct",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "71 pts / 38 comments",
+      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Litelm: LiteLLM Without the Bloat",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "80 pts / 30 comments",
+      "score": 84,
+      "traffic": "110 pts / 39 comments",
       "url": "https://github.com/kennethwolters/litelm",
       "context": "High-engagement technology discussion"
     }
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "The EPA is planning to scrap public review rules for data center pollution",
+      "topic": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「The EPA is planning to scrap public review rules for data center pollution」開始升溫，我們真正該看的不是熱度",
+      "title": "當「OpenAI agents carried out an undisclosed attack on RubyGems」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The EPA is planning to scrap public review rules for data center pollution」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「OpenAI agents carried out an undisclosed attack on RubyGems」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The EPA is planning to scrap public review rules for data center pollution",
-          "url": "https://capitalbnews.org/data-centers-permit-rules-epa/"
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai/"
         }
       ]
     },
     {
-      "topic": "大樂透開獎",
+      "topic": "I spent $220 on Google app ads and 60% of the installs were robots",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「大樂透開獎」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I spent $220 on Google app ads and 60% of the installs were robots」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「大樂透開獎」推到更高的注意力位置。樂透開獎！20260911大樂透、49樂合彩、今彩539、39樂合彩、三星彩、四星彩獎號出爐。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I spent $220 on Google app ads and 60% of the installs were robots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "大樂透開獎",
-          "url": "https://news.nextapple.com/life/20260911/38C75037CB7265E76CCD4A993BAB6BB9"
+          "source": "HACKER NEWS",
+          "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+          "url": "https://dayzlegame.com/blog/google-ads-bot-farm/"
         }
       ]
     }
