@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-13T04:37:12+08:00",
+  "generated_at": "2026-09-13T07:04:11+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "We must pace the frontier",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "373 pts / 522 comments",
+      "score": 93,
+      "traffic": "473 pts / 658 comments",
       "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "267 pts / 242 comments",
+      "score": 91,
+      "traffic": "363 pts / 321 comments",
       "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "341 pts / 235 comments",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "IKEA made a mod for Skyrim [video]",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "496 pts / 128 comments",
+      "traffic": "534 pts / 140 comments",
       "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Nvidia is the central bank of AI",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "250 pts / 185 comments",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "context": "High-engagement technology discussion"
+      "title": "今彩539",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://news.nextapple.com/life/20260911/38C75037CB7265E76CCD4A993BAB6BB9",
+      "context": "樂透開獎！20260911大樂透、49樂合彩、今彩539、39樂合彩、三星彩、四星彩獎號出爐"
     },
     {
       "title": "Make your first edit to OpenStreetMap",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "148 pts / 52 comments",
+      "score": 87,
+      "traffic": "258 pts / 69 comments",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "An open letter to Dario: if you mean it, open the weights",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "188 pts / 58 comments",
-      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "聯邦銀行",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5572029",
-      "context": "蘋果「完勝」 三星！iPhone Duo做對了5件事 三星第8代至今仍未做到"
-    },
-    {
       "title": "Will There Be a 7G?",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "55 pts / 88 comments",
+      "score": 86,
+      "traffic": "69 pts / 118 comments",
       "url": "https://arxiv.org/abs/2609.01877",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "getty",
+      "title": "熱帶擾動",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.storm.mg/lifestyle/11163954",
+      "context": "明天的天氣/降溫轉雨大變天！「全台連6天大雨猛下」最濕涼時間曝， 下周氣象一次看"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "57 pts / 40 comments",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Stabilizing Rust's Never Type",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "108 pts / 18 comments",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "好市多",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-getty-images-gety-stock-050705856.html",
-      "context": "Why Getty Images (GETY) Stock Is Trading Lower Today"
+      "url": "https://fnc.ebc.net.tw/fncnews/headline/217952",
+      "context": "好市多員工洗烤箱！ 網驚見「烤雞被水淋」官方回應了"
     },
     {
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "source": "HACKER NEWS",
+      "title": "股利",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "58 pts / 18 comments",
-      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "62 pts / 14 comments",
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I made a build visualizer to understand Bun's compile times",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "45 pts / 9 comments",
-      "url": "https://lalitm.com/post/buildprof/",
-      "context": "High-engagement technology discussion"
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/7239/9750948",
+      "context": "壽險業者賣股賺價差 勝過領股利"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "IKEA made a mod for Skyrim [video]",
+      "topic": "Nvidia is the central bank of AI",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「IKEA made a mod for Skyrim [video]」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Nvidia is the central bank of AI」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「IKEA made a mod for Skyrim [video]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Nvidia is the central bank of AI」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "IKEA made a mod for Skyrim [video]",
-          "url": "https://www.youtube.com/watch?v=iZODN0QUgjI"
+          "title": "Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
         }
       ]
     }
