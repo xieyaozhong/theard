@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-12T12:40:18+08:00",
+  "generated_at": "2026-09-12T18:52:15+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "A misalignment of AI in mathematics",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "769 pts / 758 comments",
+      "score": 95,
+      "traffic": "948 pts / 909 comments",
       "url": "https://mathandai.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "491 pts / 287 comments",
-      "url": "https://www.rubyhack.ai/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "389 pts / 201 comments",
+      "score": 92,
+      "traffic": "557 pts / 294 comments",
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "吳德榮",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.news.yahoo.com/%E5%A5%BD%E5%A4%A9%E6%B0%A3%E5%80%92%E6%95%B8-%E7%AC%AC2%E6%B3%A2%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E8%A6%81%E4%BE%86%E4%BA%86-%E8%BD%89%E6%B6%BC%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89-041400705.html",
-      "context": "好天氣倒數！第2波東北季風要來了 轉涼時間曝光"
+      "title": "google.com/goto: Google's anti-scraping update",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "449 pts / 351 comments",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "亞運男籃",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E7%B1%83%E7%90%83%E3%80%8B%E4%B8%AD%E8%8F%AF%E9%9A%8A69%E6%AF%9472%E6%95%97%E7%B5%A6%E4%BC%8A%E6%9C%97-%E5%B0%8F%E7%B5%84%E8%B3%BD%E5%BD%A2%E6%88%901%E5%8B%9D1%E6%95%97-010511155.html",
-      "context": "亞運籃球》中華隊69比72敗給伊朗 小組賽形成1勝1敗"
+      "title": "Show HN: Bodily Oddities",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "258 pts / 170 comments",
+      "url": "https://vester.si/bodily-oddities/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "GrapheneOS' rewritten Messages app is released",
+      "title": "Navier-Stokes Announcement",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "226 pts / 140 comments",
-      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "traffic": "179 pts / 118 comments",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Design Space Exploration of Async/Await",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "198 pts / 43 comments",
+      "score": 88,
+      "traffic": "297 pts / 79 comments",
       "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "title": "Logo Programming",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "126 pts / 84 comments",
-      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "score": 88,
+      "traffic": "285 pts / 115 comments",
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "ben shelton",
+      "title": "油價",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://www.bbc.com/sport/tennis/articles/clykzn81n4go",
-      "context": "US Open 2026 results: Ben Shelton beats Frances Tiafoe to set up final against Alexander Zverev"
+      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E5%8E%BB%E5%8A%A0%E6%B2%B9%EF%BC%81%E4%B8%8B%E5%91%A8%E4%B8%80%E8%B5%B7%E6%B1%BD%E6%B2%B9%E6%BC%B27%E8%A7%92%E3%80%81%E6%9F%B4%E6%B2%B9%E6%BC%B26%E8%A7%92-091554831.html",
+      "context": "快去加油！下周一起汽油漲7角、柴油漲6角"
     },
     {
-      "title": "Google no longer provides direct URLs in search results",
+      "title": "IKEA made a mod for Skyrim [video]",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "89 pts / 50 comments",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "score": 85,
+      "traffic": "153 pts / 26 comments",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Pandas Should Go Extinct",
-      "source": "HACKER NEWS",
+      "title": "陈佩琪",
+      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "71 pts / 38 comments",
-      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "traffic": "1000+",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571423",
+      "context": "教第一夫人怎麼當！陳佩琪突轟賴清德太太：躲在官邸靜悄悄"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "93 pts / 11 comments",
+      "url": "https://eiln.github.io/posts/ane.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "110 pts / 39 comments",
-      "url": "https://github.com/kennethwolters/litelm",
-      "context": "High-engagement technology discussion"
+      "title": "劉任右",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.sports.yahoo.com/news/u18%E4%BA%9E%E9%9D%92-%E5%8F%B0%E6%97%A5%E7%88%AD%E9%87%91%E7%89%8C%E6%88%B0%E9%96%80%E7%A5%A8-%E5%8F%B0%E7%81%A3%E5%85%88%E7%99%BC%E6%89%93%E7%B7%9A%E5%87%BA%E7%88%90-%E5%A4%A7%E7%89%A9%E6%B8%B8%E6%93%8A%E5%BC%B5%E4%B9%99%E5%AE%89%E6%89%9B%E4%BA%8C%E6%A3%92-094900733.html",
+      "context": "U18亞青／台日爭金牌戰門票！台灣先發打線出爐 大物游擊張乙安扛二棒"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「OpenAI agents carried out an undisclosed attack on RubyGems」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenAI agents carried out an undisclosed attack on RubyGems」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-          "url": "https://www.rubyhack.ai/"
-        }
-      ]
-    },
-    {
       "topic": "I spent $220 on Google app ads and 60% of the installs were robots",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「I spent $220 on Google app ads and 60% of the installs were robots」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "I spent $220 on Google app ads and 60% of the installs were robots",
           "url": "https://dayzlegame.com/blog/google-ads-bot-farm/"
+        }
+      ]
+    },
+    {
+      "topic": "google.com/goto: Google's anti-scraping update",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「google.com/goto: Google's anti-scraping update」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「google.com/goto: Google's anti-scraping update」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "google.com/goto: Google's anti-scraping update",
+          "url": "https://www.autom.dev/blog/google-search-goto-links"
         }
       ]
     }
