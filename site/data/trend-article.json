@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-09-14T00:22:54+08:00",
+  "generated_at": "2026-09-14T04:53:31+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "455 pts / 528 comments",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "雨",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://tw.news.yahoo.com/%E6%96%B0%E9%A2%B1-%E6%9D%9C%E9%B5%91-%E6%9C%80%E5%BF%AB%E9%80%B1%E4%B8%89%E7%94%9F%E6%88%90-%E8%B7%AF%E5%BE%91%E6%9C%9D%E8%A5%BF%E5%8C%97-%E4%BE%B5%E5%8F%B0%E9%97%9C%E9%8D%B5%E6%99%82%E9%96%93%E9%BB%9E%E6%9B%9D%E5%85%89-055844912.html",
-      "context": "新颱「杜鵑」最快週三生成！路徑朝西北 侵台關鍵時間點曝光"
-    },
-    {
       "title": "JetKVM Mini",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "359 pts / 138 comments",
+      "score": 90,
+      "traffic": "473 pts / 182 comments",
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "曼聯 對 曼城",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B913-%E6%9B%BC%E5%BE%B9%E6%96%AF%E7%89%B9%E5%BE%B7%E6%AF%94%E5%85%A9%E9%9A%8A%E9%83%BD%E6%AD%90%E5%86%A0%E7%8D%B2%E5%8B%9D%E5%9B%9E%E4%BE%86-%E8%80%81%E7%89%B9%E6%8B%89%E7%A6%8F%E7%90%83%E5%A0%B4%E6%9C%89%E9%AD%94%E5%8A%9B-080202514.html",
-      "context": "足球運彩分析》9/13 曼徹斯特德比兩隊都歐冠獲勝回來 老特拉福球場有魔力"
-    },
-    {
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "title": "Why is Google still serving dodgy ads?",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "131 pts / 41 comments",
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "score": 89,
+      "traffic": "316 pts / 151 comments",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "105 pts / 29 comments",
+      "score": 89,
+      "traffic": "305 pts / 138 comments",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "man utd vs man city",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.bbc.com/sport/football/live/cmdx50vd2v2yt",
-      "context": "Premier League: Man Utd bidding to end Man City's perfect start to season"
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "286 pts / 70 comments",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "title": "Data collected by cars and sold to third parties",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "70 pts / 19 comments",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "score": 87,
+      "traffic": "185 pts / 106 comments",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "112 pts / 76 comments",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "美網",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.sports.yahoo.com/news/%E7%BE%8E%E7%B6%B2-%E7%B5%82%E7%B5%90%E8%8E%8E%E8%8A%AD%E8%93%AE%E5%8D%A119%E9%80%A3%E5%8B%9D-%E8%8A%AE%E8%8A%AD%E5%A5%87%E5%A8%9C%E9%80%86%E8%BD%89%E5%A5%AA%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%B8%89%E5%BA%A7%E5%A4%A7%E6%BB%BF%E8%B2%AB%E9%87%91%E7%9B%83-235200269.html",
+      "context": "美網／終結莎芭蓮卡19連勝 芮芭奇娜逆轉奪生涯第三座大滿貫金盃"
     },
     {
       "title": "Why is the x86 undefined instruction called ud2? Why 2?",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "43 pts / 12 comments",
+      "score": 85,
+      "traffic": "148 pts / 37 comments",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "title": "地震",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E5%9C%B0%E9%9C%87%EF%BC%810321%E8%8A%B1%E8%93%AE%E8%A6%8F%E6%A8%A147%E5%9C%B0%E9%9C%87-%E6%9C%80%E5%A4%A7%E9%9C%87%E5%BA%A64%E7%B4%9A-200902541.html",
+      "context": "地震！03:21花蓮規模4.7地震 最大震度4級"
+    },
+    {
+      "title": "Making Startups Powerful",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "44 pts / 11 comments",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "score": 84,
+      "traffic": "98 pts / 41 comments",
+      "url": "https://paulgraham.com/powerful.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "德甲",
+      "title": "us open 2026",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://m.sohu.com/a/1075509486_260616?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "context": "竞彩湃｜曼市德比蓝月亮稍占优势，拉科能否保持不败金身？"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.taipeitimes.com/News/sport/archives/2026/09/13/2003864179",
+      "context": "Tiafoe falls short of US Open final match once again"
     },
     {
-      "title": "蛋黃酥",
+      "title": "班·謝爾頓",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E8%BF%8E%E4%B8%AD%E7%A7%8B-%E7%9F%A5%E5%90%8D%E8%9B%8B%E9%BB%83%E9%85%A5-%E5%A4%A9%E8%B3%A3%E9%80%BE2%E5%8D%83%E7%9B%92-%E6%8A%AB%E8%96%A9%E5%BA%97%E8%9B%8B%E9%BB%83%E9%85%A5%E6%8E%A5%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%A8%82%E5%96%AE-052507540.html",
-      "context": "迎中秋! 知名蛋黃酥一天賣逾2千盒 披薩店蛋黃酥接台積電訂單"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.sports.yahoo.com/news/%E7%BE%8E%E7%B6%B2-%E7%B1%A4%E9%81%8B%E5%A4%A9%E5%B7%AE%E5%9C%B0%E9%81%A0-%E8%96%9B%E7%88%BE%E9%A0%93%E8%A1%80%E6%88%B0%E6%AE%BA%E9%80%B2%E6%B1%BA%E8%B3%BD-%E5%B0%8F%E7%A5%96%E7%B6%AD%E7%91%9E%E5%A4%AB%E5%9D%90%E7%AD%89%E6%94%B6%E5%86%A0-074354715.html",
+      "context": "美網/籤運天差地遠！薛爾頓血戰殺進決賽 小祖維瑞夫坐等收冠？"
     }
   ],
   "articles": [
     {
-      "topic": "Why are AI agents lying, cheating and coordinating?",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Why are AI agents lying, cheating and coordinating?」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Why are AI agents lying, cheating and coordinating?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Why are AI agents lying, cheating and coordinating?",
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
-        }
-      ]
-    },
-    {
-      "topic": "雨",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「雨」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「雨」推到更高的注意力位置。新颱「杜鵑」最快週三生成！路徑朝西北 侵台關鍵時間點曝光。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "雨",
-          "url": "https://tw.news.yahoo.com/%E6%96%B0%E9%A2%B1-%E6%9D%9C%E9%B5%91-%E6%9C%80%E5%BF%AB%E9%80%B1%E4%B8%89%E7%94%9F%E6%88%90-%E8%B7%AF%E5%BE%91%E6%9C%9D%E8%A5%BF%E5%8C%97-%E4%BE%B5%E5%8F%B0%E9%97%9C%E9%8D%B5%E6%99%82%E9%96%93%E9%BB%9E%E6%9B%9D%E5%85%89-055844912.html"
-        }
-      ]
-    },
-    {
       "topic": "JetKVM Mini",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「JetKVM Mini」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "JetKVM Mini",
           "url": "https://jetkvm.com/blog/introducing-jetkvm-mini"
+        }
+      ]
+    },
+    {
+      "topic": "Why is Google still serving dodgy ads?",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Why is Google still serving dodgy ads?」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Why is Google still serving dodgy ads?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Why is Google still serving dodgy ads?",
+          "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads"
+        }
+      ]
+    },
+    {
+      "topic": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Astra and Fable still hack on simple variants of alignment evals from 2025」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Astra and Fable still hack on simple variants of alignment evals from 2025」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+          "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment"
         }
       ]
     }
