@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-14T20:55:15+08:00",
+  "generated_at": "2026-09-15T03:51:17+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "title": "XCancel service is suspended until further notice",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1061 pts / 470 comments",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "score": 92,
+      "traffic": "254 pts / 534 comments",
+      "url": "https://xcancel.com/#",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "249 pts / 224 comments",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Steam Frame starts at $1059",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "316 pts / 159 comments",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "traffic": "269 pts / 141 comments",
+      "url": "https://store.steampowered.com/hardware/steamframe",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Spaceships (Reverse Asteroid)",
+      "title": "Pion, an agent designed to run any company autonomously",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "280 pts / 52 comments",
-      "url": "https://spaceships.treybastian.com/",
+      "score": 88,
+      "traffic": "164 pts / 153 comments",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "title": "交易",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5572824",
+      "context": "韓股明起延長交易時間到晚上8點 台股面臨調整討論"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "125 pts / 45 comments",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "traffic": "145 pts / 32 comments",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "酪梨",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E6%89%8B%E6%90%96%E6%88%B0%E9%96%8B%E6%89%93-coco%E7%B4%85%E6%9F%9A%E8%B2%B71%E9%80%811-%E9%BA%BB%E5%8F%A4%E9%96%8B%E5%BF%83%E6%9E%9C%E5%BC%B7%E5%8B%A2%E7%99%BB%E5%A0%B4-095455898.html",
-      "context": "手搖戰開打！CoCo紅柚買1送1 麻古開心果強勢登場"
-    },
-    {
-      "title": "意外事故",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E8%AD%B7%E7%90%86%E5%B8%AB%E5%81%87%E6%91%94-%E7%81%AB%E9%8D%8B%E5%BA%97%E9%95%B7%E8%A9%90%E5%82%B7-%E8%A9%90%E4%BF%9D%E5%A4%AB%E5%A6%BB%E9%A8%9912%E5%AE%B6%E6%A5%AD%E8%80%852252%E8%90%AC%E8%B5%B7%E8%A8%B4-051243365.html",
-      "context": "護理師假摔、火鍋店長詐傷 詐保夫妻騙12家業者2252萬起訴"
-    },
-    {
-      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "83 pts / 39 comments",
-      "url": "https://xcancel.com/twitter",
+      "traffic": "92 pts / 44 comments",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A 386 PC for Your RP2350",
+      "title": "Why don't machine learning research agents overfit?",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "87 pts / 25 comments",
-      "url": "https://github.com/rh1tech/frank-386",
+      "traffic": "69 pts / 34 comments",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "An atlas of periodic solutions to the three-body problem",
+      "title": "Principles for Fast Tokio Applications",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "94 pts / 16 comments",
-      "url": "https://www.threebodyorbits.com/",
+      "traffic": "104 pts / 15 comments",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "f 15e 打擊 鷹 式 戰鬥 轟炸機",
+      "title": "A Beginning for Mathematics",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "80 pts / 17 comments",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "貨幣",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://udn.com/news/story/124061/9753038",
-      "context": "遭伊朗擊落F-15飛官首受訪！墜地骨折爬2000公尺山躲藏 獲救首句僅2字"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "69 pts / 11 comments",
-      "url": "https://github.com/anuj0456/OpenArch",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Watch AI materials-science and bioscience abilities closely",
+      "title": "How my e-reader lost its stripes",
       "source": "HACKER NEWS",
       "score": 80,
-      "traffic": "28 pts / 20 comments",
-      "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+      "traffic": "56 pts / 3 comments",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "topic": "XCancel service is suspended until further notice",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher」開始升溫，我們真正該看的不是熱度",
+      "title": "當「XCancel service is suspended until further notice」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「XCancel service is suspended until further notice」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
+          "title": "XCancel service is suspended until further notice",
+          "url": "https://xcancel.com/#"
         }
       ]
     },
     {
-      "topic": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "topic": "OpenAI bots knew about the RubyGems caching vulnerability",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Registration without a phone number on Signal will use zero-knowledge proofs」開始升溫，我們真正該看的不是熱度",
+      "title": "當「OpenAI bots knew about the RubyGems caching vulnerability」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Registration without a phone number on Signal will use zero-knowledge proofs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「OpenAI bots knew about the RubyGems caching vulnerability」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-          "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
+          "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
         }
       ]
     },
     {
-      "topic": "Spaceships (Reverse Asteroid)",
+      "topic": "Steam Frame starts at $1059",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Spaceships (Reverse Asteroid)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Steam Frame starts at $1059」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Spaceships (Reverse Asteroid)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Steam Frame starts at $1059」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Spaceships (Reverse Asteroid)",
-          "url": "https://spaceships.treybastian.com/"
+          "title": "Steam Frame starts at $1059",
+          "url": "https://store.steampowered.com/hardware/steamframe"
         }
       ]
     }
