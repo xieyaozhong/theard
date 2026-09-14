@@ -1,100 +1,100 @@
 {
-  "generated_at": "2026-09-15T03:51:17+08:00",
+  "generated_at": "2026-09-15T07:53:36+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "XCancel service is suspended until further notice",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "254 pts / 534 comments",
+      "score": 93,
+      "traffic": "411 pts / 733 comments",
       "url": "https://xcancel.com/#",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "303 pts / 331 comments",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "249 pts / 224 comments",
+      "score": 91,
+      "traffic": "348 pts / 302 comments",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Steam Frame starts at $1059",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "269 pts / 141 comments",
-      "url": "https://store.steampowered.com/hardware/steamframe",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Pion, an agent designed to run any company autonomously",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "164 pts / 153 comments",
+      "score": 90,
+      "traffic": "260 pts / 268 comments",
       "url": "https://andonlabs.com/blog/why-we-built-pion",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "交易",
+      "title": "分析師",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5572824",
-      "context": "韓股明起延長交易時間到晚上8點 台股面臨調整討論"
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Distributed Systems Classics (2017)",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "145 pts / 32 comments",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "92 pts / 44 comments",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Why don't machine learning research agents overfit?",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "69 pts / 34 comments",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Principles for Fast Tokio Applications",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "104 pts / 15 comments",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "score": 88,
+      "traffic": "152 pts / 155 comments",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Beginning for Mathematics",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "80 pts / 17 comments",
+      "score": 87,
+      "traffic": "157 pts / 88 comments",
       "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "貨幣",
+      "title": "Distributed Systems Classics (2017)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "219 pts / 42 comments",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "155 pts / 39 comments",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "升息",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.ctee.com.tw/news/20260915700050-439901",
+      "context": "Fed升浪高 川普施壓- 日報"
+    },
+    {
+      "title": "銅箔",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
       "title": "How my e-reader lost its stripes",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "56 pts / 3 comments",
+      "score": 84,
+      "traffic": "137 pts / 20 comments",
       "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
       "context": "High-engagement technology discussion"
     }
@@ -137,9 +137,45 @@
       ]
     },
     {
-      "topic": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "topic": "iOS 27, iPadOS 27, and macOS 27",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
+      "title": "當「iOS 27, iPadOS 27, and macOS 27」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「iOS 27, iPadOS 27, and macOS 27」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "iOS 27, iPadOS 27, and macOS 27",
+          "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
+        }
+      ]
+    },
+    {
+      "topic": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「OpenAI bots knew about the RubyGems caching vulnerability」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "OpenAI bots knew about the RubyGems caching vulnerability",
           "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"
-        }
-      ]
-    },
-    {
-      "topic": "Steam Frame starts at $1059",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Steam Frame starts at $1059」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Steam Frame starts at $1059」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Steam Frame starts at $1059",
-          "url": "https://store.steampowered.com/hardware/steamframe"
         }
       ]
     }
