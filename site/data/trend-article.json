@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-09-16T01:03:37+08:00",
+  "generated_at": "2026-09-16T05:24:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "大 樂 透 中秋 加碼",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%A4%A7%E6%A8%82%E9%80%8F%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC-70%E7%B5%84%E7%99%BE%E8%90%AC-6000%E5%80%8B5%E5%8D%83%E5%85%83-%E5%8F%B0%E5%BD%A9%E7%B8%BD%E5%BA%A7%E8%A6%AA%E6%9B%9D%E5%8C%85%E7%89%8C%E6%94%BB%E7%95%A5-052900606.html",
-      "context": "大樂透中秋加碼「70組百萬＋6000個5千元」 台彩總座親曝包牌攻略"
-    },
-    {
       "title": "I can't stop thinking about Papua New Guinea",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "725 pts / 307 comments",
+      "score": 93,
+      "traffic": "953 pts / 382 comments",
       "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "陳建州",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E9%BB%91%E4%BA%BA%E5%82%B3%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E-%E7%B7%8A%E6%80%A5%E9%80%81%E5%BE%80%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E6%B2%BB%E7%99%82-%E8%80%81%E5%A9%86%E8%8C%83%E7%91%8B%E7%90%AA%E5%AE%88%E8%BA%AB%E6%97%81-125900346.html",
-      "context": "獨家／黑人心肌梗塞 緊急送往台大醫院治療 老婆范瑋琪守身旁"
-    },
-    {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "665 pts / 103 comments",
+      "score": 92,
+      "traffic": "1109 pts / 152 comments",
       "url": "https://github.com/arnegiacomo/fugleramme",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "dc",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/09/15/friends-missing-executive-say-she-would-never-walk-out-her-son/",
-      "context": "Friends of missing executive say she would ‘never walk out on her son’"
-    },
-    {
-      "title": "discord",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://news.sky.com/story/sharing-rockstar-emails-on-discord-was-egregious-breach-of-policy-tribunal-told-13585865",
-      "context": "Sharing Rockstar emails on Discord was 'egregious breach' of policy, tribunal told"
-    },
-    {
-      "title": "Let's make quality the norm again",
+      "title": "Introducing System One Models and Jev",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "125 pts / 133 comments",
-      "url": "https://www.forbrukerradet.no/short-life/",
+      "score": 89,
+      "traffic": "348 pts / 135 comments",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "An Update on Wayback Machine Access",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "253 pts / 126 comments",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "180 pts / 116 comments",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "144 pts / 74 comments",
+      "score": 88,
+      "traffic": "242 pts / 110 comments",
       "url": "https://withcapsule.app/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "機車 抽獎",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "費半",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "運動 部",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "102 pts / 14 comments",
-      "url": "https://bkovac.github.io/modem-thing/",
+      "score": 86,
+      "traffic": "151 pts / 61 comments",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "台積電夜盤",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Chopping up books when they're physically too big",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "63 pts / 52 comments",
+      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "清晰法案",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-09-16/detail-iniryefh6640771.d.html?vt=4&cid=76556&node_id=76556",
+      "context": "加密货币法案折戟美国参议院 比特币、以太币跌至6月以来最低"
+    },
+    {
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "53 pts / 18 comments",
+      "url": "https://github.com/GraafHenk/numberwang",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "西甲",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://sports.sina.cn/2026-09-16/detail-iniryefh6660835.d.html?vt=4&cid=72310&node_id=72310",
+      "context": "西甲第六轮瓦伦西亚客场1-0爆冷胜阿拉维斯"
     }
   ],
   "articles": [
     {
-      "topic": "大 樂 透 中秋 加碼",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「大 樂 透 中秋 加碼」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「大 樂 透 中秋 加碼」推到更高的注意力位置。大樂透中秋加碼「70組百萬＋6000個5千元」 台彩總座親曝包牌攻略。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "大 樂 透 中秋 加碼",
-          "url": "https://tw.stock.yahoo.com/news/%E5%A4%A7%E6%A8%82%E9%80%8F%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC-70%E7%B5%84%E7%99%BE%E8%90%AC-6000%E5%80%8B5%E5%8D%83%E5%85%83-%E5%8F%B0%E5%BD%A9%E7%B8%BD%E5%BA%A7%E8%A6%AA%E6%9B%9D%E5%8C%85%E7%89%8C%E6%94%BB%E7%95%A5-052900606.html"
-        }
-      ]
-    },
-    {
       "topic": "I can't stop thinking about Papua New Guinea",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「I can't stop thinking about Papua New Guinea」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "陳建州",
+      "topic": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「陳建州」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「陳建州」推到更高的注意力位置。獨家／黑人心肌梗塞 緊急送往台大醫院治療 老婆范瑋琪守身旁。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +166,45 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "陳建州",
-          "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E9%BB%91%E4%BA%BA%E5%82%B3%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E-%E7%B7%8A%E6%80%A5%E9%80%81%E5%BE%80%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E6%B2%BB%E7%99%82-%E8%80%81%E5%A9%86%E8%8C%83%E7%91%8B%E7%90%AA%E5%AE%88%E8%BA%AB%E6%97%81-125900346.html"
+          "source": "HACKER NEWS",
+          "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "url": "https://github.com/arnegiacomo/fugleramme"
+        }
+      ]
+    },
+    {
+      "topic": "Introducing System One Models and Jev",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Introducing System One Models and Jev」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Introducing System One Models and Jev」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Introducing System One Models and Jev",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
         }
       ]
     }
