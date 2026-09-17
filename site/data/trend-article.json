@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-17T19:47:19+08:00",
+  "generated_at": "2026-09-18T01:03:57+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Nvidia announces native GPU programming in Rust",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "739 pts / 304 comments",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "573 pts / 120 comments",
-      "url": "https://rohanbansal.com/qorl",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "455 pts / 122 comments",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "196 pts / 72 comments",
-      "url": "https://ryan.science/blog/keys-not-included",
+      "score": 88,
+      "traffic": "292 pts / 116 comments",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "One Year of Sponsored Servo Development",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "128 pts / 53 comments",
+      "score": 88,
+      "traffic": "281 pts / 123 comments",
       "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "source": "HACKER NEWS",
+      "title": "陳傑憲",
+      "source": "GOOGLE TRENDS / TW",
       "score": 85,
-      "traffic": "102 pts / 71 comments",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "麝香 葡萄",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5577228",
+      "context": "台灣降價了！南韓麝香葡萄雪崩近7成 農民忍痛「做1事」"
+    },
+    {
+      "title": "Rate limits on GitLab.com are changing",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "56 pts / 46 comments",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "149 pts / 37 comments",
-      "url": "https://jakeasmith.com/blog/http-build-url/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "title": "Artificial intelligence now beats some of the best human forecasters",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "70 pts / 24 comments",
-      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+      "traffic": "48 pts / 38 comments",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "OpenAI Model Misalignment Report",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "66 pts / 32 comments",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "3264",
+      "title": "旺宏",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://udn.com/news/story/7251/9761225",
-      "context": "這檔個股華麗轉型「AI 測試強權」！外資估股價還有近四成上漲空間| 股市要聞| 股市"
+      "url": "https://tw.news.yahoo.com/357%E5%84%84%E5%A4%A7%E4%BD%B5%E8%B3%BC%E8%97%8F%E5%A4%9A%E5%A4%A7%E5%95%86%E6%A9%9F-%E8%8F%AF%E9%82%A6%E9%9B%BB%E6%90%B6%E6%94%BB%E5%85%A8%E7%90%83%E7%AC%AC-%E6%B3%95%E4%BA%BA%E6%9B%9D41-%E6%BC%B2%E5%B9%85%E9%A9%9A%E4%BA%BA%E7%9B%AE%E6%A8%99%E5%83%B9-145718922.html",
+      "context": "357億大併購藏多大商機？華邦電搶攻全球第一 法人曝41%漲幅驚人目標價"
     },
     {
-      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-      "source": "HACKER NEWS",
+      "title": "電子 支付",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "68 pts / 16 comments",
-      "url": "https://news.ycombinator.com/item?id=49738879",
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Whoisinspace.com/",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "38 pts / 12 comments",
+      "url": "https://whoisinspace.com",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "陳淑芳",
+      "title": "Vinix – A modern operating system written in V",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "26 pts / 14 comments",
+      "url": "https://vinix-os.org/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "緯穎科技",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E6%8B%BF%E9%87%91%E9%A6%AC%E7%B5%82%E8%BA%AB%E6%88%90%E5%B0%B1%E7%8D%8E-87%E6%AD%B2%E9%99%B3%E6%B7%91%E8%8A%B3%E7%AA%81%E7%88%86-%E5%A4%B1%E6%A5%AD%E6%B2%92%E6%88%B2%E6%8B%8D-%E8%B1%AA%E7%A0%B85%E5%84%84%E8%90%BD%E8%85%B3%E5%8F%B0%E6%9D%B1-080300269.html",
-      "context": "拿金馬終身成就獎！87歲陳淑芳突爆「失業沒戲拍」 豪砸5億落腳台東"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "蘭香如故小說",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.news.yahoo.com/%E5%A4%A7%E5%A5%B3%E4%B8%BB-%E7%9C%8B%E8%86%A9%E4%BA%86-%E8%AD%9A%E6%9D%BE%E9%9F%BB-%E8%98%AD%E9%A6%99%E5%A6%82%E6%95%85-%E9%9D%A0-100001925.html",
+      "context": "「大女主」看膩了？譚松韻《蘭香如故》以「怕死系小女主」殺出宅鬥新路線"
     }
   ],
   "articles": [
     {
-      "topic": "Nvidia announces native GPU programming in Rust",
+      "topic": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Nvidia announces native GPU programming in Rust」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nvidia announces native GPU programming in Rust」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Nvidia announces native GPU programming in Rust",
-          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+          "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+          "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
         }
       ]
     },
     {
-      "topic": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "topic": "One Year of Sponsored Servo Development",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Training a 4B model to produce 81% faster query plans than Postgres」開始升溫，我們真正該看的不是熱度",
+      "title": "當「One Year of Sponsored Servo Development」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Training a 4B model to produce 81% faster query plans than Postgres」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「One Year of Sponsored Servo Development」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-          "url": "https://rohanbansal.com/qorl"
+          "title": "One Year of Sponsored Servo Development",
+          "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/"
         }
       ]
     },
     {
-      "topic": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "topic": "陳傑憲",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Xiaomi Mimo 2.6 live post-training dashboard」開始升溫，我們真正該看的不是熱度",
+      "title": "當「陳傑憲」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Xiaomi Mimo 2.6 live post-training dashboard」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「陳傑憲」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-          "url": "https://mimo.xiaomi.com/rl/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "陳傑憲",
+          "url": "https://trends.google.com/trending?geo=TW"
         }
       ]
     }
