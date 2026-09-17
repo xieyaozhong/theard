@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-17T12:57:27+08:00",
+  "generated_at": "2026-09-17T19:47:19+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Nvidia announces native GPU programming in Rust",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "460 pts / 161 comments",
+      "score": 92,
+      "traffic": "739 pts / 304 comments",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Small programming tricks",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "447 pts / 199 comments",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "457 pts / 94 comments",
+      "score": 90,
+      "traffic": "573 pts / 120 comments",
       "url": "https://rohanbansal.com/qorl",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "333 pts / 86 comments",
+      "score": 90,
+      "traffic": "455 pts / 122 comments",
       "url": "https://mimo.xiaomi.com/rl/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Backups Aren't Simple",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "145 pts / 74 comments",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The engineering behind the US Strategic Petroleum Reserve",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "155 pts / 58 comments",
-      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "aaa",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.elle.com/tw/entertainment/gossip/g73753474/aaa-2026-ticket-cast/",
-      "context": "2026 AAA搶票攻略快筆記！完整卡司陣容、表演日期、搶票時間、座位圖懶人包一次看"
-    },
-    {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "167 pts / 22 comments",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "yoasobi 大巨蛋",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://applealmond.com/posts/326039",
-      "context": "YOASOBI 台北大巨蛋搶票攻略：9/16 CUBE 卡友先買、9/17 實名抽選，Ticket Plus 流程一次看"
-    },
-    {
       "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "70 pts / 18 comments",
+      "score": 87,
+      "traffic": "196 pts / 72 comments",
       "url": "https://ryan.science/blog/keys-not-included",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "title": "One Year of Sponsored Servo Development",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "74 pts / 6 comments",
-      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "score": 85,
+      "traffic": "128 pts / 53 comments",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Developing provably correct Rust code with Verus",
+      "title": "GLM Built Its Own Inference Infrastructure",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "59 pts / 9 comments",
-      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "score": 85,
+      "traffic": "102 pts / 71 comments",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "149 pts / 37 comments",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "70 pts / 24 comments",
+      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "OpenAI Model Misalignment Report",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "66 pts / 32 comments",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "3264",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/7251/9761225",
+      "context": "這檔個股華麗轉型「AI 測試強權」！外資估股價還有近四成上漲空間| 股市要聞| 股市"
+    },
+    {
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "68 pts / 16 comments",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "陳淑芳",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.news.yahoo.com/%E6%8B%BF%E9%87%91%E9%A6%AC%E7%B5%82%E8%BA%AB%E6%88%90%E5%B0%B1%E7%8D%8E-87%E6%AD%B2%E9%99%B3%E6%B7%91%E8%8A%B3%E7%AA%81%E7%88%86-%E5%A4%B1%E6%A5%AD%E6%B2%92%E6%88%B2%E6%8B%8D-%E8%B1%AA%E7%A0%B85%E5%84%84%E8%90%BD%E8%85%B3%E5%8F%B0%E6%9D%B1-080300269.html",
+      "context": "拿金馬終身成就獎！87歲陳淑芳突爆「失業沒戲拍」 豪砸5億落腳台東"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "Small programming tricks",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Small programming tricks」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Small programming tricks」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Small programming tricks",
-          "url": "https://will-keleher.com/posts/small-programming-tricks-matter/"
-        }
-      ]
-    },
-    {
       "topic": "Training a 4B model to produce 81% faster query plans than Postgres",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Training a 4B model to produce 81% faster query plans than Postgres」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Training a 4B model to produce 81% faster query plans than Postgres",
           "url": "https://rohanbansal.com/qorl"
+        }
+      ]
+    },
+    {
+      "topic": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Xiaomi Mimo 2.6 live post-training dashboard」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Xiaomi Mimo 2.6 live post-training dashboard」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+          "url": "https://mimo.xiaomi.com/rl/"
         }
       ]
     }
