@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-09-17T05:21:38+08:00",
+  "generated_at": "2026-09-17T12:57:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "460 pts / 161 comments",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "context": "High-engagement technology discussion"
+    },
+    {
       "title": "Small programming tricks",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "287 pts / 151 comments",
+      "score": 90,
+      "traffic": "447 pts / 199 comments",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "200 pts / 31 comments",
+      "score": 89,
+      "traffic": "457 pts / 94 comments",
       "url": "https://rohanbansal.com/qorl",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "163 pts / 48 comments",
-      "url": "https://arxiv.org/abs/2609.14858",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Vectorized and performance-portable Quicksort (2022)",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "151 pts / 24 comments",
-      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "道瓊",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/fed%E5%8D%87%E6%81%AF%E5%80%92%E6%95%B8-%E5%B8%82%E5%A0%B4%E6%8A%BC%E6%B3%A8%E7%A9%BA%E5%96%AE%E5%B7%B2%E5%88%B0%E6%A5%B5%E7%AB%AF-%E7%B6%B2%E5%96%8A-%E6%BA%96%E5%82%99%E8%BB%8B%E7%88%86-080000987.html",
-      "context": "Fed升息倒數！市場押注空單已到極端 網喊：準備軋爆"
-    },
-    {
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 25 comments",
+      "score": 88,
+      "traffic": "333 pts / 86 comments",
       "url": "https://mimo.xiaomi.com/rl/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "資本 利得",
+      "title": "Backups Aren't Simple",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "145 pts / 74 comments",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "155 pts / 58 comments",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "aaa",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.elle.com/tw/entertainment/gossip/g73753474/aaa-2026-ticket-cast/",
+      "context": "2026 AAA搶票攻略快筆記！完整卡司陣容、表演日期、搶票時間、座位圖懶人包一次看"
+    },
+    {
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "167 pts / 22 comments",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "yoasobi 大巨蛋",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://applealmond.com/posts/326039",
+      "context": "YOASOBI 台北大巨蛋搶票攻略：9/16 CUBE 卡友先買、9/17 實名抽選，Ticket Plus 流程一次看"
     },
     {
-      "title": "macOS 27 Golden Gate – Review",
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "70 pts / 18 comments",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "38 pts / 21 comments",
-      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "traffic": "74 pts / 6 comments",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Reversing Factorio's RNG",
+      "title": "Developing provably correct Rust code with Verus",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "52 pts / 5 comments",
-      "url": "https://gegell.github.io/posts/factorio-rng/",
+      "score": 81,
+      "traffic": "59 pts / 9 comments",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How good are frontier models at physics?",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "37 pts / 12 comments",
-      "url": "https://arxiv.org/abs/2609.13009",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Anatomy of a Texture",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "46 pts / 9 comments",
-      "url": "https://agentlien.github.io/texture/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "曼聯 對 布萊頓",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Small programming tricks",
+      "topic": "Nvidia announces native GPU programming in Rust",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Nvidia announces native GPU programming in Rust」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Nvidia announces native GPU programming in Rust」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Nvidia announces native GPU programming in Rust",
+          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+        }
+      ]
+    },
+    {
+      "topic": "Small programming tricks",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Small programming tricks」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -139,7 +175,7 @@
     {
       "topic": "Training a 4B model to produce 81% faster query plans than Postgres",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Training a 4B model to produce 81% faster query plans than Postgres」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Training a 4B model to produce 81% faster query plans than Postgres",
           "url": "https://rohanbansal.com/qorl"
-        }
-      ]
-    },
-    {
-      "topic": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Dream-RSI: Recursive Self-Improvement through Evolving Worlds」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Dream-RSI: Recursive Self-Improvement through Evolving Worlds」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-          "url": "https://arxiv.org/abs/2609.14858"
         }
       ]
     }
