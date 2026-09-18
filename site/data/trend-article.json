@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-09-19T00:28:21+08:00",
+  "generated_at": "2026-09-19T04:56:49+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "大 樂 透 中秋",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F%E9%96%8B%E7%8D%8E%E4%BA%86%EF%BC%81918%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E3%80%81%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC%E7%99%BE%E8%90%AC%E7%8D%8E%E3%80%815000%E5%85%83%E7%B4%85%E5%8C%85%E5%87%BA%E7%88%90-100%E7%B5%84100%E8%90%AC%E5%85%83%E5%89%A960%E7%B5%84-%E5%A4%A7%E6%A8%82%E9%80%8F%E7%9B%B4%E6%92%AD%E3%80%81%E4%B8%AD%E7%8D%8E%E6%80%8E%E9%BA%BC%E7%9C%8B%E3%80%81%E5%A6%82%E4%BD%95%E9%A0%98%E4%B8%80%E6%AC%A1%E7%9C%8B-080000989.html",
-      "context": "大樂透開獎了！9/18中獎號碼、中秋加碼百萬獎、5000元紅包出爐100組100萬元剩60組大樂透直播、中獎怎麼看、如何領一次看"
-    },
-    {
-      "title": "I don't like passkeys",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "461 pts / 431 comments",
-      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "OpenJev",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "354 pts / 194 comments",
+      "score": 91,
+      "traffic": "487 pts / 233 comments",
       "url": "https://openjev.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Cloudflare Quick Tunnels",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "122 pts / 71 comments",
+      "score": 90,
+      "traffic": "436 pts / 194 comments",
       "url": "https://try.cloudflare.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "勝騎士",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E5%B9%B3%E9%87%8E%E5%93%B2%E5%AD%B8-%E7%99%BC%E9%85%B5-%E5%BD%A2%E5%A1%91%E4%B8%8D%E8%86%BD%E6%80%AF%E7%9A%84%E5%85%84%E5%BC%9F%E8%B6%85%E6%96%B0%E6%98%9F-150830512.html",
-      "context": "中職》「平野哲學」發酵！ 形塑不膽怯的兄弟超新星"
-    },
-    {
-      "title": "蔡 小虎",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5578252",
-      "context": "昔賣豬肉闖五燈獎！白冰冰曝蔡小虎往事秘辛 陽帆喊改行"
-    },
-    {
-      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "144 pts / 31 comments",
-      "url": "https://arxiv.org/abs/2609.20804",
+      "score": 88,
+      "traffic": "214 pts / 99 comments",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "aaa",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.instant-gaming.com/en/articles/21980-bruce-straley-former-game-director-at-naughty-dog-finds-aaa-games-like-god-of-war-laufey-boring?utm_source=igStore&utm_campaign=home",
-      "context": "Bruce Straley, former game director at Naughty Dog, finds AAA games like God of War: Laufey boring"
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "113 pts / 142 comments",
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "North Korean nuclear test sets off years of earthquakes",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "120 pts / 60 comments",
+      "url": "https://cactuscompute.com/needle",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "119 pts / 24 comments",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "116 pts / 35 comments",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "54 pts / 41 comments",
-      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "traffic": "69 pts / 34 comments",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Shadows Lurking in the Equations – Underwater Islands",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "42 pts / 8 comments",
-      "url": "https://gods.art/articles/equation_shadows",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "NATS publishes preliminary report on technical incident of 8 September",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "27 pts / 16 comments",
-      "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "哈根達斯",
+      "title": "八重山丸",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E5%93%88%E6%A0%B9%E9%81%94%E6%96%AF%E8%B2%B4%E5%9C%A8%E5%93%AA-%E7%B6%B2%E5%8F%8B%E7%BF%BB%E6%88%90%E5%88%86%E8%A1%A8-%E7%99%BC%E7%8F%BE%E7%9C%9F%E7%9B%B8-%E9%80%A3%E9%86%AB%E5%B8%AB%E4%B9%9F%E5%94%AF-%E6%8C%87%E5%90%8D-133300437.html",
-      "context": "哈根達斯貴在哪？網友翻成分表「發現真相」 連醫師也唯一指名"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E9%96%8B%E8%88%AA%E5%83%854%E5%80%8B%E6%9C%88-%E5%9F%BA%E9%9A%86%E8%87%B3%E7%9F%B3%E5%9E%A3%E5%B3%B6%E6%B8%A1%E8%BC%AA10%E6%9C%88%E8%B5%B7%E6%9A%AB%E5%81%9C%E7%87%9F%E9%81%8B-124200075.html",
+      "context": "開航僅4個月！基隆至石垣島渡輪10月起暫停營運"
+    },
+    {
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "80 pts / 14 comments",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The first new cat species discovered in 100 years",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "63 pts / 17 comments",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "38 pts / 8 comments",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "大 樂 透 中秋",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「大 樂 透 中秋」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「大 樂 透 中秋」推到更高的注意力位置。大樂透開獎了！9/18中獎號碼、中秋加碼百萬獎、5000元紅包出爐100組100萬元剩60組大樂透直播、中獎怎麼看、如何領一次看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "大 樂 透 中秋",
-          "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F%E9%96%8B%E7%8D%8E%E4%BA%86%EF%BC%81918%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E3%80%81%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC%E7%99%BE%E8%90%AC%E7%8D%8E%E3%80%815000%E5%85%83%E7%B4%85%E5%8C%85%E5%87%BA%E7%88%90-100%E7%B5%84100%E8%90%AC%E5%85%83%E5%89%A960%E7%B5%84-%E5%A4%A7%E6%A8%82%E9%80%8F%E7%9B%B4%E6%92%AD%E3%80%81%E4%B8%AD%E7%8D%8E%E6%80%8E%E9%BA%BC%E7%9C%8B%E3%80%81%E5%A6%82%E4%BD%95%E9%A0%98%E4%B8%80%E6%AC%A1%E7%9C%8B-080000989.html"
-        }
-      ]
-    },
-    {
-      "topic": "I don't like passkeys",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「I don't like passkeys」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I don't like passkeys」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "I don't like passkeys",
-          "url": "https://hawksley.dev/blog/i-dont-like-passkeys"
-        }
-      ]
-    },
-    {
       "topic": "OpenJev",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「OpenJev」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "OpenJev",
           "url": "https://openjev.com/"
+        }
+      ]
+    },
+    {
+      "topic": "Cloudflare Quick Tunnels",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Cloudflare Quick Tunnels」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Cloudflare Quick Tunnels」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Cloudflare Quick Tunnels",
+          "url": "https://try.cloudflare.com/"
+        }
+      ]
+    },
+    {
+      "topic": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
         }
       ]
     }
