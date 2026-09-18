@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-09-18T05:26:14+08:00",
+  "generated_at": "2026-09-18T12:48:58+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "Astra for Law",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "397 pts / 429 comments",
+      "url": "https://openai.com/index/astra-for-law/",
+      "context": "High-engagement technology discussion"
+    },
+    {
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "452 pts / 164 comments",
+      "score": 91,
+      "traffic": "542 pts / 205 comments",
       "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "364 pts / 184 comments",
+      "url": "https://bend-lang.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "338 pts / 110 comments",
+      "score": 90,
+      "traffic": "520 pts / 140 comments",
       "url": "https://github.com/asciimoo/hister",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "173 pts / 219 comments",
-      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "traffic": "317 pts / 106 comments",
+      "url": "https://prismml.com/news/bonsai-2-27b",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Rate limits on GitLab.com are changing",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "122 pts / 98 comments",
-      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Astra for Law",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "119 pts / 85 comments",
-      "url": "https://openai.com/index/astra-for-law/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Everybody's Lost Their Minds",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "139 pts / 56 comments",
-      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "凱爾·塔克",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/mlb-%E5%A1%94%E5%85%8B4%E5%AE%89%E9%90%B5%E6%94%AF-%E9%81%93%E5%A5%872%E4%BA%BA%E9%96%8B%E8%BD%9F%E5%A4%A7%E5%8B%9D%E7%B4%85%E4%BA%BA-%E9%80%A35%E5%B9%B4-14%E5%B9%B4%E7%AC%AC13%E5%BA%A6%E5%A5%AA%E5%9C%8B%E8%A5%BF%E5%86%A0%E8%BB%8D-205100696.html",
-      "context": "MLB／塔克4安鐵支！道奇2人開轟大勝紅人 連5年、14年第13度奪國西冠軍"
-    },
-    {
-      "title": "陳傑憲",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E9%99%B3%E5%82%91%E6%86%B2%E9%9B%A2%E5%A5%87%E6%8E%A5%E7%90%83%E5%A4%B1%E8%AA%A4%E9%87%80%E5%A4%A7%E7%A6%8D-%E9%A4%85%E7%B8%BD%E7%84%A1%E8%A8%80%E8%BD%89%E8%BA%AB%E9%9B%A2%E9%96%8B-130858347.html",
-      "context": "中職》陳傑憲離奇接球失誤釀大禍 餅總無言轉身離開"
-    },
-    {
-      "title": "Towards Self-Driving Codebases",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "74 pts / 63 comments",
-      "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "緯穎科技",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.aboutamazon.com/news/company-news/amazon-wiwynn-data-center-manufacturing-jobs-texas",
-      "context": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs"
-    },
-    {
-      "title": "麝香 葡萄",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5577228",
-      "context": "台灣降價了！南韓麝香葡萄雪崩近7成 農民忍痛「做1事」"
     },
     {
       "title": "Wax motor",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "120 pts / 22 comments",
+      "score": 88,
+      "traffic": "304 pts / 57 comments",
       "url": "https://en.wikipedia.org/wiki/Wax_motor",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "老農 津貼",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Hacking OpenAI",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "114 pts / 33 comments",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "107 pts / 24 comments",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "nba",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/kawhi-leonard-clippers-nba-justice-department.html",
+      "context": "Justice Dept. Opens Inquiry Into Clippers’ Dealings With Star Player"
+    },
+    {
+      "title": "柯志恩",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/124652/9762826",
+      "context": "影／蔣萬安、沈伯洋周末高雄拚場 陳其邁點名要「他」多走走看看"
+    },
+    {
+      "title": "2449",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "topic": "Astra for Law",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Astra for Law」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Astra for Law」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Astra for Law",
+          "url": "https://openai.com/index/astra-for-law/"
+        }
+      ]
+    },
+    {
+      "topic": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -137,51 +173,15 @@
       ]
     },
     {
-      "topic": "Hister: A private search engine for the pages you visit and the files you keep",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Hister: A private search engine for the pages you visit and the files you keep」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Hister: A private search engine for the pages you visit and the files you keep」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Hister: A private search engine for the pages you visit and the files you keep",
-          "url": "https://github.com/asciimoo/hister"
-        }
-      ]
-    },
-    {
-      "topic": "Why I didn’t sign the Fields medallists’ letter",
+      "topic": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Why I didn’t sign the Fields medallists’ letter」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Bend – A language that blocks AI mistakes via proof, on CPU and GPU」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Why I didn’t sign the Fields medallists’ letter」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Bend – A language that blocks AI mistakes via proof, on CPU and GPU」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Why I didn’t sign the Fields medallists’ letter",
-          "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/"
+          "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+          "url": "https://bend-lang.com/"
         }
       ]
     }
