@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-09-19T04:56:49+08:00",
+  "generated_at": "2026-09-19T07:20:09+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "516 pts / 222 comments",
+      "url": "https://try.cloudflare.com/",
+      "context": "High-engagement technology discussion"
+    },
     {
       "title": "OpenJev",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "487 pts / 233 comments",
+      "traffic": "527 pts / 238 comments",
       "url": "https://openjev.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Cloudflare Quick Tunnels",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "436 pts / 194 comments",
-      "url": "https://try.cloudflare.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "214 pts / 99 comments",
+      "score": 90,
+      "traffic": "407 pts / 188 comments",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "title": "How to Write with an LLM",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "113 pts / 142 comments",
-      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "score": 90,
+      "traffic": "356 pts / 245 comments",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "357 pts / 135 comments",
+      "url": "https://code.claude.com/docs/en/changelog",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "120 pts / 60 comments",
+      "score": 86,
+      "traffic": "151 pts / 72 comments",
       "url": "https://cactuscompute.com/needle",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Korea raises data breach fines to 10% of revenue",
+      "title": "日本",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E6%97%A5%E9%8A%80%E5%8D%87%E6%81%AF%E4%B8%80%E7%A2%BC%E8%87%B3125-%E5%89%B531%E5%B9%B4%E6%96%B0%E9%AB%98-%E6%97%A5%E9%8A%80%E7%B8%BD%E8%A3%81%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E9%80%A3%E7%BA%8C%E6%88%96%E6%93%B4%E5%A4%A7%E5%8D%87%E6%81%AF-032756834.html",
+      "context": "日銀升息一碼至1.25% 創31年新高 日銀總裁：不排除連續或擴大升息"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "119 pts / 24 comments",
-      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "score": 85,
+      "traffic": "174 pts / 33 comments",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Xcode 27.1 Beta Release Notes",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "103 pts / 58 comments",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "116 pts / 35 comments",
+      "score": 85,
+      "traffic": "139 pts / 45 comments",
       "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "69 pts / 34 comments",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "traffic": "70 pts / 24 comments",
+      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "八重山丸",
+      "title": "新聞",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E9%96%8B%E8%88%AA%E5%83%854%E5%80%8B%E6%9C%88-%E5%9F%BA%E9%9A%86%E8%87%B3%E7%9F%B3%E5%9E%A3%E5%B3%B6%E6%B8%A1%E8%BC%AA10%E6%9C%88%E8%B5%B7%E6%9A%AB%E5%81%9C%E7%87%9F%E9%81%8B-124200075.html",
-      "context": "開航僅4個月！基隆至石垣島渡輪10月起暫停營運"
-    },
-    {
-      "title": "Saving another 100TB of RAM with math (and Rust)",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "80 pts / 14 comments",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The first new cat species discovered in 100 years",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "63 pts / 17 comments",
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "38 pts / 8 comments",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "context": "High-engagement technology discussion"
+      "url": "https://www.kyoto-np.co.jp/articles/-/1793707",
+      "context": "米高官、希土類と引き換えの管理緩和を否定"
     }
   ],
   "articles": [
     {
-      "topic": "OpenJev",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「OpenJev」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenJev」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "OpenJev",
-          "url": "https://openjev.com/"
-        }
-      ]
-    },
-    {
       "topic": "Cloudflare Quick Tunnels",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Cloudflare Quick Tunnels」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,6 +133,42 @@
           "source": "HACKER NEWS",
           "title": "Cloudflare Quick Tunnels",
           "url": "https://try.cloudflare.com/"
+        }
+      ]
+    },
+    {
+      "topic": "OpenJev",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「OpenJev」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「OpenJev」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "OpenJev",
+          "url": "https://openjev.com/"
         }
       ]
     },
