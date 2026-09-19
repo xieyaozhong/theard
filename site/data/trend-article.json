@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-09-19T07:20:09+08:00",
+  "generated_at": "2026-09-19T12:42:00+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Cloudflare Quick Tunnels",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "516 pts / 222 comments",
-      "url": "https://try.cloudflare.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenJev",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "527 pts / 238 comments",
-      "url": "https://openjev.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "407 pts / 188 comments",
+      "score": 92,
+      "traffic": "674 pts / 322 comments",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "634 pts / 263 comments",
+      "url": "https://try.cloudflare.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "How to Write with an LLM",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "356 pts / 245 comments",
+      "score": 91,
+      "traffic": "435 pts / 294 comments",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "357 pts / 135 comments",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "151 pts / 72 comments",
-      "url": "https://cactuscompute.com/needle",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "日本",
+      "title": "mlb",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E6%97%A5%E9%8A%80%E5%8D%87%E6%81%AF%E4%B8%80%E7%A2%BC%E8%87%B3125-%E5%89%B531%E5%B9%B4%E6%96%B0%E9%AB%98-%E6%97%A5%E9%8A%80%E7%B8%BD%E8%A3%81%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E9%80%A3%E7%BA%8C%E6%88%96%E6%93%B4%E5%A4%A7%E5%8D%87%E6%81%AF-032756834.html",
-      "context": "日銀升息一碼至1.25% 創31年新高 日銀總裁：不排除連續或擴大升息"
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://www.taipeitimes.com/News/sport/archives/2026/09/17/2003864405",
+      "context": "Taiwan’s Lee slams 9th homer of year"
     },
     {
       "title": "Saving another 100TB of RAM",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "174 pts / 33 comments",
+      "score": 87,
+      "traffic": "278 pts / 58 comments",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Xcode 27.1 Beta Release Notes",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "103 pts / 58 comments",
+      "score": 86,
+      "traffic": "126 pts / 75 comments",
       "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "title": "紅包",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "ibon",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%B6%85%E5%95%86%E9%A3%86%E7%BD%B5%E5%BA%97%E5%93%A1%E5%90%B8183%E8%90%AC%E6%AC%A1%E9%BB%9E%E9%96%B1-%E5%A5%B3%E9%A1%A7%E5%AE%A2%E5%8F%8B%E4%BA%BA-%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8-%E8%A6%81%E6%B1%82%E5%8E%9Fpo%E4%B8%8B%E6%9E%B6%E9%81%93%E6%AD%89-042300294.html",
+      "context": "高雄超商飆罵店員吸183萬次點閱！女顧客友人「還原真相」要求原PO下架道歉"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "139 pts / 45 comments",
-      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "traffic": "81 pts / 67 comments",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "70 pts / 24 comments",
-      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+      "score": 82,
+      "traffic": "26 pts / 31 comments",
+      "url": "https://liveworld.info/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "新聞",
+      "title": "Science Is Open Software",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "39 pts / 15 comments",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "劉若英",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.kyoto-np.co.jp/articles/-/1793707",
-      "context": "米高官、希土類と引き換えの管理緩和を否定"
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Cloudflare Quick Tunnels",
+      "topic": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+        }
+      ]
+    },
+    {
+      "topic": "Cloudflare Quick Tunnels",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Cloudflare Quick Tunnels」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -137,51 +173,15 @@
       ]
     },
     {
-      "topic": "OpenJev",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「OpenJev」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenJev」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "OpenJev",
-          "url": "https://openjev.com/"
-        }
-      ]
-    },
-    {
-      "topic": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "topic": "How to Write with an LLM",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」開始升溫，我們真正該看的不是熱度",
+      "title": "當「How to Write with an LLM」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「How to Write with an LLM」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+          "title": "How to Write with an LLM",
+          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
         }
       ]
     }
