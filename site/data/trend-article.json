@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-19T23:55:34+08:00",
+  "generated_at": "2026-09-20T04:45:04+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "962 pts / 529 comments",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "AI-generated posters don’t have to be horrible",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "670 pts / 396 comments",
+      "score": 94,
+      "traffic": "1132 pts / 628 comments",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "459 pts / 170 comments",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "score": 94,
+      "traffic": "1074 pts / 625 comments",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Laya the open source version of Jev",
+      "title": "I built non-autoregressive decision models with RL a year ago",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "435 pts / 101 comments",
+      "score": 92,
+      "traffic": "889 pts / 217 comments",
       "url": "https://laya.convaiinnovations.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "581 pts / 221 comments",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "context": "High-engagement technology discussion"
     },
     {
@@ -39,23 +39,23 @@
       "source": "GOOGLE TRENDS / TW",
       "score": 88,
       "traffic": "5000+",
-      "url": "https://tw.stock.yahoo.com/news/%E9%80%B1%E6%9C%AB%E5%A4%9C%E4%BE%86%E5%B0%8D%E7%8D%8E-%E4%BB%8A%E5%BD%A9539%E9%96%8B%E7%8D%8E%E8%99%9F%E7%A2%BC%E6%8F%AD%E6%9B%89-800%E8%90%AC%E9%A0%AD%E7%8D%8E%E7%AD%89%E4%BD%A0%E6%8B%BF-133000038.html",
-      "context": "週末夜來對獎！今彩539開獎號碼揭曉 800萬頭獎等你拿"
+      "url": "https://news.ttv.com.tw/news/11509190002400W",
+      "context": "今彩539八百萬頭獎送出3組！ 獎落這3縣市"
     },
     {
-      "title": "San Francisco Onion Futures Company",
+      "title": "The Secret Life of Circuits",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "287 pts / 103 comments",
-      "url": "https://onionfutures.com/",
+      "score": 87,
+      "traffic": "252 pts / 65 comments",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "“The Secret Life of Circuits” is here",
+      "title": "Tin: full-text search for Postgres",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "172 pts / 43 comments",
-      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "traffic": "148 pts / 64 comments",
+      "url": "https://planetscale.com/blog/introducing-tin",
       "context": "High-engagement technology discussion"
     },
     {
@@ -63,32 +63,24 @@
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://giaoducthudo.giaoducthoidai.vn/xsmn-19-9-ket-qua-xo-so-mien-nam-hom-nay-ngay-19-9-2026-222421.html",
-      "context": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay ngày 19/9/2026"
-    },
-    {
-      "title": "What Zig felt like, coming from Rust",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "79 pts / 68 comments",
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "context": "High-engagement technology discussion"
+      "url": "https://antt.nguoiduatin.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-19-9-2026-205260918222542149.htm",
+      "context": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026"
     },
     {
       "title": "六合彩",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://global.hk01.com/%E7%83%AD%E7%88%86%E8%AF%9D%E9%A2%98/60391673/%E5%85%AD%E5%90%88%E5%BD%A99-22%E5%A4%B4%E5%A5%961000%E4%B8%87-6%E4%B8%AA%E6%9C%80%E6%97%BA%E5%8F%B7%E7%A0%81-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E5%A5%96%E6%9C%BA%E4%BC%9A",
-      "context": "六合彩9.22头奖1000万｜6个最旺号码+2招增中奖机会"
+      "url": "https://www.businesstimes.com.hk/articles/342794/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-9%E6%9C%8817%E6%97%A5-%E9%A0%AD%E7%8D%8E%E4%BA%8C%E7%8D%8E%E4%B8%89%E7%8D%8E-%E9%A6%AC%E4%B8%8A%E6%A0%B8%E5%B0%8D%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC/",
+      "context": "六合彩結果 ｜ 9月17日 二獎1注、三獎60注中：馬上核對中獎號碼"
     },
     {
-      "title": "中秋連假",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "64 pts / 48 comments",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "蘭香如故",
@@ -97,49 +89,21 @@
       "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
+    },
+    {
+      "title": "cpbl",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E9%BE%8D%E9%9A%8A%E8%87%B4%E5%91%BD%E7%89%BD%E5%88%B6%E5%A4%B1%E8%AA%A4-%E4%B8%AD%E4%BF%A1%E5%85%84%E5%BC%9F%E9%80%A3%E5%85%A9%E5%A4%A9%E5%BB%B6%E9%95%B7%E8%B3%BD%E8%AA%AA%E5%86%8D%E8%A6%8B-6%E9%80%A3%E5%8B%9D%E5%88%B0%E6%89%8B-115628922.html",
+      "context": "中職》龍隊致命牽制失誤！中信兄弟連兩天延長賽說再見 6連勝到手"
     }
   ],
   "articles": [
     {
-      "topic": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
-        }
-      ]
-    },
-    {
       "topic": "AI-generated posters don’t have to be horrible",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「AI-generated posters don’t have to be horrible」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "topic": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Human brain is two separate organs, Stanford Medicine-led research finds」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Human brain is two separate organs, Stanford Medicine-led research finds」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Android 17 is the first since 3.x to add new APIs without releasing to the AOSP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-          "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+        }
+      ]
+    },
+    {
+      "topic": "I built non-autoregressive decision models with RL a year ago",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「I built non-autoregressive decision models with RL a year ago」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「I built non-autoregressive decision models with RL a year ago」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "I built non-autoregressive decision models with RL a year ago",
+          "url": "https://laya.convaiinnovations.com/"
         }
       ]
     }
