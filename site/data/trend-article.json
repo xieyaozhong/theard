@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-19T12:42:00+08:00",
+  "generated_at": "2026-09-19T19:05:35+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "674 pts / 322 comments",
+      "score": 93,
+      "traffic": "861 pts / 433 comments",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": "Cloudflare Quick Tunnels",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "634 pts / 263 comments",
+      "traffic": "714 pts / 285 comments",
       "url": "https://try.cloudflare.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "How to Write with an LLM",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "435 pts / 294 comments",
+      "score": 92,
+      "traffic": "497 pts / 337 comments",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "mlb",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "5000+",
-      "url": "https://www.taipeitimes.com/News/sport/archives/2026/09/17/2003864405",
-      "context": "Taiwan’s Lee slams 9th homer of year"
+      "traffic": "264 pts / 107 comments",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Saving another 100TB of RAM",
+      "title": "AI-generated posters don’t have to be horrible",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "278 pts / 58 comments",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "traffic": "151 pts / 102 comments",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Xcode 27.1 Beta Release Notes",
+      "title": "San Francisco Onion Futures Company",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "204 pts / 72 comments",
+      "url": "https://onionfutures.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "126 pts / 75 comments",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "traffic": "116 pts / 83 comments",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "紅包",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "ibon",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%B6%85%E5%95%86%E9%A3%86%E7%BD%B5%E5%BA%97%E5%93%A1%E5%90%B8183%E8%90%AC%E6%AC%A1%E9%BB%9E%E9%96%B1-%E5%A5%B3%E9%A1%A7%E5%AE%A2%E5%8F%8B%E4%BA%BA-%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8-%E8%A6%81%E6%B1%82%E5%8E%9Fpo%E4%B8%8B%E6%9E%B6%E9%81%93%E6%AD%89-042300294.html",
-      "context": "高雄超商飆罵店員吸183萬次點閱！女顧客友人「還原真相」要求原PO下架道歉"
-    },
-    {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "81 pts / 67 comments",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "score": 86,
+      "traffic": "133 pts / 64 comments",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "title": "xsmb",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-9-cay-ve-trung-392-ti-dong-xuat-hien-som-185260919102522842.htm",
+      "context": "Xổ số miền Nam ngày 19 tháng 9: Cây vé trúng 39,2 tỉ đồng xuất hiện sớm"
+    },
+    {
+      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "26 pts / 31 comments",
-      "url": "https://liveworld.info/",
+      "score": 84,
+      "traffic": "71 pts / 49 comments",
+      "url": "https://browser.geekbench.com/v7/cpu/389219",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Science Is Open Software",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "39 pts / 15 comments",
+      "score": 84,
+      "traffic": "100 pts / 39 comments",
       "url": "https://jepedersen.dk/blog/202505_research/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "劉若英",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "SDCC – Small Device C Compiler",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "90 pts / 18 comments",
+      "url": "https://sdcc.sourceforge.net/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
