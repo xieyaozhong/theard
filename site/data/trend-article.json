@@ -1,69 +1,61 @@
 {
-  "generated_at": "2026-09-19T19:05:35+08:00",
+  "generated_at": "2026-09-19T23:55:34+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "861 pts / 433 comments",
+      "score": 94,
+      "traffic": "962 pts / 529 comments",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Cloudflare Quick Tunnels",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "714 pts / 285 comments",
-      "url": "https://try.cloudflare.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How to Write with an LLM",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "497 pts / 337 comments",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "264 pts / 107 comments",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AI-generated posters don’t have to be horrible",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "151 pts / 102 comments",
+      "score": 92,
+      "traffic": "670 pts / 396 comments",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "context": "High-engagement technology discussion"
     },
     {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "459 pts / 170 comments",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Laya the open source version of Jev",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "435 pts / 101 comments",
+      "url": "https://laya.convaiinnovations.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "539",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.stock.yahoo.com/news/%E9%80%B1%E6%9C%AB%E5%A4%9C%E4%BE%86%E5%B0%8D%E7%8D%8E-%E4%BB%8A%E5%BD%A9539%E9%96%8B%E7%8D%8E%E8%99%9F%E7%A2%BC%E6%8F%AD%E6%9B%89-800%E8%90%AC%E9%A0%AD%E7%8D%8E%E7%AD%89%E4%BD%A0%E6%8B%BF-133000038.html",
+      "context": "週末夜來對獎！今彩539開獎號碼揭曉 800萬頭獎等你拿"
+    },
+    {
       "title": "San Francisco Onion Futures Company",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "204 pts / 72 comments",
+      "score": 88,
+      "traffic": "287 pts / 103 comments",
       "url": "https://onionfutures.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "title": "“The Secret Life of Circuits” is here",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "116 pts / 83 comments",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "133 pts / 64 comments",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "traffic": "172 pts / 43 comments",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
       "context": "High-engagement technology discussion"
     },
     {
@@ -71,32 +63,40 @@
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-9-cay-ve-trung-392-ti-dong-xuat-hien-som-185260919102522842.htm",
-      "context": "Xổ số miền Nam ngày 19 tháng 9: Cây vé trúng 39,2 tỉ đồng xuất hiện sớm"
+      "url": "https://giaoducthudo.giaoducthoidai.vn/xsmn-19-9-ket-qua-xo-so-mien-nam-hom-nay-ngay-19-9-2026-222421.html",
+      "context": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay ngày 19/9/2026"
     },
     {
-      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+      "title": "What Zig felt like, coming from Rust",
       "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "79 pts / 68 comments",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "六合彩",
+      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "71 pts / 49 comments",
-      "url": "https://browser.geekbench.com/v7/cpu/389219",
-      "context": "High-engagement technology discussion"
+      "traffic": "1000+",
+      "url": "https://global.hk01.com/%E7%83%AD%E7%88%86%E8%AF%9D%E9%A2%98/60391673/%E5%85%AD%E5%90%88%E5%BD%A99-22%E5%A4%B4%E5%A5%961000%E4%B8%87-6%E4%B8%AA%E6%9C%80%E6%97%BA%E5%8F%B7%E7%A0%81-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E5%A5%96%E6%9C%BA%E4%BC%9A",
+      "context": "六合彩9.22头奖1000万｜6个最旺号码+2招增中奖机会"
     },
     {
-      "title": "Science Is Open Software",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "100 pts / 39 comments",
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "context": "High-engagement technology discussion"
+      "title": "中秋連假",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "SDCC – Small Device C Compiler",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "90 pts / 18 comments",
-      "url": "https://sdcc.sourceforge.net/",
-      "context": "High-engagement technology discussion"
+      "title": "蘭香如故",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Cloudflare Quick Tunnels",
+      "topic": "AI-generated posters don’t have to be horrible",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Cloudflare Quick Tunnels」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AI-generated posters don’t have to be horrible」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Cloudflare Quick Tunnels」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AI-generated posters don’t have to be horrible」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Cloudflare Quick Tunnels",
-          "url": "https://try.cloudflare.com/"
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
         }
       ]
     },
     {
-      "topic": "How to Write with an LLM",
+      "topic": "Human brain is two separate organs, Stanford Medicine-led research finds",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「How to Write with an LLM」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Human brain is two separate organs, Stanford Medicine-led research finds」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「How to Write with an LLM」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Human brain is two separate organs, Stanford Medicine-led research finds」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "How to Write with an LLM",
-          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"
+          "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+          "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
         }
       ]
     }
