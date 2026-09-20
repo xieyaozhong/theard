@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-09-21T04:52:39+08:00",
+  "generated_at": "2026-09-21T07:16:02+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "ChatGPT now knows what you do on other websites via ad collector",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "389 pts / 193 comments",
+      "score": 91,
+      "traffic": "511 pts / 295 comments",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "298 pts / 193 comments",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Qwen Image 2.1",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "449 pts / 147 comments",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "336 pts / 112 comments",
+      "traffic": "399 pts / 125 comments",
       "url": "https://pirateface.co/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Qwen Image 2.1",
+      "title": "Apple iPhone 18 Pro Camera test",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "381 pts / 138 comments",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "184 pts / 142 comments",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 86,
+      "traffic": "89 pts / 99 comments",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Singapore’s National Library Board offers micropayments to build reading habits",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "137 pts / 56 comments",
+      "traffic": "166 pts / 66 comments",
       "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Sherline Tools Is Going Out of Business",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "140 pts / 85 comments",
-      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Camera test",
+      "title": "Nobody pays for FOSS, we can force them to",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "56 pts / 64 comments",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "traffic": "80 pts / 53 comments",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Necessary History of the Oddest Letter: W",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "54 pts / 34 comments",
+      "score": 84,
+      "traffic": "80 pts / 45 comments",
       "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
       "context": "High-engagement technology discussion"
     },
@@ -71,31 +71,31 @@
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7%E3%80%8B%E9%99%B3%E9%8F%9E%E5%9F%BA%E5%BC%95%E9%80%80%E8%B3%BD%E6%9C%80%E5%BE%8C%E6%89%93%E5%B8%AD%E7%94%9F%E6%B0%A3%E3%80%8C%E6%88%91%E6%B2%92%E6%9C%89%E5%AE%9A%E4%B8%8B%E5%BF%83%E4%BE%86%E3%80%8D-%E5%A4%AA%E5%A4%AA%E9%A8%8E%E9%87%8D%E6%A9%9F%E8%BC%89%E8%B5%B0%E6%88%90%E9%A9%9A%E5%96%9C%E5%BD%A9%E8%9B%8B-143157355.html",
-      "context": "中職》陳鏞基引退賽最後打席生氣「我沒有定下心來」 太太騎重機載走成驚喜彩蛋"
+      "url": "https://tw.sports.yahoo.com/news/%E9%99%B3%E9%8F%9E%E5%9F%BA%E5%BC%95%E9%80%80-%E6%9C%80%E5%BE%8C-%E5%80%8B%E6%89%93%E5%B8%AD%E5%97%86%E5%8F%B8%E4%B8%AD%E8%90%BD%E6%B7%9A-%E9%99%B3%E9%8F%9E%E5%9F%BA%E7%94%9F%E6%B0%A3%E8%87%AA%E5%B7%B1%E6%B2%92%E5%86%B7%E9%9D%9C-143808943.html",
+      "context": "陳鏞基引退》最後一個打席嗆司中落淚 陳鏞基生氣自己沒冷靜"
     },
     {
-      "title": "野趣森林",
+      "title": "cpbl",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E5%91%BC%E7%B1%B2%E6%AF%94%E8%B3%BD%E8%A1%8C%E7%82%BA%E4%BA%92%E7%9B%B8%E5%B0%8A%E9%87%8D-%E6%9E%97%E5%B2%B3%E5%B9%B3%E8%AB%87%E5%8B%9D%E9%A8%8E%E5%A3%AB%E6%BB%BE%E7%90%83-%E6%88%91%E5%80%91%E4%B8%8D%E6%98%AF%E9%A6%99%E8%95%89%E8%81%AF%E7%9B%9F-072200444.html",
+      "context": "中職／呼籲比賽行為互相尊重 林岳平談勝騎士滾球：我們不是香蕉聯盟"
     },
     {
-      "title": "I turned Jev into a (lousy) chatbot",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "60 pts / 15 comments",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
+      "traffic": "66 pts / 20 comments",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "title": "The Effect of CRTs on Pixel Art",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "61 pts / 24 comments",
-      "url": "https://radius.to/",
+      "score": 81,
+      "traffic": "50 pts / 11 comments",
+      "url": "https://datagubbe.se/crt/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Pirate Face Rescues LLM Models from Deletion",
+      "topic": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Pirate Face Rescues LLM Models from Deletion」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Samsung is expected to more than double output of its HBM4 and HBM4E DRAM」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Pirate Face Rescues LLM Models from Deletion」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Samsung is expected to more than double output of its HBM4 and HBM4E DRAM」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,8 +167,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co/"
+          "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+          "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say"
         }
       ]
     },
