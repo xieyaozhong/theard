@@ -1,69 +1,45 @@
 {
-  "generated_at": "2026-09-21T20:54:42+08:00",
+  "generated_at": "2026-09-22T03:59:57+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "503 pts / 355 comments",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AX – Google’s Open Agentic Orchestrator",
+      "title": "Grok 4.7",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "543 pts / 244 comments",
-      "url": "https://agentexecutor.io",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Qwen Image 2.1",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "673 pts / 185 comments",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "ZuckOff Know when a camera is in the room",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "362 pts / 140 comments",
-      "url": "https://zuckoff.app/",
+      "traffic": "363 pts / 305 comments",
+      "url": "https://x.ai/news/grok-4-7",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "李沛綾",
       "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
+      "score": 90,
+      "traffic": "10000+",
       "url": "https://tw.news.yahoo.com/%E9%A3%9B%E9%BE%8D%E5%9C%A8%E5%A4%A9-%E5%A5%B3%E6%98%9F%E6%9D%8E%E6%B2%9B%E7%B6%BE%E8%AD%A6%E5%B1%80%E5%85%A7%E6%83%85%E7%B7%92%E5%A4%B1%E6%8E%A7%E9%80%81%E6%80%A5%E8%A8%BA-%E6%80%92%E5%96%8A%E5%89%8D%E5%A4%AB-%E7%82%BA%E4%BD%95%E6%89%93%E6%88%91-075002500.html",
       "context": "（影）《飛龍在天》女星李沛綾警局內情緒失控送急診 怒喊前夫「為何打我」"
     },
     {
-      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "title": "What Sun got wrong",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "152 pts / 102 comments",
-      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "score": 90,
+      "traffic": "390 pts / 204 comments",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "title": "Attention is all you have",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "182 pts / 85 comments",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 89,
+      "traffic": "385 pts / 113 comments",
+      "url": "https://alicegg.tech/2026/09/21/attention",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "242 pts / 54 comments",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "score": 86,
+      "traffic": "132 pts / 83 comments",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
       "context": "High-engagement technology discussion"
     },
     {
@@ -75,41 +51,65 @@
       "context": "洗頭到一半想起「預知夢」！她急衝彩券行 300元爽中800萬頭獎＋5注二獎"
     },
     {
-      "title": "亞運 棒球",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E6%A3%92%E7%90%83-20%E6%AD%B2%E6%9E%97%E4%BD%BE%E8%91%B3-%E6%88%B0%E6%88%90%E5%90%8D-%E5%B0%8D%E5%8D%97%E9%9F%935%E5%B1%80%E5%83%85%E6%8C%A81%E5%AE%89%E8%B6%85%E5%A5%BD%E6%8A%95-111604576.html",
-      "context": "亞運棒球》20歲林佾葳一戰成名！對南韓5局僅挨1安超好投"
-    },
-    {
       "title": "富邦",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E7%94%B7%E9%97%96%E8%BE%A6%E5%85%AC%E5%AE%A4%E7%A0%8D%E5%93%A1%E5%B7%A5-%E9%9B%99%E9%9B%99%E6%BF%BA%E8%A1%80%E6%98%8F%E8%BF%B7-%E5%AF%8C%E9%82%A6%E4%BA%BA%E5%A3%BD-%E9%9D%9E%E4%BF%9D%E6%88%B6-%E5%85%A9%E4%BA%BA%E4%B8%8D%E8%AA%8D%E8%AD%98-120500429.html",
-      "context": "男闖辦公室砍員工「雙雙濺血昏迷」 富邦人壽：非保戶、兩人不認識"
+      "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E5%AF%8C%E9%82%A6%E4%BA%BA%E5%A3%BD%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%A1%88-%E5%AB%8C%E7%8A%AF%E5%92%8C%E5%82%B7%E8%80%85%E7%96%91%E4%B8%8D%E7%9B%B8%E8%AD%98%E3%80%81%E5%8B%95%E6%A9%9F%E5%BE%85%E9%87%90%E6%B8%85-045943571.html",
+      "context": "北市富邦人壽持刀傷人案 嫌犯和傷者疑不相識、動機待釐清"
     },
     {
-      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "title": "蘭香如故線上看",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://style.udn.com/style/story/121034/9766180",
+      "context": "演到觀眾跟著喘不過氣！《蘭香如故》譚松韻「嚇到手抖、失聲細節全是戲」極致恐懼演技爆發封神"
+    },
+    {
+      "title": "友達",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://money.udn.com/money/story/5607/9769177",
+      "context": "台股短線攻擊訊號亮了 法人看好秋節前後挑戰新高"
+    },
+    {
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "195 pts / 14 comments",
-      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "score": 84,
+      "traffic": "86 pts / 48 comments",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "130 pts / 17 comments",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "59 pts / 21 comments",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "topic": "Grok 4.7",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Samsung is expected to more than double output of its HBM4 and HBM4E DRAM」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Grok 4.7」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Samsung is expected to more than double output of its HBM4 and HBM4E DRAM」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Grok 4.7」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-          "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say"
+          "title": "Grok 4.7",
+          "url": "https://x.ai/news/grok-4-7"
         }
       ]
     },
     {
-      "topic": "AX – Google’s Open Agentic Orchestrator",
+      "topic": "李沛綾",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「AX – Google’s Open Agentic Orchestrator」開始升溫，我們真正該看的不是熱度",
+      "title": "當「李沛綾」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AX – Google’s Open Agentic Orchestrator」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「李沛綾」推到更高的注意力位置。（影）《飛龍在天》女星李沛綾警局內情緒失控送急診 怒喊前夫「為何打我」。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,22 +166,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "AX – Google’s Open Agentic Orchestrator",
-          "url": "https://agentexecutor.io"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "李沛綾",
+          "url": "https://tw.news.yahoo.com/%E9%A3%9B%E9%BE%8D%E5%9C%A8%E5%A4%A9-%E5%A5%B3%E6%98%9F%E6%9D%8E%E6%B2%9B%E7%B6%BE%E8%AD%A6%E5%B1%80%E5%85%A7%E6%83%85%E7%B7%92%E5%A4%B1%E6%8E%A7%E9%80%81%E6%80%A5%E8%A8%BA-%E6%80%92%E5%96%8A%E5%89%8D%E5%A4%AB-%E7%82%BA%E4%BD%95%E6%89%93%E6%88%91-075002500.html"
         }
       ]
     },
     {
-      "topic": "Qwen Image 2.1",
+      "topic": "What Sun got wrong",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Qwen Image 2.1」開始升溫，我們真正該看的不是熱度",
+      "title": "當「What Sun got wrong」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Qwen Image 2.1」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「What Sun got wrong」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Qwen Image 2.1",
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1"
+          "title": "What Sun got wrong",
+          "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
         }
       ]
     }
