@@ -1,73 +1,65 @@
 {
-  "generated_at": "2026-09-22T13:03:37+08:00",
+  "generated_at": "2026-09-22T19:44:33+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "MiMo v2.6",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "689 pts / 326 comments",
+      "score": 93,
+      "traffic": "938 pts / 417 comments",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Attention is all you have",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "844 pts / 251 comments",
+      "url": "https://alicegg.tech/2026/09/21/attention",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "What Sun got wrong",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "541 pts / 313 comments",
+      "traffic": "602 pts / 351 comments",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Attention is all you have",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "659 pts / 198 comments",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "345 pts / 283 comments",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I don't want to read what you didn't write",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "462 pts / 159 comments",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "178 pts / 185 comments",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Spymarks, Not Watermarks",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "244 pts / 45 comments",
+      "score": 90,
+      "traffic": "476 pts / 120 comments",
       "url": "https://brand.io/article/spymarks/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Transformers Explained Visually",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "276 pts / 42 comments",
+      "score": 89,
+      "traffic": "446 pts / 70 comments",
       "url": "https://poloclub.github.io/transformer-explainer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "0050",
+      "title": "I said no and Apple said yes",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "274 pts / 198 comments",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Can gzip be a language model?",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "181 pts / 72 comments",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "台積電",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
@@ -75,28 +67,36 @@
       "context": ""
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "83 pts / 62 comments",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "traffic": "65 pts / 65 comments",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "戴立安",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E6%88%B4%E7%AB%8B%E5%AE%89%E4%BF%A1%E6%B0%91%E5%8D%94%E6%9C%83%E5%85%AC%E5%B8%83%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89%E6%B0%91%E8%AA%BF-%E8%94%A3%E8%90%AC%E5%AE%89%E6%94%AF%E6%8C%81%E5%BA%A6417%EF%BC%85%E3%80%81%E6%B2%88%E4%BC%AF%E6%B4%8B405%EF%BC%85-014942378.html",
-      "context": "戴立安信民協會公布台北市長選舉民調 蔣萬安支持度41.7％、沈伯洋40.5％"
-    },
-    {
-      "title": "Divide by depth for instant 3D",
+      "title": "AMD's random number generator can't generate a 0?",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "109 pts / 20 comments",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "traffic": "94 pts / 46 comments",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "89 pts / 28 comments",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "中國",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E7%BF%92%E6%9C%83%E5%89%8D-%E7%A8%80%E5%9C%9F%E7%89%8C-%E5%86%8D%E7%8F%BE-%E4%B8%AD%E5%9C%8B%E5%B0%8D%E7%BE%8E%E7%A3%81%E9%90%B5%E5%87%BA%E5%8F%A3%E9%8A%B3%E6%B8%9B21-044442694.html",
+      "context": "川習會前「稀土牌」再現 中國對美磁鐵出口銳減21%"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "What Sun got wrong",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「What Sun got wrong」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「What Sun got wrong」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "What Sun got wrong",
-          "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
-        }
-      ]
-    },
-    {
       "topic": "Attention is all you have",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Attention is all you have」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Attention is all you have",
           "url": "https://alicegg.tech/2026/09/21/attention"
+        }
+      ]
+    },
+    {
+      "topic": "What Sun got wrong",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「What Sun got wrong」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「What Sun got wrong」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "What Sun got wrong",
+          "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
         }
       ]
     }
