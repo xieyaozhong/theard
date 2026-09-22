@@ -1,45 +1,53 @@
 {
-  "generated_at": "2026-09-22T03:59:57+08:00",
+  "generated_at": "2026-09-22T08:09:36+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Grok 4.7",
+      "title": "Xiaomi MiMo v2.6",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "363 pts / 305 comments",
-      "url": "https://x.ai/news/grok-4-7",
+      "traffic": "449 pts / 227 comments",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "李沛綾",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://tw.news.yahoo.com/%E9%A3%9B%E9%BE%8D%E5%9C%A8%E5%A4%A9-%E5%A5%B3%E6%98%9F%E6%9D%8E%E6%B2%9B%E7%B6%BE%E8%AD%A6%E5%B1%80%E5%85%A7%E6%83%85%E7%B7%92%E5%A4%B1%E6%8E%A7%E9%80%81%E6%80%A5%E8%A8%BA-%E6%80%92%E5%96%8A%E5%89%8D%E5%A4%AB-%E7%82%BA%E4%BD%95%E6%89%93%E6%88%91-075002500.html",
-      "context": "（影）《飛龍在天》女星李沛綾警局內情緒失控送急診 怒喊前夫「為何打我」"
     },
     {
       "title": "What Sun got wrong",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "390 pts / 204 comments",
+      "score": 91,
+      "traffic": "484 pts / 268 comments",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "278 pts / 208 comments",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Attention is all you have",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "385 pts / 113 comments",
+      "score": 90,
+      "traffic": "553 pts / 160 comments",
       "url": "https://alicegg.tech/2026/09/21/attention",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "119 pts / 101 comments",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "132 pts / 83 comments",
-      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "traffic": "122 pts / 78 comments",
+      "url": "https://www.personalimportation.org/advocacy",
       "context": "High-engagement technology discussion"
     },
     {
@@ -47,69 +55,61 @@
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/%E6%B4%97%E9%A0%AD%E5%88%B0%E4%B8%80%E5%8D%8A%E6%83%B3%E8%B5%B7%E3%80%8C%E9%A0%90%E7%9F%A5%E5%A4%A2%E3%80%8D%EF%BC%81%E5%A5%B9%E6%80%A5%E8%A1%9D%E5%BD%A9%E5%88%B8%E8%A1%8C-300%E5%85%83%E7%88%BD%E4%B8%AD800%E8%90%AC%E9%A0%AD%E7%8D%8E%EF%BC%8B5%E6%B3%A8%E4%BA%8C%E7%8D%8E-081844077.html",
-      "context": "洗頭到一半想起「預知夢」！她急衝彩券行 300元爽中800萬頭獎＋5注二獎"
+      "url": "https://tw.stock.yahoo.com/news/%E8%AA%B0%E5%A4%A9%E9%99%8D2%E5%84%84%E5%A4%A7%E7%A6%AE%E5%8C%85-%E5%A8%81%E5%8A%9B%E5%BD%A9%E7%8D%8E%E8%99%9F%E5%87%BA%E7%88%90-%E4%BB%8A%E5%BD%A9539-3%E6%98%9F%E5%BD%A9%E8%99%9F%E7%A2%BC-%E6%AC%A1%E7%9C%8B-140200050.html",
+      "context": "誰天降2億大禮包？威力彩獎號出爐 今彩539、3星彩號碼一次看"
     },
     {
-      "title": "富邦",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "I don't want to read what you didn't write",
+      "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%8C%97%E5%B8%82%E5%AF%8C%E9%82%A6%E4%BA%BA%E5%A3%BD%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%A1%88-%E5%AB%8C%E7%8A%AF%E5%92%8C%E5%82%B7%E8%80%85%E7%96%91%E4%B8%8D%E7%9B%B8%E8%AD%98%E3%80%81%E5%8B%95%E6%A9%9F%E5%BE%85%E9%87%90%E6%B8%85-045943571.html",
-      "context": "北市富邦人壽持刀傷人案 嫌犯和傷者疑不相識、動機待釐清"
+      "traffic": "130 pts / 43 comments",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "158 pts / 27 comments",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "費城半導體",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "蘭香如故線上看",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://style.udn.com/style/story/121034/9766180",
-      "context": "演到觀眾跟著喘不過氣！《蘭香如故》譚松韻「嚇到手抖、失聲細節全是戲」極致恐懼演技爆發封神"
+      "url": "https://tw.news.yahoo.com/%E9%80%99%E9%BD%A3%E9%BB%91%E9%A6%AC%E7%A5%9E%E5%8A%87%E7%86%B1%E5%BA%A6%E8%B6%85%E8%B6%8A-%E9%80%90%E7%8E%89-%E6%88%90%E5%B9%B4%E5%BA%A6%E5%8A%87%E7%8E%8B-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E7%AC%91%E8%AA%8D-%E6%8C%BA%E9%A9%95%E5%82%B2%E7%9A%84-231807704.html",
+      "context": "這齣黑馬神劇熱度超越《逐玉》成年度劇王！譚松韻笑認：挺驕傲的"
     },
     {
-      "title": "友達",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://money.udn.com/money/story/5607/9769177",
-      "context": "台股短線攻擊訊號亮了 法人看好秋節前後挑戰新高"
-    },
-    {
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "86 pts / 48 comments",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Python Workers are now generally available",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "130 pts / 17 comments",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "59 pts / 21 comments",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "score": 83,
+      "traffic": "72 pts / 37 comments",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Grok 4.7",
+      "topic": "Xiaomi MiMo v2.6",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Grok 4.7」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Xiaomi MiMo v2.6」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Grok 4.7」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Xiaomi MiMo v2.6」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,51 +131,15 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Grok 4.7",
-          "url": "https://x.ai/news/grok-4-7"
-        }
-      ]
-    },
-    {
-      "topic": "李沛綾",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「李沛綾」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「李沛綾」推到更高的注意力位置。（影）《飛龍在天》女星李沛綾警局內情緒失控送急診 怒喊前夫「為何打我」。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "李沛綾",
-          "url": "https://tw.news.yahoo.com/%E9%A3%9B%E9%BE%8D%E5%9C%A8%E5%A4%A9-%E5%A5%B3%E6%98%9F%E6%9D%8E%E6%B2%9B%E7%B6%BE%E8%AD%A6%E5%B1%80%E5%85%A7%E6%83%85%E7%B7%92%E5%A4%B1%E6%8E%A7%E9%80%81%E6%80%A5%E8%A8%BA-%E6%80%92%E5%96%8A%E5%89%8D%E5%A4%AB-%E7%82%BA%E4%BD%95%E6%89%93%E6%88%91-075002500.html"
+          "title": "Xiaomi MiMo v2.6",
+          "url": "https://mimo.xiaomi.com/mimo-v2-6"
         }
       ]
     },
     {
       "topic": "What Sun got wrong",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「What Sun got wrong」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "What Sun got wrong",
           "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"
+        }
+      ]
+    },
+    {
+      "topic": "NASA’s Mars Sample Return mission is dead",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「NASA’s Mars Sample Return mission is dead」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「NASA’s Mars Sample Return mission is dead」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "NASA’s Mars Sample Return mission is dead",
+          "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
         }
       ]
     }
