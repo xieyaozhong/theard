@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-22T08:09:36+08:00",
+  "generated_at": "2026-09-22T13:03:37+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Xiaomi MiMo v2.6",
+      "title": "MiMo v2.6",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "449 pts / 227 comments",
+      "score": 92,
+      "traffic": "689 pts / 326 comments",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "What Sun got wrong",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "484 pts / 268 comments",
+      "score": 92,
+      "traffic": "541 pts / 313 comments",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "278 pts / 208 comments",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Attention is all you have",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "553 pts / 160 comments",
+      "score": 91,
+      "traffic": "659 pts / 198 comments",
       "url": "https://alicegg.tech/2026/09/21/attention",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "345 pts / 283 comments",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "462 pts / 159 comments",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "119 pts / 101 comments",
+      "score": 89,
+      "traffic": "178 pts / 185 comments",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+      "title": "Spymarks, Not Watermarks",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "122 pts / 78 comments",
-      "url": "https://www.personalimportation.org/advocacy",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "539",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/%E8%AA%B0%E5%A4%A9%E9%99%8D2%E5%84%84%E5%A4%A7%E7%A6%AE%E5%8C%85-%E5%A8%81%E5%8A%9B%E5%BD%A9%E7%8D%8E%E8%99%9F%E5%87%BA%E7%88%90-%E4%BB%8A%E5%BD%A9539-3%E6%98%9F%E5%BD%A9%E8%99%9F%E7%A2%BC-%E6%AC%A1%E7%9C%8B-140200050.html",
-      "context": "誰天降2億大禮包？威力彩獎號出爐 今彩539、3星彩號碼一次看"
-    },
-    {
-      "title": "I don't want to read what you didn't write",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "130 pts / 43 comments",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "score": 87,
+      "traffic": "244 pts / 45 comments",
+      "url": "https://brand.io/article/spymarks/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Transformers Explained Visually",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "158 pts / 27 comments",
+      "score": 87,
+      "traffic": "276 pts / 42 comments",
       "url": "https://poloclub.github.io/transformer-explainer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "費城半導體",
+      "title": "0050",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
+      "score": 85,
+      "traffic": "2000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "蘭香如故線上看",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "83 pts / 62 comments",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "戴立安",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E9%80%99%E9%BD%A3%E9%BB%91%E9%A6%AC%E7%A5%9E%E5%8A%87%E7%86%B1%E5%BA%A6%E8%B6%85%E8%B6%8A-%E9%80%90%E7%8E%89-%E6%88%90%E5%B9%B4%E5%BA%A6%E5%8A%87%E7%8E%8B-%E8%AD%9A%E6%9D%BE%E9%9F%BB%E7%AC%91%E8%AA%8D-%E6%8C%BA%E9%A9%95%E5%82%B2%E7%9A%84-231807704.html",
-      "context": "這齣黑馬神劇熱度超越《逐玉》成年度劇王！譚松韻笑認：挺驕傲的"
+      "url": "https://tw.news.yahoo.com/%E6%88%B4%E7%AB%8B%E5%AE%89%E4%BF%A1%E6%B0%91%E5%8D%94%E6%9C%83%E5%85%AC%E5%B8%83%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89%E6%B0%91%E8%AA%BF-%E8%94%A3%E8%90%AC%E5%AE%89%E6%94%AF%E6%8C%81%E5%BA%A6417%EF%BC%85%E3%80%81%E6%B2%88%E4%BC%AF%E6%B4%8B405%EF%BC%85-014942378.html",
+      "context": "戴立安信民協會公布台北市長選舉民調 蔣萬安支持度41.7％、沈伯洋40.5％"
     },
     {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "title": "Divide by depth for instant 3D",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "72 pts / 37 comments",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "score": 84,
+      "traffic": "109 pts / 20 comments",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Xiaomi MiMo v2.6",
+      "topic": "MiMo v2.6",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Xiaomi MiMo v2.6」開始升溫，我們真正該看的不是熱度",
+      "title": "當「MiMo v2.6」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Xiaomi MiMo v2.6」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「MiMo v2.6」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,7 +131,7 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Xiaomi MiMo v2.6",
+          "title": "MiMo v2.6",
           "url": "https://mimo.xiaomi.com/mimo-v2-6"
         }
       ]
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "NASA’s Mars Sample Return mission is dead",
+      "topic": "Attention is all you have",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「NASA’s Mars Sample Return mission is dead」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Attention is all you have」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「NASA’s Mars Sample Return mission is dead」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Attention is all you have」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "NASA’s Mars Sample Return mission is dead",
-          "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
+          "title": "Attention is all you have",
+          "url": "https://alicegg.tech/2026/09/21/attention"
         }
       ]
     }
