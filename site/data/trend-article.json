@@ -1,57 +1,73 @@
 {
-  "generated_at": "2026-09-24T19:52:43+08:00",
+  "generated_at": "2026-09-25T01:15:26+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "title": "Linux support is coming to Snapdragon X2 series",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "676 pts / 687 comments",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "456 pts / 192 comments",
+      "score": 91,
+      "traffic": "567 pts / 239 comments",
       "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Ideas on modernizing the open-source desktop",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "174 pts / 194 comments",
+      "score": 91,
+      "traffic": "321 pts / 396 comments",
       "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "title": "Two-tier encryption in the UK",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "248 pts / 159 comments",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "score": 90,
+      "traffic": "237 pts / 230 comments",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "title": "李 雅英",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.news.yahoo.com/%E6%9D%8E%E9%9B%85%E8%8B%B1%E7%88%86-%E5%A4%B1%E6%A5%AD-%E9%9F%93%E7%B6%93%E7%B4%80%E7%B4%84%E7%AA%81%E5%96%8A%E5%8D%A1-%E5%8F%B0%E7%81%A3%E5%85%AC%E5%8F%B8215%E5%AD%97%E6%8F%AD%E9%97%9C%E9%8D%B5%E7%9C%9F%E7%9B%B8-140746561.html",
+      "context": "李雅英爆「失業」！韓經紀約突喊卡 台灣公司215字揭關鍵真相"
+    },
+    {
+      "title": "F-Droid 2.0",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "221 pts / 99 comments",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "traffic": "290 pts / 78 comments",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "title": "Nokia Design Archive (2025)",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "208 pts / 25 comments",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "score": 87,
+      "traffic": "173 pts / 90 comments",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "中華職棒",
+      "title": "光復節連假",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://udn.com/news/story/7266/9776321",
+      "context": "自由座只能上10人？連假前夕高鐵返鄉人潮擠爆 交通部出手了"
+    },
+    {
+      "title": "cpbl",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E6%84%9F%E8%AC%9D%E6%95%99%E7%B7%B4%E7%9B%B8%E4%BF%A1-%E7%B5%82%E6%96%BC%E6%89%93%E5%88%B0%E7%90%83%E4%BA%86-%E5%BC%B5%E8%82%B2%E6%88%90%E7%9C%BC%E7%9C%B6%E6%B3%9B%E6%B7%9A-%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A4%9A%E4%B9%85%E6%B2%92%E5%AE%89%E6%89%93-102918367.html",
+      "context": "中職》感謝教練相信！「終於打到球了」 張育成眼眶泛淚：不知道多久沒安打，這是很好的經驗"
+    },
+    {
+      "title": "群 創",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
@@ -59,57 +75,41 @@
       "context": ""
     },
     {
-      "title": "最低工資",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "92 pts / 71 comments",
-      "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "111 pts / 46 comments",
-      "url": "https://github.com/nestrilabs/virtio-nvgpu",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The \"Windows XP Box\" (2003)",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "164 pts / 31 comments",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "李智凱",
+      "title": "王偉忠",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E3%80%8B%E6%9D%8E%E6%99%BA%E5%87%B1%E7%AB%B6%E6%8A%80%E9%AB%94%E6%93%8D%E7%94%B7%E5%AD%90%E9%9E%8D%E9%A6%AC3%E9%80%A3%E9%9C%B8%E5%A4%A2%E7%A2%8E-%E8%95%AD%E4%BD%91%E7%84%B6%E6%84%8F%E5%A4%96%E6%8E%89%E9%A6%AC-104657078.html",
-      "context": "亞運》李智凱競技體操男子鞍馬3連霸夢碎 蕭佑然意外掉馬"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "91 pts / 27 comments",
+      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "中秋節",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.vietnam.vn/ja/bao-va-phat-thanh-truyen-hinh-can-tho-to-chuc-le-hoi-trung-thu-nam-2026",
+      "context": "カントー新聞社とラジオ・テレビ局が2026年の中秋節を主催"
     }
   ],
   "articles": [
     {
-      "topic": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "topic": "Linux support is coming to Snapdragon X2 series",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Claude discovers a novel enzyme system with CRISPR-like repeats」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Linux support is coming to Snapdragon X2 series」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Claude discovers a novel enzyme system with CRISPR-like repeats」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Linux support is coming to Snapdragon X2 series」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,43 +131,7 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-        }
-      ]
-    },
-    {
-      "topic": "Linux support is coming to Snapdragon X2 Series",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Linux support is coming to Snapdragon X2 Series」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Linux support is coming to Snapdragon X2 Series」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Linux support is coming to Snapdragon X2 Series",
+          "title": "Linux support is coming to Snapdragon X2 series",
           "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"
         }
       ]
@@ -175,7 +139,7 @@
     {
       "topic": "Ideas on modernizing the open-source desktop",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Ideas on modernizing the open-source desktop」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Ideas on modernizing the open-source desktop",
           "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/"
+        }
+      ]
+    },
+    {
+      "topic": "Two-tier encryption in the UK",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Two-tier encryption in the UK」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Two-tier encryption in the UK」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Two-tier encryption in the UK",
+          "url": "https://macanorak.com/two-tier-encryption-in-the-uk/"
         }
       ]
     }
