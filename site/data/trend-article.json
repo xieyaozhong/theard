@@ -1,65 +1,73 @@
 {
-  "generated_at": "2026-09-24T05:32:46+08:00",
+  "generated_at": "2026-09-24T12:57:28+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "314 pts / 298 comments",
+      "score": 93,
+      "traffic": "566 pts / 588 comments",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Jev in 25 Lines of Python",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "583 pts / 189 comments",
-      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-      "context": "High-engagement technology discussion"
+      "title": "星巴克買一送一",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://tw.news.yahoo.com/%E6%98%9F%E5%B7%B4%E5%85%8B%E6%98%8E%E8%B5%B7%E8%B2%B7-%E9%80%81-%E5%B8%B8%E5%AE%A2%E6%9B%9D-%E6%9C%80%E5%A5%BD%E5%96%9D%E5%93%81%E9%A0%85-%E5%AE%98%E6%96%B9%E4%B9%9F%E9%BB%9E%E9%A0%AD-083500379.html",
+      "context": "星巴克明起買一送一 常客曝「最好喝品項」官方也點頭"
     },
     {
-      "title": "Italian parliament votes for return to nuclear energy",
+      "title": "Meta VR Glasses",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "397 pts / 233 comments",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I don't want the details",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "304 pts / 176 comments",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "traffic": "309 pts / 272 comments",
+      "url": "https://www.meta.com/vr-glasses/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Fixing the Portobello Police Station Clock",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "334 pts / 74 comments",
+      "score": 89,
+      "traffic": "396 pts / 94 comments",
       "url": "https://pointinthecloud.com/2026-04-11-211700.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Gemini 3.8 text-to-speech",
+      "title": "Linux support is coming to Snapdragon X2 Series",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "207 pts / 105 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "traffic": "251 pts / 122 comments",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tokens too cheap to meter",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "195 pts / 160 comments",
-      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "traffic": "159 pts / 133 comments",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "軍公教",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "161 pts / 104 comments",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "國民年金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E6%94%BF%E5%BA%9C%E7%99%BC%E9%8C%A2%E8%BF%8E%E6%8E%A5%E4%B8%AD%E7%A7%8B%E9%80%A3%E5%81%87-%E6%97%A9-3%E7%AD%86%E6%B4%A5%E8%B2%BC-%E9%80%A3%E7%99%BC-231326050.html",
+      "context": "政府發錢迎接中秋連假！一早「3筆津貼」連發"
+    },
+    {
+      "title": "川習會",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
@@ -67,36 +75,28 @@
       "context": ""
     },
     {
-      "title": "Once Claude can measure something, it can make it faster",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "104 pts / 67 comments",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "context": "High-engagement technology discussion"
+      "title": "震度",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.ttv.com.tw/news/115092400068005",
+      "context": "嘉義市東區清晨規模3.4地震 民眾驚喊：有地鳴"
     },
     {
-      "title": "中國信託商業銀行",
+      "title": "鑫創",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E4%B8%AD%E7%A7%8B%E7%AF%80%E5%89%8D%E9%9C%87%E6%92%BC%E5%BD%88-%E4%B8%8A%E6%AB%83ic%E8%A8%AD%E8%A8%88%E5%BB%A0%E9%91%AB%E5%89%B5%E5%AE%A3%E5%B8%83-%E5%A4%A7%E9%87%8F%E8%A7%A3%E5%83%B1-11-23%E8%B5%B7%E5%88%86%E6%89%B9%E7%A0%8D%E4%BA%BA-122700947.html",
+      "context": "中秋節前震撼彈！上櫃IC設計廠鑫創宣布「大量解僱」 11/23起分批砍人"
+    },
+    {
+      "title": "老農津貼",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
-    },
-    {
-      "title": "政府",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E6%9C%80%E6%96%B0%E6%B0%91%E8%AA%BF-%E6%99%AE%E7%99%BC-%E8%90%AC%E6%99%82%E9%96%93%E6%9C%80%E5%BF%AB%E4%BD%95%E6%99%82-8%E6%88%90%E6%B0%91%E7%9C%BE%E9%83%BD%E6%9C%9F%E5%BE%85-%E6%94%BF%E5%BA%9C%E6%96%BD%E6%94%BF%E6%BB%BF%E6%84%8F%E5%BA%A6%E9%80%BE6%E6%88%90%E6%96%B0%E9%AB%98-210001403.html",
-      "context": "最新民調／普發一萬時間最快何時？8成民眾都期待！政府施政滿意度逾6成新高，房價物價仍是最大痛點"
-    },
-    {
-      "title": "兒子",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5583436",
-      "context": "接兒子上學意外嗅到商機 他創業「1年海撈16億」賺翻了"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Jev in 25 Lines of Python",
+      "topic": "星巴克買一送一",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Jev in 25 Lines of Python」開始升溫，我們真正該看的不是熱度",
+      "title": "當「星巴克買一送一」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Jev in 25 Lines of Python」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「星巴克買一送一」推到更高的注意力位置。星巴克明起買一送一 常客曝「最好喝品項」官方也點頭。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,22 +166,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Jev in 25 Lines of Python",
-          "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "星巴克買一送一",
+          "url": "https://tw.news.yahoo.com/%E6%98%9F%E5%B7%B4%E5%85%8B%E6%98%8E%E8%B5%B7%E8%B2%B7-%E9%80%81-%E5%B8%B8%E5%AE%A2%E6%9B%9D-%E6%9C%80%E5%A5%BD%E5%96%9D%E5%93%81%E9%A0%85-%E5%AE%98%E6%96%B9%E4%B9%9F%E9%BB%9E%E9%A0%AD-083500379.html"
         }
       ]
     },
     {
-      "topic": "Italian parliament votes for return to nuclear energy",
+      "topic": "Meta VR Glasses",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Italian parliament votes for return to nuclear energy」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Meta VR Glasses」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Italian parliament votes for return to nuclear energy」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Meta VR Glasses」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Italian parliament votes for return to nuclear energy",
-          "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567"
+          "title": "Meta VR Glasses",
+          "url": "https://www.meta.com/vr-glasses/"
         }
       ]
     }
