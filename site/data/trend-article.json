@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-25T13:02:08+08:00",
+  "generated_at": "2026-09-25T19:55:34+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "F-Droid 2.0",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1061 pts / 281 comments",
+      "score": 94,
+      "traffic": "1282 pts / 370 comments",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Toyota is taking the Corolla electric",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "274 pts / 450 comments",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Two-tier encryption in the UK",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "400 pts / 384 comments",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "290 pts / 302 comments",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "551 pts / 79 comments",
+      "score": 91,
+      "traffic": "732 pts / 98 comments",
       "url": "https://bastardica.mitpit.com",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "147 pts / 272 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why is the liver so weirdly regenerative?",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "328 pts / 172 comments",
+      "score": 91,
+      "traffic": "433 pts / 225 comments",
       "url": "https://dynomight.substack.com/p/liver",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "統一發票",
+      "title": "亞運棒球",
       "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.news.yahoo.com/%E7%B5%B1%E4%B8%80%E7%99%BC%E7%A5%A8115%E5%B9%B47-8%E6%9C%88%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E9%96%8B%E7%8D%8E-%E6%9C%80%E6%96%B0%E5%AE%8C%E6%95%B4%E7%8D%8E%E8%99%9F%E5%87%BA%E7%88%90-033000835.html",
-      "context": "統一發票115年7-8月中獎號碼開獎 最新完整獎號出爐"
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://udn.com/asiangames2026/story/124981/9777733?from=redpush",
+      "context": "亞運棒球Live／王彥程5局被敲4安未讓對手越雷池中華3:0領先中國| 運動 | 2026名古屋亞運"
+    },
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "320 pts / 146 comments",
+      "url": "https://www.dawo.community/en/",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "240 pts / 93 comments",
+      "score": 89,
+      "traffic": "327 pts / 120 comments",
       "url": "https://github.com/devdotfast/whiteboard",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "title": "南亞 科",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E8%B6%85%E7%B4%9A%E9%80%B1%E6%9C%9F%E8%A6%81%E8%AE%8A%E5%A4%A9-%E9%95%B7%E9%91%AB%E7%94%A2%E8%83%BD%E5%85%A8%E9%9D%A2%E9%96%8B%E5%87%BA-%E5%8D%97%E4%BA%9E%E7%A7%91-7%E6%88%90%E6%A5%AD%E5%8B%99%E6%AD%A3%E9%9D%A2%E6%92%9E%E4%B8%8A-2027%E6%81%90%E9%99%B7%E5%83%B9%E6%A0%BC%E6%88%B0-021500798.html",
+      "context": "記憶體超級週期要變天？長鑫產能全面開出 南亞科「7成業務正面撞上」2027恐陷價格戰"
+    },
+    {
+      "title": "00406a",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "266 pts / 110 comments",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "score": 84,
+      "traffic": "92 pts / 36 comments",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Fearless SIMD v1.0",
+      "title": "The Mafia may be keeping fentanyl out of Italy",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "217 pts / 33 comments",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "score": 84,
+      "traffic": "63 pts / 57 comments",
+      "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "2DWillNeverDie",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "166 pts / 22 comments",
-      "url": "https://2dwillneverdie.com/",
-      "context": "High-engagement technology discussion"
+      "title": "卡巴迪",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.sports.yahoo.com/news/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E5%8F%B0%E7%81%A3%E5%A5%B3%E5%AD%90%E5%8D%A1%E5%B7%B4%E8%BF%AA%E9%9A%8A-%E9%80%A33%E5%B1%86%E4%BA%9E%E9%81%8B%E5%A5%AA%E7%89%8C-101438929.html",
+      "context": "名古屋亞運》台灣女子卡巴迪隊 連3屆亞運奪牌"
+    },
+    {
+      "title": "何篤霖",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Toyota is taking the Corolla electric",
+      "topic": "Show HN: Make cursed fonts like Times New Bastard",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Toyota is taking the Corolla electric」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Show HN: Make cursed fonts like Times New Bastard」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Toyota is taking the Corolla electric」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Show HN: Make cursed fonts like Times New Bastard」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Toyota is taking the Corolla electric",
-          "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/"
+          "title": "Show HN: Make cursed fonts like Times New Bastard",
+          "url": "https://bastardica.mitpit.com"
         }
       ]
     },
     {
-      "topic": "Two-tier encryption in the UK",
+      "topic": "Why is the liver so weirdly regenerative?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Two-tier encryption in the UK」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Why is the liver so weirdly regenerative?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Two-tier encryption in the UK」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Why is the liver so weirdly regenerative?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Two-tier encryption in the UK",
-          "url": "https://macanorak.com/two-tier-encryption-in-the-uk/"
+          "title": "Why is the liver so weirdly regenerative?",
+          "url": "https://dynomight.substack.com/p/liver"
         }
       ]
     }
