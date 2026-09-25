@@ -1,187 +1,115 @@
 {
-  "generated_at": "2026-09-26T01:15:49+08:00",
+  "generated_at": "2026-09-26T05:38:00+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "F-Droid 2.0",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1396 pts / 397 comments",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "818 pts / 468 comments",
-      "url": "https://www.dawo.community/en/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "亞運 棒球 日本 韓國",
+      "title": "大樂透",
       "source": "GOOGLE TRENDS / TW",
       "score": 92,
       "traffic": "20000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E6%A3%92%E7%90%83%E3%80%8B%E9%9F%93%E5%9C%8B%E5%85%A8%E6%98%8E%E6%98%9F%E9%9A%8A%E9%81%AD%E6%97%A5%E6%9C%AC%E5%AE%8C%E5%B0%81-%E8%B6%85%E7%B4%9A%E5%BE%AA%E7%92%B0%E6%88%B0%E7%B8%BE%E8%88%87%E4%B8%AD%E8%8F%AF%E5%90%8C%E7%82%BA1%E5%8B%9D1%E6%95%97-121938192.html",
-      "context": "亞運棒球》韓國全明星隊遭日本完封 超級循環戰績與中華同為1勝1敗"
-    },
-    {
-      "title": "大樂透",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
       "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F%E9%96%8B%E7%8D%8E%E4%BA%86%EF%BC%81925%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E3%80%81%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC%E7%99%BE%E8%90%AC%E7%8D%8E%E3%80%815000%E5%85%83%E7%B4%85%E5%8C%85%E5%87%BA%E7%88%90-100%E7%B5%84100%E8%90%AC%E5%85%83%E5%89%A951%E7%B5%84-%E5%A4%A7%E6%A8%82%E9%80%8F%E7%9B%B4%E6%92%AD%E3%80%81%E4%B8%AD%E7%8D%8E%E6%80%8E%E9%BA%BC%E7%9C%8B%E3%80%81%E5%A6%82%E4%BD%95%E9%A0%98%E4%B8%80%E6%AC%A1%E7%9C%8B-080000902.html",
       "context": "大樂透開獎了！9/25中獎號碼、中秋加碼百萬獎、5000元紅包出爐100組100萬元剩51組大樂透直播、中獎怎麼看、如何領一次看"
     },
     {
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "137 pts / 126 comments",
+      "score": 92,
+      "traffic": "313 pts / 527 comments",
       "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Platform-Independent SIMD in Go",
+      "title": "Platform-independent SIMD in Go",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "210 pts / 83 comments",
+      "score": 89,
+      "traffic": "326 pts / 124 comments",
       "url": "https://go.dev/blog/simd-experiment",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "198 pts / 87 comments",
-      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "186 pts / 56 comments",
-      "url": "https://github.com/git-bug/git-bug",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "警察",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://news.pchome.com.tw/living/focusnews/20260925/index-79033387451575302009.html",
-      "context": "鍾易仲爭取南成所完整蓋回來 要求警察消防量能跟上大林蒲遷村"
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://news.pchome.com.tw/living/m00361/20260925/index-79034033808345361009.html",
+      "context": "東京獨旅逛街驚魂！台女遭店家誣賴偷竊 一出門「遇警察搜身」嚇哭"
     },
     {
-      "title": "何篤霖",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "97 pts / 48 comments",
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "score": 88,
+      "traffic": "270 pts / 91 comments",
+      "url": "https://github.com/git-bug/git-bug",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ink and Switch Interactive Homepage",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "205 pts / 59 comments",
+      "url": "https://ollaya.dev/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "First Principles Thinking",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "185 pts / 78 comments",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "威爾史密斯",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://pagesix.com/2026/09/25/entertainment/rob-lowe-admits-he-was-the-only-person-happy-when-will-smith-slapped-chris-rock-at-oscars/",
+      "context": "Rob Lowe awkwardly admits he was ‘the only person happy’ when Will Smith slapped Chris Rock at Oscars"
+    },
+    {
+      "title": "Too AI; Didn't Read",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "151 pts / 21 comments",
-      "url": "https://www.inkandswitch.com/",
+      "traffic": "74 pts / 58 comments",
+      "url": "https://www.tai-dr.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "歐國聯",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B926-%E7%BE%A9%E5%A4%A7%E5%88%A9mancini%E5%9B%9E%E9%8D%8B%E9%A6%96%E7%A7%80-%E6%AF%94%E5%88%A9%E6%99%82de-bruyne%E7%BA%8C%E6%89%9B%E6%A0%B8%E5%BF%83-085626162.html",
+      "context": "足球運彩分析》9/26 義大利Mancini回鍋首秀 比利時De Bruyne續扛核心"
+    },
+    {
+      "title": "f1",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.formula1.com/en/latest/article/russell-charges-to-pole-position-as-antonelli-suffers-shock-exit-in-qualifying-for-azerbaijan-gp.6vFe7216mR8JZuWE4QIB4w",
+      "context": "Russell charges to pole as Antonelli exits Baku Qualifying"
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "72 pts / 39 comments",
+      "url": "https://jev-pokemon.vercel.app/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "F-Droid 2.0",
+      "topic": "大樂透",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「F-Droid 2.0」開始升溫，我們真正該看的不是熱度",
+      "title": "當「大樂透」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「F-Droid 2.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "F-Droid 2.0",
-          "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html"
-        }
-      ]
-    },
-    {
-      "topic": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Dutch governments builds alternative for Microsoft based on NixOS」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Dutch governments builds alternative for Microsoft based on NixOS」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-          "url": "https://www.dawo.community/en/"
-        }
-      ]
-    },
-    {
-      "topic": "亞運 棒球 日本 韓國",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「亞運 棒球 日本 韓國」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「亞運 棒球 日本 韓國」推到更高的注意力位置。亞運棒球》韓國全明星隊遭日本完封 超級循環戰績與中華同為1勝1敗。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「大樂透」推到更高的注意力位置。大樂透開獎了！9/25中獎號碼、中秋加碼百萬獎、5000元紅包出爐100組100萬元剩51組大樂透直播、中獎怎麼看、如何領一次看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +131,80 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "亞運 棒球 日本 韓國",
-          "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E6%A3%92%E7%90%83%E3%80%8B%E9%9F%93%E5%9C%8B%E5%85%A8%E6%98%8E%E6%98%9F%E9%9A%8A%E9%81%AD%E6%97%A5%E6%9C%AC%E5%AE%8C%E5%B0%81-%E8%B6%85%E7%B4%9A%E5%BE%AA%E7%92%B0%E6%88%B0%E7%B8%BE%E8%88%87%E4%B8%AD%E8%8F%AF%E5%90%8C%E7%82%BA1%E5%8B%9D1%E6%95%97-121938192.html"
+          "title": "大樂透",
+          "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F%E9%96%8B%E7%8D%8E%E4%BA%86%EF%BC%81925%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E3%80%81%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC%E7%99%BE%E8%90%AC%E7%8D%8E%E3%80%815000%E5%85%83%E7%B4%85%E5%8C%85%E5%87%BA%E7%88%90-100%E7%B5%84100%E8%90%AC%E5%85%83%E5%89%A951%E7%B5%84-%E5%A4%A7%E6%A8%82%E9%80%8F%E7%9B%B4%E6%92%AD%E3%80%81%E4%B8%AD%E7%8D%8E%E6%80%8E%E9%BA%BC%E7%9C%8B%E3%80%81%E5%A6%82%E4%BD%95%E9%A0%98%E4%B8%80%E6%AC%A1%E7%9C%8B-080000902.html"
+        }
+      ]
+    },
+    {
+      "topic": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「U.S. appeals court upholds designation of Anthropic as supply chain risk」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「U.S. appeals court upholds designation of Anthropic as supply chain risk」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+        }
+      ]
+    },
+    {
+      "topic": "Platform-independent SIMD in Go",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Platform-independent SIMD in Go」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Platform-independent SIMD in Go」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Platform-independent SIMD in Go",
+          "url": "https://go.dev/blog/simd-experiment"
         }
       ]
     }
