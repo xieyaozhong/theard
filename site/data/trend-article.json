@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-25T05:33:41+08:00",
+  "generated_at": "2026-09-25T13:02:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "F-Droid 2.0",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "743 pts / 208 comments",
+      "score": 93,
+      "traffic": "1061 pts / 281 comments",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "中秋節",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Toyota is taking the Corolla electric",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "274 pts / 450 comments",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Two-tier encryption in the UK",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "400 pts / 384 comments",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Rails World 2026 Opening Keynote [video]",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "162 pts / 164 comments",
+      "score": 91,
+      "traffic": "290 pts / 302 comments",
       "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "287 pts / 44 comments",
+      "score": 90,
+      "traffic": "551 pts / 79 comments",
       "url": "https://bastardica.mitpit.com",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "147 pts / 272 comments",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why is the liver so weirdly regenerative?",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "138 pts / 104 comments",
+      "score": 89,
+      "traffic": "328 pts / 172 comments",
       "url": "https://dynomight.substack.com/p/liver",
       "context": "High-engagement technology discussion"
     },
     {
+      "title": "統一發票",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.news.yahoo.com/%E7%B5%B1%E4%B8%80%E7%99%BC%E7%A5%A8115%E5%B9%B47-8%E6%9C%88%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E9%96%8B%E7%8D%8E-%E6%9C%80%E6%96%B0%E5%AE%8C%E6%95%B4%E7%8D%8E%E8%99%9F%E5%87%BA%E7%88%90-033000835.html",
+      "context": "統一發票115年7-8月中獎號碼開獎 最新完整獎號出爐"
+    },
+    {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "142 pts / 58 comments",
+      "score": 88,
+      "traffic": "240 pts / 93 comments",
       "url": "https://github.com/devdotfast/whiteboard",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "141 pts / 61 comments",
+      "score": 88,
+      "traffic": "266 pts / 110 comments",
       "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "葡萄牙 對 威爾斯",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Fearless SIMD v1.0",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "217 pts / 33 comments",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "2DWillNeverDie",
+      "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83-41%E6%AD%B2c%E7%BE%85%E4%B8%96%E7%95%8C%E7%9B%83%E5%BE%8C%E6%9B%BE%E6%83%B3%E9%80%80%E5%9C%8B%E5%AE%B6%E9%9A%8A-%E5%A6%82%E4%BB%8A%E6%B1%BA%E5%AE%9A%E7%B9%BC%E7%BA%8C%E5%BE%81%E6%88%B0-074634124.html",
-      "context": "足球》41歲C羅世界盃後曾想退國家隊 如今決定繼續征戰"
-    },
-    {
-      "title": "自由座",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://udn.com/news/story/7266/9776321",
-      "context": "自由座只能上10人？連假前夕高鐵返鄉人潮擠爆 交通部出手了"
-    },
-    {
-      "title": "荷蘭 對 德國",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B925-%E5%BE%B7%E5%9C%8B%E3%80%81%E8%8D%B7%E8%98%AD%E5%85%A9%E5%BC%B7%E5%90%8C%E8%BF%8E%E6%96%B0%E5%B8%A5%E9%A6%96%E7%A7%80-%E9%80%B2%E6%94%BB%E7%AB%AF%E9%83%BD%E6%9C%89%E7%A0%B4%E9%96%80%E6%9C%AC%E9%8C%A2-085753777.html",
-      "context": "足球運彩分析》9/25 德國、荷蘭兩強同迎新帥首秀 進攻端都有破門本錢"
-    },
-    {
-      "title": "歐國聯",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://football.on.cc/%E8%B6%B3%E7%90%83%E5%BF%AB%E8%A8%8A/bkn-20260924210035820-0924_00882_001/%E3%80%90%E6%AD%90%E5%9C%8B%E8%81%AF%E3%80%91%E6%8C%AA%E5%A8%81%E5%BC%97%E5%88%B0%E9%9C%87%E4%B8%BBW%E5%9F%8B%E3%80%8C%E4%B8%B9%E3%80%8D",
-      "context": "【歐國聯】挪威弗到震主W埋「丹」"
-    },
-    {
-      "title": "地震",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.ctee.com.tw/news/20260924700620-431401",
-      "context": "5：57規模3.4極淺層地震震央在嘉義市當地人驚喊：有地鳴- 生活"
+      "traffic": "166 pts / 22 comments",
+      "url": "https://2dwillneverdie.com/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,51 +137,15 @@
       ]
     },
     {
-      "topic": "中秋節",
+      "topic": "Toyota is taking the Corolla electric",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「中秋節」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Toyota is taking the Corolla electric」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「中秋節」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "中秋節",
-          "url": "https://trends.google.com/trending?geo=TW"
-        }
-      ]
-    },
-    {
-      "topic": "Rails World 2026 Opening Keynote [video]",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Rails World 2026 Opening Keynote [video]」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Rails World 2026 Opening Keynote [video]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Toyota is taking the Corolla electric」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Rails World 2026 Opening Keynote [video]",
-          "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY"
+          "title": "Toyota is taking the Corolla electric",
+          "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/"
+        }
+      ]
+    },
+    {
+      "topic": "Two-tier encryption in the UK",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Two-tier encryption in the UK」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Two-tier encryption in the UK」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Two-tier encryption in the UK",
+          "url": "https://macanorak.com/two-tier-encryption-in-the-uk/"
         }
       ]
     }
