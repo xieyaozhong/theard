@@ -1,36 +1,20 @@
 {
-  "generated_at": "2026-09-27T05:13:55+08:00",
+  "generated_at": "2026-09-27T07:39:54+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "682 pts / 433 comments",
-      "url": "https://swarmtraces.org/",
+      "score": 90,
+      "traffic": "119 pts / 346 comments",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "We're gonna need a lot more mathematicians",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "333 pts / 435 comments",
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "英格蘭 對 西班牙",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B927-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%80%A5%E6%AC%B2%E6%93%BA%E8%84%AB%E4%B8%96%E7%95%8C%E7%9B%83%E5%82%B7%E7%96%A4%E5%BE%A9%E4%BB%87%E6%AD%90%E6%B4%B2%E7%9B%83-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A6%81%E6%8C%81%E7%BA%8C%E7%B5%B1%E6%B2%BB%E8%83%BD%E5%8A%9B-074750434.html",
-      "context": "足球運彩分析》9/27 英格蘭急欲擺脫世界盃傷疤復仇歐洲盃 西班牙要持續統治能力"
     },
     {
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "244 pts / 124 comments",
+      "score": 89,
+      "traffic": "299 pts / 159 comments",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "context": "High-engagement technology discussion"
     },
@@ -38,78 +22,94 @@
       "title": "Fifteen years later, the Apple Cards origin story",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "305 pts / 66 comments",
+      "traffic": "328 pts / 82 comments",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "自由座",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E9%80%A3%E5%81%87%E7%96%8F%E9%81%8B%E5%89%8D2%E6%97%A5%E9%81%8B%E9%87%8F%E6%9A%B4%E5%A2%9E%EF%BC%81928%E8%BF%8E%E6%94%B6%E5%81%87%E6%9C%80%E9%AB%98%E5%B3%B0-%E8%87%AA%E7%94%B1%E5%BA%A7%E9%81%BF%E9%96%8B%E9%80%995%E5%B0%8F%E6%99%82-125446800.html",
-      "context": "高鐵連假疏運前2日運量暴增！9/28迎收假最高峰 自由座避開這5小時"
-    },
-    {
-      "title": "台北市政府",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E8%A2%AB%E6%8A%93%E5%8C%85%E4%B8%8D%E6%98%AF%E6%B3%95%E5%AD%B8%E5%8D%9A%E5%A3%AB-%E8%94%A3%E8%90%AC%E5%AE%89%E8%A7%A3%E9%87%8B-080259312.html",
-      "context": "被抓包不是法學博士！蔣萬安解釋"
-    },
-    {
       "title": "Modern Object Pascal Introduction for Programmers",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "118 pts / 42 comments",
+      "score": 86,
+      "traffic": "137 pts / 56 comments",
       "url": "https://castle-engine.io/modern_pascal",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "歐國聯",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://today.line.me/tw/v3/article/vXLQXqE",
-      "context": "愛爾蘭男足球員表決 如期出戰對以色列歐國聯賽事 | 民視新聞網"
-    },
-    {
-      "title": "胡瓜",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://stars.udn.com/star/story/10092/9779167",
-      "context": "小禎台上唱到一半 李進良帶小33歲嫩妹踩場！正面照全曝光"
-    },
-    {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 20 comments",
+      "score": 85,
+      "traffic": "145 pts / 43 comments",
       "url": "https://github.com/reladraw/reladraw",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "新聞",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.yahoo.co.jp/articles/90173425498bc38802a95ad1f8b318031126f332",
+      "context": "中学1年女子に一目ぼれ「結婚したい」 15歳で妊娠判明…法律上最年少夫婦のママに「かわいい」の声（ENCOUNT）"
+    },
+    {
+      "title": "股災",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "118 pts / 34 comments",
+      "url": "https://arxiv.org/abs/2609.22978",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "75 pts / 25 comments",
+      "score": 84,
+      "traffic": "96 pts / 32 comments",
       "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "LA Metro has some of the slowest escalators on Earth",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "62 pts / 40 comments",
+      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "95 pts / 22 comments",
+      "url": "https://www.movingimagearchive.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "生肖",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.nownews.com/news/6877683",
+      "context": "（2026/09/26）十二生肖運勢／屬牛財運不穩　屬豬獲得貴人金援"
     }
   ],
   "articles": [
     {
-      "topic": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "topic": "ASML says it sold 'absolutely nothing' in Europe in 2026",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Revealing the details of how OpenAI agents hacked Hugging Face」開始升溫，我們真正該看的不是熱度",
+      "title": "當「ASML says it sold 'absolutely nothing' in Europe in 2026」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Revealing the details of how OpenAI agents hacked Hugging Face」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「ASML says it sold 'absolutely nothing' in Europe in 2026」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "url": "https://swarmtraces.org/"
+          "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand"
         }
       ]
     },
     {
-      "topic": "We're gonna need a lot more mathematicians",
+      "topic": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「We're gonna need a lot more mathematicians」開始升溫，我們真正該看的不是熱度",
+      "title": "當「PipePipe: NewPipe hard fork implementing SponsorBlock」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「We're gonna need a lot more mathematicians」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「PipePipe: NewPipe hard fork implementing SponsorBlock」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "We're gonna need a lot more mathematicians",
-          "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
+          "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+          "url": "https://github.com/InfinityLoop1308/PipePipe"
         }
       ]
     },
     {
-      "topic": "英格蘭 對 西班牙",
+      "topic": "Fifteen years later, the Apple Cards origin story",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「英格蘭 對 西班牙」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Fifteen years later, the Apple Cards origin story」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「英格蘭 對 西班牙」推到更高的注意力位置。足球運彩分析》9/27 英格蘭急欲擺脫世界盃傷疤復仇歐洲盃 西班牙要持續統治能力。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Fifteen years later, the Apple Cards origin story」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "英格蘭 對 西班牙",
-          "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B927-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%80%A5%E6%AC%B2%E6%93%BA%E8%84%AB%E4%B8%96%E7%95%8C%E7%9B%83%E5%82%B7%E7%96%A4%E5%BE%A9%E4%BB%87%E6%AD%90%E6%B4%B2%E7%9B%83-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A6%81%E6%8C%81%E7%BA%8C%E7%B5%B1%E6%B2%BB%E8%83%BD%E5%8A%9B-074750434.html"
+          "source": "HACKER NEWS",
+          "title": "Fifteen years later, the Apple Cards origin story",
+          "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story"
         }
       ]
     }
