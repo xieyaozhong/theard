@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-09-27T00:27:15+08:00",
+  "generated_at": "2026-09-27T05:13:55+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "612 pts / 390 comments",
+      "score": 93,
+      "traffic": "682 pts / 433 comments",
       "url": "https://swarmtraces.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Plan mode is dead",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "464 pts / 409 comments",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "We're gonna need a lot more mathematicians",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "255 pts / 356 comments",
+      "score": 92,
+      "traffic": "333 pts / 435 comments",
       "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "418 pts / 159 comments",
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "539",
+      "title": "英格蘭 對 西班牙",
       "source": "GOOGLE TRENDS / TW",
       "score": 88,
       "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B927-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%80%A5%E6%AC%B2%E6%93%BA%E8%84%AB%E4%B8%96%E7%95%8C%E7%9B%83%E5%82%B7%E7%96%A4%E5%BE%A9%E4%BB%87%E6%AD%90%E6%B4%B2%E7%9B%83-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A6%81%E6%8C%81%E7%BA%8C%E7%B5%B1%E6%B2%BB%E8%83%BD%E5%8A%9B-074750434.html",
+      "context": "足球運彩分析》9/27 英格蘭急欲擺脫世界盃傷疤復仇歐洲盃 西班牙要持續統治能力"
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "244 pts / 124 comments",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Fifteen years later, the Apple Cards origin story",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "202 pts / 31 comments",
+      "score": 88,
+      "traffic": "305 pts / 66 comments",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "國民 年金",
+      "title": "自由座",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E6%BB%BF65%E6%AD%B2%E6%B3%A8%E6%84%8F-%E5%9C%8B%E6%B0%91%E5%B9%B4%E9%87%91%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-%E5%BF%98%E5%81%9A1%E4%BA%8B-%E6%81%90%E7%84%A1%E6%B3%95%E5%85%A5%E5%B8%B3-040700129.html",
-      "context": "滿65歲注意！國民年金新制上路 「忘做1事」恐無法入帳"
-    },
-    {
-      "title": "自由座",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
       "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E9%80%A3%E5%81%87%E7%96%8F%E9%81%8B%E5%89%8D2%E6%97%A5%E9%81%8B%E9%87%8F%E6%9A%B4%E5%A2%9E%EF%BC%81928%E8%BF%8E%E6%94%B6%E5%81%87%E6%9C%80%E9%AB%98%E5%B3%B0-%E8%87%AA%E7%94%B1%E5%BA%A7%E9%81%BF%E9%96%8B%E9%80%995%E5%B0%8F%E6%99%82-125446800.html",
       "context": "高鐵連假疏運前2日運量暴增！9/28迎收假最高峰 自由座避開這5小時"
     },
     {
       "title": "台北市政府",
       "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E8%A2%AB%E6%8A%93%E5%8C%85%E4%B8%8D%E6%98%AF%E6%B3%95%E5%AD%B8%E5%8D%9A%E5%A3%AB-%E8%94%A3%E8%90%AC%E5%AE%89%E8%A7%A3%E9%87%8B-080259312.html",
+      "context": "被抓包不是法學博士！蔣萬安解釋"
+    },
+    {
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "118 pts / 42 comments",
+      "url": "https://castle-engine.io/modern_pascal",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "歐國聯",
+      "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E5%9C%98%E9%9A%8A%E5%8F%AA%E6%8A%8A%E5%9F%8E%E5%B8%82%E7%95%B6%E4%BD%9C%E6%89%93%E5%8D%A1%E6%99%AF%E9%BB%9E-%E5%A5%B9%E5%88%97%E9%80%99%E4%BA%9B%E8%B6%85%E6%89%93%E8%87%89-%E5%8F%B0%E5%8C%97%E4%B8%8D%E7%BC%BA%E6%96%87%E5%8C%96%E6%95%85%E4%BA%8B-031500636.html",
-      "context": "蔣萬安團隊只把城市當作打卡景點？她列這些超打臉：台北不缺文化故事"
+      "url": "https://today.line.me/tw/v3/article/vXLQXqE",
+      "context": "愛爾蘭男足球員表決 如期出戰對以色列歐國聯賽事 | 民視新聞網"
     },
     {
       "title": "胡瓜",
@@ -83,19 +83,19 @@
       "context": "小禎台上唱到一半 李進良帶小33歲嫩妹踩場！正面照全曝光"
     },
     {
-      "title": "Plunging test scores are a slow-moving catastrophe",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "54 pts / 65 comments",
-      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "score": 83,
+      "traffic": "82 pts / 20 comments",
+      "url": "https://github.com/reladraw/reladraw",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "61 pts / 21 comments",
-      "url": "https://castle-engine.io/modern_pascal",
+      "score": 83,
+      "traffic": "75 pts / 25 comments",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "Plan mode is dead",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Plan mode is dead」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Plan mode is dead」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Plan mode is dead",
-          "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html"
-        }
-      ]
-    },
-    {
       "topic": "We're gonna need a lot more mathematicians",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「We're gonna need a lot more mathematicians」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "We're gonna need a lot more mathematicians",
           "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
+        }
+      ]
+    },
+    {
+      "topic": "英格蘭 對 西班牙",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「英格蘭 對 西班牙」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「英格蘭 對 西班牙」推到更高的注意力位置。足球運彩分析》9/27 英格蘭急欲擺脫世界盃傷疤復仇歐洲盃 西班牙要持續統治能力。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "GOOGLE TRENDS / TW",
+          "title": "英格蘭 對 西班牙",
+          "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B927-%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%80%A5%E6%AC%B2%E6%93%BA%E8%84%AB%E4%B8%96%E7%95%8C%E7%9B%83%E5%82%B7%E7%96%A4%E5%BE%A9%E4%BB%87%E6%AD%90%E6%B4%B2%E7%9B%83-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%A6%81%E6%8C%81%E7%BA%8C%E7%B5%B1%E6%B2%BB%E8%83%BD%E5%8A%9B-074750434.html"
         }
       ]
     }
