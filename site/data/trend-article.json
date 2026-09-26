@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-09-26T19:30:03+08:00",
+  "generated_at": "2026-09-27T00:27:15+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "512 pts / 319 comments",
+      "traffic": "612 pts / 390 comments",
       "url": "https://swarmtraces.org/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Plan mode is dead",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "356 pts / 325 comments",
+      "score": 92,
+      "traffic": "464 pts / 409 comments",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "亞運棒球",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "476 pts / 118 comments",
-      "url": "https://ollaya.dev/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What even is an OS now?",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "208 pts / 293 comments",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "We're gonna need a lot more mathematicians",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "164 pts / 204 comments",
+      "score": 91,
+      "traffic": "255 pts / 356 comments",
       "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "消費 券",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "http://j.people.com.cn/n3/2026/0924/c94475-20503583.html",
-      "context": "雲南省で中秋節・国慶節期間に鈍行列車路線4本を運行 山間部の「休日の足」を確保"
-    },
-    {
-      "title": "Show HN: Jev Plays Pokémon Red",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "210 pts / 87 comments",
-      "url": "https://jev-pokemon.vercel.app/",
+      "score": 90,
+      "traffic": "418 pts / 159 comments",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "f1",
+      "title": "539",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.formula1.com/en/latest/article/russell-charges-to-pole-position-as-antonelli-suffers-shock-exit-in-qualifying-for-azerbaijan-gp.6vFe7216mR8JZuWE4QIB4w",
-      "context": "Russell charges to pole as Antonelli exits Baku Qualifying"
-    },
-    {
-      "title": "xsmb",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-da-nang-quang-ngai-dak-nong-hom-nay-269-1773150.ldo",
-      "context": "Kết quả xổ số Đà Nẵng, Quảng Ngãi, Đắk Nông hôm nay 26.9"
-    },
-    {
-      "title": "山 難",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
+      "score": 88,
+      "traffic": "5000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "普 發 一 萬",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "202 pts / 31 comments",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "國民 年金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E6%BB%BF65%E6%AD%B2%E6%B3%A8%E6%84%8F-%E5%9C%8B%E6%B0%91%E5%B9%B4%E9%87%91%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-%E5%BF%98%E5%81%9A1%E4%BA%8B-%E6%81%90%E7%84%A1%E6%B3%95%E5%85%A5%E5%B8%B3-040700129.html",
+      "context": "滿65歲注意！國民年金新制上路 「忘做1事」恐無法入帳"
+    },
+    {
+      "title": "自由座",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.ctee.com.tw/news/20260925700661-430101",
-      "context": "明年普發現金新台幣1萬元、18歲以下還有成長津貼賴清德：要讓台灣過好生活- 要聞"
+      "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E9%80%A3%E5%81%87%E7%96%8F%E9%81%8B%E5%89%8D2%E6%97%A5%E9%81%8B%E9%87%8F%E6%9A%B4%E5%A2%9E%EF%BC%81928%E8%BF%8E%E6%94%B6%E5%81%87%E6%9C%80%E9%AB%98%E5%B3%B0-%E8%87%AA%E7%94%B1%E5%BA%A7%E9%81%BF%E9%96%8B%E9%80%995%E5%B0%8F%E6%99%82-125446800.html",
+      "context": "高鐵連假疏運前2日運量暴增！9/28迎收假最高峰 自由座避開這5小時"
+    },
+    {
+      "title": "台北市政府",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E5%9C%98%E9%9A%8A%E5%8F%AA%E6%8A%8A%E5%9F%8E%E5%B8%82%E7%95%B6%E4%BD%9C%E6%89%93%E5%8D%A1%E6%99%AF%E9%BB%9E-%E5%A5%B9%E5%88%97%E9%80%99%E4%BA%9B%E8%B6%85%E6%89%93%E8%87%89-%E5%8F%B0%E5%8C%97%E4%B8%8D%E7%BC%BA%E6%96%87%E5%8C%96%E6%95%85%E4%BA%8B-031500636.html",
+      "context": "蔣萬安團隊只把城市當作打卡景點？她列這些超打臉：台北不缺文化故事"
+    },
+    {
+      "title": "胡瓜",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://stars.udn.com/star/story/10092/9779167",
+      "context": "小禎台上唱到一半 李進良帶小33歲嫩妹踩場！正面照全曝光"
+    },
+    {
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "54 pts / 65 comments",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "61 pts / 21 comments",
+      "url": "https://castle-engine.io/modern_pascal",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "亞運棒球",
+      "topic": "We're gonna need a lot more mathematicians",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「亞運棒球」開始升溫，我們真正該看的不是熱度",
+      "title": "當「We're gonna need a lot more mathematicians」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「亞運棒球」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「We're gonna need a lot more mathematicians」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "亞運棒球",
-          "url": "https://trends.google.com/trending?geo=TW"
+          "source": "HACKER NEWS",
+          "title": "We're gonna need a lot more mathematicians",
+          "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/"
         }
       ]
     }
