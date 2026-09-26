@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-26T05:38:00+08:00",
+  "generated_at": "2026-09-26T13:05:10+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "大樂透",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F%E9%96%8B%E7%8D%8E%E4%BA%86%EF%BC%81925%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E3%80%81%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC%E7%99%BE%E8%90%AC%E7%8D%8E%E3%80%815000%E5%85%83%E7%B4%85%E5%8C%85%E5%87%BA%E7%88%90-100%E7%B5%84100%E8%90%AC%E5%85%83%E5%89%A951%E7%B5%84-%E5%A4%A7%E6%A8%82%E9%80%8F%E7%9B%B4%E6%92%AD%E3%80%81%E4%B8%AD%E7%8D%8E%E6%80%8E%E9%BA%BC%E7%9C%8B%E3%80%81%E5%A6%82%E4%BD%95%E9%A0%98%E4%B8%80%E6%AC%A1%E7%9C%8B-080000902.html",
-      "context": "大樂透開獎了！9/25中獎號碼、中秋加碼百萬獎、5000元紅包出爐100組100萬元剩51組大樂透直播、中獎怎麼看、如何領一次看"
-    },
-    {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "313 pts / 527 comments",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Platform-independent SIMD in Go",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "326 pts / 124 comments",
-      "url": "https://go.dev/blog/simd-experiment",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "警察",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://news.pchome.com.tw/living/m00361/20260925/index-79034033808345361009.html",
-      "context": "東京獨旅逛街驚魂！台女遭店家誣賴偷竊 一出門「遇警察搜身」嚇哭"
-    },
-    {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "270 pts / 91 comments",
-      "url": "https://github.com/git-bug/git-bug",
+      "score": 90,
+      "traffic": "328 pts / 190 comments",
+      "url": "https://swarmtraces.org/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "205 pts / 59 comments",
+      "score": 89,
+      "traffic": "383 pts / 106 comments",
       "url": "https://ollaya.dev/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "First Principles Thinking",
+      "title": "Plan mode is dead",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "185 pts / 78 comments",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "score": 89,
+      "traffic": "188 pts / 182 comments",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "威爾史密斯",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://pagesix.com/2026/09/25/entertainment/rob-lowe-admits-he-was-the-only-person-happy-when-will-smith-slapped-chris-rock-at-oscars/",
-      "context": "Rob Lowe awkwardly admits he was ‘the only person happy’ when Will Smith slapped Chris Rock at Oscars"
-    },
-    {
-      "title": "Too AI; Didn't Read",
+      "title": "What even is an OS now?",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "74 pts / 58 comments",
-      "url": "https://www.tai-dr.com/",
+      "score": 89,
+      "traffic": "130 pts / 226 comments",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "歐國聯",
+      "title": "魔法氣泡",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B926-%E7%BE%A9%E5%A4%A7%E5%88%A9mancini%E5%9B%9E%E9%8D%8B%E9%A6%96%E7%A7%80-%E6%AF%94%E5%88%A9%E6%99%82de-bruyne%E7%BA%8C%E6%89%9B%E6%A0%B8%E5%BF%83-085626162.html",
-      "context": "足球運彩分析》9/26 義大利Mancini回鍋首秀 比利時De Bruyne續扛核心"
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://gnn.gamer.com.tw/detail.php?sn=312376",
+      "context": "愛知名古屋亞運「競技武術」中華隊止步八強 Ugang、ET、Mr.Good 聯手出戰"
     },
     {
-      "title": "f1",
+      "title": "mamamoo 演唱會",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.formula1.com/en/latest/article/russell-charges-to-pole-position-as-antonelli-suffers-shock-exit-in-qualifying-for-azerbaijan-gp.6vFe7216mR8JZuWE4QIB4w",
-      "context": "Russell charges to pole as Antonelli exits Baku Qualifying"
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.news.yahoo.com/mamamoo%E5%B0%8F%E5%B7%A8%E8%9B%8B%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%8B%E8%B3%A3-%E5%AF%A6%E5%90%8D%E5%88%B6-%E9%81%B8%E4%BD%8D-%E6%AC%A1%E6%8E%8C%E6%8F%A1-3%E6%8B%9B%E6%8F%90%E9%AB%98%E4%B8%AD%E7%A5%A8%E7%8E%87-024000076.html",
+      "context": "MAMAMOO小巨蛋演唱會開賣！實名制＋選位一次掌握 3招提高中票率"
+    },
+    {
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "148 pts / 149 comments",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Jev Plays Pokémon Red",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "72 pts / 39 comments",
+      "score": 87,
+      "traffic": "176 pts / 76 comments",
       "url": "https://jev-pokemon.vercel.app/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Excel now supports multiple values in a single cell",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "137 pts / 101 comments",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "劉歡",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://ent.ebc.net.tw/music/502687",
+      "context": "罹不死癌症！《歌手2019》歌王劉歡病逝 享年63歲"
+    },
+    {
+      "title": "遠大",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "yoasobi 演唱會",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://news.cts.com.tw/cts/entertain/202609/202609233082190.html",
+      "context": "YOASOBI台北大巨蛋演唱會二次抽選、一般販售資訊來了- 娛樂"
     }
   ],
   "articles": [
     {
-      "topic": "大樂透",
+      "topic": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「大樂透」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Revealing the details of how OpenAI agents hacked Hugging Face」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「大樂透」推到更高的注意力位置。大樂透開獎了！9/25中獎號碼、中秋加碼百萬獎、5000元紅包出爐100組100萬元剩51組大樂透直播、中獎怎麼看、如何領一次看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Revealing the details of how OpenAI agents hacked Hugging Face」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "大樂透",
-          "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F%E9%96%8B%E7%8D%8E%E4%BA%86%EF%BC%81925%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E3%80%81%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC%E7%99%BE%E8%90%AC%E7%8D%8E%E3%80%815000%E5%85%83%E7%B4%85%E5%8C%85%E5%87%BA%E7%88%90-100%E7%B5%84100%E8%90%AC%E5%85%83%E5%89%A951%E7%B5%84-%E5%A4%A7%E6%A8%82%E9%80%8F%E7%9B%B4%E6%92%AD%E3%80%81%E4%B8%AD%E7%8D%8E%E6%80%8E%E9%BA%BC%E7%9C%8B%E3%80%81%E5%A6%82%E4%BD%95%E9%A0%98%E4%B8%80%E6%AC%A1%E7%9C%8B-080000902.html"
+          "source": "HACKER NEWS",
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org/"
         }
       ]
     },
     {
-      "topic": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "topic": "Ollaya – Ollama for open-source, Jev-style decision models",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「U.S. appeals court upholds designation of Anthropic as supply chain risk」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Ollaya – Ollama for open-source, Jev-style decision models」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「U.S. appeals court upholds designation of Anthropic as supply chain risk」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Ollaya – Ollama for open-source, Jev-style decision models」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+          "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+          "url": "https://ollaya.dev/"
         }
       ]
     },
     {
-      "topic": "Platform-independent SIMD in Go",
+      "topic": "Plan mode is dead",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Platform-independent SIMD in Go」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Plan mode is dead」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Platform-independent SIMD in Go」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Plan mode is dead」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Platform-independent SIMD in Go",
-          "url": "https://go.dev/blog/simd-experiment"
+          "title": "Plan mode is dead",
+          "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html"
         }
       ]
     }
