@@ -1,81 +1,73 @@
 {
-  "generated_at": "2026-09-27T20:08:01+08:00",
+  "generated_at": "2026-09-28T01:01:01+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Does Georgism work? Five years later",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "372 pts / 272 comments",
+      "score": 92,
+      "traffic": "465 pts / 376 comments",
       "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "title": "Installing NeoVim caused original Vim undo files to be deleted",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "434 pts / 235 comments",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "287 pts / 250 comments",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Go Concurrency Distilled",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "242 pts / 96 comments",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "263 pts / 86 comments",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "325 pts / 88 comments",
-      "url": "https://github.com/reladraw/reladraw",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "225 pts / 144 comments",
-      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "score": 89,
+      "traffic": "255 pts / 205 comments",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Flip Fluid on Flip Dots",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "126 pts / 12 comments",
+      "score": 86,
+      "traffic": "278 pts / 19 comments",
       "url": "https://mitxela.com/projects/flipflip",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Improving site performance by shipping more CSS",
+      "title": "傅兆玄",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B-%E7%94%B0%E5%BE%91%E5%A5%AA%E9%87%91%E6%9C%89%E5%A4%9A%E9%9B%A3-%E5%89%8D3%E4%BD%8D%E9%83%BD%E6%98%AF%E5%82%B3%E5%A5%87-%E5%82%85%E5%85%86%E7%8E%84%E6%88%90%E7%82%BA%E5%8F%B0%E7%81%A3%E7%AC%AC4%E4%BA%BA-134331407.html",
+      "context": "亞運》田徑奪金有多難？前3位都是傳奇 傅兆玄成為台灣第4人"
+    },
+    {
+      "title": "新闻",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.arch-web.com.tw/%E7%BB%BC%E5%90%88%E6%96%B0%E9%97%BB/%E5%8D%B0%E5%BA%A6%E6%96%B0%E9%97%BB-sircilla-%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%8F%91%E5%B8%83%EF%BC%9Aktr-%E4%BB%8E-brs-%E5%88%B0-telangana-cm-revanth-reddy/703183/",
+      "context": "印度新闻| Sircilla 发展白皮书发布：KTR 从 BRS 到 Telangana CM Revanth Reddy"
+    },
+    {
+      "title": "群 創 光電",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "53 pts / 32 comments",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "traffic": "72 pts / 27 comments",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "分析 師",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "66 pts / 25 comments",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "亞運排球",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
@@ -83,19 +75,27 @@
       "context": ""
     },
     {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "title": "The Normalization of Inexplicable Failures",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "37 pts / 27 comments",
-      "url": "https://arxiv.org/abs/2609.25021",
+      "traffic": "69 pts / 12 comments",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The internet discovers TLA+. Now what?",
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "28 pts / 14 comments",
-      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "score": 82,
+      "traffic": "48 pts / 28 comments",
+      "url": "https://fakecloud.dev/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Writing Efficient C++ Code",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "51 pts / 12 comments",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "topic": "Installing NeoVim caused original Vim undo files to be deleted",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「PipePipe: NewPipe hard fork implementing SponsorBlock」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Installing NeoVim caused original Vim undo files to be deleted」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「PipePipe: NewPipe hard fork implementing SponsorBlock」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Installing NeoVim caused original Vim undo files to be deleted」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-          "url": "https://github.com/InfinityLoop1308/PipePipe"
+          "title": "Installing NeoVim caused original Vim undo files to be deleted",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"
         }
       ]
     },
     {
-      "topic": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "topic": "Flip Fluid on Flip Dots",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「OpenAI Feared \"Optics\" of what might appear on Hacker News」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Flip Fluid on Flip Dots」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenAI Feared \"Optics\" of what might appear on Hacker News」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Flip Fluid on Flip Dots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"
+          "title": "Flip Fluid on Flip Dots",
+          "url": "https://mitxela.com/projects/flipflip"
         }
       ]
     }
