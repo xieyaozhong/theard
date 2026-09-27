@@ -1,46 +1,70 @@
 {
-  "generated_at": "2026-09-28T01:01:01+08:00",
+  "generated_at": "2026-09-28T05:23:36+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Does Georgism work? Five years later",
+      "title": "東森新聞",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "槍決",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://tw.news.yahoo.com/%E9%BB%83%E9%BA%9F%E5%87%B1-%E6%A7%8D%E6%B1%BA-%E4%BB%A4%E5%87%86-%E5%BB%A2%E6%AD%BB%E8%81%AF%E7%9B%9F%E6%8F%90%E5%91%8A%E9%81%95%E6%B3%95-%E6%9C%80%E9%AB%98%E8%A1%8C%E9%A7%81%E5%9B%9E%E6%8A%97%E5%91%8A%E7%A2%BA%E5%AE%9A-122058539.html",
+      "context": "黃麟凱「槍決」令准！廢死聯盟提告違法 最高行駁回抗告確定"
+    },
+    {
+      "title": "When did Google get so weird?",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "465 pts / 376 comments",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "score": 88,
+      "traffic": "209 pts / 115 comments",
+      "url": "https://sancho.bearblog.dev/google-weird/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "title": "Ember-1",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "255 pts / 205 comments",
-      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "score": 88,
+      "traffic": "223 pts / 128 comments",
+      "url": "https://fireworks.ai/blog/ember-1",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Flip Fluid on Flip Dots",
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "278 pts / 19 comments",
-      "url": "https://mitxela.com/projects/flipflip",
+      "traffic": "175 pts / 67 comments",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "傅兆玄",
+      "title": "Writing Efficient C++ Code (2013)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "120 pts / 72 comments",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "歐國聯",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B-%E7%94%B0%E5%BE%91%E5%A5%AA%E9%87%91%E6%9C%89%E5%A4%9A%E9%9B%A3-%E5%89%8D3%E4%BD%8D%E9%83%BD%E6%98%AF%E5%82%B3%E5%A5%87-%E5%82%85%E5%85%86%E7%8E%84%E6%88%90%E7%82%BA%E5%8F%B0%E7%81%A3%E7%AC%AC4%E4%BA%BA-134331407.html",
-      "context": "亞運》田徑奪金有多難？前3位都是傳奇 傅兆玄成為台灣第4人"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83-gordon%E7%B2%BE%E5%BD%A9%E5%8F%8D%E6%93%8A%E7%A0%B4%E9%96%80-%E7%9B%B4%E8%A8%80%E8%8B%B1%E6%A0%BC%E8%98%AD%E6%87%89%E5%A0%85%E6%8C%81%E8%87%AA%E8%BA%AB%E8%B6%B3%E7%90%83%E9%A2%A8%E6%A0%BC-045151612.html",
+      "context": "足球》Gordon精彩反擊破門 直言英格蘭應堅持自身足球風格"
     },
     {
       "title": "新闻",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.arch-web.com.tw/%E7%BB%BC%E5%90%88%E6%96%B0%E9%97%BB/%E5%8D%B0%E5%BA%A6%E6%96%B0%E9%97%BB-sircilla-%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6%E5%8F%91%E5%B8%83%EF%BC%9Aktr-%E4%BB%8E-brs-%E5%88%B0-telangana-cm-revanth-reddy/703183/",
-      "context": "印度新闻| Sircilla 发展白皮书发布：KTR 从 BRS 到 Telangana CM Revanth Reddy"
+      "url": "https://ua.news/cn/world/nigeriiska-gildiia-redaktoriv-otsinila-proiekti-v-enugu-premium-times-nigeria",
+      "context": "尼日利亚编辑协会评估埃努古项目——Premium Times Nigeria"
     },
     {
       "title": "群 創 光電",
@@ -51,65 +75,41 @@
       "context": ""
     },
     {
-      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "72 pts / 27 comments",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "score": 84,
+      "traffic": "91 pts / 31 comments",
+      "url": "https://loficities.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Replacing the old battery on rechargeable bike lights",
+      "title": "Don't couple your Go code to GitHub",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "66 pts / 25 comments",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "traffic": "65 pts / 33 comments",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "亞運排球",
+      "title": "台74線",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
-    },
-    {
-      "title": "The Normalization of Inexplicable Failures",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "69 pts / 12 comments",
-      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "48 pts / 28 comments",
-      "url": "https://fakecloud.dev/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Writing Efficient C++ Code",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "51 pts / 12 comments",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Does Georgism work? Five years later",
+      "topic": "東森新聞",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Does Georgism work? Five years later」開始升溫，我們真正該看的不是熱度",
+      "title": "當「東森新聞」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Does Georgism work? Five years later」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「東森新聞」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Does Georgism work? Five years later",
-          "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "東森新聞",
+          "url": "https://trends.google.com/trending?geo=TW"
         }
       ]
     },
     {
-      "topic": "Installing NeoVim caused original Vim undo files to be deleted",
+      "topic": "槍決",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Installing NeoVim caused original Vim undo files to be deleted」開始升溫，我們真正該看的不是熱度",
+      "title": "當「槍決」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Installing NeoVim caused original Vim undo files to be deleted」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「槍決」推到更高的注意力位置。黃麟凱「槍決」令准！廢死聯盟提告違法 最高行駁回抗告確定。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,22 +166,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Installing NeoVim caused original Vim undo files to be deleted",
-          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "槍決",
+          "url": "https://tw.news.yahoo.com/%E9%BB%83%E9%BA%9F%E5%87%B1-%E6%A7%8D%E6%B1%BA-%E4%BB%A4%E5%87%86-%E5%BB%A2%E6%AD%BB%E8%81%AF%E7%9B%9F%E6%8F%90%E5%91%8A%E9%81%95%E6%B3%95-%E6%9C%80%E9%AB%98%E8%A1%8C%E9%A7%81%E5%9B%9E%E6%8A%97%E5%91%8A%E7%A2%BA%E5%AE%9A-122058539.html"
         }
       ]
     },
     {
-      "topic": "Flip Fluid on Flip Dots",
+      "topic": "When did Google get so weird?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Flip Fluid on Flip Dots」開始升溫，我們真正該看的不是熱度",
+      "title": "當「When did Google get so weird?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Flip Fluid on Flip Dots」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「When did Google get so weird?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Flip Fluid on Flip Dots",
-          "url": "https://mitxela.com/projects/flipflip"
+          "title": "When did Google get so weird?",
+          "url": "https://sancho.bearblog.dev/google-weird/"
         }
       ]
     }
