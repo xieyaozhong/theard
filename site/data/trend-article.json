@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-27T07:39:54+08:00",
+  "generated_at": "2026-09-27T13:23:04+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "119 pts / 346 comments",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "context": "High-engagement technology discussion"
+      "title": "林昱珉",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E6%A3%92%E7%90%83-%E4%B8%AD%E8%8F%AF%E9%9A%8A-%E4%B8%AD%E5%9C%8B-%E9%8A%85%E7%89%8C%E6%88%B0-014905542.html",
+      "context": "亞運棒球》中華隊與中國爭銅牌 台灣打線長打連發擴大領先成5比0（不斷更新）"
     },
     {
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "299 pts / 159 comments",
+      "score": 90,
+      "traffic": "361 pts / 200 comments",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Fifteen years later, the Apple Cards origin story",
+      "title": "Does Georgism work? Five years later",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "328 pts / 82 comments",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "traffic": "223 pts / 151 comments",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Modern Object Pascal Introduction for Programmers",
+      "title": "DeepSeek Elastic Compute (DSec)",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "137 pts / 56 comments",
-      "url": "https://castle-engine.io/modern_pascal",
+      "score": 87,
+      "traffic": "204 pts / 63 comments",
+      "url": "https://arxiv.org/abs/2609.22978",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "145 pts / 43 comments",
+      "score": 87,
+      "traffic": "235 pts / 68 comments",
       "url": "https://github.com/reladraw/reladraw",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "新聞",
+      "title": "google's birthday",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.yahoo.co.jp/articles/90173425498bc38802a95ad1f8b318031126f332",
-      "context": "中学1年女子に一目ぼれ「結婚したい」 15歳で妊娠判明…法律上最年少夫婦のママに「かわいい」の声（ENCOUNT）"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.livemint.com/news/trends/googles-birthday-why-the-september-27-celebration-doesnt-match-its-official-september-4-incorporation-date-11790476765631.html",
+      "context": "Google's birthday: Why the September 27 celebration doesn't match its official September 4 incorporation date"
     },
     {
-      "title": "股災",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "DeepSeek Elastic Compute (DSec)",
+      "title": "Go Concurrency Distilled",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "118 pts / 34 comments",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "96 pts / 32 comments",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "LA Metro has some of the slowest escalators on Earth",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "62 pts / 40 comments",
-      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+      "score": 85,
+      "traffic": "117 pts / 37 comments",
+      "url": "https://antonz.org/go-concurrency-distilled/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "95 pts / 22 comments",
+      "score": 85,
+      "traffic": "140 pts / 26 comments",
       "url": "https://www.movingimagearchive.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "生肖",
+      "title": "If we do not stop to help each other, what do we become?",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "101 pts / 24 comments",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Evolving programming languages in the AI era",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "68 pts / 42 comments",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "An agent used DNS to reach an external chatbot",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "57 pts / 61 comments",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "補貼",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.nownews.com/news/6877683",
-      "context": "（2026/09/26）十二生肖運勢／屬牛財運不穩　屬豬獲得貴人金援"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "topic": "林昱珉",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「ASML says it sold 'absolutely nothing' in Europe in 2026」開始升溫，我們真正該看的不是熱度",
+      "title": "當「林昱珉」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「ASML says it sold 'absolutely nothing' in Europe in 2026」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「林昱珉」推到更高的注意力位置。亞運棒球》中華隊與中國爭銅牌 台灣打線長打連發擴大領先成5比0（不斷更新）。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,9 +130,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "林昱珉",
+          "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E6%A3%92%E7%90%83-%E4%B8%AD%E8%8F%AF%E9%9A%8A-%E4%B8%AD%E5%9C%8B-%E9%8A%85%E7%89%8C%E6%88%B0-014905542.html"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Fifteen years later, the Apple Cards origin story",
+      "topic": "Does Georgism work? Five years later",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Fifteen years later, the Apple Cards origin story」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Does Georgism work? Five years later」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Fifteen years later, the Apple Cards origin story」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Does Georgism work? Five years later」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Fifteen years later, the Apple Cards origin story",
-          "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story"
+          "title": "Does Georgism work? Five years later",
+          "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later"
         }
       ]
     }
