@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-27T13:23:04+08:00",
+  "generated_at": "2026-09-27T20:08:01+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "林昱珉",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E6%A3%92%E7%90%83-%E4%B8%AD%E8%8F%AF%E9%9A%8A-%E4%B8%AD%E5%9C%8B-%E9%8A%85%E7%89%8C%E6%88%B0-014905542.html",
-      "context": "亞運棒球》中華隊與中國爭銅牌 台灣打線長打連發擴大領先成5比0（不斷更新）"
+      "title": "Does Georgism work? Five years later",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "372 pts / 272 comments",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "361 pts / 200 comments",
+      "score": 91,
+      "traffic": "434 pts / 235 comments",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Does Georgism work? Five years later",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "287 pts / 250 comments",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Go Concurrency Distilled",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "223 pts / 151 comments",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "traffic": "242 pts / 96 comments",
+      "url": "https://antonz.org/go-concurrency-distilled/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DeepSeek Elastic Compute (DSec)",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "204 pts / 63 comments",
+      "score": 88,
+      "traffic": "263 pts / 86 comments",
       "url": "https://arxiv.org/abs/2609.22978",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "235 pts / 68 comments",
+      "score": 88,
+      "traffic": "325 pts / 88 comments",
       "url": "https://github.com/reladraw/reladraw",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "google's birthday",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.livemint.com/news/trends/googles-birthday-why-the-september-27-celebration-doesnt-match-its-official-september-4-incorporation-date-11790476765631.html",
-      "context": "Google's birthday: Why the September 27 celebration doesn't match its official September 4 incorporation date"
-    },
-    {
-      "title": "Go Concurrency Distilled",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "117 pts / 37 comments",
-      "url": "https://antonz.org/go-concurrency-distilled/",
+      "score": 88,
+      "traffic": "225 pts / 144 comments",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "140 pts / 26 comments",
-      "url": "https://www.movingimagearchive.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "If we do not stop to help each other, what do we become?",
+      "title": "Flip Fluid on Flip Dots",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "101 pts / 24 comments",
-      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "traffic": "126 pts / 12 comments",
+      "url": "https://mitxela.com/projects/flipflip",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Evolving programming languages in the AI era",
+      "title": "Improving site performance by shipping more CSS",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "68 pts / 42 comments",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "score": 83,
+      "traffic": "53 pts / 32 comments",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "An agent used DNS to reach an external chatbot",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "57 pts / 61 comments",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "補貼",
+      "title": "分析 師",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "37 pts / 27 comments",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The internet discovers TLA+. Now what?",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "28 pts / 14 comments",
+      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "林昱珉",
+      "topic": "Does Georgism work? Five years later",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「林昱珉」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Does Georgism work? Five years later」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「林昱珉」推到更高的注意力位置。亞運棒球》中華隊與中國爭銅牌 台灣打線長打連發擴大領先成5比0（不斷更新）。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Does Georgism work? Five years later」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,9 +130,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "林昱珉",
-          "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E6%A3%92%E7%90%83-%E4%B8%AD%E8%8F%AF%E9%9A%8A-%E4%B8%AD%E5%9C%8B-%E9%8A%85%E7%89%8C%E6%88%B0-014905542.html"
+          "source": "HACKER NEWS",
+          "title": "Does Georgism work? Five years later",
+          "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Does Georgism work? Five years later",
+      "topic": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Does Georgism work? Five years later」開始升溫，我們真正該看的不是熱度",
+      "title": "當「OpenAI Feared \"Optics\" of what might appear on Hacker News」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Does Georgism work? Five years later」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「OpenAI Feared \"Optics\" of what might appear on Hacker News」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Does Georgism work? Five years later",
-          "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later"
+          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"
         }
       ]
     }
