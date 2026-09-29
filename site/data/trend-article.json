@@ -1,81 +1,65 @@
 {
-  "generated_at": "2026-09-29T09:03:01+08:00",
+  "generated_at": "2026-09-29T17:54:25+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "東北季風",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/%E7%A7%8B%E8%80%81%E8%99%8E%E4%BB%8D%E7%99%BC%E5%A8%81-%E9%80%B1%E4%BA%94%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%88%B0-%E9%99%8D%E6%BA%AB%E9%99%902%E5%A4%A7%E5%8D%80-%E7%9C%9F%E6%AD%A3%E8%BD%89%E6%B6%BC%E7%AD%89%E9%80%99%E5%A4%A9-002600011.html",
-      "context": "秋老虎仍發威！週五東北季風到「降溫限2大區」 真正轉涼等這天"
-    },
-    {
-      "title": "Sonnet 5.5",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "552 pts / 379 comments",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Pirating the Pirates",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "400 pts / 207 comments",
+      "score": 92,
+      "traffic": "586 pts / 285 comments",
       "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "270 pts / 170 comments",
-      "url": "https://www.thisamericanlife.org/897/transcript",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "299 pts / 167 comments",
-      "url": "https://git.mills.io/prologic/parley",
+      "score": 92,
+      "traffic": "214 pts / 503 comments",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "237 pts / 85 comments",
+      "score": 90,
+      "traffic": "497 pts / 188 comments",
       "url": "https://github.com/firelex/jeff",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "World Labs Is Joining AMD",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "174 pts / 65 comments",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Hijacking the PS5's RTMP stream",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "188 pts / 62 comments",
-      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-      "context": "High-engagement technology discussion"
+      "title": "市長",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53030",
+      "context": "核のごみ 常陸大宮市長と赤澤経産相が面会 懸念は「ほぼ解消」"
     },
     {
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "117 pts / 58 comments",
+      "score": 88,
+      "traffic": "244 pts / 87 comments",
       "url": "https://stateofutopia.com/experiments/microllmlab/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "台積電",
+      "title": "中國",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.stock.yahoo.com/news/%E6%B5%B7%E8%AD%A6%E5%8F%88%E4%BE%86-%E5%A4%A7%E9%99%B8%E5%AE%A3%E5%B8%83%E5%9C%A8%E5%8F%B0%E7%81%A3%E4%BB%A5%E6%9D%B1%E6%B5%B7%E5%9F%9F%E5%B1%95%E9%96%8B%E5%B8%B8%E6%85%8B%E5%8C%96%E5%9F%B7%E6%B3%95%E5%B7%A1%E6%9F%A5-071707698.html",
+      "context": "海警又來！大陸宣布在台灣以東海域展開常態化執法巡查"
+    },
+    {
+      "title": "0056 配 息",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.businesstoday.com.tw/article/category/183013/post/202609290022/",
+      "context": "0056暴配1.7元有可能？落後00878、00919，拚12％年化配息率「底氣在哪？」合理價、月領1萬成本曝光"
+    },
+    {
+      "title": "預算",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -83,99 +67,43 @@
       "context": ""
     },
     {
-      "title": "股票",
+      "title": "金牌",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E9%87%91%E8%9E%8D%E8%82%A1%E7%8B%82%E6%BC%B2%E6%98%AF%E8%AD%A6%E8%A8%8A-pcb%E5%A5%B3%E7%8E%8B%E5%96%8A-%E9%82%84%E6%B2%92%E5%88%B0%E6%9C%80%E5%BE%8C-%E6%A3%92-%E5%AD%98%E8%82%A1%E9%A6%96%E9%81%B8%E6%9B%9D%E5%85%89-001000654.html",
-      "context": "金融股狂漲是警訊？PCB女王喊「還沒到最後一棒」 存股首選曝光"
+      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E3%80%8B%E9%99%B3%E5%BF%B5%E7%90%B44%E5%BC%B7%E6%8B%B3%E7%A0%B4%E5%8C%97%E9%9F%93-%E6%99%89%E7%B4%9A%E5%A5%B3%E5%AD%9065%E5%85%AC%E6%96%A4%E7%B4%9A%E6%B1%BA%E8%B3%BD%E7%88%AD%E9%87%91%E5%A5%AA%E9%8A%80-052120591.html",
+      "context": "亞運》陳念琴4強拳破北韓 晉級女子65公斤級決賽爭金奪銀"
     },
     {
-      "title": "Scientists solve 1840s space weather mystery",
+      "title": "年金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.ctee.com.tw/news/20260929700742-430401",
+      "context": "勞保怎麼拿最賺？60歲提早、延後領試算專家：重要的是做好這件事- 理財"
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "50 pts / 33 comments",
-      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "score": 84,
+      "traffic": "143 pts / 15 comments",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Tank Body Problem",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "113 pts / 24 comments",
+      "url": "http://www.jimsitu.com",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "東北季風",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「東北季風」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「東北季風」推到更高的注意力位置。秋老虎仍發威！週五東北季風到「降溫限2大區」 真正轉涼等這天。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "東北季風",
-          "url": "https://tw.news.yahoo.com/%E7%A7%8B%E8%80%81%E8%99%8E%E4%BB%8D%E7%99%BC%E5%A8%81-%E9%80%B1%E4%BA%94%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%88%B0-%E9%99%8D%E6%BA%AB%E9%99%902%E5%A4%A7%E5%8D%80-%E7%9C%9F%E6%AD%A3%E8%BD%89%E6%B6%BC%E7%AD%89%E9%80%99%E5%A4%A9-002600011.html"
-        }
-      ]
-    },
-    {
-      "topic": "Sonnet 5.5",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Sonnet 5.5」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Sonnet 5.5」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5"
-        }
-      ]
-    },
-    {
       "topic": "Pirating the Pirates",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Pirating the Pirates」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "Pirating the Pirates",
           "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates"
+        }
+      ]
+    },
+    {
+      "topic": "California farmers are struggling to sell grapes as demand for wine drops",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「California farmers are struggling to sell grapes as demand for wine drops」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「California farmers are struggling to sell grapes as demand for wine drops」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "California farmers are struggling to sell grapes as demand for wine drops",
+          "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops"
+        }
+      ]
+    },
+    {
+      "topic": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "url": "https://github.com/firelex/jeff"
         }
       ]
     }
