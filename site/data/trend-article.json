@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-29T17:54:25+08:00",
+  "generated_at": "2026-09-30T02:06:46+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Pirating the Pirates",
-      "source": "HACKER NEWS",
+      "title": "明天的天氣",
+      "source": "GOOGLE TRENDS / TW",
       "score": 92,
-      "traffic": "586 pts / 285 comments",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "context": "High-engagement technology discussion"
+      "traffic": "20000+",
+      "url": "https://udn.com/news/story/7266/9784309",
+      "context": "準備「南北兩樣情」！氣溫恐一口氣降至20度出頭 第二波影響最明顯"
     },
     {
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "214 pts / 503 comments",
-      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "497 pts / 188 comments",
-      "url": "https://github.com/firelex/jeff",
+      "traffic": "307 pts / 236 comments",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "市長",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53030",
-      "context": "核のごみ 常陸大宮市長と赤澤経産相が面会 懸念は「ほぼ解消」"
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "322 pts / 188 comments",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "378 pts / 121 comments",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Dots: Always-on agents",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "244 pts / 87 comments",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "traffic": "206 pts / 113 comments",
+      "url": "https://openai.com/index/introducing-dots/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "中國",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/%E6%B5%B7%E8%AD%A6%E5%8F%88%E4%BE%86-%E5%A4%A7%E9%99%B8%E5%AE%A3%E5%B8%83%E5%9C%A8%E5%8F%B0%E7%81%A3%E4%BB%A5%E6%9D%B1%E6%B5%B7%E5%9F%9F%E5%B1%95%E9%96%8B%E5%B8%B8%E6%85%8B%E5%8C%96%E5%9F%B7%E6%B3%95%E5%B7%A1%E6%9F%A5-071707698.html",
-      "context": "海警又來！大陸宣布在台灣以東海域展開常態化執法巡查"
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "186 pts / 121 comments",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "0056 配 息",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.businesstoday.com.tw/article/category/183013/post/202609290022/",
-      "context": "0056暴配1.7元有可能？落後00878、00919，拚12％年化配息率「底氣在哪？」合理價、月領1萬成本曝光"
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "187 pts / 78 comments",
+      "url": "https://github.com/PostHog/jeeves",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "預算",
+      "title": "Without the Hot Air",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "100 pts / 48 comments",
+      "url": "https://www.withouthotair.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "消失的裂痕",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
+      "url": "https://www.cna.com.tw/news/amov/202609290061.aspx",
+      "context": "楊謹華分飾兩角挑戰切換自如新劇攜張孝全演夫妻| 娛樂"
+    },
+    {
+      "title": "劉克襄",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/17%E6%AD%B2%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%97%A9%E8%A2%AB%E5%AF%AB%E9%80%B2%E6%9B%B8-%E5%8A%89%E5%85%8B%E8%A5%84%E6%8F%AD20%E5%A4%9A%E5%B9%B4%E7%B7%A3%E5%88%86-%E5%8F%B0%E7%81%A3%E9%80%81%E6%88%91%E6%9C%80%E5%8E%9A%E9%87%8D%E7%9A%84%E7%A6%AE%E7%89%A9-133700796.html",
+      "context": "17歲沈伯洋早被寫進書！劉克襄揭20多年緣分：台灣送我最厚重的禮物"
+    },
+    {
+      "title": "停 水",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.storm.mg/lifestyle/11168331",
+      "context": "快去儲水！明天9縣市大停水「最長10小時早晚都沒水用」， 家中停水範圍一鍵查詢"
+    },
+    {
+      "title": "军公教",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
-    },
-    {
-      "title": "金牌",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E3%80%8B%E9%99%B3%E5%BF%B5%E7%90%B44%E5%BC%B7%E6%8B%B3%E7%A0%B4%E5%8C%97%E9%9F%93-%E6%99%89%E7%B4%9A%E5%A5%B3%E5%AD%9065%E5%85%AC%E6%96%A4%E7%B4%9A%E6%B1%BA%E8%B3%BD%E7%88%AD%E9%87%91%E5%A5%AA%E9%8A%80-052120591.html",
-      "context": "亞運》陳念琴4強拳破北韓 晉級女子65公斤級決賽爭金奪銀"
-    },
-    {
-      "title": "年金",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.ctee.com.tw/news/20260929700742-430401",
-      "context": "勞保怎麼拿最賺？60歲提早、延後領試算專家：重要的是做好這件事- 理財"
-    },
-    {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "143 pts / 15 comments",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Tank Body Problem",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "113 pts / 24 comments",
-      "url": "http://www.jimsitu.com",
-      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Pirating the Pirates",
+      "topic": "明天的天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Pirating the Pirates」開始升溫，我們真正該看的不是熱度",
+      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Pirating the Pirates」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。準備「南北兩樣情」！氣溫恐一口氣降至20度出頭 第二波影響最明顯。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Pirating the Pirates",
-          "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "明天的天氣",
+          "url": "https://udn.com/news/story/7266/9784309"
         }
       ]
     },
     {
-      "topic": "California farmers are struggling to sell grapes as demand for wine drops",
+      "topic": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「California farmers are struggling to sell grapes as demand for wine drops」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「California farmers are struggling to sell grapes as demand for wine drops」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "California farmers are struggling to sell grapes as demand for wine drops",
-          "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops"
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
         }
       ]
     },
     {
-      "topic": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "topic": "How Delhi cut electricity loss from 50 to 5 percent",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms」開始升溫，我們真正該看的不是熱度",
+      "title": "當「How Delhi cut electricity loss from 50 to 5 percent」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「How Delhi cut electricity loss from 50 to 5 percent」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-          "url": "https://github.com/firelex/jeff"
+          "title": "How Delhi cut electricity loss from 50 to 5 percent",
+          "url": "https://spectrum.ieee.org/delhi-electricity-loss"
         }
       ]
     }
