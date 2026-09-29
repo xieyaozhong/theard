@@ -1,20 +1,12 @@
 {
-  "generated_at": "2026-09-30T02:06:46+08:00",
+  "generated_at": "2026-09-30T06:19:56+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "明天的天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://udn.com/news/story/7266/9784309",
-      "context": "準備「南北兩樣情」！氣溫恐一口氣降至20度出頭 第二波影響最明顯"
-    },
-    {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "307 pts / 236 comments",
+      "score": 94,
+      "traffic": "689 pts / 617 comments",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "context": "High-engagement technology discussion"
     },
@@ -22,7 +14,7 @@
       "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "322 pts / 188 comments",
+      "traffic": "401 pts / 232 comments",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
       "context": "High-engagement technology discussion"
     },
@@ -30,116 +22,88 @@
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "378 pts / 121 comments",
+      "traffic": "398 pts / 126 comments",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Dots: Always-on agents",
+      "title": "America.gov",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "206 pts / 113 comments",
-      "url": "https://openai.com/index/introducing-dots/",
+      "traffic": "193 pts / 152 comments",
+      "url": "https://america.gov/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "186 pts / 121 comments",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "title": "PS5 Relapse Exploit",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "187 pts / 78 comments",
-      "url": "https://github.com/PostHog/jeeves",
+      "traffic": "183 pts / 101 comments",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Without the Hot Air",
+      "title": "Tcl/Tk 9.1",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "220 pts / 68 comments",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "249 pts / 41 comments",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "100 pts / 48 comments",
-      "url": "https://www.withouthotair.com/",
+      "traffic": "108 pts / 53 comments",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "消失的裂痕",
+      "title": "國民年金",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.cna.com.tw/news/amov/202609290061.aspx",
-      "context": "楊謹華分飾兩角挑戰切換自如新劇攜張孝全演夫妻| 娛樂"
+      "url": "https://tw.news.yahoo.com/%E5%8B%9E%E4%BF%9D%E5%B9%B4%E9%87%9160%E6%AD%B2%E6%8F%90%E6%97%A9%E9%A0%98%E6%9C%80%E5%88%92%E7%AE%97-%E5%A4%9A%E6%95%B8%E5%8B%9E%E5%B7%A5%E9%80%80%E4%BC%91-%E6%B2%92%E7%AE%97%E5%88%B0%E9%80%99-%E7%AD%86-%E5%B0%88%E5%AE%B6-112655198.html",
+      "context": "勞保年金60歲提早領最划算？多數勞工退休「沒算到這一筆」 專家：每月少拿7800元"
     },
     {
-      "title": "劉克襄",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/17%E6%AD%B2%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%97%A9%E8%A2%AB%E5%AF%AB%E9%80%B2%E6%9B%B8-%E5%8A%89%E5%85%8B%E8%A5%84%E6%8F%AD20%E5%A4%9A%E5%B9%B4%E7%B7%A3%E5%88%86-%E5%8F%B0%E7%81%A3%E9%80%81%E6%88%91%E6%9C%80%E5%8E%9A%E9%87%8D%E7%9A%84%E7%A6%AE%E7%89%A9-133700796.html",
-      "context": "17歲沈伯洋早被寫進書！劉克襄揭20多年緣分：台灣送我最厚重的禮物"
+      "traffic": "81 pts / 44 comments",
+      "url": "https://somethingbig.ai/computer",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "停 水",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.storm.mg/lifestyle/11168331",
-      "context": "快去儲水！明天9縣市大停水「最長10小時早晚都沒水用」， 家中停水範圍一鍵查詢"
-    },
-    {
-      "title": "军公教",
+      "title": "費城半導體指數",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://udn.com/news/story/6811/9784317",
+      "context": "美股早盤／油價下跌、科技股回神！費半攀漲1.7% 市場關注AI午餐會| 全球財經| 全球"
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "40 pts / 14 comments",
+      "url": "https://space.bl2.net/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。準備「南北兩樣情」！氣溫恐一口氣降至20度出頭 第二波影響最明顯。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://udn.com/news/story/7266/9784309"
-        }
-      ]
-    },
-    {
       "topic": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "How Delhi cut electricity loss from 50 to 5 percent",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「How Delhi cut electricity loss from 50 to 5 percent」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "How Delhi cut electricity loss from 50 to 5 percent",
           "url": "https://spectrum.ieee.org/delhi-electricity-loss"
+        }
+      ]
+    },
+    {
+      "topic": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
         }
       ]
     }
