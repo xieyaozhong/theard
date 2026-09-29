@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-29T05:15:26+08:00",
+  "generated_at": "2026-09-29T09:03:01+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "明天的天氣",
+      "title": "東北季風",
       "source": "GOOGLE TRENDS / TW",
       "score": 92,
       "traffic": "20000+",
-      "url": "https://news.pts.org.tw/article/829044",
-      "context": "颱風舒力基挾風雨朝日本前進 佐賀、長崎發布土石流警報"
+      "url": "https://tw.news.yahoo.com/%E7%A7%8B%E8%80%81%E8%99%8E%E4%BB%8D%E7%99%BC%E5%A8%81-%E9%80%B1%E4%BA%94%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%88%B0-%E9%99%8D%E6%BA%AB%E9%99%902%E5%A4%A7%E5%8D%80-%E7%9C%9F%E6%AD%A3%E8%BD%89%E6%B6%BC%E7%AD%89%E9%80%99%E5%A4%A9-002600011.html",
+      "context": "秋老虎仍發威！週五東北季風到「降溫限2大區」 真正轉涼等這天"
     },
     {
-      "title": "黃金價格",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5587596",
-      "context": "想買黃金再等等？金價下一步藏在這些數字"
+      "title": "Sonnet 5.5",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "552 pts / 379 comments",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Pirating the Pirates",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "326 pts / 156 comments",
+      "score": 90,
+      "traffic": "400 pts / 207 comments",
       "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "270 pts / 170 comments",
+      "url": "https://www.thisamericanlife.org/897/transcript",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Parley: Federated, decentralised chat that speaks plain IRC",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "273 pts / 141 comments",
+      "traffic": "299 pts / 167 comments",
       "url": "https://git.mills.io/prologic/parley",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "地震",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.news.yahoo.com/%E5%9C%8B%E5%AE%B6%E8%AD%A6%E5%A0%B1%E9%9F%BF-%E8%8A%B1%E8%93%AE%E5%A4%96%E6%B5%B7%E5%87%8C%E6%99%A802-20%E8%A6%8F%E6%A8%A15-0%E6%A5%B5%E6%B7%BA%E5%B1%A4%E5%9C%B0%E9%9C%87-13%E7%B8%A3%E5%B8%82%E6%9C%89%E6%84%9F-184019451.html",
-      "context": "國家警報響！花蓮外海凌晨02:20規模5.0極淺層地震 13縣市有感"
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "237 pts / 85 comments",
+      "url": "https://github.com/firelex/jeff",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "9 月 28 日",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://www.tradingkey.com/zh-hans/news/market-movers/262190489-market-movers-cde-20260928",
-      "context": "Coeur Mining Inc(CDE)股票9月28日收盘下跌7.02%：投资者必看的核心信息"
-    },
-    {
-      "title": "比利時 對 法國",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B929-%E6%AF%94%E5%88%A9%E6%99%82%E4%B8%BB%E5%A0%B4%E8%BF%8E%E6%88%B0%E6%90%8D%E5%A4%B1%E5%A4%A7%E5%B0%87%E7%9A%84%E6%B3%95%E5%9C%8B-%E7%9C%8B%E5%A5%BD%E9%9B%99%E6%96%B9%E6%95%99%E7%B7%B4%E9%80%B2%E6%94%BB%E6%88%B0%E8%A1%93%E6%AF%94%E6%8B%9A-081131254.html",
-      "context": "足球運彩分析》9/29 比利時主場迎戰損失大將的法國 看好雙方教練進攻戰術比拚"
+      "title": "World Labs Is Joining AMD",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "174 pts / 65 comments",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Hijacking the PS5's RTMP stream",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "148 pts / 42 comments",
+      "score": 86,
+      "traffic": "188 pts / 62 comments",
       "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "地震速報",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52975",
-      "context": "茨城県と埼玉県で震度4 津波の心配なし（04:45）"
-    },
-    {
-      "title": "黃仁勳",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E8%B2%9D%E6%A3%AE%E7%89%B9%E5%96%8A-%E7%AB%8A%E5%8F%96-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AA%AA-%E7%AB%B6%E7%88%AD-ai%E8%92%B8%E9%A4%BE%E7%AB%8B%E5%A0%B4%E4%B8%8D%E5%90%8C%E8%AA%BF-163004787.html",
-      "context": "貝森特喊「竊取」、黃仁勳說「競爭」！AI蒸餾立場不同調"
-    },
-    {
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "76 pts / 20 comments",
+      "score": 85,
+      "traffic": "117 pts / 58 comments",
       "url": "https://stateofutopia.com/experiments/microllmlab/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "weather tomorrow",
+      "title": "台積電",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/moderate-rains-lash-visakhapatnam-anakapalli-1991424",
-      "context": "Moderate Rains Lash Visakhapatnam, Anakapalli"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "股票",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E9%87%91%E8%9E%8D%E8%82%A1%E7%8B%82%E6%BC%B2%E6%98%AF%E8%AD%A6%E8%A8%8A-pcb%E5%A5%B3%E7%8E%8B%E5%96%8A-%E9%82%84%E6%B2%92%E5%88%B0%E6%9C%80%E5%BE%8C-%E6%A3%92-%E5%AD%98%E8%82%A1%E9%A6%96%E9%81%B8%E6%9B%9D%E5%85%89-001000654.html",
+      "context": "金融股狂漲是警訊？PCB女王喊「還沒到最後一棒」 存股首選曝光"
+    },
+    {
+      "title": "Scientists solve 1840s space weather mystery",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "50 pts / 33 comments",
+      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
+      "topic": "東北季風",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「東北季風」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。颱風舒力基挾風雨朝日本前進 佐賀、長崎發布土石流警報。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「東北季風」推到更高的注意力位置。秋老虎仍發威！週五東北季風到「降溫限2大區」 真正轉涼等這天。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://news.pts.org.tw/article/829044"
+          "title": "東北季風",
+          "url": "https://tw.news.yahoo.com/%E7%A7%8B%E8%80%81%E8%99%8E%E4%BB%8D%E7%99%BC%E5%A8%81-%E9%80%B1%E4%BA%94%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E5%88%B0-%E9%99%8D%E6%BA%AB%E9%99%902%E5%A4%A7%E5%8D%80-%E7%9C%9F%E6%AD%A3%E8%BD%89%E6%B6%BC%E7%AD%89%E9%80%99%E5%A4%A9-002600011.html"
         }
       ]
     },
     {
-      "topic": "黃金價格",
+      "topic": "Sonnet 5.5",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「黃金價格」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Sonnet 5.5」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「黃金價格」推到更高的注意力位置。想買黃金再等等？金價下一步藏在這些數字。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Sonnet 5.5」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,9 +166,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "黃金價格",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5587596"
+          "source": "HACKER NEWS",
+          "title": "Sonnet 5.5",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5"
         }
       ]
     },
