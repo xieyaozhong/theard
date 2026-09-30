@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-09-30T20:41:08+08:00",
+  "generated_at": "2026-10-01T04:04:50+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Dots: Always-on agents",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "656 pts / 520 comments",
-      "url": "https://openai.com/index/introducing-dots/",
-      "context": "High-engagement technology discussion"
+      "title": "明天的天氣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://udn.com/news/story/7266/9786396",
+      "context": "2波東北季風接力報到！周五起2地區降溫轉雨 颱風彩雲最快今形成"
     },
     {
-      "title": "America.gov",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "624 pts / 518 comments",
-      "url": "https://america.gov/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "title": "You said no MCP",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "702 pts / 274 comments",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "September 2026: The world today, as seen by one Polish guy",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "341 pts / 203 comments",
-      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Vermont replacing power plants with home batteries",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "244 pts / 194 comments",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "215 pts / 196 comments",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "沈伯洋",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5591093",
-      "context": "沈伯洋發燒戴口罩站肥皂箱 洋流號船員證「67號」巧碰他生日"
-    },
-    {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "242 pts / 142 comments",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Pi.dev: You Said No MCP",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "195 pts / 79 comments",
+      "traffic": "529 pts / 311 comments",
       "url": "https://earendil.com/posts/you-said-no-mcp/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Solving Factorio Quality",
+      "title": "中華職棒",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://gnn.gamer.com.tw/detail.php?sn=312555",
+      "context": "《中職王牌GO！》首次更新公會突破戰登場、加入 CPBL 六隊18 名隊史球星《CPBL Ace GO!》"
+    },
+    {
+      "title": "The last time my family was replaced by technology",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "134 pts / 39 comments",
-      "url": "https://exyr.org/2026/solving-factorio-quality/",
+      "score": 89,
+      "traffic": "120 pts / 249 comments",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "柯志恩",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E6%9F%AF%E5%BF%97%E6%81%A9%E6%B2%92%E6%88%B2%E4%BA%86-%E9%99%B3%E5%85%B6%E9%82%81%E8%AD%89%E5%AF%A6%E9%80%99%E5%A4%A9%E8%BC%94%E9%81%B8%E8%B3%B4%E7%91%9E%E9%9A%86-%E5%90%88%E9%AB%94-%E6%9A%96%E7%94%B7%E4%BC%AF%E6%B4%8B-%E6%99%82%E9%96%93%E6%9B%9D-033623336.html",
-      "context": "柯志恩沒戲了！陳其邁證實這天輔選賴瑞隆 合體「暖男伯洋」時間曝"
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "190 pts / 84 comments",
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "張淑娟",
+      "title": "A brief history of the Bloomberg terminal",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "160 pts / 60 comments",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "詐騙",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "美光財報",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E5%91%A8%E7%8E%89%E8%94%BB-%E6%99%B6%E8%8F%AF%E6%BB%BE%E5%BA%8A%E6%A1%88-%E6%94%B9%E5%88%A49%E6%9C%88%E9%A0%88%E5%85%A5%E7%8D%84-%E5%BC%B5%E6%B7%91%E5%A8%9F%E8%90%BD%E6%B7%9A%E8%B7%AA%E6%B1%82%E9%AB%98%E9%99%A2-%E9%82%84%E6%88%91%E5%85%AC%E9%81%93-070809390.html",
-      "context": "周玉蔻「晶華滾床案」改判9月須入獄 張淑娟落淚跪求高院：還我公道"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "藍琪",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E4%B8%AD%E8%A6%96%E8%8A%B1%E6%97%A6%E8%97%8D%E7%90%AA%E9%9B%A2%E4%B8%96-%E4%BA%AB%E5%A3%BD74%E6%AD%B2-%E4%B8%BB%E6%BC%94-%E8%B5%B0%E9%A6%AC%E7%87%88-141937238.html",
+      "context": "快訊》中視花旦藍琪離世！享壽74歲 主演《走馬燈》創演藝高峰"
+    },
+    {
+      "title": "中職",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "pce",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html",
+      "context": "S&P 500 rises after data shows inflation slowed last month: Live updates"
+    },
+    {
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "81 pts / 41 comments",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Dots: Always-on agents",
+      "topic": "明天的天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Dots: Always-on agents」開始升溫，我們真正該看的不是熱度",
+      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Dots: Always-on agents」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。2波東北季風接力報到！周五起2地區降溫轉雨 颱風彩雲最快今形成。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Dots: Always-on agents",
-          "url": "https://openai.com/index/introducing-dots/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "明天的天氣",
+          "url": "https://udn.com/news/story/7266/9786396"
         }
       ]
     },
     {
-      "topic": "America.gov",
+      "topic": "You said no MCP",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「America.gov」開始升溫，我們真正該看的不是熱度",
+      "title": "當「You said no MCP」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「America.gov」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「You said no MCP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "America.gov",
-          "url": "https://america.gov/"
+          "title": "You said no MCP",
+          "url": "https://earendil.com/posts/you-said-no-mcp/"
         }
       ]
     },
     {
-      "topic": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "topic": "中華職棒",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Livenerf: Has Opus 5.5 been nerfed yet?」開始升溫，我們真正該看的不是熱度",
+      "title": "當「中華職棒」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Livenerf: Has Opus 5.5 been nerfed yet?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「中華職棒」推到更高的注意力位置。《中職王牌GO！》首次更新公會突破戰登場、加入 CPBL 六隊18 名隊史球星《CPBL Ace GO!》。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-          "url": "https://github.com/ninjahawk/livenerf"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "中華職棒",
+          "url": "https://gnn.gamer.com.tw/detail.php?sn=312555"
         }
       ]
     }
