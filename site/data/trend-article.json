@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-01T18:13:24+08:00",
+  "generated_at": "2026-10-02T02:26:37+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Gemini 4 Argon",
       "source": "HACKER NEWS",
       "score": 96,
-      "traffic": "1403 pts / 901 comments",
+      "traffic": "1605 pts / 1070 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why the Bronze Age Collapsed",
+      "title": "StreetComplete on iOS is now in public beta",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "244 pts / 142 comments",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "traffic": "418 pts / 98 comments",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A brief history of the Bloomberg terminal",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "291 pts / 126 comments",
-      "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "223 pts / 106 comments",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "163 pts / 81 comments",
-      "url": "https://github.com/magnitudedev/magnitude",
+      "traffic": "207 pts / 76 comments",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "title": "How to speed up the Rust compiler in September 2026",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "189 pts / 63 comments",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 87,
+      "traffic": "182 pts / 90 comments",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Before pixels: Modular industrial dashboards",
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "38 pts / 149 comments",
+      "url": "https://news.ycombinator.com/item?id=49922568",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "限 水",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.storm.mg/lifestyle/11168992",
+      "context": "趕快儲水！9縣市明天大停水「全家從早到晚都沒水能用」， 家中停水範圍一鍵查詢"
+    },
+    {
+      "title": "命理 師",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "RIP, vector database",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "146 pts / 32 comments",
-      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "traffic": "125 pts / 34 comments",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "獎金",
+      "title": "台北gta",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.storm.mg/article/11168942",
-      "context": "軍公教「這獎金」35年來首調漲！年資試算最高領1.5萬元 本薪外還有3大加給 | 李瑋萱 | 新聞"
+      "url": "https://www.marieclaire.com.tw/lifestyle/news/96226",
+      "context": "台北GTA哪裡玩？遊戲連結、玩法一次看，網友砸30萬AI Token打造台北開放世界"
     },
     {
-      "title": "2028",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "traffic": "57 pts / 56 comments",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "勞動部",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Cloudflare K2: serverless event streams",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "traffic": "99 pts / 29 comments",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "美國職棒",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "力 積 電",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "RacketCon Is Saturday",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "82 pts / 21 comments",
+      "url": "https://con.racket-lang.org/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Why the Bronze Age Collapsed",
+      "topic": "StreetComplete on iOS is now in public beta",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Why the Bronze Age Collapsed」開始升溫，我們真正該看的不是熱度",
+      "title": "當「StreetComplete on iOS is now in public beta」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Why the Bronze Age Collapsed」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「StreetComplete on iOS is now in public beta」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Why the Bronze Age Collapsed",
-          "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age"
+          "title": "StreetComplete on iOS is now in public beta",
+          "url": "https://github.com/streetcomplete/StreetComplete/issues/5421"
         }
       ]
     },
     {
-      "topic": "A brief history of the Bloomberg terminal",
+      "topic": "Clef: Open-source decision models, and new RL fine-tuning platform",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「A brief history of the Bloomberg terminal」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Clef: Open-source decision models, and new RL fine-tuning platform」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A brief history of the Bloomberg terminal」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Clef: Open-source decision models, and new RL fine-tuning platform」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A brief history of the Bloomberg terminal",
-          "url": "https://spectrum.ieee.org/bloomberg-terminal"
+          "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+          "url": "https://blog.cloudflare.com/clef-decision-models/"
         }
       ]
     }
