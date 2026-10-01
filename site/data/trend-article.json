@@ -1,65 +1,73 @@
 {
-  "generated_at": "2026-10-01T08:35:11+08:00",
+  "generated_at": "2026-10-01T18:13:24+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Gemini 4 Argon",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "904 pts / 622 comments",
+      "score": 96,
+      "traffic": "1403 pts / 901 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "You said no MCP",
+      "title": "Why the Bronze Age Collapsed",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "607 pts / 336 comments",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "168 pts / 97 comments",
-      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "score": 89,
+      "traffic": "244 pts / 142 comments",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A brief history of the Bloomberg terminal",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "219 pts / 86 comments",
+      "score": 89,
+      "traffic": "291 pts / 126 comments",
       "url": "https://spectrum.ieee.org/bloomberg-terminal",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "EDG C++ front-end goes public",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "141 pts / 65 comments",
-      "url": "https://edgcpp.org/#transition",
+      "score": 88,
+      "traffic": "223 pts / 106 comments",
+      "url": "https://www.thespacereview.com/article/4951/1",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "投資",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
     },
     {
       "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "121 pts / 55 comments",
+      "score": 87,
+      "traffic": "163 pts / 81 comments",
       "url": "https://github.com/magnitudedev/magnitude",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "健康幣",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "189 pts / 63 comments",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Before pixels: Modular industrial dashboards",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "146 pts / 32 comments",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "獎金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.storm.mg/article/11168942",
+      "context": "軍公教「這獎金」35年來首調漲！年資試算最高領1.5萬元 本薪外還有3大加給 | 李瑋萱 | 新聞"
+    },
+    {
+      "title": "2028",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -67,36 +75,28 @@
       "context": ""
     },
     {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "101 pts / 29 comments",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "109 pts / 39 comments",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "108 pts / 38 comments",
-      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "argentina vs bolivia",
+      "title": "勞動部",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.goal.com/en/news/a-different-look-will-scaloni-change-argentina-s-identity-after-messi/blt12be863e906491f0",
-      "context": "\"A different look\": will Scaloni change Argentina's \"identity\" after Messi?"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "美國職棒",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "力 積 電",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "You said no MCP",
+      "topic": "Why the Bronze Age Collapsed",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「You said no MCP」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Why the Bronze Age Collapsed」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「You said no MCP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Why the Bronze Age Collapsed」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "You said no MCP",
-          "url": "https://earendil.com/posts/you-said-no-mcp/"
+          "title": "Why the Bronze Age Collapsed",
+          "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age"
         }
       ]
     },
     {
-      "topic": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "topic": "A brief history of the Bloomberg terminal",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Singapore govt dating app uses Gale-Shapley stable marriage algorithm」開始升溫，我們真正該看的不是熱度",
+      "title": "當「A brief history of the Bloomberg terminal」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Singapore govt dating app uses Gale-Shapley stable marriage algorithm」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「A brief history of the Bloomberg terminal」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-          "url": "https://twitter.com/tuakdotsol/status/2105105417760391258"
+          "title": "A brief history of the Bloomberg terminal",
+          "url": "https://spectrum.ieee.org/bloomberg-terminal"
         }
       ]
     }
