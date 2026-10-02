@@ -1,28 +1,36 @@
 {
-  "generated_at": "2026-10-02T08:49:53+08:00",
+  "generated_at": "2026-10-02T17:51:02+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "天氣",
+      "title": "吳德榮",
       "source": "GOOGLE TRENDS / TW",
       "score": 95,
       "traffic": "50000+",
-      "url": "https://udn.com/news/story/7266/9789766",
-      "context": "北台灣2階段降溫今轉雨！入秋最強東北季風下周抵達 朝20度關卡下探"
+      "url": "https://news.ebc.net.tw/news/living/573846",
+      "context": "變天有感！下週更強冷空氣襲台 下探20度"
     },
     {
       "title": "Pi 1.0",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "703 pts / 238 comments",
+      "score": 94,
+      "traffic": "1270 pts / 405 comments",
       "url": "https://earendil.com/posts/pi-1-0/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "300 pts / 220 comments",
+      "url": "https://lwn.net/Articles/1097401/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "419 pts / 157 comments",
+      "traffic": "510 pts / 180 comments",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "context": "High-engagement technology discussion"
     },
@@ -30,86 +38,78 @@
       "title": "StreetComplete on iOS is now in public beta",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "517 pts / 124 comments",
+      "traffic": "567 pts / 148 comments",
       "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "190 pts / 211 comments",
-      "url": "https://blog.gitbutler.com/git-3-sha-256",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Ask HN: Who is hiring? (October 2026)",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "143 pts / 148 comments",
+      "score": 89,
+      "traffic": "203 pts / 201 comments",
       "url": "https://news.ycombinator.com/item?id=49922569",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "RIP, vector database",
+      "title": "台北 市長 民 調",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "工商時報",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "269 pts / 78 comments",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "traffic": "235 pts / 118 comments",
+      "url": "https://www.deepseek.com/en/harness/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "SvelteKit 3",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "275 pts / 97 comments",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Pi Durable",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "204 pts / 23 comments",
+      "score": 88,
+      "traffic": "377 pts / 44 comments",
       "url": "https://earendil.com/posts/pi-durable/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "黃 德清",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://udn.com/news/story/7323/9789595",
-      "context": "新北市消防局前局長黃德清驚傳病逝 2013年進修成為聯大創校首位博士"
-    },
-    {
-      "title": "SvelteKit 3",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "96 pts / 34 comments",
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "score": 88,
+      "traffic": "188 pts / 166 comments",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "工業 電腦",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "銅 箔",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.atpress.ne.jp/news/8895791",
-      "context": "CCL用銅箔の世界市場（2026年～2032年）、市場規模（ED銅箔、RA銅箔）・分析レポートを発表"
     }
   ],
   "articles": [
     {
-      "topic": "天氣",
+      "topic": "吳德榮",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「吳德榮」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「天氣」推到更高的注意力位置。北台灣2階段降溫今轉雨！入秋最強東北季風下周抵達 朝20度關卡下探。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「吳德榮」推到更高的注意力位置。變天有感！下週更強冷空氣襲台 下探20度。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,8 +131,8 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "天氣",
-          "url": "https://udn.com/news/story/7266/9789766"
+          "title": "吳德榮",
+          "url": "https://news.ebc.net.tw/news/living/573846"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "topic": "Several vulnerabilities have been discovered in the Linux kernel",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Clef: Open-weight decision models, and new RL fine-tuning platform」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Several vulnerabilities have been discovered in the Linux kernel」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Clef: Open-weight decision models, and new RL fine-tuning platform」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Several vulnerabilities have been discovered in the Linux kernel」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-          "url": "https://blog.cloudflare.com/clef-decision-models/"
+          "title": "Several vulnerabilities have been discovered in the Linux kernel",
+          "url": "https://lwn.net/Articles/1097401/"
         }
       ]
     }
