@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-02T17:51:02+08:00",
+  "generated_at": "2026-10-03T01:53:39+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "吳德榮",
+      "title": "明天的天氣",
       "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://news.ebc.net.tw/news/living/573846",
-      "context": "變天有感！下週更強冷空氣襲台 下探20度"
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8D%80%E6%93%B4%E5%A4%A7%EF%BC%81%E6%96%B0%E5%8C%97%E6%A1%83%E5%9C%9215%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E9%98%B2%E9%9B%B7%E6%93%8A%E3%80%81%E5%BC%B7%E9%99%A3%E9%A2%A8-052730162.html",
+      "context": "雨區擴大！新北桃園15縣市大雨特報 防雷擊、強陣風"
     },
     {
-      "title": "Pi 1.0",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1270 pts / 405 comments",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "context": "High-engagement technology discussion"
+      "title": "天氣預報",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://www.storm.mg/lifestyle/11169334",
+      "context": "明天的天氣/冷空氣來了濕涼變天！全台階梯式降溫「大雨連下5天」， 周末天氣一次看"
     },
     {
       "title": "Several vulnerabilities have been discovered in the Linux kernel",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "300 pts / 220 comments",
+      "score": 92,
+      "traffic": "508 pts / 370 comments",
       "url": "https://lwn.net/Articles/1097401/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "title": "The Legend of von Neumann (1973) [pdf]",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "510 pts / 180 comments",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "score": 87,
+      "traffic": "167 pts / 95 comments",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "StreetComplete on iOS is now in public beta",
+      "title": "Shimano Bicycle Museum Review",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "567 pts / 148 comments",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "score": 87,
+      "traffic": "266 pts / 63 comments",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ask HN: Who is hiring? (October 2026)",
+      "title": "Supabase is acquiring Turso",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "203 pts / 201 comments",
-      "url": "https://news.ycombinator.com/item?id=49922569",
+      "score": 86,
+      "traffic": "132 pts / 70 comments",
+      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "台北 市長 民 調",
+      "title": "To grieve, or not to grieve?",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "98 pts / 86 comments",
+      "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "李多慧",
       "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%A4%9A%E6%85%A7-%E5%A4%A7%E8%B7%B3%E9%80%99%E8%BF%B7%E5%9B%A0-1%E5%8B%95%E4%BD%9C%E6%8B%96%E9%9E%8B%E9%A3%9B%E5%A4%A9-%E7%B6%B2%E7%AC%91-%E5%A4%AA%E5%8F%AF%E6%84%9B-040529824.html",
+      "context": "李多慧「大跳這迷因」!「1動作拖鞋飛天」 網笑：太可愛"
     },
     {
-      "title": "工商時報",
+      "title": "黃仁勳",
       "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E5%82%B3ai%E5%B7%A8%E9%A0%AD%E7%99%BD%E5%AE%AE%E8%A1%9D%E7%AA%81-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%A7%93anthropic%E5%9F%B7%E8%A1%8C%E9%95%B7-%E5%88%A5%E4%BB%A5%E7%82%BA%E4%BD%A0%E5%9C%A8%E9%80%A0%E7%A6%8F%E7%A4%BE%E6%9C%83-094300798.html",
+      "context": "傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會"
     },
     {
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "235 pts / 118 comments",
-      "url": "https://www.deepseek.com/en/harness/",
-      "context": "High-engagement technology discussion"
+      "title": "非農",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://udn.com/news/story/6811/9791568",
+      "context": "美股早盤／就業降溫4大指數普天同慶特斯拉漲4%、希捷被東芝扯後腿| 全球財經| 全球"
     },
     {
-      "title": "SvelteKit 3",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "275 pts / 97 comments",
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "context": "High-engagement technology discussion"
+      "title": "新光 三越",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://udn.com/vote2026/story/7321/9790399",
+      "context": "台中阿伯騎機車逛新光三越...喊「尊重中國法令」 荒謬行為下場出爐"
     },
     {
-      "title": "Pi Durable",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "377 pts / 44 comments",
-      "url": "https://earendil.com/posts/pi-durable/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "188 pts / 166 comments",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "score": 84,
+      "traffic": "108 pts / 33 comments",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "吳德榮",
+      "topic": "明天的天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「吳德榮」開始升溫，我們真正該看的不是熱度",
+      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「吳德榮」推到更高的注意力位置。變天有感！下週更強冷空氣襲台 下探20度。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。雨區擴大！新北桃園15縣市大雨特報 防雷擊、強陣風。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "吳德榮",
-          "url": "https://news.ebc.net.tw/news/living/573846"
+          "title": "明天的天氣",
+          "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8D%80%E6%93%B4%E5%A4%A7%EF%BC%81%E6%96%B0%E5%8C%97%E6%A1%83%E5%9C%9215%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E9%98%B2%E9%9B%B7%E6%93%8A%E3%80%81%E5%BC%B7%E9%99%A3%E9%A2%A8-052730162.html"
         }
       ]
     },
     {
-      "topic": "Pi 1.0",
+      "topic": "天氣預報",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Pi 1.0」開始升溫，我們真正該看的不是熱度",
+      "title": "當「天氣預報」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Pi 1.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「天氣預報」推到更高的注意力位置。明天的天氣/冷空氣來了濕涼變天！全台階梯式降溫「大雨連下5天」， 周末天氣一次看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,9 +166,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Pi 1.0",
-          "url": "https://earendil.com/posts/pi-1-0/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "天氣預報",
+          "url": "https://www.storm.mg/lifestyle/11169334"
         }
       ]
     },
