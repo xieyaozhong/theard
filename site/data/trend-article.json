@@ -1,86 +1,70 @@
 {
-  "generated_at": "2026-10-03T01:53:39+08:00",
+  "generated_at": "2026-10-03T06:17:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "明天的天氣",
+      "title": "東北季風",
       "source": "GOOGLE TRENDS / TW",
       "score": 92,
       "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8D%80%E6%93%B4%E5%A4%A7%EF%BC%81%E6%96%B0%E5%8C%97%E6%A1%83%E5%9C%9215%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E9%98%B2%E9%9B%B7%E6%93%8A%E3%80%81%E5%BC%B7%E9%99%A3%E9%A2%A8-052730162.html",
-      "context": "雨區擴大！新北桃園15縣市大雨特報 防雷擊、強陣風"
+      "url": "https://tw.news.yahoo.com/%E5%85%A5%E7%A7%8B%E6%9C%80%E5%BC%B7%E5%86%B7%E7%A9%BA%E6%B0%A3%E8%A6%81%E4%BE%86%E4%BA%86-%E4%BD%8E%E6%BA%AB%E6%81%90-%E8%B7%8C%E7%A0%B420%E5%BA%A6-%E9%80%99%E5%A4%A9%E9%9B%A8%E5%BD%88%E7%82%B8%E5%8D%8A%E5%80%8B%E5%8F%B0%E7%81%A3-103400605.html",
+      "context": "入秋最強冷空氣要來了！低溫恐「跌破20度」 這天雨彈炸半個台灣"
     },
     {
-      "title": "天氣預報",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://www.storm.mg/lifestyle/11169334",
-      "context": "明天的天氣/冷空氣來了濕涼變天！全台階梯式降溫「大雨連下5天」， 周末天氣一次看"
-    },
-    {
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "508 pts / 370 comments",
-      "url": "https://lwn.net/Articles/1097401/",
+      "score": 90,
+      "traffic": "407 pts / 180 comments",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Legend of von Neumann (1973) [pdf]",
+      "title": "Apple Pass Designer",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "167 pts / 95 comments",
-      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "score": 89,
+      "traffic": "227 pts / 156 comments",
+      "url": "https://developer.apple.com/pass-designer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Shimano Bicycle Museum Review",
+      "title": "Zig v0.17.0",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "266 pts / 63 comments",
-      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Supabase is acquiring Turso",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "132 pts / 70 comments",
-      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "To grieve, or not to grieve?",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "98 pts / 86 comments",
-      "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "李多慧",
-      "source": "GOOGLE TRENDS / TW",
       "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%A4%9A%E6%85%A7-%E5%A4%A7%E8%B7%B3%E9%80%99%E8%BF%B7%E5%9B%A0-1%E5%8B%95%E4%BD%9C%E6%8B%96%E9%9E%8B%E9%A3%9B%E5%A4%A9-%E7%B6%B2%E7%AC%91-%E5%A4%AA%E5%8F%AF%E6%84%9B-040529824.html",
-      "context": "李多慧「大跳這迷因」!「1動作拖鞋飛天」 網笑：太可愛"
+      "traffic": "117 pts / 56 comments",
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "黃仁勳",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%82%B3ai%E5%B7%A8%E9%A0%AD%E7%99%BD%E5%AE%AE%E8%A1%9D%E7%AA%81-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%A7%93anthropic%E5%9F%B7%E8%A1%8C%E9%95%B7-%E5%88%A5%E4%BB%A5%E7%82%BA%E4%BD%A0%E5%9C%A8%E9%80%A0%E7%A6%8F%E7%A4%BE%E6%9C%83-094300798.html",
-      "context": "傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會"
+      "traffic": "121 pts / 49 comments",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "非農",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "2000+",
-      "url": "https://udn.com/news/story/6811/9791568",
-      "context": "美股早盤／就業降溫4大指數普天同慶特斯拉漲4%、希捷被東芝扯後腿| 全球財經| 全球"
+      "traffic": "139 pts / 32 comments",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "133 pts / 31 comments",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "143 pts / 38 comments",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "新光 三越",
@@ -91,25 +75,41 @@
       "context": "台中阿伯騎機車逛新光三越...喊「尊重中國法令」 荒謬行為下場出爐"
     },
     {
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "108 pts / 33 comments",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "traffic": "131 pts / 26 comments",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Muse Gadgets",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "60 pts / 36 comments",
+      "url": "https://gadgets.muse.ai",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "91 pts / 19 comments",
+      "url": "https://dwarfstar.sh/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
+      "topic": "東北季風",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「東北季風」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。雨區擴大！新北桃園15縣市大雨特報 防雷擊、強陣風。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「東北季風」推到更高的注意力位置。入秋最強冷空氣要來了！低溫恐「跌破20度」 這天雨彈炸半個台灣。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,57 +131,21 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://tw.news.yahoo.com/%E9%9B%A8%E5%8D%80%E6%93%B4%E5%A4%A7%EF%BC%81%E6%96%B0%E5%8C%97%E6%A1%83%E5%9C%9215%E7%B8%A3%E5%B8%82%E5%A4%A7%E9%9B%A8%E7%89%B9%E5%A0%B1-%E9%98%B2%E9%9B%B7%E6%93%8A%E3%80%81%E5%BC%B7%E9%99%A3%E9%A2%A8-052730162.html"
+          "title": "東北季風",
+          "url": "https://tw.news.yahoo.com/%E5%85%A5%E7%A7%8B%E6%9C%80%E5%BC%B7%E5%86%B7%E7%A9%BA%E6%B0%A3%E8%A6%81%E4%BE%86%E4%BA%86-%E4%BD%8E%E6%BA%AB%E6%81%90-%E8%B7%8C%E7%A0%B420%E5%BA%A6-%E9%80%99%E5%A4%A9%E9%9B%A8%E5%BD%88%E7%82%B8%E5%8D%8A%E5%80%8B%E5%8F%B0%E7%81%A3-103400605.html"
         }
       ]
     },
     {
-      "topic": "天氣預報",
+      "topic": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「天氣預報」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Court agrees with EFF: Utah's VPN law demands a technical impossibility」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「天氣預報」推到更高的注意力位置。明天的天氣/冷空氣來了濕涼變天！全台階梯式降溫「大雨連下5天」， 周末天氣一次看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "天氣預報",
-          "url": "https://www.storm.mg/lifestyle/11169334"
-        }
-      ]
-    },
-    {
-      "topic": "Several vulnerabilities have been discovered in the Linux kernel",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Several vulnerabilities have been discovered in the Linux kernel」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Several vulnerabilities have been discovered in the Linux kernel」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Court agrees with EFF: Utah's VPN law demands a technical impossibility」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Several vulnerabilities have been discovered in the Linux kernel",
-          "url": "https://lwn.net/Articles/1097401/"
+          "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+          "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility"
+        }
+      ]
+    },
+    {
+      "topic": "Apple Pass Designer",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Apple Pass Designer」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Apple Pass Designer」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Apple Pass Designer",
+          "url": "https://developer.apple.com/pass-designer/"
         }
       ]
     }
