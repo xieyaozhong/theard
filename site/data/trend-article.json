@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-02T02:26:37+08:00",
+  "generated_at": "2026-10-02T08:49:53+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Gemini 4 Argon",
+      "title": "天氣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 95,
+      "traffic": "50000+",
+      "url": "https://udn.com/news/story/7266/9789766",
+      "context": "北台灣2階段降溫今轉雨！入秋最強東北季風下周抵達 朝20度關卡下探"
+    },
+    {
+      "title": "Pi 1.0",
       "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1605 pts / 1070 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 92,
+      "traffic": "703 pts / 238 comments",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "419 pts / 157 comments",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "StreetComplete on iOS is now in public beta",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "418 pts / 98 comments",
+      "score": 90,
+      "traffic": "517 pts / 124 comments",
       "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "207 pts / 76 comments",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "score": 89,
+      "traffic": "190 pts / 211 comments",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "182 pts / 90 comments",
-      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (October 2026)",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "38 pts / 149 comments",
-      "url": "https://news.ycombinator.com/item?id=49922568",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "限 水",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.storm.mg/lifestyle/11168992",
-      "context": "趕快儲水！9縣市明天大停水「全家從早到晚都沒水能用」， 家中停水範圍一鍵查詢"
-    },
-    {
-      "title": "命理 師",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "RIP, vector database",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "125 pts / 34 comments",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "台北gta",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.marieclaire.com.tw/lifestyle/news/96226",
-      "context": "台北GTA哪裡玩？遊戲連結、玩法一次看，網友砸30萬AI Token打造台北開放世界"
     },
     {
       "title": "Ask HN: Who is hiring? (October 2026)",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "57 pts / 56 comments",
+      "score": 88,
+      "traffic": "143 pts / 148 comments",
       "url": "https://news.ycombinator.com/item?id=49922569",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Cloudflare K2: serverless event streams",
+      "title": "RIP, vector database",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "99 pts / 29 comments",
-      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "score": 88,
+      "traffic": "269 pts / 78 comments",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "RacketCon Is Saturday",
+      "title": "Pi Durable",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 21 comments",
-      "url": "https://con.racket-lang.org/",
+      "score": 86,
+      "traffic": "204 pts / 23 comments",
+      "url": "https://earendil.com/posts/pi-durable/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "黃 德清",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://udn.com/news/story/7323/9789595",
+      "context": "新北市消防局前局長黃德清驚傳病逝 2013年進修成為聯大創校首位博士"
+    },
+    {
+      "title": "SvelteKit 3",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "96 pts / 34 comments",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "工業 電腦",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "銅 箔",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.atpress.ne.jp/news/8895791",
+      "context": "CCL用銅箔の世界市場（2026年～2032年）、市場規模（ED銅箔、RA銅箔）・分析レポートを発表"
     }
   ],
   "articles": [
     {
-      "topic": "Gemini 4 Argon",
+      "topic": "天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Gemini 4 Argon」開始升溫，我們真正該看的不是熱度",
+      "title": "當「天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gemini 4 Argon」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「天氣」推到更高的注意力位置。北台灣2階段降溫今轉雨！入秋最強東北季風下周抵達 朝20度關卡下探。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Gemini 4 Argon",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "天氣",
+          "url": "https://udn.com/news/story/7266/9789766"
         }
       ]
     },
     {
-      "topic": "StreetComplete on iOS is now in public beta",
+      "topic": "Pi 1.0",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「StreetComplete on iOS is now in public beta」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Pi 1.0」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「StreetComplete on iOS is now in public beta」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Pi 1.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "StreetComplete on iOS is now in public beta",
-          "url": "https://github.com/streetcomplete/StreetComplete/issues/5421"
+          "title": "Pi 1.0",
+          "url": "https://earendil.com/posts/pi-1-0/"
         }
       ]
     },
     {
-      "topic": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "topic": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Clef: Open-source decision models, and new RL fine-tuning platform」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Clef: Open-weight decision models, and new RL fine-tuning platform」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Clef: Open-source decision models, and new RL fine-tuning platform」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Clef: Open-weight decision models, and new RL fine-tuning platform」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,7 +203,7 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+          "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
           "url": "https://blog.cloudflare.com/clef-decision-models/"
         }
       ]
