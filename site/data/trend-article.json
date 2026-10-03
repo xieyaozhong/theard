@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-10-03T06:17:42+08:00",
+  "generated_at": "2026-10-03T13:23:12+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "東北季風",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.news.yahoo.com/%E5%85%A5%E7%A7%8B%E6%9C%80%E5%BC%B7%E5%86%B7%E7%A9%BA%E6%B0%A3%E8%A6%81%E4%BE%86%E4%BA%86-%E4%BD%8E%E6%BA%AB%E6%81%90-%E8%B7%8C%E7%A0%B420%E5%BA%A6-%E9%80%99%E5%A4%A9%E9%9B%A8%E5%BD%88%E7%82%B8%E5%8D%8A%E5%80%8B%E5%8F%B0%E7%81%A3-103400605.html",
-      "context": "入秋最強冷空氣要來了！低溫恐「跌破20度」 這天雨彈炸半個台灣"
-    },
-    {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "407 pts / 180 comments",
+      "score": 91,
+      "traffic": "575 pts / 253 comments",
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Apple Pass Designer",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "227 pts / 156 comments",
+      "score": 90,
+      "traffic": "374 pts / 232 comments",
       "url": "https://developer.apple.com/pass-designer/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Zig v0.17.0",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "117 pts / 56 comments",
-      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "121 pts / 49 comments",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "139 pts / 32 comments",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "133 pts / 31 comments",
-      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "143 pts / 38 comments",
+      "score": 89,
+      "traffic": "386 pts / 97 comments",
       "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "新光 三越",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://udn.com/vote2026/story/7321/9790399",
-      "context": "台中阿伯騎機車逛新光三越...喊「尊重中國法令」 荒謬行為下場出爐"
-    },
-    {
       "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "131 pts / 26 comments",
+      "score": 87,
+      "traffic": "234 pts / 51 comments",
       "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "201 pts / 95 comments",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Muse Gadgets",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "60 pts / 36 comments",
+      "score": 87,
+      "traffic": "168 pts / 76 comments",
       "url": "https://gadgets.muse.ai",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "167 pts / 73 comments",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "206 pts / 54 comments",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "From the creator of Redis; run LLM locally with ds4",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "91 pts / 19 comments",
+      "score": 86,
+      "traffic": "193 pts / 56 comments",
       "url": "https://dwarfstar.sh/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "太子油飯",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "南亞科技",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://money.udn.com/money/story/5612/9790989",
+      "context": "南亞科砸21億美元增資海外子公司 強化資金調度、降低匯率避險成本"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "116 pts / 29 comments",
+      "url": "https://www.newgrounds.com/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "東北季風",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「東北季風」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「東北季風」推到更高的注意力位置。入秋最強冷空氣要來了！低溫恐「跌破20度」 這天雨彈炸半個台灣。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "東北季風",
-          "url": "https://tw.news.yahoo.com/%E5%85%A5%E7%A7%8B%E6%9C%80%E5%BC%B7%E5%86%B7%E7%A9%BA%E6%B0%A3%E8%A6%81%E4%BE%86%E4%BA%86-%E4%BD%8E%E6%BA%AB%E6%81%90-%E8%B7%8C%E7%A0%B420%E5%BA%A6-%E9%80%99%E5%A4%A9%E9%9B%A8%E5%BD%88%E7%82%B8%E5%8D%8A%E5%80%8B%E5%8F%B0%E7%81%A3-103400605.html"
-        }
-      ]
-    },
-    {
       "topic": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Court agrees with EFF: Utah's VPN law demands a technical impossibility」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "Apple Pass Designer",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Apple Pass Designer」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Apple Pass Designer",
           "url": "https://developer.apple.com/pass-designer/"
+        }
+      ]
+    },
+    {
+      "topic": "Mike Tomlin spent 12 years building a Minecraft city",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Mike Tomlin spent 12 years building a Minecraft city」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Mike Tomlin spent 12 years building a Minecraft city」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Mike Tomlin spent 12 years building a Minecraft city",
+          "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/"
         }
       ]
     }
