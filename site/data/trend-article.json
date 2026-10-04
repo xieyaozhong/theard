@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-05T02:39:33+08:00",
+  "generated_at": "2026-10-05T07:58:30+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "明天的天氣",
+      "title": "天氣",
       "source": "GOOGLE TRENDS / TW",
       "score": 95,
       "traffic": "50000+",
-      "url": "https://tw.news.yahoo.com/%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%85%A5%E7%A7%8B%E6%9C%80%E5%BC%B7%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8-%E6%98%8E%E6%97%A9%E4%BE%86%E8%A5%B2-%E5%90%84%E5%9C%B0%E6%9C%89%E9%9B%A8%E6%98%8E%E9%A1%AF%E8%AE%8A%E6%B6%BC-080136077.html",
-      "context": "上班注意！入秋最強東北季風「明早來襲」 各地有雨明顯變涼"
+      "url": "https://tw.news.yahoo.com/%E8%AE%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E9%A9%9A%E5%91%86-%E6%9D%B1%E5%8C%97%E9%A2%A8%E7%99%BC%E5%A8%81-%E5%85%A8%E5%8F%B0%E5%87%8D%E5%88%B0%E7%99%BC%E6%8A%96-%E9%80%B1%E4%BA%8C%E8%B7%A8%E4%B8%89%E5%A4%9C%E6%9C%80%E7%8C%9B-141717303.html",
+      "context": "變天暴跌驚呆！東北風發威「全台凍到發抖」 週二跨三夜最猛"
     },
     {
       "title": "Tell HN: Bob Cringely has died",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "728 pts / 149 comments",
+      "score": 92,
+      "traffic": "795 pts / 171 comments",
       "url": "https://news.ycombinator.com/item?id=49949438",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "369 pts / 206 comments",
+      "score": 91,
+      "traffic": "567 pts / 270 comments",
       "url": "https://github.com/Niko1221/Strata",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why don't more developers “use the platform”?",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "248 pts / 246 comments",
-      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "traffic": "194 pts / 286 comments",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "178 pts / 97 comments",
-      "url": "https://automatictransmission.khoury.northeastern.edu/",
+      "score": 89,
+      "traffic": "291 pts / 173 comments",
+      "url": "https://github.com/omlahore/RemoveMacAI",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "分析 師",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "新闻",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://m.sohu.com/a/1084006097_119778?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "context": "永不磨灭的印记 | 一张借谷证：见证红色政权的铮铮诺言"
-    },
-    {
-      "title": "盧彥勳",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E7%9B%A7%E5%BD%A5%E5%8B%B3%E8%BD%9F-%E9%9B%99%E9%9D%A2%E4%BA%BA%E8%AE%93%E4%BA%BA%E5%99%81%E5%BF%83-%E8%AB%87%E9%9B%99%E6%89%93%E9%81%B8%E6%89%8B-%E5%BA%95%E7%B7%9A-%E6%8E%80%E5%85%A9%E6%B4%BE%E7%B6%B2%E5%8F%8B%E7%98%8B%E7%8C%9C-074208340.html",
-      "context": "盧彥勳轟「雙面人讓人噁心」 談雙打選手「底線」掀兩派網友瘋猜"
-    },
-    {
-      "title": "台风",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://mt.sohu.com/a/1083274472_162758",
-      "context": "“彩云”加强为强热带风暴级"
-    },
-    {
-      "title": "A Map of Every Lighthouse on the Planet",
+      "title": "A map of every lighthouse",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "76 pts / 37 comments",
+      "score": 86,
+      "traffic": "155 pts / 71 comments",
       "url": "https://mapped.earth/lighthouses/world",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "title": "mlb",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.mlb.com/news/2026-nlds-game-2-storylines-what-to-watch-for",
+      "context": "1 question for each team going into today's NLDS Game 2s"
+    },
+    {
+      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "120 pts / 17 comments",
+      "score": 85,
+      "traffic": "160 pts / 21 comments",
       "url": "https://niklasroy.com/gtc/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "title": "weather",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.wlky.com/article/beautiful-fall-weather-continues-for-the-work-week/74020148",
+      "context": "Beautiful fall weather continues for the work week"
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "86 pts / 51 comments",
-      "url": "https://github.com/allenv0/SCM",
+      "score": 81,
+      "traffic": "46 pts / 12 comments",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "44 pts / 18 comments",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "klasemen portugal vs tim nasional sepak bola norwegia",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://afu.id/olahraga/link-live-streaming-portugal-vs-norwegia-malam-ini-tanpa-ronaldo-bruno-dan-felix-jadi-andalan-selecao-de-quina",
+      "context": "Link Live Streaming Portugal vs Norwegia Malam Ini: Tanpa Ronaldo, Bruno dan Felix Jadi Andalan Selecao de Quina"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
+      "topic": "天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。上班注意！入秋最強東北季風「明早來襲」 各地有雨明顯變涼。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「天氣」推到更高的注意力位置。變天暴跌驚呆！東北風發威「全台凍到發抖」 週二跨三夜最猛。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,8 +131,8 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%85%A5%E7%A7%8B%E6%9C%80%E5%BC%B7%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8-%E6%98%8E%E6%97%A9%E4%BE%86%E8%A5%B2-%E5%90%84%E5%9C%B0%E6%9C%89%E9%9B%A8%E6%98%8E%E9%A1%AF%E8%AE%8A%E6%B6%BC-080136077.html"
+          "title": "天氣",
+          "url": "https://tw.news.yahoo.com/%E8%AE%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E9%A9%9A%E5%91%86-%E6%9D%B1%E5%8C%97%E9%A2%A8%E7%99%BC%E5%A8%81-%E5%85%A8%E5%8F%B0%E5%87%8D%E5%88%B0%E7%99%BC%E6%8A%96-%E9%80%B1%E4%BA%8C%E8%B7%A8%E4%B8%89%E5%A4%9C%E6%9C%80%E7%8C%9B-141717303.html"
         }
       ]
     },
