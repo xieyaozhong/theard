@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-04T20:27:00+08:00",
+  "generated_at": "2026-10-05T02:39:33+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "478 pts / 238 comments",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "context": "High-engagement technology discussion"
+      "title": "明天的天氣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 95,
+      "traffic": "50000+",
+      "url": "https://tw.news.yahoo.com/%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%85%A5%E7%A7%8B%E6%9C%80%E5%BC%B7%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8-%E6%98%8E%E6%97%A9%E4%BE%86%E8%A5%B2-%E5%90%84%E5%9C%B0%E6%9C%89%E9%9B%A8%E6%98%8E%E9%A1%AF%E8%AE%8A%E6%B6%BC-080136077.html",
+      "context": "上班注意！入秋最強東北季風「明早來襲」 各地有雨明顯變涼"
     },
     {
       "title": "Tell HN: Bob Cringely has died",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "531 pts / 105 comments",
+      "score": 91,
+      "traffic": "728 pts / 149 comments",
       "url": "https://news.ycombinator.com/item?id=49949438",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "So you think you could be an electrician?",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "291 pts / 216 comments",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "traffic": "369 pts / 206 comments",
+      "url": "https://github.com/Niko1221/Strata",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why don't more developers “use the platform”?",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "168 pts / 143 comments",
+      "score": 90,
+      "traffic": "248 pts / 246 comments",
       "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "title": "Car is a smartphone on wheels. Here's who's listening",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "329 pts / 56 comments",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "score": 87,
+      "traffic": "178 pts / 97 comments",
+      "url": "https://automatictransmission.khoury.northeastern.edu/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "227 pts / 103 comments",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Agents don't need memory, they need documentation",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "218 pts / 119 comments",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "308 pts / 71 comments",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "網球",
+      "title": "分析 師",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5595190",
-      "context": "網球》盧彥勳：雙面人讓人看了就噁心！發文底線說引爆聯想"
-    },
-    {
-      "title": "天气",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.cctv.com/2026/10/04/ARTI41xUKGjO6EmXSOyJQYqe261004.shtml",
-      "context": "大范围放晴、升温！好天气回来了 就是假期也近尾声了"
-    },
-    {
-      "title": "勞動部",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "ettoday新闻云",
+      "title": "新闻",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://m.sohu.com/a/1084006097_119778?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "context": "永不磨灭的印记 | 一张借谷证：见证红色政权的铮铮诺言"
+    },
+    {
+      "title": "盧彥勳",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.sports.yahoo.com/news/%E7%9B%A7%E5%BD%A5%E5%8B%B3%E8%BD%9F-%E9%9B%99%E9%9D%A2%E4%BA%BA%E8%AE%93%E4%BA%BA%E5%99%81%E5%BF%83-%E8%AB%87%E9%9B%99%E6%89%93%E9%81%B8%E6%89%8B-%E5%BA%95%E7%B7%9A-%E6%8E%80%E5%85%A9%E6%B4%BE%E7%B6%B2%E5%8F%8B%E7%98%8B%E7%8C%9C-074208340.html",
+      "context": "盧彥勳轟「雙面人讓人噁心」 談雙打選手「底線」掀兩派網友瘋猜"
+    },
+    {
+      "title": "台风",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E9%80%B1%E5%A4%A9%E6%B0%A3-%E5%BD%A9%E9%9B%B2%E8%BD%89%E5%BC%B7%E9%A2%B1-%E9%A2%B6%E9%A2%A8-%E8%AB%BE%E6%B4%9B-%E8%BD%89%E4%B8%AD%E9%A2%B1-101000325.html",
-      "context": "【一週天氣】彩雲轉強颱、颶風「諾洛」轉中颱 雙颱共舞對台影響曝"
+      "url": "https://mt.sohu.com/a/1083274472_162758",
+      "context": "“彩云”加强为强热带风暴级"
+    },
+    {
+      "title": "A Map of Every Lighthouse on the Planet",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "76 pts / 37 comments",
+      "url": "https://mapped.earth/lighthouses/world",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "120 pts / 17 comments",
+      "url": "https://niklasroy.com/gtc/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "86 pts / 51 comments",
+      "url": "https://github.com/allenv0/SCM",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "We're going to need default hard budget caps on pretty much everything",
+      "topic": "明天的天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「We're going to need default hard budget caps on pretty much everything」開始升溫，我們真正該看的不是熱度",
+      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「We're going to need default hard budget caps on pretty much everything」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。上班注意！入秋最強東北季風「明早來襲」 各地有雨明顯變涼。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,9 +130,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "We're going to need default hard budget caps on pretty much everything",
-          "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "明天的天氣",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E7%8F%AD%E6%B3%A8%E6%84%8F-%E5%85%A5%E7%A7%8B%E6%9C%80%E5%BC%B7%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8-%E6%98%8E%E6%97%A9%E4%BE%86%E8%A5%B2-%E5%90%84%E5%9C%B0%E6%9C%89%E9%9B%A8%E6%98%8E%E9%A1%AF%E8%AE%8A%E6%B6%BC-080136077.html"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "So you think you could be an electrician?",
+      "topic": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「So you think you could be an electrician?」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「So you think you could be an electrician?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "So you think you could be an electrician?",
-          "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician"
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "url": "https://github.com/Niko1221/Strata"
         }
       ]
     }
