@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-10-04T13:59:07+08:00",
+  "generated_at": "2026-10-04T20:27:00+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "562 pts / 311 comments",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "拓元",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://www.cosmopolitan.com/tw/entertainment/celebrity-gossip/a73954789/top-pre-studio-2026-in-kaohsiung-sale/",
-      "context": "明天開搶！T.O.P高雄巨蛋演唱會搶票懶人包，中午12點拓元開賣，12/19開唱、最貴票價6300元"
-    },
-    {
       "title": "We're going to need default hard budget caps on pretty much everything",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "335 pts / 170 comments",
+      "score": 91,
+      "traffic": "478 pts / 238 comments",
       "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Tell HN: Bob Cringely has died",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "320 pts / 60 comments",
+      "score": 90,
+      "traffic": "531 pts / 105 comments",
       "url": "https://news.ycombinator.com/item?id=49949438",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "266 pts / 62 comments",
-      "url": "https://notoriousbfg.com/hole-punch/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "So you think you could be an electrician?",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "124 pts / 63 comments",
+      "score": 90,
+      "traffic": "291 pts / 216 comments",
       "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Why don't more developers “use the platform”?",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "168 pts / 143 comments",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "207 pts / 24 comments",
+      "score": 88,
+      "traffic": "329 pts / 56 comments",
       "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Treachery in the Rodin Museum 3D scan verdict",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "138 pts / 69 comments",
+      "score": 88,
+      "traffic": "227 pts / 103 comments",
       "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Agents don't need memory, they need documentation",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "119 pts / 64 comments",
+      "score": 88,
+      "traffic": "218 pts / 119 comments",
       "url": "https://liao.gg/blog/agents-dont-need-memory",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "176 pts / 42 comments",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "score": 88,
+      "traffic": "308 pts / 71 comments",
+      "url": "https://notoriousbfg.com/hole-punch/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "129 pts / 64 comments",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "生肖",
+      "title": "網球",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://udn.com/news/story/7268/9788513",
-      "context": "10月運勢出爐！12生肖吉凶全解析 鼠需保持低調、兔感情運順遂"
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5595190",
+      "context": "網球》盧彥勳：雙面人讓人看了就噁心！發文底線說引爆聯想"
+    },
+    {
+      "title": "天气",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.cctv.com/2026/10/04/ARTI41xUKGjO6EmXSOyJQYqe261004.shtml",
+      "context": "大范围放晴、升温！好天气回来了 就是假期也近尾声了"
+    },
+    {
+      "title": "勞動部",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "ettoday新闻云",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E9%80%B1%E5%A4%A9%E6%B0%A3-%E5%BD%A9%E9%9B%B2%E8%BD%89%E5%BC%B7%E9%A2%B1-%E9%A2%B6%E9%A2%A8-%E8%AB%BE%E6%B4%9B-%E8%BD%89%E4%B8%AD%E9%A2%B1-101000325.html",
+      "context": "【一週天氣】彩雲轉強颱、颶風「諾洛」轉中颱 雙颱共舞對台影響曝"
     }
   ],
   "articles": [
     {
-      "topic": "Kolibri: A Sovereign Open-Weight Model",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Kolibri: A Sovereign Open-Weight Model」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Kolibri: A Sovereign Open-Weight Model」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Kolibri: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"
-        }
-      ]
-    },
-    {
-      "topic": "拓元",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「拓元」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「拓元」推到更高的注意力位置。明天開搶！T.O.P高雄巨蛋演唱會搶票懶人包，中午12點拓元開賣，12/19開唱、最貴票價6300元。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "拓元",
-          "url": "https://www.cosmopolitan.com/tw/entertainment/celebrity-gossip/a73954789/top-pre-studio-2026-in-kaohsiung-sale/"
-        }
-      ]
-    },
-    {
       "topic": "We're going to need default hard budget caps on pretty much everything",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「We're going to need default hard budget caps on pretty much everything」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "We're going to need default hard budget caps on pretty much everything",
           "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+        }
+      ]
+    },
+    {
+      "topic": "Tell HN: Bob Cringely has died",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Tell HN: Bob Cringely has died」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Tell HN: Bob Cringely has died」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Tell HN: Bob Cringely has died",
+          "url": "https://news.ycombinator.com/item?id=49949438"
+        }
+      ]
+    },
+    {
+      "topic": "So you think you could be an electrician?",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「So you think you could be an electrician?」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「So you think you could be an electrician?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "So you think you could be an electrician?",
+          "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician"
         }
       ]
     }
