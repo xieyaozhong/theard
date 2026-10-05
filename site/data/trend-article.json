@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-05T07:58:30+08:00",
+  "generated_at": "2026-10-05T13:47:45+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "天氣",
+      "title": "大盤",
       "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://tw.news.yahoo.com/%E8%AE%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E9%A9%9A%E5%91%86-%E6%9D%B1%E5%8C%97%E9%A2%A8%E7%99%BC%E5%A8%81-%E5%85%A8%E5%8F%B0%E5%87%8D%E5%88%B0%E7%99%BC%E6%8A%96-%E9%80%B1%E4%BA%8C%E8%B7%A8%E4%B8%89%E5%A4%9C%E6%9C%80%E7%8C%9B-141717303.html",
-      "context": "變天暴跌驚呆！東北風發威「全台凍到發抖」 週二跨三夜最猛"
-    },
-    {
-      "title": "Tell HN: Bob Cringely has died",
-      "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "795 pts / 171 comments",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "context": "High-engagement technology discussion"
+      "traffic": "20000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "567 pts / 270 comments",
+      "score": 92,
+      "traffic": "687 pts / 318 comments",
       "url": "https://github.com/Niko1221/Strata",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Improper redaction reveals Google Data Center water and electricity usage",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "194 pts / 286 comments",
+      "score": 92,
+      "traffic": "329 pts / 445 comments",
       "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "291 pts / 173 comments",
+      "score": 91,
+      "traffic": "478 pts / 300 comments",
       "url": "https://github.com/omlahore/RemoveMacAI",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A map of every lighthouse",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "155 pts / 71 comments",
-      "url": "https://mapped.earth/lighthouses/world",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "mlb",
+      "title": "聯電",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.mlb.com/news/2026-nlds-game-2-storylines-what-to-watch-for",
-      "context": "1 question for each team going into today's NLDS Game 2s"
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "160 pts / 21 comments",
-      "url": "https://niklasroy.com/gtc/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "weather",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.wlky.com/article/beautiful-fall-weather-continues-for-the-work-week/74020148",
-      "context": "Beautiful fall weather continues for the work week"
-    },
-    {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "46 pts / 12 comments",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "score": 87,
+      "traffic": "151 pts / 105 comments",
+      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A browser-native classic Visual Basic VB6 IDE",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "44 pts / 18 comments",
+      "score": 86,
+      "traffic": "149 pts / 55 comments",
       "url": "https://wieslawsoltes.github.io/VB6/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "klasemen portugal vs tim nasional sepak bola norwegia",
+      "title": "netflix",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://afu.id/olahraga/link-live-streaming-portugal-vs-norwegia-malam-ini-tanpa-ronaldo-bruno-dan-felix-jadi-andalan-selecao-de-quina",
-      "context": "Link Live Streaming Portugal vs Norwegia Malam Ini: Tanpa Ronaldo, Bruno dan Felix Jadi Andalan Selecao de Quina"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ted-sarandos-netflix-not-growing-as-fast-as-i-want-us-to-1236717600/",
+      "context": "Ted Sarandos Admits Netflix Is \"Not Growing as Fast as I Want Us To\""
+    },
+    {
+      "title": "金 居",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6316589001&PU=1002",
+      "context": "《台北股市》注意股：1日37檔 高力.蔚華科.嘉晶.合晶.茂矽.浩鼎等"
+    },
+    {
+      "title": "高雄市市长",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "70 pts / 72 comments",
+      "url": "https://getartcraft.com/apps",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "賴廷與",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E9%95%B7%E5%AD%90%E9%81%AD%E4%B8%AD%E5%9C%8B%E7%9B%AF%E6%A2%A2-%E8%BB%8A%E7%89%8C%E4%BD%8F%E5%AE%B6%E5%85%A8%E8%A2%AB%E6%8B%8D-%E8%8F%AF%E8%A3%94%E5%A5%B3%E6%88%BF%E4%BB%B2%E6%B4%9B%E6%9D%89%E7%A3%AF%E8%90%BD%E7%B6%B2-005029074.html",
+      "context": "賴清德長子遭中國盯梢！車牌住家全被拍 華裔女房仲洛杉磯落網"
     }
   ],
   "articles": [
     {
-      "topic": "天氣",
+      "topic": "大盤",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「大盤」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「天氣」推到更高的注意力位置。變天暴跌驚呆！東北風發威「全台凍到發抖」 週二跨三夜最猛。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「大盤」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,51 +131,15 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "天氣",
-          "url": "https://tw.news.yahoo.com/%E8%AE%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E9%A9%9A%E5%91%86-%E6%9D%B1%E5%8C%97%E9%A2%A8%E7%99%BC%E5%A8%81-%E5%85%A8%E5%8F%B0%E5%87%8D%E5%88%B0%E7%99%BC%E6%8A%96-%E9%80%B1%E4%BA%8C%E8%B7%A8%E4%B8%89%E5%A4%9C%E6%9C%80%E7%8C%9B-141717303.html"
-        }
-      ]
-    },
-    {
-      "topic": "Tell HN: Bob Cringely has died",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Tell HN: Bob Cringely has died」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Tell HN: Bob Cringely has died」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Tell HN: Bob Cringely has died",
-          "url": "https://news.ycombinator.com/item?id=49949438"
+          "title": "大盤",
+          "url": "https://trends.google.com/trending?geo=TW"
         }
       ]
     },
     {
       "topic": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
           "url": "https://github.com/Niko1221/Strata"
+        }
+      ]
+    },
+    {
+      "topic": "Improper redaction reveals Google Data Center water and electricity usage",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Improper redaction reveals Google Data Center water and electricity usage」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Improper redaction reveals Google Data Center water and electricity usage」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Improper redaction reveals Google Data Center water and electricity usage",
+          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/"
         }
       ]
     }
