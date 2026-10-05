@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-05T22:48:35+08:00",
+  "generated_at": "2026-10-06T06:02:50+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "明天的天氣",
+      "title": "雨",
       "source": "GOOGLE TRENDS / TW",
       "score": 95,
       "traffic": "50000+",
-      "url": "https://www.businesstoday.com.tw/article/category/183030/post/202610040006/",
-      "context": "天氣／平地低溫16度要來了！冷空氣這天再補充，「前濕後乾」雨區曝光…國慶連假、10日天氣預報搶先看"
-    },
-    {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "862 pts / 386 comments",
-      "url": "https://github.com/Niko1221/Strata",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "聯電 新聞",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "302 pts / 234 comments",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "220 pts / 197 comments",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "分析師",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://udn.com/news/story/7266/9796389",
+      "context": "明後天降雨趨緩「低溫下探20度」 這時間氣溫回暖水氣增"
     },
     {
       "title": "Web Search API",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "159 pts / 90 comments",
+      "score": 90,
+      "traffic": "442 pts / 206 comments",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "title": "Beam: Reflection's 501B open-weight model",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "123 pts / 75 comments",
-      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "traffic": "202 pts / 56 comments",
+      "url": "https://reflection.ai/blog/introducing-beam",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "107 pts / 66 comments",
-      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "score": 86,
+      "traffic": "100 pts / 87 comments",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "諾瓦克·喬科維奇",
+      "title": "華邦電子",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.bbc.com/sport/tennis/articles/c8kge0d95dzno",
-      "context": "Djokovic beats Zverev to reach China Open semis"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "title": "友達光電",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E6%8A%95%E5%85%A5%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BF%E7%A0%94%E7%99%BC-%E9%80%B2%E8%A3%9C19%E5%8F%B0%E5%BB%A0-190500703.html",
+      "context": "輝達投入玻璃基板研發 進補19台廠"
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "83 pts / 24 comments",
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "score": 84,
+      "traffic": "115 pts / 25 comments",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "spcx",
+      "title": "Incident with Actions",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "75 pts / 52 comments",
+      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "補貼",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/multi-trillion-stock-cheap-getting-112508232.html",
-      "context": "This multi-trillion stock is \"cheap and getting cheaper\": Morgan Stanley"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "How to save a life without knowing CPR",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "47 pts / 30 comments",
+      "url": "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "67 pts / 14 comments",
+      "url": "https://cses.fi/book/book.pdf",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Future of Mathematics",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "53 pts / 23 comments",
+      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
+      "topic": "雨",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「雨」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。天氣／平地低溫16度要來了！冷空氣這天再補充，「前濕後乾」雨區曝光…國慶連假、10日天氣預報搶先看。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「雨」推到更高的注意力位置。明後天降雨趨緩「低溫下探20度」 這時間氣溫回暖水氣增。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://www.businesstoday.com.tw/article/category/183030/post/202610040006/"
+          "title": "雨",
+          "url": "https://udn.com/news/story/7266/9796389"
         }
       ]
     },
     {
-      "topic": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "topic": "Web Search API",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Web Search API」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Web Search API」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-          "url": "https://github.com/Niko1221/Strata"
+          "title": "Web Search API",
+          "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"
         }
       ]
     },
     {
-      "topic": "聯電 新聞",
+      "topic": "Beam: Reflection's 501B open-weight model",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「聯電 新聞」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Beam: Reflection's 501B open-weight model」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「聯電 新聞」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Beam: Reflection's 501B open-weight model」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "聯電 新聞",
-          "url": "https://trends.google.com/trending?geo=TW"
+          "source": "HACKER NEWS",
+          "title": "Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam"
         }
       ]
     }
