@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-06T06:02:50+08:00",
+  "generated_at": "2026-10-06T14:27:02+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "雨",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://udn.com/news/story/7266/9796389",
-      "context": "明後天降雨趨緩「低溫下探20度」 這時間氣溫回暖水氣增"
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "source": "HACKER NEWS",
+      "score": 93,
+      "traffic": "671 pts / 520 comments",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Web Search API",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "442 pts / 206 comments",
+      "score": 91,
+      "traffic": "522 pts / 239 comments",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Beam: Reflection's 501B open-weight model",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "202 pts / 56 comments",
+      "score": 89,
+      "traffic": "392 pts / 122 comments",
       "url": "https://reflection.ai/blog/introducing-beam",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "100 pts / 87 comments",
+      "score": 89,
+      "traffic": "293 pts / 194 comments",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "華邦電子",
+      "title": "田馥甄演唱會登記",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://stars.udn.com/star/story/10092/9797318",
+      "context": "S.H.E大巨蛋合體夢碎？孫德榮揭殘酷內幕　苦嘆「毀了一個台灣最好的女團」"
+    },
+    {
+      "title": "Why Common Lisp is now the best programming language",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "111 pts / 141 comments",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "169 pts / 94 comments",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "160 pts / 52 comments",
+      "url": "https://flattensf.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "netflix",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://people.com/where-was-east-of-eden-netflix-filmed-12159501",
+      "context": "Where Was ‘East of Eden’ Filmed? All About the Netflix Adaptation’s Real-Life Locations"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "149 pts / 34 comments",
+      "url": "https://qlabs.sh/research/dust",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "126 pts / 54 comments",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "哲 哲 聯發科",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "友達光電",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E6%8A%95%E5%85%A5%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BF%E7%A0%94%E7%99%BC-%E9%80%B2%E8%A3%9C19%E5%8F%B0%E5%BB%A0-190500703.html",
-      "context": "輝達投入玻璃基板研發 進補19台廠"
-    },
-    {
-      "title": "Making a GTK application in Haskell, part 1",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "115 pts / 25 comments",
-      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Incident with Actions",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "75 pts / 52 comments",
-      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "補貼",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "How to save a life without knowing CPR",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "47 pts / 30 comments",
-      "url": "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "67 pts / 14 comments",
-      "url": "https://cses.fi/book/book.pdf",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Future of Mathematics",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "53 pts / 23 comments",
-      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
-      "context": "High-engagement technology discussion"
+      "url": "https://tw.stock.yahoo.com/news/%E9%81%AD%E7%88%86%E5%A4%A7%E7%A0%8Dai%E9%A1%8D%E5%BA%A6%E3%80%81%E9%83%AD%E5%93%B2%E6%A6%AE%E6%80%92%E5%96%8A%E8%B3%A3%E8%82%A1%EF%BC%81-%E8%81%AF%E7%99%BC%E7%A7%91%EF%BC%9A%E6%98%AF%E7%82%BA%E4%BA%86%E6%9B%B4%E6%9C%89%E6%95%88%E7%9B%8A-043651326.html",
+      "context": "遭爆大砍AI額度、郭哲榮怒喊賣股！ 聯發科：是為了更有效益"
     }
   ],
   "articles": [
     {
-      "topic": "雨",
+      "topic": "Anthropic reported diary entry to police, woman faces felony charge",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「雨」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Anthropic reported diary entry to police, woman faces felony charge」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「雨」推到更高的注意力位置。明後天降雨趨緩「低溫下探20度」 這時間氣溫回暖水氣增。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Anthropic reported diary entry to police, woman faces felony charge」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,9 +130,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "雨",
-          "url": "https://udn.com/news/story/7266/9796389"
+          "source": "HACKER NEWS",
+          "title": "Anthropic reported diary entry to police, woman faces felony charge",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"
         }
       ]
     },
