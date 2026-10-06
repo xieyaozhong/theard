@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-06T14:27:02+08:00",
+  "generated_at": "2026-10-06T23:59:06+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "title": "Mistral Large 4",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "671 pts / 520 comments",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "traffic": "744 pts / 421 comments",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Web Search API",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "522 pts / 239 comments",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "traffic": "372 pts / 377 comments",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Beam: Reflection's 501B open-weight model",
+      "title": "Mistral Large 4: \"Le Chonk\"",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "392 pts / 122 comments",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "293 pts / 194 comments",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "田馥甄演唱會登記",
-      "source": "GOOGLE TRENDS / TW",
       "score": 88,
-      "traffic": "5000+",
-      "url": "https://stars.udn.com/star/story/10092/9797318",
-      "context": "S.H.E大巨蛋合體夢碎？孫德榮揭殘酷內幕　苦嘆「毀了一個台灣最好的女團」"
-    },
-    {
-      "title": "Why Common Lisp is now the best programming language",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "111 pts / 141 comments",
-      "url": "https://www.vivienhenz.com/common-lisp",
+      "traffic": "406 pts / 47 comments",
+      "url": "https://mistral.ai/news/mistral-large-4/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Example.com just launched the biggest redesign in decades",
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "169 pts / 94 comments",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 88,
+      "traffic": "311 pts / 95 comments",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Find the flattest route between any two points in SF",
+      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "203 pts / 107 comments",
+      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "175 pts / 71 comments",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Release of Polars 2.0",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "160 pts / 52 comments",
-      "url": "https://flattensf.com/",
+      "traffic": "213 pts / 35 comments",
+      "url": "https://pola.rs/posts/release-polars-2/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "netflix",
+      "title": "蘋果",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://people.com/where-was-east-of-eden-netflix-filmed-12159501",
-      "context": "Where Was ‘East of Eden’ Filmed? All About the Netflix Adaptation’s Real-Life Locations"
+      "url": "https://www.nbcnews.com/select/shopping/october-prime-day-2026-tech-deals-rcna600965",
+      "context": "34+ Amazon Prime Day tech deals: Save over 50% on top products from Apple, Sony, Bose and more"
     },
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "149 pts / 34 comments",
-      "url": "https://qlabs.sh/research/dust",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "126 pts / 54 comments",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "哲 哲 聯發科",
+      "title": "財政 部",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E9%81%AD%E7%88%86%E5%A4%A7%E7%A0%8Dai%E9%A1%8D%E5%BA%A6%E3%80%81%E9%83%AD%E5%93%B2%E6%A6%AE%E6%80%92%E5%96%8A%E8%B3%A3%E8%82%A1%EF%BC%81-%E8%81%AF%E7%99%BC%E7%A7%91%EF%BC%9A%E6%98%AF%E7%82%BA%E4%BA%86%E6%9B%B4%E6%9C%89%E6%95%88%E7%9B%8A-043651326.html",
-      "context": "遭爆大砍AI額度、郭哲榮怒喊賣股！ 聯發科：是為了更有效益"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "碰撞",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://today.line.me/tw/v3/article/XYpl8qX",
+      "context": "驚悚！回收車直行與機車碰撞 女騎士重摔昏迷 | 華視新聞"
+    },
+    {
+      "title": "mrvl",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-expects-marvell-mrvl-221920005.html",
+      "context": "Jim Cramer Expects Marvell’s (MRVL) Next Move to Get the Chip Industry Talking"
+    },
+    {
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "56 pts / 11 comments",
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Anthropic reported diary entry to police, woman faces felony charge",
+      "topic": "Mistral Large 4",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Anthropic reported diary entry to police, woman faces felony charge」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Mistral Large 4」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Anthropic reported diary entry to police, woman faces felony charge」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Mistral Large 4」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Anthropic reported diary entry to police, woman faces felony charge",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"
+          "title": "Mistral Large 4",
+          "url": "https://docs.mistral.ai/models/mistral-large-4-0"
         }
       ]
     },
     {
-      "topic": "Web Search API",
+      "topic": "JetBrains reported a net financial loss first time in its tracked history",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Web Search API」開始升溫，我們真正該看的不是熱度",
+      "title": "當「JetBrains reported a net financial loss first time in its tracked history」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Web Search API」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「JetBrains reported a net financial loss first time in its tracked history」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Web Search API",
-          "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"
+          "title": "JetBrains reported a net financial loss first time in its tracked history",
+          "url": "https://www.helgilibrary.com/companies/jetbrains"
         }
       ]
     },
     {
-      "topic": "Beam: Reflection's 501B open-weight model",
+      "topic": "Mistral Large 4: \"Le Chonk\"",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Beam: Reflection's 501B open-weight model」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Mistral Large 4: \"Le Chonk\"」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Beam: Reflection's 501B open-weight model」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Mistral Large 4: \"Le Chonk\"」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Beam: Reflection's 501B open-weight model",
-          "url": "https://reflection.ai/blog/introducing-beam"
+          "title": "Mistral Large 4: \"Le Chonk\"",
+          "url": "https://mistral.ai/news/mistral-large-4/"
         }
       ]
     }
