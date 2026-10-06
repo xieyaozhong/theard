@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-10-06T23:59:06+08:00",
+  "generated_at": "2026-10-07T06:40:25+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Mistral Large 4",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "744 pts / 421 comments",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "score": 96,
+      "traffic": "1488 pts / 929 comments",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "372 pts / 377 comments",
-      "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Mistral Large 4: \"Le Chonk\"",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "406 pts / 47 comments",
-      "url": "https://mistral.ai/news/mistral-large-4/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "311 pts / 95 comments",
+      "score": 90,
+      "traffic": "494 pts / 164 comments",
       "url": "https://www.nobelprize.org/prizes/physics/2026/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "192 pts / 248 comments",
+      "url": "https://github.com/FeSens/openTPU",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "203 pts / 107 comments",
-      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "traffic": "112 pts / 155 comments",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "175 pts / 71 comments",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Release of Polars 2.0",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "213 pts / 35 comments",
-      "url": "https://pola.rs/posts/release-polars-2/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "蘋果",
+      "title": "mlb季後賽",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://www.nbcnews.com/select/shopping/october-prime-day-2026-tech-deals-rcna600965",
-      "context": "34+ Amazon Prime Day tech deals: Save over 50% on top products from Apple, Sony, Bose and more"
-    },
-    {
-      "title": "財政 部",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "碰撞",
+      "title": "年金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.cardu.com.tw/news/detail.php?65836",
+      "context": "勞保年金2027有望調漲 預估逾107萬人受惠"
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "162 pts / 24 comments",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Benchmark in Milliseconds",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "120 pts / 33 comments",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "勇士 對 道奇",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://today.line.me/tw/v3/article/XYpl8qX",
-      "context": "驚悚！回收車直行與機車碰撞 女騎士重摔昏迷 | 華視新聞"
+      "url": "https://tw.sports.yahoo.com/news/%E9%81%93%E5%A5%87%E4%B8%BB%E5%B8%A5%E7%BE%85%E4%BC%AF%E6%96%AF%E4%B8%8D%E5%BF%8D%E4%BA%86-%E9%BB%9E%E5%87%BA%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3-%E8%BF%91%E6%B3%81%E6%9C%80%E5%A4%A7%E5%95%8F%E9%A1%8C-%E8%AA%AA%E9%87%8D%E8%A9%B1-%E4%B8%8D%E6%8E%92%E9%99%A4%E8%AA%BF%E6%95%B4%E6%89%93-011929826.html",
+      "context": "道奇主帥羅伯斯不忍了！點出大谷翔平「近況最大問題」說重話：不排除調整打序"
     },
     {
-      "title": "mrvl",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Decisions API is in public beta",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-expects-marvell-mrvl-221920005.html",
-      "context": "Jim Cramer Expects Marvell’s (MRVL) Next Move to Get the Chip Industry Talking"
+      "traffic": "47 pts / 22 comments",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "48 pts / 22 comments",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Sharing AI Progress in Mathematics",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "56 pts / 11 comments",
-      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "traffic": "54 pts / 12 comments",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -132,20 +132,20 @@
         {
           "source": "HACKER NEWS",
           "title": "Mistral Large 4",
-          "url": "https://docs.mistral.ai/models/mistral-large-4-0"
+          "url": "https://mistral.ai/news/mistral-large-4/\\"
         }
       ]
     },
     {
-      "topic": "JetBrains reported a net financial loss first time in its tracked history",
+      "topic": "Nobel Prize in Physics 2026: Francis Halzen",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「JetBrains reported a net financial loss first time in its tracked history」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Nobel Prize in Physics 2026: Francis Halzen」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「JetBrains reported a net financial loss first time in its tracked history」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Nobel Prize in Physics 2026: Francis Halzen」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "JetBrains reported a net financial loss first time in its tracked history",
-          "url": "https://www.helgilibrary.com/companies/jetbrains"
+          "title": "Nobel Prize in Physics 2026: Francis Halzen",
+          "url": "https://www.nobelprize.org/prizes/physics/2026/"
         }
       ]
     },
     {
-      "topic": "Mistral Large 4: \"Le Chonk\"",
+      "topic": "OpenTPU – An open-source AI accelerator, developed by AI",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Mistral Large 4: \"Le Chonk\"」開始升溫，我們真正該看的不是熱度",
+      "title": "當「OpenTPU – An open-source AI accelerator, developed by AI」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Mistral Large 4: \"Le Chonk\"」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「OpenTPU – An open-source AI accelerator, developed by AI」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Mistral Large 4: \"Le Chonk\"",
-          "url": "https://mistral.ai/news/mistral-large-4/"
+          "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+          "url": "https://github.com/FeSens/openTPU"
         }
       ]
     }
