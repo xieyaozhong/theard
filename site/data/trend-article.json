@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-10-07T14:06:01+08:00",
+  "generated_at": "2026-10-07T21:30:46+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Mistral Large 4",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1683 pts / 1003 comments",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Sharing AI progress in mathematics",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "708 pts / 644 comments",
+      "score": 95,
+      "traffic": "1043 pts / 1051 comments",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Decisions API is in public beta",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "223 pts / 103 comments",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "185 pts / 141 comments",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "285 pts / 31 comments",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "143 pts / 60 comments",
-      "url": "https://penguin-mail.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "股利",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://udn.com/news/story/7243/9797294",
-      "context": "股票早就賣掉了 媽媽過世後7,500萬股票為何仍算遺產？"
-    },
-    {
-      "title": "大罷免",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%84%88%E6%89%93%E6%84%88%E5%A4%A7%E5%B0%BE-%E5%90%B3%E8%88%88%E5%B8%82%E5%A0%B4%E9%A9%9A%E8%A6%8B-%E6%8E%92%E9%9A%8A%E8%B2%AA%E9%A3%9F%E8%9B%87-%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%99%BC%E8%81%B2%E4%BA%86-020944734.html",
-      "context": "國民黨愈打愈大尾！吳興市場驚見「排隊貪食蛇」 沈伯洋發聲了"
-    },
-    {
       "title": "Strands Decider 2B: a small, open-source, decision model",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "107 pts / 22 comments",
+      "score": 87,
+      "traffic": "224 pts / 65 comments",
       "url": "https://strandsagents.com/blog/introducing-strands-decider/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "繼承",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E4%BA%BA%E5%A6%BB%E5%96%AA%E5%A4%AB%E7%95%99%E5%A9%9A%E5%89%8D%E8%80%81%E5%B1%8B-%E5%A9%86%E5%A9%86-%E9%80%BC%E5%81%9A%E9%80%99%E4%BA%8B-%E7%B6%B2%E7%82%B8%E9%8D%8B-%E6%B3%95%E5%BE%8B%E4%B8%8D%E6%98%AF%E5%A5%B9%E8%AA%AA%E4%BA%86%E7%AE%97-102153791.html",
-      "context": "人妻喪夫留婚前老屋！婆婆「逼做這事」 網炸鍋：法律不是她說了算"
-    },
-    {
-      "title": "The cost of lies: A Mineserver story",
+      "title": "Shipping JPEG XL in Chrome",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "60 pts / 22 comments",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "score": 86,
+      "traffic": "159 pts / 76 comments",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "ESP32-C3 Adblock",
+      "title": "高金素梅",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%AB%98%E9%87%91%E7%B4%A0%E6%A2%85%E5%8A%A9%E7%90%86%E8%BE%A6%E5%85%AC%E5%AE%A4%E4%B8%BB%E4%BB%BB%E5%BC%B5%E4%BF%8A%E5%82%91%E6%A3%84%E4%BF%9D%E6%BD%9B%E9%80%83%E6%A1%88-20-21%E5%90%8D%E5%85%B1%E7%8A%AF%E8%90%BD%E7%B6%B2-084200643.html",
+      "context": "快訊／高金素梅助理辦公室主任張俊傑棄保潛逃案 20、21名共犯落網"
+    },
+    {
+      "title": "美國職棒大聯盟季後賽",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.sports.yahoo.com/news/mlb-%E6%95%99%E5%A3%AB%E5%90%9E2%E9%80%A3%E6%95%97%E9%81%AD%E6%AD%90%E6%8F%90%E8%8C%B2%E5%94%B1%E8%A1%B0-%E9%A6%AC%E6%9F%A5%E5%A4%9A%E5%8F%8D%E6%93%8A-%E9%82%84%E8%83%BD%E5%86%8D%E5%81%9A%E5%88%B0-032223680.html",
+      "context": "MLB/教士吞2連敗遭歐提茲唱衰 馬查多反擊：還能再做到"
+    },
+    {
+      "title": "xsmb",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-710-khanh-hoa-da-nang-1779217.ldo",
+      "context": "Kết quả xổ số miền Trung hôm nay 7.10: Khánh Hòa, Đà Nẵng"
+    },
+    {
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "176 pts / 32 comments",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "南亞塑膠",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E4%B8%80%E5%B0%8F%E6%99%82%E5%90%B8%E9%87%91230%E5%84%84%E5%85%83%EF%BC%81%E5%8D%97%E4%BA%9E%E7%99%BB322%E5%85%83%E9%82%84%E8%83%BD%E8%BF%BD%E5%97%8E%EF%BC%9F%E5%88%86%E6%9E%90%E5%B8%AB%E6%95%99%E6%88%B0-023507492.html",
+      "context": "一小時吸金230億元！南亞登322元還能追嗎？分析師教戰"
+    },
+    {
+      "title": "貓",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.pchome.com.tw/society/pronews/20261007/index-79137700593596353002.html",
+      "context": "讓愛心走進日常 倍力以一包貓砂接住浪貓照護"
+    },
+    {
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "117 pts / 13 comments",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "It may soon be possible to create \"mirror life\"",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "27 pts / 33 comments",
+      "url": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "House with 15m underground tunnels for sale for 300k",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "50 pts / 10 comments",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "traffic": "25 pts / 25 comments",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Mistral Large 4",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Mistral Large 4」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Mistral Large 4」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Mistral Large 4",
-          "url": "https://mistral.ai/news/mistral-large-4/\\"
-        }
-      ]
-    },
-    {
       "topic": "Sharing AI progress in mathematics",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Sharing AI progress in mathematics」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Decisions API is in public beta",
+      "topic": "Strands Decider 2B: a small, open-source, decision model",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Decisions API is in public beta」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Strands Decider 2B: a small, open-source, decision model」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Decisions API is in public beta」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Strands Decider 2B: a small, open-source, decision model」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Decisions API is in public beta",
-          "url": "https://developers.openai.com/api/docs/guides/decisions"
+          "title": "Strands Decider 2B: a small, open-source, decision model",
+          "url": "https://strandsagents.com/blog/introducing-strands-decider/"
+        }
+      ]
+    },
+    {
+      "topic": "Shipping JPEG XL in Chrome",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Shipping JPEG XL in Chrome」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Shipping JPEG XL in Chrome」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Shipping JPEG XL in Chrome",
+          "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome"
         }
       ]
     }
