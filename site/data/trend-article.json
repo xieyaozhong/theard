@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-07T21:30:46+08:00",
+  "generated_at": "2026-10-08T04:39:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Sharing AI progress in mathematics",
-      "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1043 pts / 1051 comments",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "224 pts / 65 comments",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "context": "High-engagement technology discussion"
+      "title": "國慶連假",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://tw.news.yahoo.com/%E5%85%A5%E7%A7%8B%E6%9C%80%E6%B6%BC-%E4%BB%8A%E6%99%9A%E8%87%B3%E6%98%8E%E6%99%A8%E4%BD%8E%E6%BA%AB%E4%B8%8B%E6%8E%A220%E5%BA%A6-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6-%E9%99%8D%E6%BA%AB%E9%9D%9E%E5%B8%B8%E6%9C%89%E6%84%9F-094200686.html",
+      "context": "入秋最涼！今晚至明晨低溫下探20度 氣象專家：降溫非常有感"
     },
     {
       "title": "Shipping JPEG XL in Chrome",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "159 pts / 76 comments",
+      "score": 91,
+      "traffic": "422 pts / 269 comments",
       "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "高金素梅",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%AB%98%E9%87%91%E7%B4%A0%E6%A2%85%E5%8A%A9%E7%90%86%E8%BE%A6%E5%85%AC%E5%AE%A4%E4%B8%BB%E4%BB%BB%E5%BC%B5%E4%BF%8A%E5%82%91%E6%A3%84%E4%BF%9D%E6%BD%9B%E9%80%83%E6%A1%88-20-21%E5%90%8D%E5%85%B1%E7%8A%AF%E8%90%BD%E7%B6%B2-084200643.html",
-      "context": "快訊／高金素梅助理辦公室主任張俊傑棄保潛逃案 20、21名共犯落網"
-    },
-    {
-      "title": "美國職棒大聯盟季後賽",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/mlb-%E6%95%99%E5%A3%AB%E5%90%9E2%E9%80%A3%E6%95%97%E9%81%AD%E6%AD%90%E6%8F%90%E8%8C%B2%E5%94%B1%E8%A1%B0-%E9%A6%AC%E6%9F%A5%E5%A4%9A%E5%8F%8D%E6%93%8A-%E9%82%84%E8%83%BD%E5%86%8D%E5%81%9A%E5%88%B0-032223680.html",
-      "context": "MLB/教士吞2連敗遭歐提茲唱衰 馬查多反擊：還能再做到"
-    },
-    {
-      "title": "xsmb",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-710-khanh-hoa-da-nang-1779217.ldo",
-      "context": "Kết quả xổ số miền Trung hôm nay 7.10: Khánh Hòa, Đà Nẵng"
-    },
-    {
-      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "title": "Claude Haiku 5.5",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "176 pts / 32 comments",
-      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "score": 90,
+      "traffic": "415 pts / 198 comments",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "南亞塑膠",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E4%B8%80%E5%B0%8F%E6%99%82%E5%90%B8%E9%87%91230%E5%84%84%E5%85%83%EF%BC%81%E5%8D%97%E4%BA%9E%E7%99%BB322%E5%85%83%E9%82%84%E8%83%BD%E8%BF%BD%E5%97%8E%EF%BC%9F%E5%88%86%E6%9E%90%E5%B8%AB%E6%95%99%E6%88%B0-023507492.html",
-      "context": "一小時吸金230億元！南亞登322元還能追嗎？分析師教戰"
-    },
-    {
-      "title": "貓",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.pchome.com.tw/society/pronews/20261007/index-79137700593596353002.html",
-      "context": "讓愛心走進日常 倍力以一包貓砂接住浪貓照護"
-    },
-    {
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "117 pts / 13 comments",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "score": 90,
+      "traffic": "387 pts / 240 comments",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "It may soon be possible to create \"mirror life\"",
+      "title": "GPT‑6 and Intelligent UI for everyone",
       "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "303 pts / 145 comments",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Navier–Stokes Lost in Translation",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "167 pts / 126 comments",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "120 pts / 112 comments",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "208 pts / 73 comments",
+      "url": "https://bigwords.page/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Animated ASCII Art for Web Pages",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "209 pts / 54 comments",
+      "url": "https://ascii.rest/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "吳崢",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://news.pts.org.tw/article/830251",
+      "context": "僑委會任內遭控濫用外館資源 徐佳青宣布請辭接受調查"
+    },
+    {
+      "title": "Docker Agent",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "91 pts / 38 comments",
+      "url": "https://github.com/docker/docker-agent",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "world space week 2026",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "27 pts / 33 comments",
-      "url": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "House with 15m underground tunnels for sale for 300k",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "25 pts / 25 comments",
-      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
-      "context": "High-engagement technology discussion"
+      "traffic": "500+",
+      "url": "https://tech.yahoo.com/science/articles/google-joins-rocket-revolution-world-164742028.html",
+      "context": "Google joins the 'Rocket Revolution' with World Space Week 2026 Google Doodle"
     }
   ],
   "articles": [
     {
-      "topic": "Sharing AI progress in mathematics",
+      "topic": "國慶連假",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Sharing AI progress in mathematics」開始升溫，我們真正該看的不是熱度",
+      "title": "當「國慶連假」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Sharing AI progress in mathematics」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「國慶連假」推到更高的注意力位置。入秋最涼！今晚至明晨低溫下探20度 氣象專家：降溫非常有感。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,52 +130,16 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Sharing AI progress in mathematics",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
-        }
-      ]
-    },
-    {
-      "topic": "Strands Decider 2B: a small, open-source, decision model",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Strands Decider 2B: a small, open-source, decision model」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Strands Decider 2B: a small, open-source, decision model」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Strands Decider 2B: a small, open-source, decision model",
-          "url": "https://strandsagents.com/blog/introducing-strands-decider/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "國慶連假",
+          "url": "https://tw.news.yahoo.com/%E5%85%A5%E7%A7%8B%E6%9C%80%E6%B6%BC-%E4%BB%8A%E6%99%9A%E8%87%B3%E6%98%8E%E6%99%A8%E4%BD%8E%E6%BA%AB%E4%B8%8B%E6%8E%A220%E5%BA%A6-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6-%E9%99%8D%E6%BA%AB%E9%9D%9E%E5%B8%B8%E6%9C%89%E6%84%9F-094200686.html"
         }
       ]
     },
     {
       "topic": "Shipping JPEG XL in Chrome",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Shipping JPEG XL in Chrome」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Shipping JPEG XL in Chrome",
           "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome"
+        }
+      ]
+    },
+    {
+      "topic": "Claude Haiku 5.5",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Claude Haiku 5.5」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Claude Haiku 5.5」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Claude Haiku 5.5",
+          "url": "https://www.anthropic.com/claude-haiku-5-5"
         }
       ]
     }
