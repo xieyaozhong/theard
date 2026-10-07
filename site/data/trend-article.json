@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-10-07T06:40:25+08:00",
+  "generated_at": "2026-10-07T14:06:01+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Mistral Large 4",
       "source": "HACKER NEWS",
       "score": 96,
-      "traffic": "1488 pts / 929 comments",
+      "traffic": "1683 pts / 1003 comments",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "title": "Sharing AI progress in mathematics",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "494 pts / 164 comments",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 94,
+      "traffic": "708 pts / 644 comments",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "192 pts / 248 comments",
-      "url": "https://github.com/FeSens/openTPU",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "112 pts / 155 comments",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "mlb季後賽",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "年金",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.cardu.com.tw/news/detail.php?65836",
-      "context": "勞保年金2027有望調漲 預估逾107萬人受惠"
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "162 pts / 24 comments",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Benchmark in Milliseconds",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "120 pts / 33 comments",
-      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "勇士 對 道奇",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E9%81%93%E5%A5%87%E4%B8%BB%E5%B8%A5%E7%BE%85%E4%BC%AF%E6%96%AF%E4%B8%8D%E5%BF%8D%E4%BA%86-%E9%BB%9E%E5%87%BA%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3-%E8%BF%91%E6%B3%81%E6%9C%80%E5%A4%A7%E5%95%8F%E9%A1%8C-%E8%AA%AA%E9%87%8D%E8%A9%B1-%E4%B8%8D%E6%8E%92%E9%99%A4%E8%AA%BF%E6%95%B4%E6%89%93-011929826.html",
-      "context": "道奇主帥羅伯斯不忍了！點出大谷翔平「近況最大問題」說重話：不排除調整打序"
     },
     {
       "title": "Decisions API is in public beta",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "47 pts / 22 comments",
+      "score": 88,
+      "traffic": "223 pts / 103 comments",
       "url": "https://developers.openai.com/api/docs/guides/decisions",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "48 pts / 22 comments",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 88,
+      "traffic": "185 pts / 141 comments",
+      "url": "https://github.com/boykopovar/AnyPS5",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Sharing AI Progress in Mathematics",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "285 pts / 31 comments",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "143 pts / 60 comments",
+      "url": "https://penguin-mail.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "股利",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://udn.com/news/story/7243/9797294",
+      "context": "股票早就賣掉了 媽媽過世後7,500萬股票為何仍算遺產？"
+    },
+    {
+      "title": "大罷免",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%84%88%E6%89%93%E6%84%88%E5%A4%A7%E5%B0%BE-%E5%90%B3%E8%88%88%E5%B8%82%E5%A0%B4%E9%A9%9A%E8%A6%8B-%E6%8E%92%E9%9A%8A%E8%B2%AA%E9%A3%9F%E8%9B%87-%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%99%BC%E8%81%B2%E4%BA%86-020944734.html",
+      "context": "國民黨愈打愈大尾！吳興市場驚見「排隊貪食蛇」 沈伯洋發聲了"
+    },
+    {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "107 pts / 22 comments",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "繼承",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E4%BA%BA%E5%A6%BB%E5%96%AA%E5%A4%AB%E7%95%99%E5%A9%9A%E5%89%8D%E8%80%81%E5%B1%8B-%E5%A9%86%E5%A9%86-%E9%80%BC%E5%81%9A%E9%80%99%E4%BA%8B-%E7%B6%B2%E7%82%B8%E9%8D%8B-%E6%B3%95%E5%BE%8B%E4%B8%8D%E6%98%AF%E5%A5%B9%E8%AA%AA%E4%BA%86%E7%AE%97-102153791.html",
+      "context": "人妻喪夫留婚前老屋！婆婆「逼做這事」 網炸鍋：法律不是她說了算"
+    },
+    {
+      "title": "The cost of lies: A Mineserver story",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "60 pts / 22 comments",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "ESP32-C3 Adblock",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "54 pts / 12 comments",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "traffic": "50 pts / 10 comments",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Nobel Prize in Physics 2026: Francis Halzen",
+      "topic": "Sharing AI progress in mathematics",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Nobel Prize in Physics 2026: Francis Halzen」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Sharing AI progress in mathematics」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nobel Prize in Physics 2026: Francis Halzen」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Sharing AI progress in mathematics」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Nobel Prize in Physics 2026: Francis Halzen",
-          "url": "https://www.nobelprize.org/prizes/physics/2026/"
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
         }
       ]
     },
     {
-      "topic": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "topic": "Decisions API is in public beta",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「OpenTPU – An open-source AI accelerator, developed by AI」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Decisions API is in public beta」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenTPU – An open-source AI accelerator, developed by AI」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Decisions API is in public beta」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-          "url": "https://github.com/FeSens/openTPU"
+          "title": "Decisions API is in public beta",
+          "url": "https://developers.openai.com/api/docs/guides/decisions"
         }
       ]
     }
