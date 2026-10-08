@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-10-08T09:02:31+08:00",
+  "generated_at": "2026-10-08T18:40:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "Margaret Hamilton has died",
+      "source": "HACKER NEWS",
+      "score": 94,
+      "traffic": "1574 pts / 166 comments",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "context": "High-engagement technology discussion"
+    },
+    {
       "title": "Claude Haiku 5.5",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "653 pts / 327 comments",
+      "score": 93,
+      "traffic": "892 pts / 429 comments",
       "url": "https://www.anthropic.com/claude-haiku-5-5",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "482 pts / 250 comments",
+      "score": 92,
+      "traffic": "644 pts / 354 comments",
       "url": "https://openai.com/index/gpt-6-for-everyone/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Shipping JPEG XL in Chrome",
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "478 pts / 308 comments",
-      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "score": 90,
+      "traffic": "303 pts / 283 comments",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Margaret Hamilton has died",
+      "title": "The Mathocalypse",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "612 pts / 67 comments",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "traffic": "251 pts / 274 comments",
+      "url": "https://scottaaronson.blog/?p=10169",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "344 pts / 108 comments",
+      "score": 90,
+      "traffic": "515 pts / 142 comments",
       "url": "https://bigwords.page/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "新北 市長 民 調",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Docker Agent",
+      "title": "Living off-grid: Hundred Rabbits",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "172 pts / 81 comments",
-      "url": "https://github.com/docker/docker-agent",
+      "traffic": "224 pts / 73 comments",
+      "url": "https://100r.ca/site/home.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "道奇",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E5%B1%B1%E6%9C%AC-%E5%A1%9E%E7%88%BE%E8%B3%BD%E5%89%8D-%E8%84%AB%E5%B8%BD%E8%87%B4%E6%84%8F-%E6%9C%89%E7%8E%84%E6%A9%9F-%E5%85%A9%E4%BA%BA%E8%B6%85%E7%8B%82%E5%85%B1%E5%90%8C%E9%BB%9E-023215158.html",
-      "context": "山本、塞爾賽前「脫帽致意」有玄機！兩人超狂共同點 大聯盟等了88年"
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "161 pts / 82 comments",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "183 pts / 64 comments",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The 15-year search for a band that charted once and vanished",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "102 pts / 49 comments",
-      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "traffic": "116 pts / 41 comments",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "mlb季後賽",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Classic PC demoscene productions running natively in the browser",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "76 pts / 58 comments",
+      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "林岳平",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5599056",
-      "context": "中職》G1票房開紅盤！ 兄弟宣布最新狀況"
-    },
-    {
-      "title": "安迪·帕赫斯",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://sports.ettoday.net/news/3249102",
-      "context": "帕赫斯被下「ABS禁令」！季後賽首戰忘提醒　羅伯斯：我的責任"
+      "title": "Cleo (Mathematician)",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "161 pts / 30 comments",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Claude Haiku 5.5",
+      "topic": "Margaret Hamilton has died",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Margaret Hamilton has died」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Margaret Hamilton has died」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Margaret Hamilton has died",
+          "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+        }
+      ]
+    },
+    {
+      "topic": "Claude Haiku 5.5",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Claude Haiku 5.5」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -139,7 +175,7 @@
     {
       "topic": "GPT‑6 and Intelligent UI for everyone",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「GPT‑6 and Intelligent UI for everyone」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "GPT‑6 and Intelligent UI for everyone",
           "url": "https://openai.com/index/gpt-6-for-everyone/"
-        }
-      ]
-    },
-    {
-      "topic": "Shipping JPEG XL in Chrome",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Shipping JPEG XL in Chrome」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Shipping JPEG XL in Chrome」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Shipping JPEG XL in Chrome",
-          "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome"
         }
       ]
     }
