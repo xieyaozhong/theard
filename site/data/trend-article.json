@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-08T18:40:27+08:00",
+  "generated_at": "2026-10-09T02:52:48+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Margaret Hamilton has died",
+      "title": "Trump administration is suspending Microsoft from a green card program",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "1574 pts / 166 comments",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Claude Haiku 5.5",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "892 pts / 429 comments",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "644 pts / 354 comments",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "traffic": "556 pts / 946 comments",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "“Math 2.0” will need to value mathematical progress more holistically",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "303 pts / 283 comments",
+      "score": 93,
+      "traffic": "566 pts / 581 comments",
       "url": "https://mathstodon.xyz/@tao/117395269325940185",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Mathocalypse",
+      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "251 pts / 274 comments",
-      "url": "https://scottaaronson.blog/?p=10169",
+      "traffic": "557 pts / 143 comments",
+      "url": "https://news.ycombinator.com/item?id=50006366",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "title": "Beauty in DVD Menus",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "515 pts / 142 comments",
-      "url": "https://bigwords.page/",
+      "score": 88,
+      "traffic": "189 pts / 122 comments",
+      "url": "https://vale.rocks/posts/dvd-menus",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Living off-grid: Hundred Rabbits",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "224 pts / 73 comments",
-      "url": "https://100r.ca/site/home.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "'Jonathan' is the oldest land animal on Earth",
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "161 pts / 82 comments",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "traffic": "158 pts / 80 comments",
+      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "title": "The Slow Formation of Durable Software",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "214 pts / 75 comments",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "183 pts / 64 comments",
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "traffic": "130 pts / 73 comments",
+      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The 15-year search for a band that charted once and vanished",
+      "title": "Whistle: Speech to Text in 16.9 MB",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "116 pts / 41 comments",
-      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "traffic": "161 pts / 41 comments",
+      "url": "https://cactuscompute.com/blog/whistle",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Classic PC demoscene productions running natively in the browser",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "76 pts / 58 comments",
-      "url": "https://treylorswift.github.io/demoscene-recomp/web/",
-      "context": "High-engagement technology discussion"
+      "title": "郭世倫",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://stars.udn.com/star/story/10091/9803859",
+      "context": "昔金鐘主持人淪時薪105元洗碗工！他染毒消失10年近況曝光"
     },
     {
-      "title": "Cleo (Mathematician)",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "161 pts / 30 comments",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "context": "High-engagement technology discussion"
+      "title": "美股新聞",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%84%AB%E9%9B%A2%E9%AB%98%E9%BB%9E-%E6%B2%B9%E5%83%B9%E8%B6%A8%E7%A9%A9-%E9%BB%83%E9%87%91%E7%99%BD%E9%8A%80%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%8F%9A-130707206.html",
+      "context": "美債殖利率脫離高點、油價趨穩 黃金白銀同步上揚"
+    },
+    {
+      "title": "openai",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
+      "context": "OpenAI annualised revenues $20bn less than previously signalled"
+    },
+    {
+      "title": "川普",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Margaret Hamilton has died",
+      "topic": "Trump administration is suspending Microsoft from a green card program",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Margaret Hamilton has died」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Trump administration is suspending Microsoft from a green card program」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Margaret Hamilton has died」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Trump administration is suspending Microsoft from a green card program」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Margaret Hamilton has died",
-          "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+          "title": "Trump administration is suspending Microsoft from a green card program",
+          "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"
         }
       ]
     },
     {
-      "topic": "Claude Haiku 5.5",
+      "topic": "“Math 2.0” will need to value mathematical progress more holistically",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Claude Haiku 5.5」開始升溫，我們真正該看的不是熱度",
+      "title": "當「“Math 2.0” will need to value mathematical progress more holistically」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Claude Haiku 5.5」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「“Math 2.0” will need to value mathematical progress more holistically」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Claude Haiku 5.5",
-          "url": "https://www.anthropic.com/claude-haiku-5-5"
+          "title": "“Math 2.0” will need to value mathematical progress more holistically",
+          "url": "https://mathstodon.xyz/@tao/117395269325940185"
         }
       ]
     },
     {
-      "topic": "GPT‑6 and Intelligent UI for everyone",
+      "topic": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「GPT‑6 and Intelligent UI for everyone」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Tell HN: I've been paying for a rural Tanzanian's education for 10 years」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GPT‑6 and Intelligent UI for everyone」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Tell HN: I've been paying for a rural Tanzanian's education for 10 years」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "GPT‑6 and Intelligent UI for everyone",
-          "url": "https://openai.com/index/gpt-6-for-everyone/"
+          "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+          "url": "https://news.ycombinator.com/item?id=50006366"
         }
       ]
     }
