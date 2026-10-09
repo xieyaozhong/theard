@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-09T02:52:48+08:00",
+  "generated_at": "2026-10-09T09:14:52+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Trump administration is suspending Microsoft from a green card program",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "556 pts / 946 comments",
-      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "566 pts / 581 comments",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "557 pts / 143 comments",
-      "url": "https://news.ycombinator.com/item?id=50006366",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Beauty in DVD Menus",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "189 pts / 122 comments",
-      "url": "https://vale.rocks/posts/dvd-menus",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "158 pts / 80 comments",
-      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Slow Formation of Durable Software",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "214 pts / 75 comments",
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "130 pts / 73 comments",
-      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+      "score": 91,
+      "traffic": "393 pts / 329 comments",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Whistle: Speech to Text in 16.9 MB",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "161 pts / 41 comments",
+      "score": 90,
+      "traffic": "520 pts / 118 comments",
       "url": "https://cactuscompute.com/blog/whistle",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "郭世倫",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "378 pts / 235 comments",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Beauty in DVD Menus",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "257 pts / 145 comments",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Theranos.world",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "259 pts / 112 comments",
+      "url": "https://www.theranos.world/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "370 pts / 55 comments",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Yes, and",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "160 pts / 66 comments",
+      "url": "https://htmx.org/essays/yes-and/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "高乘載雙十",
       "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://udn.com/news/story/7266/9804282",
+      "context": "不斷更新／國慶連假首日國5南下一早就塞 國3匝道排隊4公里"
+    },
+    {
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "77 pts / 73 comments",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The value of not getting to the point (2015)",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://stars.udn.com/star/story/10091/9803859",
-      "context": "昔金鐘主持人淪時薪105元洗碗工！他染毒消失10年近況曝光"
+      "traffic": "112 pts / 37 comments",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "美股新聞",
+      "title": "麝香 葡萄",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%84%AB%E9%9B%A2%E9%AB%98%E9%BB%9E-%E6%B2%B9%E5%83%B9%E8%B6%A8%E7%A9%A9-%E9%BB%83%E9%87%91%E7%99%BD%E9%8A%80%E5%90%8C%E6%AD%A5%E4%B8%8A%E6%8F%9A-130707206.html",
-      "context": "美債殖利率脫離高點、油價趨穩 黃金白銀同步上揚"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5600256",
+      "context": "韓國麝香葡萄價格3年雪崩近9成 台灣爆出甜甜價了？"
     },
     {
-      "title": "openai",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
-      "context": "OpenAI annualised revenues $20bn less than previously signalled"
-    },
-    {
-      "title": "川普",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "62 pts / 5 comments",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Trump administration is suspending Microsoft from a green card program",
+      "topic": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Trump administration is suspending Microsoft from a green card program」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Why isn't the industry freaking out about DeepSeek 4.1 Flash?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Trump administration is suspending Microsoft from a green card program」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Why isn't the industry freaking out about DeepSeek 4.1 Flash?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Trump administration is suspending Microsoft from a green card program",
-          "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"
+          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/"
         }
       ]
     },
     {
-      "topic": "“Math 2.0” will need to value mathematical progress more holistically",
+      "topic": "Whistle: Speech to Text in 16.9 MB",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「“Math 2.0” will need to value mathematical progress more holistically」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Whistle: Speech to Text in 16.9 MB」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「“Math 2.0” will need to value mathematical progress more holistically」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Whistle: Speech to Text in 16.9 MB」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "“Math 2.0” will need to value mathematical progress more holistically",
-          "url": "https://mathstodon.xyz/@tao/117395269325940185"
+          "title": "Whistle: Speech to Text in 16.9 MB",
+          "url": "https://cactuscompute.com/blog/whistle"
         }
       ]
     },
     {
-      "topic": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "topic": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Tell HN: I've been paying for a rural Tanzanian's education for 10 years」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Man discovers his parents' coffee machine used 1TB of data in 10 days」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Tell HN: I've been paying for a rural Tanzanian's education for 10 years」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Man discovers his parents' coffee machine used 1TB of data in 10 days」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-          "url": "https://news.ycombinator.com/item?id=50006366"
+          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/"
         }
       ]
     }
