@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-10T08:55:45+08:00",
+  "generated_at": "2026-10-10T17:55:33+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Cloudflare acquires Deno",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1051 pts / 546 comments",
+      "score": 95,
+      "traffic": "1232 pts / 623 comments",
       "url": "https://deno.com/blog/cloudflare",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Sorry, I'm in a meeting",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "748 pts / 233 comments",
-      "url": "https://iminafleeting.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Our $445M Series D",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "582 pts / 257 comments",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Triple-A Minesweeper",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "607 pts / 113 comments",
+      "score": 92,
+      "traffic": "972 pts / 188 comments",
       "url": "https://minesweeper.mikelacher.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "385 pts / 203 comments",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Typesafe AI raises $870M at $7.5B",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "257 pts / 203 comments",
+      "score": 91,
+      "traffic": "375 pts / 274 comments",
       "url": "https://typesafe.ai/blog/series-ai",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "title": "REA Reverse – Engineer Anything",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "209 pts / 18 comments",
-      "url": "https://carrierexplode.com/",
+      "score": 90,
+      "traffic": "429 pts / 161 comments",
+      "url": "https://rea.tools/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "177 pts / 74 comments",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Computers Cannot Make Decisions",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "99 pts / 51 comments",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "traffic": "77 pts / 60 comments",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "國慶直播",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/115%E5%B9%B4%E5%9C%8B%E6%85%B6%E5%A4%A7%E6%9C%83%E7%9B%B4%E6%92%AD%E3%80%81%E6%B4%BB%E5%8B%95%E6%B5%81%E7%A8%8B%E4%B8%80%E6%AC%A1%E7%9C%8B-%E9%98%B2%E7%81%BD%E5%A3%AB2500%E4%BA%BA%E9%81%8A%E8%A1%8C%E5%B1%95%E7%8F%BE%E5%8F%B0%E7%81%A3%E9%9F%8C%E6%80%A7-000000048.html",
-      "context": "115年國慶大會直播、活動流程一次看 防災士2500人遊行展現台灣韌性"
-    },
-    {
-      "title": "星巴克",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://finance.yahoo.com/markets/stocks/article/3-reasons-why-starbucks-buying-chipotle-would-make-zero-sense-173756540.html",
-      "context": "3 reasons why Starbucks buying Chipotle would make zero sense"
-    },
-    {
-      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "55 pts / 28 comments",
-      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+      "score": 85,
+      "traffic": "159 pts / 38 comments",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "科技執法",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "88 pts / 26 comments",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "psim vs persija jakarta",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Food processing influences metabolism and brain activity",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "31 pts / 15 comments",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How to head into VR without wearing a headset",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "32 pts / 13 comments",
+      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "新北",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.cna.com.tw/news/aloc/202610100095.aspx",
+      "context": "李四川合體朱立倫升旗喊話中央快撥新北捷運經費| 地方"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Sorry, I'm in a meeting",
+      "topic": "Triple-A Minesweeper",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Sorry, I'm in a meeting」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Triple-A Minesweeper」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Sorry, I'm in a meeting」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Triple-A Minesweeper」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Sorry, I'm in a meeting",
-          "url": "https://iminafleeting.com/"
+          "title": "Triple-A Minesweeper",
+          "url": "https://minesweeper.mikelacher.com/"
         }
       ]
     },
     {
-      "topic": "Our $445M Series D",
+      "topic": "Typesafe AI raises $870M at $7.5B",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Our $445M Series D」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Typesafe AI raises $870M at $7.5B」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Our $445M Series D」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Typesafe AI raises $870M at $7.5B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Our $445M Series D",
-          "url": "https://oxide.computer/blog/our-445m-series-d"
+          "title": "Typesafe AI raises $870M at $7.5B",
+          "url": "https://typesafe.ai/blog/series-ai"
         }
       ]
     }
