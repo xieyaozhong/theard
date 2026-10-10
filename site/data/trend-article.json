@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-10-10T02:23:13+08:00",
+  "generated_at": "2026-10-10T08:55:45+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1006 pts / 908 comments",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "893 pts / 537 comments",
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Cloudflare acquires Deno",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "757 pts / 401 comments",
+      "score": 94,
+      "traffic": "1051 pts / 546 comments",
       "url": "https://deno.com/blog/cloudflare",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "888 pts / 174 comments",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Our $445M Series D",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "412 pts / 171 comments",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Sorry, I'm in a meeting",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "516 pts / 172 comments",
+      "score": 92,
+      "traffic": "748 pts / 233 comments",
       "url": "https://iminafleeting.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "title": "Our $445M Series D",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "582 pts / 257 comments",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Triple-A Minesweeper",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "346 pts / 173 comments",
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "traffic": "607 pts / 113 comments",
+      "url": "https://minesweeper.mikelacher.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "385 pts / 203 comments",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "312 pts / 131 comments",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "traffic": "257 pts / 203 comments",
+      "url": "https://typesafe.ai/blog/series-ai",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "123 pts / 62 comments",
-      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+      "traffic": "209 pts / 18 comments",
+      "url": "https://carrierexplode.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "發票",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%B0%8D%E4%B8%AD100%E8%90%AC%E9%9B%B2%E7%AB%AF%E7%99%BC%E7%A5%A8-%E8%B2%A1%E6%94%BF%E9%83%A8%E7%AB%9F-%E4%B8%8D%E7%99%BC%E7%8D%8E%E9%87%91-%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-023000899.html",
-      "context": "對中100萬雲端發票！財政部竟「不發獎金」 原因曝光"
+      "traffic": "99 pts / 51 comments",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "哥斯拉-0.0",
+      "title": "國慶直播",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.cool-style.com.tw/wd2/archives/1349844-%E5%B0%BA%E5%AF%B8%E5%A4%AA%E5%B7%A8%E4%BA%86%E5%90%A7%EF%BC%81%E3%80%8A%E5%93%A5%E5%90%89%E6%8B%89-0-0%E3%80%8B%E6%8E%A8%E5%87%BA%E3%80%8C%E5%93%A5%E7%B8%BD%E7%88%86%E7%B1%B3%E8%8A%B1%E6%A1%B6",
-      "context": "尺寸太巨了吧！《哥吉拉-0.0》推出「哥總爆米花桶」，還有原子吐息飲料瓶！"
+      "url": "https://tw.news.yahoo.com/115%E5%B9%B4%E5%9C%8B%E6%85%B6%E5%A4%A7%E6%9C%83%E7%9B%B4%E6%92%AD%E3%80%81%E6%B4%BB%E5%8B%95%E6%B5%81%E7%A8%8B%E4%B8%80%E6%AC%A1%E7%9C%8B-%E9%98%B2%E7%81%BD%E5%A3%AB2500%E4%BA%BA%E9%81%8A%E8%A1%8C%E5%B1%95%E7%8F%BE%E5%8F%B0%E7%81%A3%E9%9F%8C%E6%80%A7-000000048.html",
+      "context": "115年國慶大會直播、活動流程一次看 防災士2500人遊行展現台灣韌性"
     },
     {
-      "title": "大 樂 透 中秋 加碼",
+      "title": "星巴克",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F%E9%96%8B%E7%8D%8E%E4%BA%86%EF%BC%81109%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E3%80%81%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC%E7%99%BE%E8%90%AC%E7%8D%8E%E3%80%815000%E5%85%83%E7%B4%85%E5%8C%85%E5%87%BA%E7%88%90-100%E7%B5%84100%E8%90%AC%E5%85%83%E5%89%A930%E7%B5%84-%E5%A4%A7%E6%A8%82%E9%80%8F%E7%9B%B4%E6%92%AD%E3%80%81%E4%B8%AD%E7%8D%8E%E6%80%8E%E9%BA%BC%E7%9C%8B%E3%80%81%E5%A6%82%E4%BD%95%E9%A0%98%E4%B8%80%E6%AC%A1%E7%9C%8B-140841321.html",
-      "context": "大樂透開獎了！10/9中獎號碼、中秋加碼百萬獎、5000元紅包出爐100組100萬元剩30組大樂透直播、中獎怎麼看、如何領一次看"
+      "url": "https://finance.yahoo.com/markets/stocks/article/3-reasons-why-starbucks-buying-chipotle-would-make-zero-sense-173756540.html",
+      "context": "3 reasons why Starbucks buying Chipotle would make zero sense"
+    },
+    {
+      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "55 pts / 28 comments",
+      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "科技執法",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Why isn't the industry freaking out about DeepSeek 4.1 Flash?」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Why isn't the industry freaking out about DeepSeek 4.1 Flash?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/"
-        }
-      ]
-    },
-    {
-      "topic": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Man discovers his parents' coffee machine used 1TB of data in 10 days」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Man discovers his parents' coffee machine used 1TB of data in 10 days」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/"
-        }
-      ]
-    },
-    {
       "topic": "Cloudflare acquires Deno",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Cloudflare acquires Deno」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "Cloudflare acquires Deno",
           "url": "https://deno.com/blog/cloudflare"
+        }
+      ]
+    },
+    {
+      "topic": "Sorry, I'm in a meeting",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Sorry, I'm in a meeting」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Sorry, I'm in a meeting」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Sorry, I'm in a meeting",
+          "url": "https://iminafleeting.com/"
+        }
+      ]
+    },
+    {
+      "topic": "Our $445M Series D",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Our $445M Series D」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Our $445M Series D」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Our $445M Series D",
+          "url": "https://oxide.computer/blog/our-445m-series-d"
         }
       ]
     }
