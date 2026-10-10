@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-10-10T17:55:33+08:00",
+  "generated_at": "2026-10-11T01:21:50+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Cloudflare acquires Deno",
-      "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1232 pts / 623 comments",
-      "url": "https://deno.com/blog/cloudflare",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Triple-A Minesweeper",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "972 pts / 188 comments",
+      "score": 93,
+      "traffic": "1234 pts / 244 comments",
       "url": "https://minesweeper.mikelacher.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "375 pts / 274 comments",
-      "url": "https://typesafe.ai/blog/series-ai",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "REA Reverse – Engineer Anything",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "429 pts / 161 comments",
+      "score": 91,
+      "traffic": "592 pts / 258 comments",
       "url": "https://rea.tools/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "177 pts / 74 comments",
+      "score": 89,
+      "traffic": "326 pts / 164 comments",
       "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Computers Cannot Make Decisions",
+      "title": "`123456' password used in Danish CPR data breach",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "77 pts / 60 comments",
-      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "score": 89,
+      "traffic": "317 pts / 172 comments",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "title": "Bitwarden Dual License Model",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "159 pts / 38 comments",
-      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "score": 88,
+      "traffic": "187 pts / 137 comments",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Can you use autoregressive diffusion to generate market data?",
+      "title": "I would like the value of my home to rise, while my property taxes fall",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "88 pts / 26 comments",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "score": 88,
+      "traffic": "94 pts / 199 comments",
+      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "psim vs persija jakarta",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "151 pts / 80 comments",
+      "url": "https://github.com/rociiu/talorys",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "曼聯 對 熱刺",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E5%8F%B0%E7%81%A3%E9%81%8B%E5%BD%A9ai%E5%88%86%E6%9E%90-%E8%8B%B1%E6%A0%BC%E8%98%AD%E8%B6%85%E7%B4%9A%E8%81%AF%E8%B3%BD%E6%9B%BC%E8%81%AFvs%E6%89%98%E7%89%B9%E7%B4%8D%E5%A7%86%E7%86%B1%E5%88%BA-ai%E9%A0%90%E6%B8%AC-%E6%9B%BC%E8%81%AF%E4%B8%BB%E5%A0%B4%E6%9C%89%E6%9C%9B%E6%AD%A2%E8%B7%8C-3-070724106.html",
+      "context": "台灣運彩AI分析》英格蘭超級聯賽曼聯vs托特納姆熱刺AI預測：曼聯主場有望止跌！3.5小分機率更高"
+    },
+    {
+      "title": "barcelona vs getafe",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.365scores.com/es/news/alineacion-confirmada-barcelona-getafe/",
+      "context": "Alineación confirmada del Barcelona vs Getafe: Gabriel Jesús debuta como titular"
     },
     {
-      "title": "Food processing influences metabolism and brain activity",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "31 pts / 15 comments",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "How to head into VR without wearing a headset",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "32 pts / 13 comments",
-      "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "新北",
+      "title": "man utd vs tottenham",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.cna.com.tw/news/aloc/202610100095.aspx",
-      "context": "李四川合體朱立倫升旗喊話中央快撥新北捷運經費| 地方"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34738835",
+      "context": "Michael Carrick press conference recap ahead of Manchester United vs Tottenham"
+    },
+    {
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "64 pts / 8 comments",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Grieving the Loss of Details",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "45 pts / 9 comments",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Cloudflare acquires Deno",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Cloudflare acquires Deno」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Cloudflare acquires Deno」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Cloudflare acquires Deno",
-          "url": "https://deno.com/blog/cloudflare"
-        }
-      ]
-    },
-    {
       "topic": "Triple-A Minesweeper",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Triple-A Minesweeper」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Typesafe AI raises $870M at $7.5B",
+      "topic": "REA Reverse – Engineer Anything",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Typesafe AI raises $870M at $7.5B」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「REA Reverse – Engineer Anything」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Typesafe AI raises $870M at $7.5B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「REA Reverse – Engineer Anything」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Typesafe AI raises $870M at $7.5B",
-          "url": "https://typesafe.ai/blog/series-ai"
+          "title": "REA Reverse – Engineer Anything",
+          "url": "https://rea.tools/"
+        }
+      ]
+    },
+    {
+      "topic": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Telegram Desktop vulnerability allowed any user's file to be stolen」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Telegram Desktop vulnerability allowed any user's file to be stolen」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+          "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/"
         }
       ]
     }
