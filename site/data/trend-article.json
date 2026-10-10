@@ -1,65 +1,57 @@
 {
-  "generated_at": "2026-10-11T01:21:50+08:00",
+  "generated_at": "2026-10-11T05:48:13+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Triple-A Minesweeper",
+      "title": "Grieving the loss of details",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1234 pts / 244 comments",
-      "url": "https://minesweeper.mikelacher.com/",
+      "score": 90,
+      "traffic": "281 pts / 217 comments",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "REA Reverse – Engineer Anything",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "592 pts / 258 comments",
-      "url": "https://rea.tools/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "title": "Apple/macOS removed from official Unix registry",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "326 pts / 164 comments",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "`123456' password used in Danish CPR data breach",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "317 pts / 172 comments",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Bitwarden Dual License Model",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "187 pts / 137 comments",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I would like the value of my home to rise, while my property taxes fall",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "94 pts / 199 comments",
-      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "traffic": "218 pts / 194 comments",
+      "url": "https://www.opengroup.org//openbrand/register/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "151 pts / 80 comments",
+      "score": 88,
+      "traffic": "218 pts / 110 comments",
       "url": "https://github.com/rociiu/talorys",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "曼聯 對 熱刺",
+      "title": "2D Vehicles",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "236 pts / 52 comments",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Knuth reward check",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "111 pts / 43 comments",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "136 pts / 28 comments",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "曼聯",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
@@ -67,49 +59,57 @@
       "context": "台灣運彩AI分析》英格蘭超級聯賽曼聯vs托特納姆熱刺AI預測：曼聯主場有望止跌！3.5小分機率更高"
     },
     {
-      "title": "barcelona vs getafe",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.365scores.com/es/news/alineacion-confirmada-barcelona-getafe/",
-      "context": "Alineación confirmada del Barcelona vs Getafe: Gabriel Jesús debuta como titular"
-    },
-    {
-      "title": "man utd vs tottenham",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34738835",
-      "context": "Michael Carrick press conference recap ahead of Manchester United vs Tottenham"
-    },
-    {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "title": "The Lightbulb Computer",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "64 pts / 8 comments",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 84,
+      "traffic": "112 pts / 26 comments",
+      "url": "https://lightbulbcomputer.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Grieving the Loss of Details",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "45 pts / 9 comments",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "score": 84,
+      "traffic": "84 pts / 49 comments",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "82 pts / 25 comments",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "47 pts / 34 comments",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "梅艷芳",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://view.inews.qq.com/a/20261010A0CTDO00",
+      "context": "港媒曝梅艳芳骨灰被盗近三个月，目前仍未寻回，歌迷会呼吁市民提供线索"
     }
   ],
   "articles": [
     {
-      "topic": "Triple-A Minesweeper",
+      "topic": "Grieving the loss of details",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Triple-A Minesweeper」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Grieving the loss of details」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Triple-A Minesweeper」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Grieving the loss of details」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Triple-A Minesweeper",
-          "url": "https://minesweeper.mikelacher.com/"
+          "title": "Grieving the loss of details",
+          "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/"
         }
       ]
     },
     {
-      "topic": "REA Reverse – Engineer Anything",
+      "topic": "Apple/macOS removed from official Unix registry",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「REA Reverse – Engineer Anything」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Apple/macOS removed from official Unix registry」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「REA Reverse – Engineer Anything」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Apple/macOS removed from official Unix registry」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "REA Reverse – Engineer Anything",
-          "url": "https://rea.tools/"
+          "title": "Apple/macOS removed from official Unix registry",
+          "url": "https://www.opengroup.org//openbrand/register/"
         }
       ]
     },
     {
-      "topic": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "topic": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Telegram Desktop vulnerability allowed any user's file to be stolen」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Talorys – A self-hosted personal AI agent on Cloudflare's free tier」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Telegram Desktop vulnerability allowed any user's file to be stolen」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Talorys – A self-hosted personal AI agent on Cloudflare's free tier」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-          "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/"
+          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys"
         }
       ]
     }
