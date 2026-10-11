@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-11T20:57:18+08:00",
+  "generated_at": "2026-10-12T03:34:45+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "2D Vehicles",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "516 pts / 105 comments",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A city-building game in which the city would prefer you didn't",
+      "title": "Terence Tao: Math 2.0 [pdf]",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "397 pts / 132 comments",
-      "url": "https://housing.over.pizza/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "中職",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5602849",
-      "context": "中職》獅第4棒換人奏效先馳得點 兄弟2出局攻勢瞬間追平"
-    },
-    {
-      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "266 pts / 99 comments",
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Build your own decision model",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "361 pts / 79 comments",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "IRCv3",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "129 pts / 111 comments",
-      "url": "https://ircv3.net/",
+      "traffic": "192 pts / 234 comments",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "LineageOS 24.0",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "187 pts / 49 comments",
+      "score": 89,
+      "traffic": "356 pts / 136 comments",
       "url": "https://lineageos.org/Changelog-32/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "162 pts / 51 comments",
-      "url": "https://nitter.net",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "金",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.tvbs.com.tw/local/4034680",
-      "context": "永和女拿假金換真金 銀樓熔斷後「金色變銀色」驚覺被騙了"
-    },
-    {
-      "title": "f1 線上看",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.skysports.com/f1/live-blog/13597657/f1-singapore-gp-live-race-updates-results-stream-highlights-from-17th-round-of-2026-formula-1-season-at-marina-bay-circuit",
-      "context": "F1 Singapore GP LIVE: Race updates, results, stream, highlights from 17th round of 2026 Formula 1 season at Marina Bay Circuit"
-    },
-    {
       "title": "I paid people to try and follow my README",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "62 pts / 35 comments",
+      "score": 89,
+      "traffic": "320 pts / 171 comments",
       "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "謝雷",
+      "title": "飛機",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "177 pts / 105 comments",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "97 pts / 49 comments",
+      "url": "https://nanolathe.gg",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "111 pts / 52 comments",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "沈伯洋 民 調",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89vs%E6%B2%88%E4%BC%AF%E6%B4%8B%E6%9C%80%E6%96%B0%E6%B0%91%E8%AA%BF%E5%87%BA%E7%88%90-%E5%A4%A7%E5%AE%89%E5%8D%80%E8%A1%97%E8%A8%AA%E7%B5%90%E6%9E%9C%E8%B6%85%E6%84%8F%E5%A4%96-%E5%B7%AE%E8%B7%9D%E6%9B%9D%E5%85%89-141551677.html",
+      "context": "蔣萬安VS沈伯洋最新民調出爐！大安區街訪結果超意外 差距曝光"
+    },
+    {
+      "title": "風險",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "104 pts / 25 comments",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How to Build Wealth as a Career Person",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "70 pts / 58 comments",
+      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "吉布地",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://news.ebc.net.tw/news/world/575254",
+      "context": "國際重災！已109死 含多名孩童"
     }
   ],
   "articles": [
     {
-      "topic": "2D Vehicles",
+      "topic": "Terence Tao: Math 2.0 [pdf]",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「2D Vehicles」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Terence Tao: Math 2.0 [pdf]」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「2D Vehicles」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Terence Tao: Math 2.0 [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "2D Vehicles",
-          "url": "https://patkerr.co.uk/2d-vehicles/"
+          "title": "Terence Tao: Math 2.0 [pdf]",
+          "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
         }
       ]
     },
     {
-      "topic": "A city-building game in which the city would prefer you didn't",
+      "topic": "LineageOS 24.0",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「A city-building game in which the city would prefer you didn't」開始升溫，我們真正該看的不是熱度",
+      "title": "當「LineageOS 24.0」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A city-building game in which the city would prefer you didn't」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「LineageOS 24.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A city-building game in which the city would prefer you didn't",
-          "url": "https://housing.over.pizza/"
+          "title": "LineageOS 24.0",
+          "url": "https://lineageos.org/Changelog-32/"
         }
       ]
     },
     {
-      "topic": "中職",
+      "topic": "I paid people to try and follow my README",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「中職」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I paid people to try and follow my README」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「中職」推到更高的注意力位置。中職》獅第4棒換人奏效先馳得點 兄弟2出局攻勢瞬間追平。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I paid people to try and follow my README」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "中職",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5602849"
+          "source": "HACKER NEWS",
+          "title": "I paid people to try and follow my README",
+          "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"
         }
       ]
     }
