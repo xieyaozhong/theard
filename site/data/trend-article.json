@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-11T05:48:13+08:00",
+  "generated_at": "2026-10-11T13:53:25+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Grieving the loss of details",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "281 pts / 217 comments",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Apple/macOS removed from official Unix registry",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "218 pts / 194 comments",
-      "url": "https://www.opengroup.org//openbrand/register/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "218 pts / 110 comments",
-      "url": "https://github.com/rociiu/talorys",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "2D Vehicles",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "236 pts / 52 comments",
+      "score": 89,
+      "traffic": "410 pts / 92 comments",
       "url": "https://patkerr.co.uk/2d-vehicles/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Knuth reward check",
+      "title": "A city-building game in which the city would prefer you didn't",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "111 pts / 43 comments",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "score": 88,
+      "traffic": "260 pts / 89 comments",
+      "url": "https://housing.over.pizza/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "136 pts / 28 comments",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "曼聯",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E5%8F%B0%E7%81%A3%E9%81%8B%E5%BD%A9ai%E5%88%86%E6%9E%90-%E8%8B%B1%E6%A0%BC%E8%98%AD%E8%B6%85%E7%B4%9A%E8%81%AF%E8%B3%BD%E6%9B%BC%E8%81%AFvs%E6%89%98%E7%89%B9%E7%B4%8D%E5%A7%86%E7%86%B1%E5%88%BA-ai%E9%A0%90%E6%B8%AC-%E6%9B%BC%E8%81%AF%E4%B8%BB%E5%A0%B4%E6%9C%89%E6%9C%9B%E6%AD%A2%E8%B7%8C-3-070724106.html",
-      "context": "台灣運彩AI分析》英格蘭超級聯賽曼聯vs托特納姆熱刺AI預測：曼聯主場有望止跌！3.5小分機率更高"
     },
     {
       "title": "The Lightbulb Computer",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "112 pts / 26 comments",
+      "score": 88,
+      "traffic": "330 pts / 50 comments",
       "url": "https://lightbulbcomputer.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "84 pts / 49 comments",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "score": 87,
+      "traffic": "206 pts / 90 comments",
+      "url": "https://wallhop.io/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Build your own decision model",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "200 pts / 43 comments",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why DuckDB 2.0 is faster",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 25 comments",
+      "score": 86,
+      "traffic": "184 pts / 58 comments",
       "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "title": "林俊憲",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Nix wrote half of my debugger",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "47 pts / 34 comments",
-      "url": "https://epoch.ai/publications/innovationeval",
+      "score": 85,
+      "traffic": "166 pts / 34 comments",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "梅艷芳",
+      "title": "日本職棒季後賽",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://view.inews.qq.com/a/20261010A0CTDO00",
-      "context": "港媒曝梅艳芳骨灰被盗近三个月，目前仍未寻回，歌迷会呼吁市民提供线索"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "林昀儒",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5602622",
+      "context": "WTT大滿貫》林昀儒7局激戰力退巴西名將卡德拉諾 晉級今晚冠軍戰"
+    },
+    {
+      "title": "wtt",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.worldtabletennis.com/description?artId=6689",
+      "context": "Lim Jonghoon And Oh Junsung Win China Smash 2026 Men's Doubles Title"
+    },
+    {
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "54 pts / 5 comments",
+      "url": "https://github.com/othermod/PSPi-Version-6",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Grieving the loss of details",
+      "topic": "2D Vehicles",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Grieving the loss of details」開始升溫，我們真正該看的不是熱度",
+      "title": "當「2D Vehicles」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Grieving the loss of details」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「2D Vehicles」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Grieving the loss of details",
-          "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/"
+          "title": "2D Vehicles",
+          "url": "https://patkerr.co.uk/2d-vehicles/"
         }
       ]
     },
     {
-      "topic": "Apple/macOS removed from official Unix registry",
+      "topic": "A city-building game in which the city would prefer you didn't",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Apple/macOS removed from official Unix registry」開始升溫，我們真正該看的不是熱度",
+      "title": "當「A city-building game in which the city would prefer you didn't」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Apple/macOS removed from official Unix registry」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「A city-building game in which the city would prefer you didn't」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Apple/macOS removed from official Unix registry",
-          "url": "https://www.opengroup.org//openbrand/register/"
+          "title": "A city-building game in which the city would prefer you didn't",
+          "url": "https://housing.over.pizza/"
         }
       ]
     },
     {
-      "topic": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "topic": "The Lightbulb Computer",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Talorys – A self-hosted personal AI agent on Cloudflare's free tier」開始升溫，我們真正該看的不是熱度",
+      "title": "當「The Lightbulb Computer」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Talorys – A self-hosted personal AI agent on Cloudflare's free tier」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「The Lightbulb Computer」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://github.com/rociiu/talorys"
+          "title": "The Lightbulb Computer",
+          "url": "https://lightbulbcomputer.com/"
         }
       ]
     }
