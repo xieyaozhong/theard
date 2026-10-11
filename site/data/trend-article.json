@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-11T13:53:25+08:00",
+  "generated_at": "2026-10-11T20:57:18+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "2D Vehicles",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "410 pts / 92 comments",
+      "score": 90,
+      "traffic": "516 pts / 105 comments",
       "url": "https://patkerr.co.uk/2d-vehicles/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A city-building game in which the city would prefer you didn't",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "260 pts / 89 comments",
+      "score": 89,
+      "traffic": "397 pts / 132 comments",
       "url": "https://housing.over.pizza/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Lightbulb Computer",
-      "source": "HACKER NEWS",
+      "title": "中職",
+      "source": "GOOGLE TRENDS / TW",
       "score": 88,
-      "traffic": "330 pts / 50 comments",
-      "url": "https://lightbulbcomputer.com/",
-      "context": "High-engagement technology discussion"
+      "traffic": "5000+",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5602849",
+      "context": "中職》獅第4棒換人奏效先馳得點 兄弟2出局攻勢瞬間追平"
     },
     {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "206 pts / 90 comments",
-      "url": "https://wallhop.io/",
+      "score": 88,
+      "traffic": "266 pts / 99 comments",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Build your own decision model",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "200 pts / 43 comments",
+      "score": 88,
+      "traffic": "361 pts / 79 comments",
       "url": "https://nishtahir.com/build-your-own-decision-model/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why DuckDB 2.0 is faster",
+      "title": "IRCv3",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "129 pts / 111 comments",
+      "url": "https://ircv3.net/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "LineageOS 24.0",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "184 pts / 58 comments",
-      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "traffic": "187 pts / 49 comments",
+      "url": "https://lineageos.org/Changelog-32/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "林俊憲",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "162 pts / 51 comments",
+      "url": "https://nitter.net",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "金",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.tvbs.com.tw/local/4034680",
+      "context": "永和女拿假金換真金 銀樓熔斷後「金色變銀色」驚覺被騙了"
+    },
+    {
+      "title": "f1 線上看",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.skysports.com/f1/live-blog/13597657/f1-singapore-gp-live-race-updates-results-stream-highlights-from-17th-round-of-2026-formula-1-season-at-marina-bay-circuit",
+      "context": "F1 Singapore GP LIVE: Race updates, results, stream, highlights from 17th round of 2026 Formula 1 season at Marina Bay Circuit"
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "62 pts / 35 comments",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "謝雷",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
-    },
-    {
-      "title": "Nix wrote half of my debugger",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "166 pts / 34 comments",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "日本職棒季後賽",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "林昀儒",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5602622",
-      "context": "WTT大滿貫》林昀儒7局激戰力退巴西名將卡德拉諾 晉級今晚冠軍戰"
-    },
-    {
-      "title": "wtt",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.worldtabletennis.com/description?artId=6689",
-      "context": "Lim Jonghoon And Oh Junsung Win China Smash 2026 Men's Doubles Title"
-    },
-    {
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "54 pts / 5 comments",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "The Lightbulb Computer",
+      "topic": "中職",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「The Lightbulb Computer」開始升溫，我們真正該看的不是熱度",
+      "title": "當「中職」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The Lightbulb Computer」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「中職」推到更高的注意力位置。中職》獅第4棒換人奏效先馳得點 兄弟2出局攻勢瞬間追平。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "The Lightbulb Computer",
-          "url": "https://lightbulbcomputer.com/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "中職",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5602849"
         }
       ]
     }
