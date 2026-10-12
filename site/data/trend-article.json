@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-12T08:36:04+08:00",
+  "generated_at": "2026-10-12T18:57:52+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "The gap in shared understanding of LLM capability is widening",
+      "title": "Terence Tao: Math 2.0 [pdf]",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "206 pts / 331 comments",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 92,
+      "traffic": "411 pts / 433 comments",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Total Annihilation, rebuilt for modern computers",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "332 pts / 144 comments",
+      "score": 91,
+      "traffic": "535 pts / 206 comments",
       "url": "https://nanolathe.gg",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "title": "Fingerprints are the new cookies",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "231 pts / 31 comments",
-      "url": "https://theonion.com/archivehunt/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "釀酒人 對 道奇",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/%E5%8E%BB%E5%B9%B4%E8%A2%AB%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3-%E4%BA%BA%E6%89%93%E5%88%B0%E7%B5%95%E6%9C%9B-%E9%87%80%E9%85%92%E4%BA%BA%E4%BB%8A%E5%B9%B4%E7%B5%82%E6%96%BC%E7%AD%89%E5%88%B0-%E5%A5%BD%E6%B6%88%E6%81%AF-062505426.html",
-      "context": "去年被大谷翔平一人打到絕望！釀酒人今年終於等到「好消息」"
-    },
-    {
-      "title": "Cartographers of North Korea (2019)",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "165 pts / 28 comments",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "10月連假",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/2027%E6%94%BE%E5%81%87121%E5%A4%A99%E5%A4%A7%E9%80%A3%E5%81%87-%E6%98%A5%E7%AF%80%E9%80%A3%E4%BC%9111%E5%A4%A9%E6%94%BB%E7%95%A5%E6%9B%9D%E5%85%89-071300707.html",
-      "context": "2027放假121天9大連假 春節連休11天攻略曝光"
-    },
-    {
-      "title": "Google Data Centers around the world",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "39 pts / 33 comments",
-      "url": "https://datacenters.google/locations/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Chapter 1 of Ways of Seeing by John Berger",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "67 pts / 11 comments",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Recursive self-improvement through collective intelligence",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "39 pts / 13 comments",
-      "url": "https://pub.sakana.ai/mass/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Fingerprints Are the New Cookies",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "38 pts / 15 comments",
+      "score": 90,
+      "traffic": "405 pts / 206 comments",
       "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "日本股市",
+      "title": "鄭浩均",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6327573001&PU=0005",
-      "context": "《日股》運動之日 日本股市12日休市"
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.sports.yahoo.com/news/%E5%AD%A3%E5%BE%8C%E6%8C%91%E6%88%B0%E8%B3%BD-%E7%8D%85%E8%B1%A1%E7%94%9F%E6%AD%BB%E6%88%B0%E6%90%B6%E5%8F%B0%E7%81%A3%E5%A4%A7%E8%B3%BD%E9%96%80%E7%A5%A8-%E7%8D%85%E5%B8%9D%E8%8A%AC-%E5%8B%9D%E9%A8%8E%E5%A3%AB%E7%A2%BA%E5%AE%9A%E4%B8%8D%E5%87%BA%E8%B3%BD-095400403.html",
+      "context": "季後挑戰賽／獅象生死戰搶台灣大賽門票 獅帝芬、勝騎士確定不出賽"
     },
     {
-      "title": "魏哲家",
+      "title": "Cartographers of North Korea (2019)",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "267 pts / 49 comments",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "129 pts / 58 comments",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Postgres isn't slow, your storage is",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "105 pts / 77 comments",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Whatever became of holography? (2011)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "137 pts / 67 comments",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "群 創",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%80%A3%E5%81%87%E5%BE%8C%E6%8C%AB%E5%92%A7%E7%AD%89-%E7%BE%8E%E8%82%A13%E6%8C%87%E6%95%B8%E6%94%B6%E9%BB%91-%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%82%A1%E9%BD%8A%E4%B8%8B%E6%AE%BA-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C3-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E5%A4%B1%E5%AE%884%E8%90%AC9-230500516.html",
-      "context": "台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "光 通訊",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=0621d6f6-5dfa-4045-98fe-079a8ba31903",
+      "context": "AI光學元件缺到2029年初？Lumentum產能全賣光- 新聞"
+    },
+    {
+      "title": "Calculus with Julia",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "141 pts / 14 comments",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "李彥秀",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.pts.org.tw/article/830930",
+      "context": "石崇良立院報告毒品減害專案 稱該計畫絕非鼓勵吸毒"
     }
   ],
   "articles": [
     {
-      "topic": "The gap in shared understanding of LLM capability is widening",
+      "topic": "Terence Tao: Math 2.0 [pdf]",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「The gap in shared understanding of LLM capability is widening」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Terence Tao: Math 2.0 [pdf]」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The gap in shared understanding of LLM capability is widening」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Terence Tao: Math 2.0 [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,8 +131,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The gap in shared understanding of LLM capability is widening",
-          "url": "https://twitter.com/karpathy/status/2109361546505966046"
+          "title": "Terence Tao: Math 2.0 [pdf]",
+          "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "topic": "Fingerprints are the new cookies",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「So, You’d Like To Sell Your Print Issues Of The Onion?」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Fingerprints are the new cookies」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「So, You’d Like To Sell Your Print Issues Of The Onion?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Fingerprints are the new cookies」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-          "url": "https://theonion.com/archivehunt/"
+          "title": "Fingerprints are the new cookies",
+          "url": "https://royfish.dev/fingerprints-are-the-new-cookies"
         }
       ]
     }
