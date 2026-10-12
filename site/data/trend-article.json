@@ -1,73 +1,89 @@
 {
-  "generated_at": "2026-10-12T18:57:52+08:00",
+  "generated_at": "2026-10-13T05:17:49+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Terence Tao: Math 2.0 [pdf]",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "411 pts / 433 comments",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "traffic": "280 pts / 511 comments",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "535 pts / 206 comments",
-      "url": "https://nanolathe.gg",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Fingerprints are the new cookies",
+      "title": "GLM-Legal",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "405 pts / 206 comments",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "traffic": "342 pts / 185 comments",
+      "url": "https://z.ai/blog/glm-legal",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "鄭浩均",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.sports.yahoo.com/news/%E5%AD%A3%E5%BE%8C%E6%8C%91%E6%88%B0%E8%B3%BD-%E7%8D%85%E8%B1%A1%E7%94%9F%E6%AD%BB%E6%88%B0%E6%90%B6%E5%8F%B0%E7%81%A3%E5%A4%A7%E8%B3%BD%E9%96%80%E7%A5%A8-%E7%8D%85%E5%B8%9D%E8%8A%AC-%E5%8B%9D%E9%A8%8E%E5%A3%AB%E7%A2%BA%E5%AE%9A%E4%B8%8D%E5%87%BA%E8%B3%BD-095400403.html",
-      "context": "季後挑戰賽／獅象生死戰搶台灣大賽門票 獅帝芬、勝騎士確定不出賽"
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "330 pts / 195 comments",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Cartographers of North Korea (2019)",
+      "title": "Citroen revives the 2CV for an electric age",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "220 pts / 246 comments",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Muse Wonder",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "432 pts / 217 comments",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "233 pts / 195 comments",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "287 pts / 119 comments",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "267 pts / 49 comments",
-      "url": "https://cartographers-nk.wonyoung.so/",
+      "traffic": "197 pts / 74 comments",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Type-safe HTML templating in Zig",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "129 pts / 58 comments",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "traffic": "201 pts / 52 comments",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Postgres isn't slow, your storage is",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "105 pts / 77 comments",
-      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-      "context": "High-engagement technology discussion"
+      "title": "釀酒人 對 道奇",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.sports.yahoo.com/news/mlb-%E6%98%8E%E6%8E%A8%E5%B1%B1%E6%9C%AC%E7%94%B1%E4%BC%B8%E9%81%BF%E9%80%A3%E6%95%97-%E9%81%93%E5%A5%87%E4%B8%BB%E5%B8%A5-%E4%BB%96%E6%98%AF%E5%AE%8C%E5%85%A8%E4%BF%A1%E4%BB%BB%E7%9A%84%E6%8A%95%E6%89%8B-063806883.html",
+      "context": "MLB/明推山本由伸避連敗 道奇主帥：他是完全信任的投手"
     },
     {
-      "title": "Whatever became of holography? (2011)",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "137 pts / 67 comments",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "群 創",
+      "title": "費半指數",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
@@ -75,41 +91,25 @@
       "context": ""
     },
     {
-      "title": "光 通訊",
+      "title": "科技 執法",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=0621d6f6-5dfa-4045-98fe-079a8ba31903",
-      "context": "AI光學元件缺到2029年初？Lumentum產能全賣光- 新聞"
-    },
-    {
-      "title": "Calculus with Julia",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "141 pts / 14 comments",
-      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "李彥秀",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.pts.org.tw/article/830930",
-      "context": "石崇良立院報告毒品減害專案 稱該計畫絕非鼓勵吸毒"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Terence Tao: Math 2.0 [pdf]",
+      "topic": "Hackers activate automatic defrosting in supermarket fridges across Europe",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Terence Tao: Math 2.0 [pdf]」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Hackers activate automatic defrosting in supermarket fridges across Europe」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Terence Tao: Math 2.0 [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Hackers activate automatic defrosting in supermarket fridges across Europe」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Terence Tao: Math 2.0 [pdf]",
-          "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
+          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
         }
       ]
     },
     {
-      "topic": "Total Annihilation, rebuilt for modern computers",
+      "topic": "GLM-Legal",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Total Annihilation, rebuilt for modern computers」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GLM-Legal」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Total Annihilation, rebuilt for modern computers」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GLM-Legal」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Total Annihilation, rebuilt for modern computers",
-          "url": "https://nanolathe.gg"
+          "title": "GLM-Legal",
+          "url": "https://z.ai/blog/glm-legal"
         }
       ]
     },
     {
-      "topic": "Fingerprints are the new cookies",
+      "topic": "Codex CLI installs a persistent, self-updating background daemon by default",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Fingerprints are the new cookies」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Codex CLI installs a persistent, self-updating background daemon by default」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Fingerprints are the new cookies」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Codex CLI installs a persistent, self-updating background daemon by default」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Fingerprints are the new cookies",
-          "url": "https://royfish.dev/fingerprints-are-the-new-cookies"
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "url": "https://github.com/openai/codex/issues/48195"
         }
       ]
     }
