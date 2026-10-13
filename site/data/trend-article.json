@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-10-14T00:58:37+08:00",
+  "generated_at": "2026-10-14T06:49:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "Gemini 4 Argon",
+      "source": "HACKER NEWS",
+      "score": 94,
+      "traffic": "867 pts / 680 comments",
+      "url": "https://deepmind.google/models/gemini/",
+      "context": "High-engagement technology discussion"
+    },
+    {
       "title": "Apple HomeView",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "399 pts / 515 comments",
+      "score": 94,
+      "traffic": "614 pts / 746 comments",
       "url": "https://www.apple.com/apple-homeview/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "442 pts / 435 comments",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "511 pts / 297 comments",
+      "score": 92,
+      "traffic": "640 pts / 361 comments",
       "url": "https://github.com/rust-lang/rust/issues/164250",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Gemini 4 Argon",
+      "title": "Firefox Enterprise",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "587 pts / 247 comments",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "324 pts / 276 comments",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "240 pts / 199 comments",
-      "url": "https://deepmind.google/models/gemini/",
+      "traffic": "235 pts / 220 comments",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "New Apple TV 4K",
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "128 pts / 234 comments",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "traffic": "159 pts / 227 comments",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "296 pts / 69 comments",
-      "url": "https://eg2.haku.sh/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "165 pts / 67 comments",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "apple tv 4k",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "context": "Apple unveils the new Apple TV 4K, supercharged by Siri AI"
-    },
-    {
-      "title": "美國 期中 選舉",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89-%E5%85%A9%E9%99%A2%E5%85%A8%E8%BC%B8-%E7%BE%8E%E8%82%A1%E6%81%90%E6%9A%B4%E8%B7%8C10-%E9%98%AE%E6%85%95%E9%A9%8A%E7%BF%BB%E6%AD%B7%E5%8F%B23%E7%B5%84%E5%90%88%E6%95%B8%E6%93%9A-%E5%8F%8D%E8%80%8C%E6%BC%B2%E6%9C%80%E5%A4%9A-120516746.html",
-      "context": "川普期中選舉「兩院全輸」，美股恐暴跌10%？阮慕驊翻歷史3組合數據：反而漲最多"
     },
     {
       "title": "Thunderbird for iOS",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "95 pts / 30 comments",
+      "score": 88,
+      "traffic": "288 pts / 118 comments",
       "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "70 pts / 35 comments",
+      "score": 88,
+      "traffic": "213 pts / 136 comments",
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "群創光電",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "173 pts / 59 comments",
+      "url": "https://guitoro.com/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Worlds More Habitable Than Earth? They're Out There",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "30 pts / 31 comments",
-      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
-      "context": "High-engagement technology discussion"
+      "title": "道瓊工業平均指數",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5605358",
+      "context": "美股收盤》費半連5黑！晶片股疲弱 台積電ADR逆勢收紅"
     }
   ],
   "articles": [
     {
-      "topic": "Apple HomeView",
+      "topic": "Gemini 4 Argon",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Gemini 4 Argon」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Gemini 4 Argon」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Gemini 4 Argon",
+          "url": "https://deepmind.google/models/gemini/"
+        }
+      ]
+    },
+    {
+      "topic": "Apple HomeView",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Apple HomeView」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -137,51 +173,15 @@
       ]
     },
     {
-      "topic": "11 year old unsoundness bugs found in Rust borrow checker",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「11 year old unsoundness bugs found in Rust borrow checker」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「11 year old unsoundness bugs found in Rust borrow checker」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "11 year old unsoundness bugs found in Rust borrow checker",
-          "url": "https://github.com/rust-lang/rust/issues/164250"
-        }
-      ]
-    },
-    {
-      "topic": "Gemini 4 Argon",
+      "topic": "Redesigning source control at Anthropic",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Gemini 4 Argon」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Redesigning source control at Anthropic」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gemini 4 Argon」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Redesigning source control at Anthropic」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Gemini 4 Argon",
-          "url": "https://deepmind.google/models/gemini/"
+          "title": "Redesigning source control at Anthropic",
+          "url": "https://www.anthropic.com/engineering/redesigning-source-control"
         }
       ]
     }
