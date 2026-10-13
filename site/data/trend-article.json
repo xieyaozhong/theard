@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-13T14:50:32+08:00",
+  "generated_at": "2026-10-14T00:58:37+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "title": "Apple HomeView",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "601 pts / 760 comments",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 92,
+      "traffic": "399 pts / 515 comments",
+      "url": "https://www.apple.com/apple-homeview/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GLM-Legal",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "519 pts / 298 comments",
-      "url": "https://z.ai/blog/glm-legal",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A Modern Web App in C",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "503 pts / 213 comments",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "traffic": "511 pts / 297 comments",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "title": "Gemini 4 Argon",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "240 pts / 199 comments",
+      "url": "https://deepmind.google/models/gemini/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "New Apple TV 4K",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "128 pts / 234 comments",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "316 pts / 89 comments",
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "traffic": "296 pts / 69 comments",
+      "url": "https://eg2.haku.sh/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "135 pts / 68 comments",
-      "url": "https://arxiv.org/abs/2610.13928",
+      "traffic": "165 pts / 67 comments",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "204 pts / 27 comments",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "161 pts / 72 comments",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Making big downloads resumable in Firefox",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "165 pts / 61 comments",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Who is vfmaddrnd231pd?",
-      "source": "HACKER NEWS",
+      "title": "apple tv 4k",
+      "source": "GOOGLE TRENDS / TW",
       "score": 85,
-      "traffic": "171 pts / 16 comments",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "context": "High-engagement technology discussion"
+      "traffic": "2000+",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "context": "Apple unveils the new Apple TV 4K, supercharged by Siri AI"
     },
     {
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "title": "美國 期中 選舉",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89-%E5%85%A9%E9%99%A2%E5%85%A8%E8%BC%B8-%E7%BE%8E%E8%82%A1%E6%81%90%E6%9A%B4%E8%B7%8C10-%E9%98%AE%E6%85%95%E9%A9%8A%E7%BF%BB%E6%AD%B7%E5%8F%B23%E7%B5%84%E5%90%88%E6%95%B8%E6%93%9A-%E5%8F%8D%E8%80%8C%E6%BC%B2%E6%9C%80%E5%A4%9A-120516746.html",
+      "context": "川普期中選舉「兩院全輸」，美股恐暴跌10%？阮慕驊翻歷史3組合數據：反而漲最多"
+    },
+    {
+      "title": "Thunderbird for iOS",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "103 pts / 32 comments",
-      "url": "https://github.com/prabanta-dev/janas",
+      "traffic": "95 pts / 30 comments",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Dock on Mac, from OS 10 to macOS 27",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "59 pts / 34 comments",
-      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "traffic": "70 pts / 35 comments",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "鴻海",
+      "title": "群創光電",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
+    },
+    {
+      "title": "Worlds More Habitable Than Earth? They're Out There",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "30 pts / 31 comments",
+      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "topic": "Apple HomeView",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Hackers activate automatic defrosting in supermarket fridges across Europe」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Apple HomeView」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Hackers activate automatic defrosting in supermarket fridges across Europe」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Apple HomeView」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
+          "title": "Apple HomeView",
+          "url": "https://www.apple.com/apple-homeview/"
         }
       ]
     },
     {
-      "topic": "GLM-Legal",
+      "topic": "11 year old unsoundness bugs found in Rust borrow checker",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「GLM-Legal」開始升溫，我們真正該看的不是熱度",
+      "title": "當「11 year old unsoundness bugs found in Rust borrow checker」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GLM-Legal」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「11 year old unsoundness bugs found in Rust borrow checker」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "GLM-Legal",
-          "url": "https://z.ai/blog/glm-legal"
+          "title": "11 year old unsoundness bugs found in Rust borrow checker",
+          "url": "https://github.com/rust-lang/rust/issues/164250"
         }
       ]
     },
     {
-      "topic": "A Modern Web App in C",
+      "topic": "Gemini 4 Argon",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「A Modern Web App in C」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Gemini 4 Argon」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A Modern Web App in C」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Gemini 4 Argon」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A Modern Web App in C",
-          "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
+          "title": "Gemini 4 Argon",
+          "url": "https://deepmind.google/models/gemini/"
         }
       ]
     }
