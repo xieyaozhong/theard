@@ -1,100 +1,100 @@
 {
-  "generated_at": "2026-10-13T05:17:49+08:00",
+  "generated_at": "2026-10-13T14:50:32+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "280 pts / 511 comments",
+      "score": 94,
+      "traffic": "601 pts / 760 comments",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GLM-Legal",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "342 pts / 185 comments",
+      "score": 91,
+      "traffic": "519 pts / 298 comments",
       "url": "https://z.ai/blog/glm-legal",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "330 pts / 195 comments",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Citroen revives the 2CV for an electric age",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "220 pts / 246 comments",
-      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Muse Wonder",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "432 pts / 217 comments",
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "233 pts / 195 comments",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Modern Web App in C",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "287 pts / 119 comments",
+      "score": 91,
+      "traffic": "503 pts / 213 comments",
       "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "197 pts / 74 comments",
-      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "201 pts / 52 comments",
+      "score": 88,
+      "traffic": "316 pts / 89 comments",
       "url": "https://github.com/h0m3us3r/w1700k-sdr",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "釀酒人 對 道奇",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.sports.yahoo.com/news/mlb-%E6%98%8E%E6%8E%A8%E5%B1%B1%E6%9C%AC%E7%94%B1%E4%BC%B8%E9%81%BF%E9%80%A3%E6%95%97-%E9%81%93%E5%A5%87%E4%B8%BB%E5%B8%A5-%E4%BB%96%E6%98%AF%E5%AE%8C%E5%85%A8%E4%BF%A1%E4%BB%BB%E7%9A%84%E6%8A%95%E6%89%8B-063806883.html",
-      "context": "MLB/明推山本由伸避連敗 道奇主帥：他是完全信任的投手"
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "135 pts / 68 comments",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "費半指數",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "The baffling intelligence of a single cell (2024)",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "204 pts / 27 comments",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "科技 執法",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "161 pts / 72 comments",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "165 pts / 61 comments",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Who is vfmaddrnd231pd?",
+      "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "2000+",
+      "traffic": "171 pts / 16 comments",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "103 pts / 32 comments",
+      "url": "https://github.com/prabanta-dev/janas",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Dock on Mac, from OS 10 to macOS 27",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "59 pts / 34 comments",
+      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "鴻海",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     }
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "topic": "A Modern Web App in C",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Codex CLI installs a persistent, self-updating background daemon by default」開始升溫，我們真正該看的不是熱度",
+      "title": "當「A Modern Web App in C」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Codex CLI installs a persistent, self-updating background daemon by default」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「A Modern Web App in C」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "url": "https://github.com/openai/codex/issues/48195"
+          "title": "A Modern Web App in C",
+          "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
         }
       ]
     }
