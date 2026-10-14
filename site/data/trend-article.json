@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-10-14T12:59:07+08:00",
+  "generated_at": "2026-10-14T19:59:20+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Gemini 4 Argon",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1137 pts / 821 comments",
+      "score": 96,
+      "traffic": "1338 pts / 933 comments",
       "url": "https://deepmind.google/models/gemini/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "636 pts / 611 comments",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "555 pts / 383 comments",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "252 pts / 337 comments",
-      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Thunderbird for iOS",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "385 pts / 168 comments",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "359 pts / 97 comments",
+      "score": 90,
+      "traffic": "466 pts / 121 comments",
       "url": "https://guitoro.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "netflix",
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "313 pts / 144 comments",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "205 pts / 71 comments",
+      "url": "https://typeof.net/Iosevka/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "趙 少康",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://uk.news.yahoo.com/below-creator-explains-shows-gasp-101600203.html",
-      "context": "Below creator explains the show's gasp-inducing ending"
-    },
-    {
-      "title": "臺中市市長",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Recreational Programming",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "104 pts / 36 comments",
-      "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "王義川",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E7%AB%8B%E9%99%A2%E8%A1%9D%E7%AA%81%E5%8F%88%E4%BE%86%E4%BA%86-%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%99%BB%E8%A8%98%E7%99%BC%E8%A8%80-%E5%BE%90%E5%B7%A7%E8%8A%AF%E7%AB%9F%E5%96%8A1%E5%8F%A5-%E7%8E%8B%E7%BE%A9%E5%B7%9D%E5%86%8D%E9%96%8B%E5%97%86-032957096.html",
-      "context": "立院衝突又來了！沈伯洋登記發言「徐巧芯竟喊1句」 王義川再開嗆"
-    },
-    {
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "49 pts / 29 comments",
-      "url": "https://blumify.io/people",
-      "context": "High-engagement technology discussion"
+      "url": "https://tw.news.yahoo.com/%E5%88%A5%E5%86%8D%E7%BD%B5-%E7%B6%A0%E5%B0%91%E5%BA%B7-%E4%BA%86-%E8%B6%99%E5%B0%91%E5%BA%B7%E5%96%8A-%E4%B8%8D%E6%9C%83%E5%90%AB%E6%B7%9A%E6%8A%95%E7%A5%A8-044400855.html",
+      "context": "別再罵「綠少康」了… 趙少康喊「不會含淚投票」1原因台北市長會投給他"
     },
     {
       "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "91 pts / 9 comments",
+      "score": 85,
+      "traffic": "184 pts / 25 comments",
       "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "好市多",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E5%A5%BD%E5%B8%82%E5%A4%9A-%E9%80%99%E6%AC%BE%E7%89%9B%E5%A5%B6-%E6%BC%B2%E5%A5%BD%E5%A4%9A-%E6%9C%83%E5%93%A1-%E7%9C%8B%E5%94%AE%E5%83%B9%E5%91%86%E4%BD%8F-094900443.html",
+      "context": "好市多「這款牛奶」漲好多！會員一看售價呆住 網：以前只要189元"
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "65 pts / 42 comments",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "145 pts / 21 comments",
+      "url": "https://ciechanow.ski/sound/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "資產",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "npb",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.yahoo.co.jp/articles/418eaa1c36d20f9d098e5bfdfdf59bd271f28ad9",
+      "context": "カープジュニア悲願の初優勝へ 天谷監督「去年に比べたら野球ＩＱ高い子が多い」 １２・２６開幕ＮＰＢジュニアトーナメント ＫＯＮＡＭＩ ＣＵＰ（デイリースポーツ）"
+    },
+    {
+      "title": "What agents mean for Rust (and vice versa)",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "33 pts / 24 comments",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Redesigning source control at Anthropic",
+      "topic": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Redesigning source control at Anthropic」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Show HN: Guitoro, a virtual guitar you strum with your keyboard」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Redesigning source control at Anthropic」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Show HN: Guitoro, a virtual guitar you strum with your keyboard」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Redesigning source control at Anthropic",
-          "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+          "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+          "url": "https://guitoro.com/"
         }
       ]
     },
     {
-      "topic": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "topic": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Ledger confirms spy chip implant behind wallet crypto thefts」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Ledger confirms spy chip implant behind wallet crypto thefts」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-          "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+          "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+          "url": "https://github.com/android/ndk/issues/2260"
         }
       ]
     }
