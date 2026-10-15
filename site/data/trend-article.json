@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-15T05:44:58+08:00",
+  "generated_at": "2026-10-15T12:47:00+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "title": "Things to know when you get cancer",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "774 pts / 369 comments",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Passkeys are not a trap",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "328 pts / 511 comments",
-      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Things to know when you get cancer – 2026 Edition",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "404 pts / 93 comments",
+      "traffic": "1006 pts / 238 comments",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Do dentists know what they're doing?",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "214 pts / 166 comments",
+      "score": 92,
+      "traffic": "525 pts / 377 comments",
       "url": "https://mapwriting.substack.com/p/dentists",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "225 pts / 156 comments",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "score": 91,
+      "traffic": "297 pts / 297 comments",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "169 pts / 28 comments",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "137 pts / 37 comments",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "112 pts / 37 comments",
-      "url": "https://blog.cloudflare.com/yandex-outage/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "新北市萬金石馬拉松",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "羅馬 對 皇家馬德里",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E5%8F%B0%E7%81%A3%E9%81%8B%E5%BD%A9ai%E5%88%86%E6%9E%90-%E5%9C%8B%E9%9A%9B%E4%BF%B1%E6%A8%82%E9%83%A8%E6%AD%90%E6%B4%B2%E5%86%A0%E8%BB%8D%E8%81%AF%E8%B3%BD%E7%BE%85%E9%A6%ACvs%E7%9A%87%E5%AE%B6%E9%A6%AC%E5%BE%B7%E9%87%8C-ai%E9%A0%90%E6%B8%AC-%E7%9A%87%E5%AE%B6%E9%A6%AC%E5%BE%B7%E9%87%8C%E5%8B%9D%E7%8E%87%E5%A4%A7%E5%8B%9D-042001857.html",
-      "context": "台灣運彩AI分析》國際俱樂部歐洲冠軍聯賽羅馬vs皇家馬德里 AI預測：皇家馬德里勝率大勝！"
     },
     {
       "title": "OpenCode 2.0",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "71 pts / 15 comments",
+      "score": 90,
+      "traffic": "418 pts / 175 comments",
       "url": "https://anoma.ly/notes/opencode-2-0/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "77 pts / 12 comments",
-      "url": "https://petal.live/",
+      "score": 87,
+      "traffic": "234 pts / 81 comments",
+      "url": "https://typesafe.ai/blog/jev-1-14",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Tiny Little Office",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "239 pts / 32 comments",
+      "url": "https://tinylittleoffice.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "119 pts / 31 comments",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "織田翔希",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.yahoo.co.jp/pickup/6598831",
+      "context": "横浜・織田翔希が米球界挑戦 母は後押し「自分のやりたい道に進んでほしい」 ＮＰＢドラフト１位確実も超異例の決断"
+    },
+    {
+      "title": "李嘉诚",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.mydrivers.com/1/1157/1157643.htm",
+      "context": "现年98岁的李嘉诚逝世被挤上热搜 长实集团辟谣否认：绝无此事"
+    },
+    {
+      "title": "One in ten people are older than 65. Three in four live under a leader who is",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "38 pts / 12 comments",
+      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "亞冠賽",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E4%B8%AD%E8%8F%AF%E9%9A%8A%E5%87%BA%E5%BE%81%E4%BA%9E%E5%86%A0%E8%B3%BD%E5%90%8D%E5%96%AE-%E9%83%AD%E5%A4%A9%E4%BF%A1-%E5%BE%90%E7%BF%94%E8%81%96%E8%88%87%E9%99%B3%E7%9D%A6%E8%A1%A1%E4%B8%89%E4%BA%BA%E5%A4%96%E5%8D%A1-034254613.html",
+      "context": "亞冠賽》中華隊33人亞冠賽集訓名單出爐！ 郭天信、徐翔聖與陳睦衡三人外卡"
+    },
+    {
+      "title": "80億分の1",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://kai-you.net/article/96815",
+      "context": "“誰かの一生”を体験するブラウザゲーム『80億分の1』 平均寿命など141か国の統計データを活用"
     }
   ],
   "articles": [
     {
-      "topic": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "topic": "Things to know when you get cancer",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Containment and monitoring failures are to blame for AI hacking reports: experts」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Things to know when you get cancer」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Containment and monitoring failures are to blame for AI hacking reports: experts」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Things to know when you get cancer」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+          "title": "Things to know when you get cancer",
+          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
         }
       ]
     },
     {
-      "topic": "Passkeys are not a trap",
+      "topic": "Do dentists know what they're doing?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Passkeys are not a trap」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Do dentists know what they're doing?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Passkeys are not a trap」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Do dentists know what they're doing?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Passkeys are not a trap",
-          "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+          "title": "Do dentists know what they're doing?",
+          "url": "https://mapwriting.substack.com/p/dentists"
         }
       ]
     },
     {
-      "topic": "Things to know when you get cancer – 2026 Edition",
+      "topic": "Americans' social activity has steeply declined in the past 30 years",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Things to know when you get cancer – 2026 Edition」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Americans' social activity has steeply declined in the past 30 years」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Things to know when you get cancer – 2026 Edition」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Americans' social activity has steeply declined in the past 30 years」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Things to know when you get cancer – 2026 Edition",
-          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+          "title": "Americans' social activity has steeply declined in the past 30 years",
+          "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years"
         }
       ]
     }
