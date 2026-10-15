@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-15T19:36:07+08:00",
+  "generated_at": "2026-10-16T01:05:26+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Things to know when you get cancer",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1460 pts / 361 comments",
+      "score": 95,
+      "traffic": "1784 pts / 424 comments",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Do dentists know what they're doing?",
+      "title": "I Know Why the Mathematicians Weep",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "740 pts / 541 comments",
-      "url": "https://mapwriting.substack.com/p/dentists",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenCode 2.0",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "651 pts / 262 comments",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "431 pts / 391 comments",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "美股盤前",
-      "source": "GOOGLE TRENDS / TW",
       "score": 90,
-      "traffic": "10000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Tiny Little Office",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "473 pts / 86 comments",
-      "url": "https://tinylittleoffice.com/",
+      "traffic": "188 pts / 262 comments",
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "年金改革",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "5000+",
-      "url": "https://news.ebc.net.tw/news/politics/575849",
-      "context": "退休俸2次調整產生扣減差額 國防部：11/1補發"
-    },
-    {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "225 pts / 54 comments",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "traffic": "240 pts / 101 comments",
+      "url": "https://github.com/fyzugx/DEsk",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Catch a Bird – I made it for my own sanity",
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "210 pts / 56 comments",
-      "url": "https://catchabird.com",
+      "score": 88,
+      "traffic": "169 pts / 121 comments",
+      "url": "https://unfenced.land/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "167 pts / 88 comments",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "133 pts / 67 comments",
-      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "traffic": "125 pts / 79 comments",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "00985a",
+      "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "99 pts / 108 comments",
+      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "166 pts / 26 comments",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "鍾 小平",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E9%81%B8%E6%83%85%E5%B4%A9%E4%BA%86-%E9%90%98%E5%B0%8F%E5%B9%B3%E5%AE%A3%E5%B8%831128%E5%89%8D%E4%B8%8D%E4%B8%8A-%E9%80%99%E7%AF%80%E7%9B%AE-%E6%9E%97%E4%BF%8A%E6%86%B24%E5%AD%97%E6%BA%AB%E6%83%85%E5%96%8A%E8%A9%B1-071322338.html",
+      "context": "蔣萬安選情崩了？鍾小平宣布選前不上「這節目」 林俊憲4字溫情喊話"
+    },
+    {
+      "title": "Celebrating 70 Years of Fortran",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "76 pts / 40 comments",
+      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "a2o lite 成員",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "美軍",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%BB%8D%E7%A0%94%E6%93%AC%E7%82%B8%E5%BD%88%E4%B9%8B%E6%AF%8D%E5%86%8D%E8%BD%9F%E4%BC%8A%E6%9C%97-cnn-%E7%9B%A4%E7%AE%97%E6%89%93%E5%AE%8C%E5%BE%8C-%E5%B7%9D%E6%99%AE%E5%AE%A3%E5%B8%83%E5%8B%9D%E5%88%A9%E6%92%A4%E8%BB%8D-065059619.html",
-      "context": "美軍研擬炸彈之母再轟伊朗！CNN：盤算打完後 川普宣布勝利撤軍"
+      "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "34 pts / 20 comments",
+      "url": "https://www.krea.ai/krea-3",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Do dentists know what they're doing?",
+      "topic": "I Know Why the Mathematicians Weep",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Do dentists know what they're doing?」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I Know Why the Mathematicians Weep」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Do dentists know what they're doing?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I Know Why the Mathematicians Weep」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Do dentists know what they're doing?",
-          "url": "https://mapwriting.substack.com/p/dentists"
+          "title": "I Know Why the Mathematicians Weep",
+          "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep"
         }
       ]
     },
     {
-      "topic": "OpenCode 2.0",
+      "topic": "Wayland desktop for Linux with skeuomorphic design",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「OpenCode 2.0」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Wayland desktop for Linux with skeuomorphic design」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「OpenCode 2.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Wayland desktop for Linux with skeuomorphic design」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "OpenCode 2.0",
-          "url": "https://anoma.ly/notes/opencode-2-0/"
+          "title": "Wayland desktop for Linux with skeuomorphic design",
+          "url": "https://github.com/fyzugx/DEsk"
         }
       ]
     }
