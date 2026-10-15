@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-15T12:47:00+08:00",
+  "generated_at": "2026-10-15T19:36:07+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Things to know when you get cancer",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1006 pts / 238 comments",
+      "score": 94,
+      "traffic": "1460 pts / 361 comments",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Do dentists know what they're doing?",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "525 pts / 377 comments",
+      "score": 93,
+      "traffic": "740 pts / 541 comments",
       "url": "https://mapwriting.substack.com/p/dentists",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "297 pts / 297 comments",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "OpenCode 2.0",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "418 pts / 175 comments",
+      "score": 92,
+      "traffic": "651 pts / 262 comments",
       "url": "https://anoma.ly/notes/opencode-2-0/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "234 pts / 81 comments",
-      "url": "https://typesafe.ai/blog/jev-1-14",
+      "score": 92,
+      "traffic": "431 pts / 391 comments",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "美股盤前",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "Tiny Little Office",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "239 pts / 32 comments",
+      "score": 89,
+      "traffic": "473 pts / 86 comments",
       "url": "https://tinylittleoffice.com/",
       "context": "High-engagement technology discussion"
     },
     {
+      "title": "年金改革",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://news.ebc.net.tw/news/politics/575849",
+      "context": "退休俸2次調整產生扣減差額 國防部：11/1補發"
+    },
+    {
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "119 pts / 31 comments",
+      "score": 87,
+      "traffic": "225 pts / 54 comments",
       "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "織田翔希",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.yahoo.co.jp/pickup/6598831",
-      "context": "横浜・織田翔希が米球界挑戦 母は後押し「自分のやりたい道に進んでほしい」 ＮＰＢドラフト１位確実も超異例の決断"
-    },
-    {
-      "title": "李嘉诚",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.mydrivers.com/1/1157/1157643.htm",
-      "context": "现年98岁的李嘉诚逝世被挤上热搜 长实集团辟谣否认：绝无此事"
-    },
-    {
-      "title": "One in ten people are older than 65. Three in four live under a leader who is",
+      "title": "Catch a Bird – I made it for my own sanity",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "38 pts / 12 comments",
-      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+      "score": 87,
+      "traffic": "210 pts / 56 comments",
+      "url": "https://catchabird.com",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "亞冠賽",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E4%B8%AD%E8%8F%AF%E9%9A%8A%E5%87%BA%E5%BE%81%E4%BA%9E%E5%86%A0%E8%B3%BD%E5%90%8D%E5%96%AE-%E9%83%AD%E5%A4%A9%E4%BF%A1-%E5%BE%90%E7%BF%94%E8%81%96%E8%88%87%E9%99%B3%E7%9D%A6%E8%A1%A1%E4%B8%89%E4%BA%BA%E5%A4%96%E5%8D%A1-034254613.html",
-      "context": "亞冠賽》中華隊33人亞冠賽集訓名單出爐！ 郭天信、徐翔聖與陳睦衡三人外卡"
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "133 pts / 67 comments",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "80億分の1",
+      "title": "00985a",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://kai-you.net/article/96815",
-      "context": "“誰かの一生”を体験するブラウザゲーム『80億分の1』 平均寿命など141か国の統計データを活用"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "美軍",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%BB%8D%E7%A0%94%E6%93%AC%E7%82%B8%E5%BD%88%E4%B9%8B%E6%AF%8D%E5%86%8D%E8%BD%9F%E4%BC%8A%E6%9C%97-cnn-%E7%9B%A4%E7%AE%97%E6%89%93%E5%AE%8C%E5%BE%8C-%E5%B7%9D%E6%99%AE%E5%AE%A3%E5%B8%83%E5%8B%9D%E5%88%A9%E6%92%A4%E8%BB%8D-065059619.html",
+      "context": "美軍研擬炸彈之母再轟伊朗！CNN：盤算打完後 川普宣布勝利撤軍"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Americans' social activity has steeply declined in the past 30 years",
+      "topic": "OpenCode 2.0",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Americans' social activity has steeply declined in the past 30 years」開始升溫，我們真正該看的不是熱度",
+      "title": "當「OpenCode 2.0」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Americans' social activity has steeply declined in the past 30 years」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「OpenCode 2.0」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Americans' social activity has steeply declined in the past 30 years",
-          "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years"
+          "title": "OpenCode 2.0",
+          "url": "https://anoma.ly/notes/opencode-2-0/"
         }
       ]
     }
