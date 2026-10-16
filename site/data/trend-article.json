@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-10-16T12:37:18+08:00",
+  "generated_at": "2026-10-16T19:30:13+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "416 pts / 578 comments",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Muse Spark Open",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "692 pts / 373 comments",
+      "score": 93,
+      "traffic": "833 pts / 419 comments",
       "url": "https://research.meta.ai/blog/muse-spark-open",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Neural networks are clean",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "564 pts / 216 comments",
+      "score": 92,
+      "traffic": "712 pts / 266 comments",
       "url": "https://already-clean.goodfire.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "What I self-host",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "516 pts / 329 comments",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Wayland desktop for Linux with skeuomorphic design",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "550 pts / 215 comments",
+      "traffic": "623 pts / 251 comments",
       "url": "https://github.com/fyzugx/DEsk",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "What I self-host",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "345 pts / 225 comments",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "traffic": "314 pts / 205 comments",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Jev meets the Trolley Problem",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "360 pts / 162 comments",
-      "url": "https://zachlandes.com/trolley-problem/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "110 pts / 42 comments",
+      "score": 89,
+      "traffic": "332 pts / 116 comments",
       "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "115 pts / 53 comments",
-      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "score": 89,
+      "traffic": "390 pts / 131 comments",
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "81 pts / 51 comments",
-      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "context": "High-engagement technology discussion"
+      "title": "通貨膨脹",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "RPKI now protects 70% of internet routes",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 23 comments",
+      "score": 86,
+      "traffic": "169 pts / 59 comments",
       "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "日本地震",
+      "title": "詐騙",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.stheadline.com/zh-hans/realtime-world/3625851/%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%8D%B1%E6%9C%BA%E4%B8%8D%E5%8F%AA%E5%8D%97%E6%B5%B7%E6%B5%B7%E6%A7%BD%E4%B8%93%E5%AE%B6%E5%8C%97%E6%B5%B7%E9%81%93%E5%8F%8A%E4%B8%9C%E5%8C%97%E4%BA%A6%E6%81%90%E9%81%87M9%E7%BA%A7%E5%9C%B0%E9%9C%87",
-      "context": "日本地震危机不只南海海槽？专家：北海道及东北亦恐遇M9级地震"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "寬宏",
+      "title": "日本職棒",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://life.tw/article/%E9%9F%93%E6%B5%81%E7%B2%89%E7%B5%B2%E6%9A%B4%E5%8B%95-exo%E7%87%A6%E7%83%88-i-dle%E5%B0%8F%E5%A8%9F-meovv%E5%A4%A2%E5%B9%BB%E5%90%8C%E5%8F%B0-3178437",
-      "context": "韓流粉絲暴動！EXO燦烈、i-dle小娟、MEOVV夢幻同台「11月嗨翻林口」"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "勞動部",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-          "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
-        }
-      ]
-    },
-    {
       "topic": "Muse Spark Open",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Muse Spark Open」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "Neural networks are clean",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Neural networks are clean」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Neural networks are clean",
           "url": "https://already-clean.goodfire.com/"
+        }
+      ]
+    },
+    {
+      "topic": "What I self-host",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「What I self-host」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「What I self-host」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "What I self-host",
+          "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
         }
       ]
     }
