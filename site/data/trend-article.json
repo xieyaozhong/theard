@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-16T19:30:13+08:00",
+  "generated_at": "2026-10-17T00:43:09+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Muse Spark Open",
+      "title": "I Love Software Rendering",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "833 pts / 419 comments",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Neural networks are clean",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "712 pts / 266 comments",
-      "url": "https://already-clean.goodfire.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What I self-host",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "516 pts / 329 comments",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "623 pts / 251 comments",
-      "url": "https://github.com/fyzugx/DEsk",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "314 pts / 205 comments",
-      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "332 pts / 116 comments",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "390 pts / 131 comments",
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "通貨膨脹",
-      "source": "GOOGLE TRENDS / TW",
       "score": 88,
-      "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "RPKI now protects 70% of internet routes",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "169 pts / 59 comments",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "traffic": "192 pts / 136 comments",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "詐騙",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "96 pts / 47 comments",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "日本職棒",
+      "title": "魏哲家",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E9%9B%A3%E6%80%AA%E9%AD%8F%E5%93%B2%E5%AE%B6%E6%97%A9%E7%9F%A5%E8%82%A1%E5%83%B9%E6%9C%83%E8%B7%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%80%A3%E5%85%A9%E6%97%A5%E9%81%AD%E7%A0%8D5-6%E8%90%AC%E5%BC%B5-%E5%87%B6%E6%89%8B%E6%98%AF-%E5%AE%83-094500540.html",
+      "context": "難怪魏哲家早知股價會跌！台積電連兩日遭砍5.6萬張 凶手是「它」"
     },
     {
-      "title": "勞動部",
+      "title": "除息日",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/%E7%82%B8%E5%87%BA177%E8%90%AC%E5%8F%B2%E8%A9%A9%E7%B4%9A%E5%A4%A9%E9%87%8F-00406a%E9%85%8D%E6%81%AF%E9%96%8B%E7%8D%8E-%E5%B9%B4%E5%8C%96%E8%A1%9D17-8-%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5%E5%9C%A8%E9%80%99%E5%A4%A9-131500607.html",
+      "context": "炸出177萬史詩級天量！00406A配息開獎、年化衝17.8％ 最後買進日在這天"
+    },
+    {
+      "title": "夫妻",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.yahoo.co.jp/articles/35e44b95698b674cc329debc6c1ec0390185ae3a",
+      "context": "【独自】メーガン妃を直撃取材「戻ってこられてとてもうれしい」 全身イギリスブランドで“公務もどき”復帰に王室との確執再燃の恐れも（FNNプライムオンライン（フジテレビ系））"
+    },
+    {
+      "title": "霜淇淋",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.nownews.com/news/6884028",
+      "context": "超商買一送一！全家咖啡20元、泡麵半價　7-11推雷神巧克力霜淇淋"
+    },
+    {
+      "title": "柯志恩",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://tw.news.yahoo.com/%E6%9F%AF%E5%BF%97%E6%81%A9%E5%B2%A1%E5%B1%B1%E5%A4%A7%E9%80%A0%E5%8B%A2%E6%95%B8%E8%90%AC%E4%BA%BA%E6%B9%A7%E5%85%A5%E5%A4%A7%E7%88%86%E5%A0%B4-%E7%A9%BA%E6%8B%8D%E7%95%AB%E9%9D%A2%E9%9C%87%E6%92%BC%E6%9B%9D%E5%85%89-153225072.html",
+      "context": "柯志恩岡山大造勢數萬人湧入大爆場！空拍畫面震撼曝光"
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "72 pts / 10 comments",
+      "url": "https://calif.io/research/big-fish",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "How to Formalize All of Mathematics",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "41 pts / 32 comments",
+      "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "45 pts / 29 comments",
+      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Gyroscopes Got So Small [video]",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "55 pts / 24 comments",
+      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "57 pts / 13 comments",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Muse Spark Open",
+      "topic": "I Love Software Rendering",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Muse Spark Open」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I Love Software Rendering」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Muse Spark Open」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I Love Software Rendering」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Muse Spark Open",
-          "url": "https://research.meta.ai/blog/muse-spark-open"
+          "title": "I Love Software Rendering",
+          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
         }
       ]
     },
     {
-      "topic": "Neural networks are clean",
+      "topic": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Neural networks are clean」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Apple ML Research: Muse Spark Open with MLX on Mac Studio」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Neural networks are clean」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Apple ML Research: Muse Spark Open with MLX on Mac Studio」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Neural networks are clean",
-          "url": "https://already-clean.goodfire.com/"
+          "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
         }
       ]
     },
     {
-      "topic": "What I self-host",
+      "topic": "魏哲家",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「What I self-host」開始升溫，我們真正該看的不是熱度",
+      "title": "當「魏哲家」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「What I self-host」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「魏哲家」推到更高的注意力位置。難怪魏哲家早知股價會跌！台積電連兩日遭砍5.6萬張 凶手是「它」。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "What I self-host",
-          "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "魏哲家",
+          "url": "https://tw.news.yahoo.com/%E9%9B%A3%E6%80%AA%E9%AD%8F%E5%93%B2%E5%AE%B6%E6%97%A9%E7%9F%A5%E8%82%A1%E5%83%B9%E6%9C%83%E8%B7%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%80%A3%E5%85%A9%E6%97%A5%E9%81%AD%E7%A0%8D5-6%E8%90%AC%E5%BC%B5-%E5%87%B6%E6%89%8B%E6%98%AF-%E5%AE%83-094500540.html"
         }
       ]
     }
