@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-17T07:40:58+08:00",
+  "generated_at": "2026-10-17T12:34:22+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Tesla Roadster",
       "source": "HACKER NEWS",
-      "score": 97,
-      "traffic": "1088 pts / 1985 comments",
+      "score": 98,
+      "traffic": "1293 pts / 2293 comments",
       "url": "https://www.tesla.com/roadster",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Claude reveals ECDSA curve origins",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "579 pts / 246 comments",
+      "score": 92,
+      "traffic": "757 pts / 293 comments",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Waymo in Toronto",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "240 pts / 342 comments",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "179 pts / 138 comments",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "248 pts / 113 comments",
+      "score": 89,
+      "traffic": "285 pts / 135 comments",
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "140 pts / 125 comments",
+      "score": 88,
+      "traffic": "195 pts / 152 comments",
       "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "154 pts / 44 comments",
+      "score": 87,
+      "traffic": "229 pts / 62 comments",
       "url": "https://github.com/cobanov/PS5LM",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "nvidia 股價",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://money.udn.com/money/story/5739/9819880",
-      "context": "京元電 押逾100天"
-    },
-    {
-      "title": "FLUX 3 Image Klein",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "84 pts / 17 comments",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "You could have invented transformers from memory",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "94 pts / 23 comments",
+      "score": 86,
+      "traffic": "186 pts / 56 comments",
       "url": "https://alexwang.ai/posts/associative-memory/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Butlerian Jihad",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "123 pts / 62 comments",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "nba",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.mmamania.com/boxing/479393/live-official-brandrisk-16-video-stream-complete-results-and-highlights-frost-vs-osiris",
+      "context": "BrandRisk 16 Highlights, Streaming Updates TONIGHT!"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "134 pts / 39 comments",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Designing more efficient quantum circuits with Claude",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "80 pts / 17 comments",
+      "score": 84,
+      "traffic": "116 pts / 24 comments",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "美光股價",
+      "title": "暴風半徑",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E8%82%A1%E5%83%B9%E8%87%AA%E9%AB%98%E9%BB%9E%E6%8B%89%E5%9B%9E23-%E9%81%8E%E5%8E%BB%E6%AD%B7%E5%8F%B2%E7%B6%93%E9%A9%97%E8%AA%AA%E4%BA%86%E4%BB%80%E9%BA%BC-091002012.html",
-      "context": "美光股價自高點拉回23% 過去歷史經驗說了什麼？"
+      "url": "https://udn.com/news/story/7266/9820578",
+      "context": "薔琵颱風恐直撲台灣 氣象署估即將升格強颱 下周五起3天威脅最大"
+    },
+    {
+      "title": "犯罪",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.pchome.com.tw/finance/sunmedia/20261016/index-79213685438396329003.html",
+      "context": "美國新網絡戰略：政府與民間聯手打擊外國網絡犯罪- 財經新聞"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Waymo in Toronto",
+      "topic": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Waymo in Toronto」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Apple ML Research: Muse Spark Open with MLX on Mac Studio」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Waymo in Toronto」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Apple ML Research: Muse Spark Open with MLX on Mac Studio」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Waymo in Toronto",
-          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/"
+          "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+          "url": "https://machinelearning.apple.com/research/mlx-distributed-inference"
         }
       ]
     }
