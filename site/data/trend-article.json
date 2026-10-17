@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-18T04:39:47+08:00",
+  "generated_at": "2026-10-18T07:09:31+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "source": "HACKER NEWS",
       "score": 93,
-      "traffic": "562 pts / 506 comments",
+      "traffic": "645 pts / 547 comments",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "247 pts / 48 comments",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Making chicken transparent using Dorito dust",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "205 pts / 59 comments",
+      "traffic": "235 pts / 64 comments",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "180 pts / 97 comments",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Source code of the Estonian online voting system",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "91 pts / 59 comments",
+      "score": 87,
+      "traffic": "128 pts / 107 comments",
       "url": "https://github.com/valimised/ivxv",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Furifont, a Japanese font that shows furigana",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "161 pts / 36 comments",
+      "score": 86,
+      "traffic": "220 pts / 45 comments",
       "url": "https://furifont.antfu.me/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Gold is now the top U.S. export",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "103 pts / 52 comments",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "鄭明典",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "139 pts / 19 comments",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "twitch",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.nbcnews.com/tech/tech-news/uc-berkeley-twitch-studio-college-sports-recruiting-creator-economy-rcna603811",
-      "context": "UC Berkeley wants to turn its student athletes into social media stars on Twitch"
-    },
-    {
-      "title": "英雄聯盟世界大賽",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/faker%E3%80%81chovy%E9%83%BD%E8%A2%AB%E8%B6%85%E8%B6%8A%E4%BA%86%EF%BC%81%E3%80%8A%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%E3%80%8B%E4%B8%96%E7%95%8C%E8%B3%BD%E6%96%B0%E4%BA%BA%E9%A6%96%E7%99%BB%E5%A0%B4%E5%B0%B1%E6%89%93%E7%A0%B4%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84-143935559.html",
-      "context": "Faker、Chovy都被超越了！《英雄聯盟》世界賽新人首登場就打破歷史紀錄"
-    },
-    {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "84 pts / 14 comments",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "80 pts / 13 comments",
-      "url": "https://pele.run/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "61 pts / 12 comments",
+      "score": 85,
+      "traffic": "136 pts / 40 comments",
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "169 pts / 18 comments",
+      "url": "https://pele.run/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "120 pts / 20 comments",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "賴瑞隆",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/vote2026/story/124652/9821335?from=udn_mobile_indexrecommend",
+      "context": "蔡英文壓軸站台力挺賴瑞隆宣布接任競總榮譽主委一職| 2026九合一選舉"
+    },
+    {
+      "title": "台灣彩券",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E5%A4%A7%E6%A8%82%E9%80%8F%E9%96%8B%E7%8D%8E%E4%BA%86%EF%BC%811016%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E3%80%81%E4%B8%AD%E7%A7%8B%E5%8A%A0%E7%A2%BC%E7%99%BE%E8%90%AC%E7%8D%8E%E3%80%815000%E5%85%83%E7%B4%85%E5%8C%85%E5%87%BA%E7%88%90-100%E7%B5%84100%E8%90%AC%E5%85%83%E5%89%A919%E7%B5%84-%E5%A4%A7%E6%A8%82%E9%80%8F%E7%9B%B4%E6%92%AD%E3%80%81%E4%B8%AD%E7%8D%8E%E6%80%8E%E9%BA%BC%E7%9C%8B%E3%80%81%E5%A6%82%E4%BD%95%E9%A0%98%E4%B8%80%E6%AC%A1%E7%9C%8B-141214857.html",
+      "context": "大樂透開獎了！10/16中獎號碼、中秋加碼百萬獎、5000元紅包出爐100組100萬元剩19組大樂透直播、中獎怎麼看、如何領一次看"
+    },
+    {
+      "title": "老年",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E7%A7%BB%E5%B7%A5%E5%88%B0%E6%89%8B%E7%99%BE%E8%90%AC%E9%80%80%E4%BC%91%E9%87%91-%E5%82%B3%E5%8D%B0%E5%B0%BC%E7%BE%A4%E7%B5%84-%E9%A0%98%E8%80%81%E5%B9%B4%E7%B5%A6%E4%BB%98%E6%94%BB%E7%95%A5-%E5%8B%9E%E4%BF%9D%E8%AB%8B%E9%A0%983%E8%B3%87%E6%A0%BC-%E8%A6%8F%E5%AE%9A-053251370.html",
+      "context": "移工到手百萬退休金？傳印尼群組「領老年給付攻略」 勞保請領3資格、規定一覽"
     }
   ],
   "articles": [
@@ -137,9 +137,45 @@
       ]
     },
     {
-      "topic": "Making chicken transparent using Dorito dust",
+      "topic": "Bleached corals thrive within days when touching healthy neighbour",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
+      "title": "當「Bleached corals thrive within days when touching healthy neighbour」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Bleached corals thrive within days when touching healthy neighbour」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Bleached corals thrive within days when touching healthy neighbour",
+          "url": "https://www.nature.com/articles/d41586-026-03266-x"
+        }
+      ]
+    },
+    {
+      "topic": "Making chicken transparent using Dorito dust",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Making chicken transparent using Dorito dust」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Making chicken transparent using Dorito dust",
           "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
-        }
-      ]
-    },
-    {
-      "topic": "Source code of the Estonian online voting system",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Source code of the Estonian online voting system」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Source code of the Estonian online voting system」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Source code of the Estonian online voting system",
-          "url": "https://github.com/valimised/ivxv"
         }
       ]
     }
