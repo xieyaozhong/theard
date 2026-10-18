@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-18T19:14:22+08:00",
+  "generated_at": "2026-10-18T23:55:14+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "DeepSeek-v4.1-Flash-1017",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "873 pts / 660 comments",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "470 pts / 100 comments",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "451 pts / 39 comments",
-      "url": "https://pele.run/",
+      "score": 91,
+      "traffic": "254 pts / 319 comments",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "225 pts / 107 comments",
+      "score": 90,
+      "traffic": "391 pts / 198 comments",
       "url": "https://api-docs.deepseek.com/guides/search/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "155 pts / 175 comments",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "283 pts / 67 comments",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "學生",
+      "title": "發票",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E6%B7%A1%E6%B1%9F%E5%A4%A7%E5%AD%B8-%E5%85%A8%E7%8F%AD%E5%8F%AA%E5%89%A91%E4%BA%BA-%E5%8F%8D%E8%BD%89-%E5%AD%B8%E7%94%9F%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8%E9%81%93%E6%AD%89-%E6%95%99%E6%8E%88%E5%9B%9E%E6%87%89%E4%BA%86-100525309.html",
-      "context": "淡江大學「全班只剩1人」反轉！學生還原真相道歉 教授回應了"
+      "url": "https://tw.news.yahoo.com/%E6%80%A5%E5%B0%8B4%E5%BC%B5%E5%8D%83%E8%90%AC%E7%99%BC%E7%A5%A8%E5%BE%97%E4%B8%BB-%E6%B6%88%E8%B2%BB%E5%9C%B0%E9%BB%9E%E6%9B%9D%E5%85%89-11-5%E9%80%BE%E6%9C%9F%E7%8D%8E%E9%87%91%E5%85%A8%E5%85%85%E5%85%AC-101800514.html",
+      "context": "急尋4張千萬發票得主！消費地點曝光 11/5逾期獎金全充公"
     },
     {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "144 pts / 42 comments",
-      "url": "https://sphinx-six-theta.vercel.app/",
+      "traffic": "133 pts / 34 comments",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Lean now ships with verified kernels",
+      "title": "Parser Combinators",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "145 pts / 49 comments",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "traffic": "129 pts / 54 comments",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "棒球",
+      "title": "星巴克",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E5%BE%A9%E4%BB%87%E8%80%85%E5%A4%A7%E8%B0%B7-%E7%BE%8E%E5%AA%92%E5%A4%A7%E8%86%BD%E9%A0%90%E6%B8%AC-%E6%98%8E%E5%B9%B4%E7%B9%B370%E8%BD%9F-%E9%98%B2%E7%A6%A6%E7%8E%871%E4%BB%A5%E4%B8%8B-%E6%9C%80%E5%81%89%E5%A4%A7%E8%B3%BD%E5%AD%A3-043259652.html",
-      "context": "復仇者大谷！美媒大膽預測：明年繳70轟、防禦率1以下「最偉大賽季」"
+      "url": "https://today.line.me/tw/v3/article/3N18YNW",
+      "context": "星巴克「去冰不補」掀金星退卡潮 網友挖公告：要扣3%手續費 | 太報"
     },
     {
-      "title": "曾聖安",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "RepRapMicron",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92%E5%8F%B0%E7%81%A3%E5%A4%A7%E8%B3%BD%E3%80%8B%E6%9B%BE%E8%81%96%E5%AE%89%E8%BD%9F%E8%B6%85%E5%89%8D3%E5%88%86%E7%A0%B2%E5%8A%A9%E5%91%B3%E5%85%A8%E9%BE%8D%E9%80%86%E8%BD%89%E4%B8%AD%E4%BF%A1%E5%85%84%E5%BC%9F-%E8%8F%B2%E5%8A%9B%E5%A3%AB%E9%81%AD%E5%BC%B7%E8%A5%B2%E7%90%83%E6%93%8A%E4%B8%AD%E9%80%80%E5%A0%B4-103828085.html",
-      "context": "中華職棒台灣大賽》曾聖安轟超前3分砲助味全龍逆轉中信兄弟 菲力士遭強襲球擊中退場"
+      "traffic": "130 pts / 19 comments",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "年金",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "104 pts / 8 comments",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "諾丁漢森林 對 兵工廠",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%8B%9E%E4%BF%9D%E5%B9%B4%E9%87%91%E5%BB%B6%E5%BE%8C%E9%A0%98%E5%90%83%E5%A4%A7%E8%99%A7-%E9%80%BE200%E8%90%AC%E5%8B%9E%E5%B7%A5%E5%B9%B3%E5%9D%87%E8%AB%8B%E9%A0%98%E5%B9%B4%E9%BD%A1%E6%9B%9D%E5%85%89-%E5%B0%88%E5%AE%B6%E6%8F%AD-%E6%8F%90%E6%97%A9%E9%A0%98%E5%85%88%E6%8B%BF102%E8%90%AC-%E7%9C%9F%E7%9B%B8-071821954.html",
-      "context": "勞保年金延後領吃大虧？逾200萬勞工平均請領年齡曝光 專家揭「提早領先拿102萬」真相"
+      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1018-%E8%AB%BE%E4%B8%81%E6%BC%A2%E6%A3%AE%E6%9E%97%E9%80%B2%E7%90%83%E6%95%88%E7%8E%87%E9%9D%9E%E5%B8%B8%E5%B7%AE-%E7%B8%BD%E5%88%86%E5%A4%A7%E5%B0%8F%E7%AB%AF%E7%9C%8B%E5%85%B5%E5%B7%A5%E5%BB%A0%E5%82%99%E6%88%B0%E6%AD%90%E5%86%A0%E5%BF%83%E6%85%8B-075910262.html",
+      "context": "足球運彩分析》10/18 諾丁漢森林進球效率非常差 總分大小端看兵工廠備戰歐冠心態"
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "42 pts / 30 comments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "35 pts / 26 comments",
+      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "49 pts / 15 comments",
+      "url": "https://legendofhyrule.com/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "DeepSeek-v4.1-Flash-1017",
+      "topic": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「DeepSeek-v4.1-Flash-1017」開始升溫，我們真正該看的不是熱度",
+      "title": "當「How the Elizabeth Holmes documentary “You Can See Everything” is deceiving」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「DeepSeek-v4.1-Flash-1017」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「How the Elizabeth Holmes documentary “You Can See Everything” is deceiving」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+          "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything"
         }
       ]
     },
     {
-      "topic": "Bleached corals thrive within days when touching healthy neighbour",
+      "topic": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Bleached corals thrive within days when touching healthy neighbour」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DeepSeek search and fetch – $0.75 per 1000 successful requests」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Bleached corals thrive within days when touching healthy neighbour」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DeepSeek search and fetch – $0.75 per 1000 successful requests」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Bleached corals thrive within days when touching healthy neighbour",
-          "url": "https://www.nature.com/articles/d41586-026-03266-x"
+          "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search/"
         }
       ]
     },
     {
-      "topic": "Pele – Mermaid diagrams as themeable SVG",
+      "topic": "發票",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Pele – Mermaid diagrams as themeable SVG」開始升溫，我們真正該看的不是熱度",
+      "title": "當「發票」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Pele – Mermaid diagrams as themeable SVG」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「發票」推到更高的注意力位置。急尋4張千萬發票得主！消費地點曝光 11/5逾期獎金全充公。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Pele – Mermaid diagrams as themeable SVG",
-          "url": "https://pele.run/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "發票",
+          "url": "https://tw.news.yahoo.com/%E6%80%A5%E5%B0%8B4%E5%BC%B5%E5%8D%83%E8%90%AC%E7%99%BC%E7%A5%A8%E5%BE%97%E4%B8%BB-%E6%B6%88%E8%B2%BB%E5%9C%B0%E9%BB%9E%E6%9B%9D%E5%85%89-11-5%E9%80%BE%E6%9C%9F%E7%8D%8E%E9%87%91%E5%85%A8%E5%85%85%E5%85%AC-101800514.html"
         }
       ]
     }
