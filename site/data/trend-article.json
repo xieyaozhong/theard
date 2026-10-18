@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-19T04:49:27+08:00",
+  "generated_at": "2026-10-19T07:17:43+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "496 pts / 241 comments",
+      "traffic": "521 pts / 251 comments",
       "url": "https://api-docs.deepseek.com/guides/search/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Someone behind the software",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "195 pts / 72 comments",
+      "score": 88,
+      "traffic": "267 pts / 112 comments",
       "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "RepRapMicron",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "288 pts / 44 comments",
+      "score": 88,
+      "traffic": "316 pts / 50 comments",
       "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "136 pts / 75 comments",
-      "url": "https://legendofhyrule.com/",
+      "traffic": "130 pts / 72 comments",
+      "url": "https://arxiv.org/abs/2610.18861",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "title": "守護者 對 光芒",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "沈伯洋 民 調",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "86 pts / 62 comments",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "157 pts / 12 comments",
-      "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "SIGSALY: Churchill's top secret hotline to the president",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "80 pts / 19 comments",
-      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "中壢車禍",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%9A%B4%E9%87%8D%E9%80%A3%E7%92%B0%E8%BB%8A%E7%A6%8D-%E7%96%91%E9%A7%95%E9%A7%9B%E6%89%93%E7%9E%8C%E7%9D%A1-%E8%87%B3%E5%B0%91%E9%87%805%E5%82%B7-155300530.html",
-      "context": "桃園嚴重連環車禍！疑駕駛打瞌睡 至少釀5傷"
-    },
-    {
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "68 pts / 17 comments",
-      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "traffic": "95 pts / 32 comments",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Free Pascal compiler now supports dynamic packages",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "51 pts / 12 comments",
+      "score": 83,
+      "traffic": "94 pts / 12 comments",
       "url": "https://www.getlazarus.org/dynamic/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "PalmOS Lemmings",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "49 pts / 9 comments",
+      "score": 83,
+      "traffic": "77 pts / 20 comments",
       "url": "https://github.com/ardiri/palmos-lemmings",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "皇家馬德里 對 塞維亞",
+      "title": "iphone",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://www.bbc.com/sport/football/live/cw0k0xyeee56t",
-      "context": "Real Madrid vs Sevilla: Spanish La Liga stats & head-to-head"
+      "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "context": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test"
     },
     {
-      "title": "遺產",
+      "title": "江啟臣",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://udn.com/news/story/124652/9822195",
+      "context": "深入大里、太平兩地市場 江啟臣允：敬老愛心卡用途將升級"
     }
   ],
   "articles": [
