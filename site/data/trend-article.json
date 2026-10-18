@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-10-18T23:55:14+08:00",
+  "generated_at": "2026-10-19T04:49:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "254 pts / 319 comments",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "391 pts / 198 comments",
+      "score": 91,
+      "traffic": "496 pts / 241 comments",
       "url": "https://api-docs.deepseek.com/guides/search/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "發票",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E6%80%A5%E5%B0%8B4%E5%BC%B5%E5%8D%83%E8%90%AC%E7%99%BC%E7%A5%A8%E5%BE%97%E4%B8%BB-%E6%B6%88%E8%B2%BB%E5%9C%B0%E9%BB%9E%E6%9B%9D%E5%85%89-11-5%E9%80%BE%E6%9C%9F%E7%8D%8E%E9%87%91%E5%85%A8%E5%85%85%E5%85%AC-101800514.html",
-      "context": "急尋4張千萬發票得主！消費地點曝光 11/5逾期獎金全充公"
-    },
-    {
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "title": "Someone behind the software",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "133 pts / 34 comments",
-      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "score": 87,
+      "traffic": "195 pts / 72 comments",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Parser Combinators",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "129 pts / 54 comments",
-      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "星巴克",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://today.line.me/tw/v3/article/3N18YNW",
-      "context": "星巴克「去冰不補」掀金星退卡潮 網友挖公告：要扣3%手續費 | 太報"
     },
     {
       "title": "RepRapMicron",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "130 pts / 19 comments",
+      "score": 87,
+      "traffic": "288 pts / 44 comments",
       "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "104 pts / 8 comments",
-      "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "諾丁漢森林 對 兵工廠",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1018-%E8%AB%BE%E4%B8%81%E6%BC%A2%E6%A3%AE%E6%9E%97%E9%80%B2%E7%90%83%E6%95%88%E7%8E%87%E9%9D%9E%E5%B8%B8%E5%B7%AE-%E7%B8%BD%E5%88%86%E5%A4%A7%E5%B0%8F%E7%AB%AF%E7%9C%8B%E5%85%B5%E5%B7%A5%E5%BB%A0%E5%82%99%E6%88%B0%E6%AD%90%E5%86%A0%E5%BF%83%E6%85%8B-075910262.html",
-      "context": "足球運彩分析》10/18 諾丁漢森林進球效率非常差 總分大小端看兵工廠備戰歐冠心態"
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "42 pts / 30 comments",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "35 pts / 26 comments",
-      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "49 pts / 15 comments",
+      "score": 86,
+      "traffic": "136 pts / 75 comments",
       "url": "https://legendofhyrule.com/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "157 pts / 12 comments",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "SIGSALY: Churchill's top secret hotline to the president",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "80 pts / 19 comments",
+      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "中壢車禍",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%9A%B4%E9%87%8D%E9%80%A3%E7%92%B0%E8%BB%8A%E7%A6%8D-%E7%96%91%E9%A7%95%E9%A7%9B%E6%89%93%E7%9E%8C%E7%9D%A1-%E8%87%B3%E5%B0%91%E9%87%805%E5%82%B7-155300530.html",
+      "context": "桃園嚴重連環車禍！疑駕駛打瞌睡 至少釀5傷"
+    },
+    {
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "68 pts / 17 comments",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "51 pts / 12 comments",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "PalmOS Lemmings",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "49 pts / 9 comments",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "皇家馬德里 對 塞維亞",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.bbc.com/sport/football/live/cw0k0xyeee56t",
+      "context": "Real Madrid vs Sevilla: Spanish La Liga stats & head-to-head"
+    },
+    {
+      "title": "遺產",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「How the Elizabeth Holmes documentary “You Can See Everything” is deceiving」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「How the Elizabeth Holmes documentary “You Can See Everything” is deceiving」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything"
-        }
-      ]
-    },
-    {
       "topic": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「DeepSeek search and fetch – $0.75 per 1000 successful requests」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "發票",
+      "topic": "Someone behind the software",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「發票」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Someone behind the software」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「發票」推到更高的注意力位置。急尋4張千萬發票得主！消費地點曝光 11/5逾期獎金全充公。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Someone behind the software」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +166,45 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "發票",
-          "url": "https://tw.news.yahoo.com/%E6%80%A5%E5%B0%8B4%E5%BC%B5%E5%8D%83%E8%90%AC%E7%99%BC%E7%A5%A8%E5%BE%97%E4%B8%BB-%E6%B6%88%E8%B2%BB%E5%9C%B0%E9%BB%9E%E6%9B%9D%E5%85%89-11-5%E9%80%BE%E6%9C%9F%E7%8D%8E%E9%87%91%E5%85%A8%E5%85%85%E5%85%AC-101800514.html"
+          "source": "HACKER NEWS",
+          "title": "Someone behind the software",
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+        }
+      ]
+    },
+    {
+      "topic": "RepRapMicron",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「RepRapMicron」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「RepRapMicron」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "RepRapMicron",
+          "url": "https://github.com/VikOlliver/RepRapMicron/wiki"
         }
       ]
     }
