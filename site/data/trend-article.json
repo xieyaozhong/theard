@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T12:39:45+08:00",
+  "generated_at": "2026-10-18T19:14:22+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "763 pts / 612 comments",
+      "traffic": "873 pts / 660 comments",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "382 pts / 80 comments",
+      "traffic": "470 pts / 100 comments",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Gold is now the top U.S. export",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "279 pts / 149 comments",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "306 pts / 63 comments",
-      "url": "https://furifont.antfu.me/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Making chicken transparent using Dorito dust",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "277 pts / 68 comments",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "238 pts / 59 comments",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "321 pts / 29 comments",
+      "score": 89,
+      "traffic": "451 pts / 39 comments",
       "url": "https://pele.run/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "遠大",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "田馥甄演唱會",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.nownews.com/news/6884370",
-      "context": "田馥甄演唱會全槓龜還有救！今12點清票　遠大實名制搶票攻略看這"
-    },
-    {
-      "title": "吳德榮",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%BC%B7%E9%A2%B1%E8%96%94%E7%90%B5%E4%BC%B0%E9%80%B1%E5%9B%9B%E5%8C%97%E8%BD%89-%E6%9C%80%E5%BF%AB%E9%80%B1%E5%9B%9B%E4%BA%94%E6%81%90%E7%99%BC%E8%AD%A6%E5%A0%B1-%E5%85%89%E5%BE%A9%E7%AF%80%E9%80%A3%E5%81%87%E8%AE%8A%E5%A4%A9-234554111.html",
-      "context": "強颱薔琵估週四北轉! 最快週四五恐發警報 光復節連假變天"
-    },
-    {
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "157 pts / 40 comments",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "score": 88,
+      "traffic": "225 pts / 107 comments",
+      "url": "https://api-docs.deepseek.com/guides/search/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "155 pts / 175 comments",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "283 pts / 67 comments",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "學生",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E6%B7%A1%E6%B1%9F%E5%A4%A7%E5%AD%B8-%E5%85%A8%E7%8F%AD%E5%8F%AA%E5%89%A91%E4%BA%BA-%E5%8F%8D%E8%BD%89-%E5%AD%B8%E7%94%9F%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8%E9%81%93%E6%AD%89-%E6%95%99%E6%8E%88%E5%9B%9E%E6%87%89%E4%BA%86-100525309.html",
+      "context": "淡江大學「全班只剩1人」反轉！學生還原真相道歉 教授回應了"
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "161 pts / 24 comments",
-      "url": "https://github.com/antirez/c64-hw-simulator",
+      "traffic": "144 pts / 42 comments",
+      "url": "https://sphinx-six-theta.vercel.app/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Lean now ships with verified kernels",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "145 pts / 49 comments",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "棒球",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E5%BE%A9%E4%BB%87%E8%80%85%E5%A4%A7%E8%B0%B7-%E7%BE%8E%E5%AA%92%E5%A4%A7%E8%86%BD%E9%A0%90%E6%B8%AC-%E6%98%8E%E5%B9%B4%E7%B9%B370%E8%BD%9F-%E9%98%B2%E7%A6%A6%E7%8E%871%E4%BB%A5%E4%B8%8B-%E6%9C%80%E5%81%89%E5%A4%A7%E8%B3%BD%E5%AD%A3-043259652.html",
+      "context": "復仇者大谷！美媒大膽預測：明年繳70轟、防禦率1以下「最偉大賽季」"
+    },
+    {
+      "title": "曾聖安",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92%E5%8F%B0%E7%81%A3%E5%A4%A7%E8%B3%BD%E3%80%8B%E6%9B%BE%E8%81%96%E5%AE%89%E8%BD%9F%E8%B6%85%E5%89%8D3%E5%88%86%E7%A0%B2%E5%8A%A9%E5%91%B3%E5%85%A8%E9%BE%8D%E9%80%86%E8%BD%89%E4%B8%AD%E4%BF%A1%E5%85%84%E5%BC%9F-%E8%8F%B2%E5%8A%9B%E5%A3%AB%E9%81%AD%E5%BC%B7%E8%A5%B2%E7%90%83%E6%93%8A%E4%B8%AD%E9%80%80%E5%A0%B4-103828085.html",
+      "context": "中華職棒台灣大賽》曾聖安轟超前3分砲助味全龍逆轉中信兄弟 菲力士遭強襲球擊中退場"
+    },
+    {
+      "title": "年金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E5%8B%9E%E4%BF%9D%E5%B9%B4%E9%87%91%E5%BB%B6%E5%BE%8C%E9%A0%98%E5%90%83%E5%A4%A7%E8%99%A7-%E9%80%BE200%E8%90%AC%E5%8B%9E%E5%B7%A5%E5%B9%B3%E5%9D%87%E8%AB%8B%E9%A0%98%E5%B9%B4%E9%BD%A1%E6%9B%9D%E5%85%89-%E5%B0%88%E5%AE%B6%E6%8F%AD-%E6%8F%90%E6%97%A9%E9%A0%98%E5%85%88%E6%8B%BF102%E8%90%AC-%E7%9C%9F%E7%9B%B8-071821954.html",
+      "context": "勞保年金延後領吃大虧？逾200萬勞工平均請領年齡曝光 專家揭「提早領先拿102萬」真相"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Gold is now the top U.S. export",
+      "topic": "Pele – Mermaid diagrams as themeable SVG",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Gold is now the top U.S. export」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Pele – Mermaid diagrams as themeable SVG」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gold is now the top U.S. export」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Pele – Mermaid diagrams as themeable SVG」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Gold is now the top U.S. export",
-          "url": "https://www.numismaticnews.net/gold-now-top-u-s-export"
+          "title": "Pele – Mermaid diagrams as themeable SVG",
+          "url": "https://pele.run/"
         }
       ]
     }
