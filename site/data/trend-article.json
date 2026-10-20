@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-10-20T04:36:42+08:00",
+  "generated_at": "2026-10-20T08:24:12+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "It's still ok to enjoy programming",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "415 pts / 396 comments",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "context": "High-engagement technology discussion"
+    },
     {
       "title": "Wine ported to OpenBSD",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "426 pts / 138 comments",
+      "traffic": "487 pts / 162 comments",
       "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "It's still ok to enjoy programming",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "299 pts / 285 comments",
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Timestral: Mistral's time-series foundation models",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "476 pts / 89 comments",
+      "score": 90,
+      "traffic": "531 pts / 101 comments",
       "url": "https://mistral.ai/news/timestral/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "MiniMax M3.1 Flash",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "259 pts / 98 comments",
+      "score": 89,
+      "traffic": "358 pts / 153 comments",
       "url": "https://www.minimax.io/blog/minimax-m31f",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Alternatives to animal testing are finally taking off",
+      "title": "I built a drone with only one motor [video]",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "270 pts / 79 comments",
-      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "traffic": "359 pts / 74 comments",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Android apps running native on macOS",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "169 pts / 54 comments",
+      "score": 88,
+      "traffic": "245 pts / 124 comments",
       "url": "https://github.com/kksimp/Mac.apk",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Starcraft: Ashfall",
+      "title": "RuneScape Bench: MMOs for Agents [video]",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "155 pts / 49 comments",
-      "url": "https://starcraft-shooter-2026.pages.dev/",
+      "traffic": "142 pts / 56 comments",
+      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "傅子纯",
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "163 pts / 73 comments",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "光芒 對 守護者",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.sports.yahoo.com/news/mlb%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1020-%E5%AE%88%E8%AD%B7%E8%80%85%E5%90%9E%E9%80%A3%E6%95%97%E9%99%B7%E5%85%A5%E8%90%BD%E5%BE%8C%E6%85%8B%E5%8B%A2-%E5%85%89%E8%8A%92%E7%9B%BCperalta%E7%8E%87%E9%9A%8A%E7%9B%B4%E6%8E%A5%E9%97%96%E9%80%B2%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD-053951919.html",
+      "context": "MLB運彩分析》10/20 守護者吞連敗陷入落後態勢 光芒盼Peralta率隊直接闖進世界大賽"
+    },
+    {
+      "title": "中信 兄弟",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/122629/9824337",
+      "context": "中職／阪神虎吞27局0才得分終淘汰 兄弟打線太晚甦醒恐步後塵"
+    },
+    {
+      "title": "股災",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "I built a drone with only one motor [video]",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "142 pts / 25 comments",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 81,
+      "traffic": "66 pts / 10 comments",
+      "url": "https://bsd.network/@brynet/117407035545900963",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "澎湖 發票",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E8%B2%A1%E7%A5%9E%E7%9C%B7%E9%A1%A7-%E6%BE%8E%E6%B9%96%E7%94%B7%E9%80%A3%E4%B8%AD2%E6%AC%A1-%E5%8D%83%E8%90%AC%E7%99%BC%E7%A5%A8-%E9%8A%80%E8%A1%8C%E6%8B%92%E5%85%8C%E5%A0%B1%E8%AD%A6%E8%99%95%E7%90%86-083708493.html",
-      "context": "澎湖男連中2期千萬發票？ 銀行拒兌報案 警認非偽造待財政部認定"
-    },
-    {
-      "title": "全民健康保險",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.twreporter.org/a/opinion-senior-citizens-welfare-act-amendment-worsening-inequality",
-      "context": "韓幸紋、滕西華／從稅負到健保費，長者健保費補助政策為何會加深世代分配不公平"
-    },
-    {
-      "title": "楊閔涵",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E6%82%9A-%E7%96%91%E5%8F%B0%E7%81%A3%E9%81%8A%E5%AE%A2-%E9%99%B3%E5%B1%8D%E6%97%A5%E6%9C%AC%E6%B2%B3%E5%8F%A3%E6%B9%96%E9%A3%AF%E5%BA%97-%E8%AD%A6%E5%86%8D%E9%80%AE27%E6%AD%B2%E6%8C%81%E5%88%80%E5%8F%B0%E5%A5%B3-115200961.html",
-      "context": "悚！疑台灣遊客「陳屍日本河口湖飯店」 警再逮27歲持刀台女"
     }
   ],
   "articles": [
     {
-      "topic": "Wine ported to OpenBSD",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Wine ported to OpenBSD」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Wine ported to OpenBSD」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Wine ported to OpenBSD",
-          "url": "https://marc.info/?l=openbsd-ports&m=179236125692175"
-        }
-      ]
-    },
-    {
       "topic": "It's still ok to enjoy programming",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「It's still ok to enjoy programming」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,6 +133,42 @@
           "source": "HACKER NEWS",
           "title": "It's still ok to enjoy programming",
           "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
+        }
+      ]
+    },
+    {
+      "topic": "Wine ported to OpenBSD",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Wine ported to OpenBSD」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Wine ported to OpenBSD」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Wine ported to OpenBSD",
+          "url": "https://marc.info/?l=openbsd-ports&m=179236125692175"
         }
       ]
     },
