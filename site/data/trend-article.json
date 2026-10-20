@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-10-20T08:24:12+08:00",
+  "generated_at": "2026-10-20T16:37:45+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "It's still ok to enjoy programming",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "415 pts / 396 comments",
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Wine ported to OpenBSD",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "487 pts / 162 comments",
+      "score": 91,
+      "traffic": "559 pts / 184 comments",
       "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Timestral: Mistral's time-series foundation models",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "531 pts / 101 comments",
-      "url": "https://mistral.ai/news/timestral/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "MiniMax M3.1 Flash",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "358 pts / 153 comments",
+      "score": 90,
+      "traffic": "459 pts / 194 comments",
       "url": "https://www.minimax.io/blog/minimax-m31f",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I built a drone with only one motor [video]",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "359 pts / 74 comments",
+      "score": 90,
+      "traffic": "528 pts / 110 comments",
       "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Android apps running native on macOS",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "389 pts / 97 comments",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "218 pts / 183 comments",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "France's supermarket fridges were vulnerable online for months",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "245 pts / 124 comments",
-      "url": "https://github.com/kksimp/Mac.apk",
+      "traffic": "156 pts / 128 comments",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "title": "OpenBSD 8.0",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "260 pts / 74 comments",
+      "url": "https://www.openbsd.org/80.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "142 pts / 56 comments",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "traffic": "179 pts / 51 comments",
+      "url": "https://github.com/tywr/Nordwand-Mono",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "title": "An ad-free Android TV",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "163 pts / 73 comments",
-      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "traffic": "191 pts / 54 comments",
+      "url": "https://cretezy.com/2026/ad-free-android-tv",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "光芒 對 守護者",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/mlb%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1020-%E5%AE%88%E8%AD%B7%E8%80%85%E5%90%9E%E9%80%A3%E6%95%97%E9%99%B7%E5%85%A5%E8%90%BD%E5%BE%8C%E6%85%8B%E5%8B%A2-%E5%85%89%E8%8A%92%E7%9B%BCperalta%E7%8E%87%E9%9A%8A%E7%9B%B4%E6%8E%A5%E9%97%96%E9%80%B2%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD-053951919.html",
-      "context": "MLB運彩分析》10/20 守護者吞連敗陷入落後態勢 光芒盼Peralta率隊直接闖進世界大賽"
-    },
-    {
-      "title": "中信 兄弟",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/122629/9824337",
-      "context": "中職／阪神虎吞27局0才得分終淘汰 兄弟打線太晚甦醒恐步後塵"
-    },
-    {
-      "title": "股災",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "title": "Weball: Play Katamari on Websites",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "66 pts / 10 comments",
-      "url": "https://bsd.network/@brynet/117407035545900963",
+      "score": 85,
+      "traffic": "189 pts / 14 comments",
+      "url": "https://www.funwithcomputervision.com/weball/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "余天",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E4%BD%99%E5%A4%A9%E7%BD%B9%E7%99%8C%E5%BE%8C%E6%B6%88%E7%98%A6%E7%8F%BE%E8%BA%AB-%E7%8B%82%E6%8E%A5%E9%81%B8%E8%88%89%E6%B4%BB%E5%8B%95%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-071530585.html",
+      "context": "余天罹癌後消瘦現身！狂接選舉活動原因曝光"
+    },
+    {
+      "title": "強風",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://news.yahoo.co.jp/pickup/6599465",
+      "context": "台風 23-24日頃にかけ先島諸島へ"
     }
   ],
   "articles": [
     {
-      "topic": "It's still ok to enjoy programming",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「It's still ok to enjoy programming」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「It's still ok to enjoy programming」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "It's still ok to enjoy programming",
-          "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"
-        }
-      ]
-    },
-    {
       "topic": "Wine ported to OpenBSD",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Wine ported to OpenBSD」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "Timestral: Mistral's time-series foundation models",
+      "topic": "MiniMax M3.1 Flash",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Timestral: Mistral's time-series foundation models」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「MiniMax M3.1 Flash」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Timestral: Mistral's time-series foundation models」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「MiniMax M3.1 Flash」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Timestral: Mistral's time-series foundation models",
-          "url": "https://mistral.ai/news/timestral/"
+          "title": "MiniMax M3.1 Flash",
+          "url": "https://www.minimax.io/blog/minimax-m31f"
+        }
+      ]
+    },
+    {
+      "topic": "I built a drone with only one motor [video]",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「I built a drone with only one motor [video]」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「I built a drone with only one motor [video]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "I built a drone with only one motor [video]",
+          "url": "https://www.youtube.com/watch?v=Ndftcft6XhU"
         }
       ]
     }
