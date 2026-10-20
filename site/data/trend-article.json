@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-20T16:37:45+08:00",
+  "generated_at": "2026-10-20T22:21:35+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Wine ported to OpenBSD",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "559 pts / 184 comments",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "context": "High-engagement technology discussion"
+      "title": "明天的天氣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 95,
+      "traffic": "50000+",
+      "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E4%BE%B5%E8%A5%B2%E7%8E%87%E6%9C%80%E6%96%B0%E9%A0%90%E4%BC%B0-6%E7%B8%A3%E5%B8%82%E7%AA%81%E7%A0%B4%E4%BA%94%E6%88%90-%E5%9F%BA%E9%9A%86%E3%80%81%E5%AE%9C%E8%98%AD%E9%81%9461%EF%BC%85-074446514.html",
+      "context": "颱風薔琵暴風侵襲率最新預估 6縣市突破五成 基隆、宜蘭達61％"
     },
     {
-      "title": "MiniMax M3.1 Flash",
+      "title": "DeepSeek just open-sourced its inference engine",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "459 pts / 194 comments",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I built a drone with only one motor [video]",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "528 pts / 110 comments",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 94,
+      "traffic": "1179 pts / 416 comments",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "389 pts / 97 comments",
+      "score": 91,
+      "traffic": "618 pts / 175 comments",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "218 pts / 183 comments",
+      "score": 91,
+      "traffic": "425 pts / 351 comments",
       "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "France's supermarket fridges were vulnerable online for months",
+      "title": "台灣大賽",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "539",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://tw.news.yahoo.com/%E5%A8%81%E5%8A%9B%E5%BD%A9%E9%A0%AD%E7%8D%8E2%E5%84%84-4%E7%94%9F%E8%82%96%E8%B2%A1%E9%81%8B%E5%A4%A7%E8%B1%90%E6%94%B6-%E7%BF%BB%E8%BA%AB%E6%9A%B4%E5%AF%8C%E4%B8%8D%E6%98%AF%E5%A4%A2-075034060.html",
+      "context": "威力彩頭獎2億！4生肖財運大豐收 翻身暴富不是夢"
+    },
+    {
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "156 pts / 128 comments",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "score": 89,
+      "traffic": "424 pts / 123 comments",
+      "url": "https://github.com/tywr/Nordwand-Mono",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "OpenBSD 8.0",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "260 pts / 74 comments",
+      "score": 89,
+      "traffic": "395 pts / 124 comments",
       "url": "https://www.openbsd.org/80.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "179 pts / 51 comments",
-      "url": "https://github.com/tywr/Nordwand-Mono",
+      "traffic": "222 pts / 20 comments",
+      "url": "https://github.com/microg/GmsCore/wiki",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "An ad-free Android TV",
+      "title": "Google cloud outage takes down banks",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "191 pts / 54 comments",
-      "url": "https://cretezy.com/2026/ad-free-android-tv",
+      "traffic": "167 pts / 69 comments",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Weball: Play Katamari on Websites",
+      "title": "Apple broke an essential presentation feature of iPads",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "189 pts / 14 comments",
-      "url": "https://www.funwithcomputervision.com/weball/",
+      "traffic": "116 pts / 50 comments",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "余天",
+      "title": "郭忠祐",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E4%BD%99%E5%A4%A9%E7%BD%B9%E7%99%8C%E5%BE%8C%E6%B6%88%E7%98%A6%E7%8F%BE%E8%BA%AB-%E7%8B%82%E6%8E%A5%E9%81%B8%E8%88%89%E6%B4%BB%E5%8B%95%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-071530585.html",
-      "context": "余天罹癌後消瘦現身！狂接選舉活動原因曝光"
-    },
-    {
-      "title": "強風",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.yahoo.co.jp/pickup/6599465",
-      "context": "台風 23-24日頃にかけ先島諸島へ"
+      "url": "https://www.mirrormedia.mg/external/setn_1925660",
+      "context": "郭忠祐穩交黃露瑤　準岳父認證他這一點"
     }
   ],
   "articles": [
     {
-      "topic": "Wine ported to OpenBSD",
+      "topic": "明天的天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Wine ported to OpenBSD」開始升溫，我們真正該看的不是熱度",
+      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Wine ported to OpenBSD」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。颱風薔琵暴風侵襲率最新預估 6縣市突破五成 基隆、宜蘭達61％。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Wine ported to OpenBSD",
-          "url": "https://marc.info/?l=openbsd-ports&m=179236125692175"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "明天的天氣",
+          "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E6%9A%B4%E9%A2%A8%E4%BE%B5%E8%A5%B2%E7%8E%87%E6%9C%80%E6%96%B0%E9%A0%90%E4%BC%B0-6%E7%B8%A3%E5%B8%82%E7%AA%81%E7%A0%B4%E4%BA%94%E6%88%90-%E5%9F%BA%E9%9A%86%E3%80%81%E5%AE%9C%E8%98%AD%E9%81%9461%EF%BC%85-074446514.html"
         }
       ]
     },
     {
-      "topic": "MiniMax M3.1 Flash",
+      "topic": "DeepSeek just open-sourced its inference engine",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「MiniMax M3.1 Flash」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DeepSeek just open-sourced its inference engine」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「MiniMax M3.1 Flash」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DeepSeek just open-sourced its inference engine」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "MiniMax M3.1 Flash",
-          "url": "https://www.minimax.io/blog/minimax-m31f"
+          "title": "DeepSeek just open-sourced its inference engine",
+          "url": "https://github.com/deepseek-ai/DeepInfer"
         }
       ]
     },
     {
-      "topic": "I built a drone with only one motor [video]",
+      "topic": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「I built a drone with only one motor [video]」開始升溫，我們真正該看的不是熱度",
+      "title": "當「WhatsApp's help pages hid LLM instructions: dont recommend a regulator」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I built a drone with only one motor [video]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「WhatsApp's help pages hid LLM instructions: dont recommend a regulator」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "I built a drone with only one motor [video]",
-          "url": "https://www.youtube.com/watch?v=Ndftcft6XhU"
+          "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
         }
       ]
     }
