@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-21T19:56:55+08:00",
+  "generated_at": "2026-10-22T01:16:32+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "title": "PHP 8.2.35",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1069 pts / 442 comments",
-      "url": "https://news-web.php.net/php.announce/509",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: SimCity, but with Permits",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "825 pts / 384 comments",
-      "url": "https://permit.petercai.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "eMudhra intermediate CA compromise",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1021 pts / 415 comments",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "355 pts / 380 comments",
-      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Voxtral 3",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "703 pts / 173 comments",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Future of CSS",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "416 pts / 170 comments",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "score": 92,
+      "traffic": "707 pts / 286 comments",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "229 pts / 97 comments",
+      "score": 92,
+      "traffic": "629 pts / 275 comments",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "209 pts / 97 comments",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "score": 89,
+      "traffic": "375 pts / 136 comments",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "伊隆·馬斯克",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "169 pts / 86 comments",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "152 pts / 60 comments",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "220 pts / 24 comments",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "144 pts / 76 comments",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "高鐵訂票",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.storm.mg/lifestyle/11174247",
+      "context": "台鐵宣布重大新制！11/10起搭車訂票規則大改，將比照「高鐵模式」更方便了 | 社群中心 | 風生活"
+    },
+    {
+      "title": "台 虹",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.stock.yahoo.com/news/6%E5%A4%A9%E9%A3%865%E6%88%90%E5%88%97%E6%B3%A8%E6%84%8F%E8%82%A1%EF%BC%81%E3%80%8C%E8%BC%9D%E9%81%94%E6%A6%82%E5%BF%B5%E8%82%A1%E3%80%8D%E5%8F%B0%E9%83%A1%E8%87%AA%E7%B5%908%E6%9C%88%E6%AF%8F%E8%82%A1%E8%99%A7001%E5%85%83-%E5%B9%B4%E6%B8%9B98-085911152.html",
+      "context": "6天飆50%列注意股！「輝達概念股」台郡自結8月每股虧0.01元 年減98%"
+    },
+    {
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "70 pts / 43 comments",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "科莫 對 曼聯",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.ithome.com.tw/news/179849",
-      "context": "SpaceX第三季轉虧為盈，AI業務營收暴增830%"
+      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1022-%E6%9B%BC%E8%81%AF6%E5%A0%B4%E4%B8%8D%E5%8B%9D%E5%8F%88%E9%81%87%E5%82%B7%E5%85%B5%E6%BD%AE-%E7%A7%91%E8%8E%AB%E4%B8%BB%E5%A0%B4%E5%85%B7%E7%88%86%E5%86%B7%E6%9C%AC%E9%8C%A2-092853436.html",
+      "context": "足球運彩分析》10/22 曼聯6場不勝又遇傷兵潮 科莫主場具爆冷本錢"
     },
     {
-      "title": "The Decoherence Trap",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "63 pts / 19 comments",
-      "url": "https://maevyn.codes/decoherence",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Does Ruby on Rails still make sense?",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "29 pts / 20 comments",
-      "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Whatever Happened to Fire Escapes",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "35 pts / 14 comments",
-      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "traffic": "61 pts / 17 comments",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "topic": "PHP 8.2.35",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Upcoming critical PHP security release (CVE-2026-109618 / -109619)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「PHP 8.2.35」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Upcoming critical PHP security release (CVE-2026-109618 / -109619)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「PHP 8.2.35」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-          "url": "https://news-web.php.net/php.announce/509"
+          "title": "PHP 8.2.35",
+          "url": "https://github.com/php/php-src/releases/tag/php-8.2.35"
         }
       ]
     },
     {
-      "topic": "Show HN: SimCity, but with Permits",
+      "topic": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Show HN: SimCity, but with Permits」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Show HN: SimCity, but with Permits」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Show HN: SimCity, but with Permits",
-          "url": "https://permit.petercai.com/"
+          "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
         }
       ]
     },
     {
-      "topic": "eMudhra intermediate CA compromise",
+      "topic": "PHP2Shell: AI uncovers critical RCE in PHP",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「eMudhra intermediate CA compromise」開始升溫，我們真正該看的不是熱度",
+      "title": "當「PHP2Shell: AI uncovers critical RCE in PHP」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「eMudhra intermediate CA compromise」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「PHP2Shell: AI uncovers critical RCE in PHP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "eMudhra intermediate CA compromise",
-          "url": "https://emudhra.we-have-a-problem.com/"
+          "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce"
         }
       ]
     }
