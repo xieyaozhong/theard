@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-22T01:16:32+08:00",
+  "generated_at": "2026-10-22T05:46:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "PHP 8.2.35",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "707 pts / 286 comments",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "629 pts / 275 comments",
+      "score": 93,
+      "traffic": "773 pts / 381 comments",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "title": "Today's PHP security release, and how we're strengthening security",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "375 pts / 136 comments",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 91,
+      "traffic": "525 pts / 269 comments",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "title": "EA is shutting down BioWare",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "169 pts / 86 comments",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "score": 91,
+      "traffic": "400 pts / 246 comments",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "152 pts / 60 comments",
+      "score": 89,
+      "traffic": "354 pts / 118 comments",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Claude Duet",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "198 pts / 173 comments",
+      "url": "https://claude.com/product/claude-duet",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "207 pts / 117 comments",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "220 pts / 24 comments",
+      "score": 87,
+      "traffic": "327 pts / 37 comments",
       "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "144 pts / 76 comments",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 85,
+      "traffic": "86 pts / 55 comments",
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "高鐵訂票",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.storm.mg/lifestyle/11174247",
-      "context": "台鐵宣布重大新制！11/10起搭車訂票規則大改，將比照「高鐵模式」更方便了 | 社群中心 | 風生活"
-    },
-    {
-      "title": "台 虹",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/6%E5%A4%A9%E9%A3%865%E6%88%90%E5%88%97%E6%B3%A8%E6%84%8F%E8%82%A1%EF%BC%81%E3%80%8C%E8%BC%9D%E9%81%94%E6%A6%82%E5%BF%B5%E8%82%A1%E3%80%8D%E5%8F%B0%E9%83%A1%E8%87%AA%E7%B5%908%E6%9C%88%E6%AF%8F%E8%82%A1%E8%99%A7001%E5%85%83-%E5%B9%B4%E6%B8%9B98-085911152.html",
-      "context": "6天飆50%列注意股！「輝達概念股」台郡自結8月每股虧0.01元 年減98%"
-    },
-    {
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "title": "GitLab Critical Patch Release",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "70 pts / 43 comments",
-      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "traffic": "128 pts / 27 comments",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "科莫 對 曼聯",
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "126 pts / 23 comments",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "費城半導體指數",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1022-%E6%9B%BC%E8%81%AF6%E5%A0%B4%E4%B8%8D%E5%8B%9D%E5%8F%88%E9%81%87%E5%82%B7%E5%85%B5%E6%BD%AE-%E7%A7%91%E8%8E%AB%E4%B8%BB%E5%A0%B4%E5%85%B7%E7%88%86%E5%86%B7%E6%9C%AC%E9%8C%A2-092853436.html",
-      "context": "足球運彩分析》10/22 曼聯6場不勝又遇傷兵潮 科莫主場具爆冷本錢"
+      "url": "https://finance.ettoday.net/news/3258596",
+      "context": "逾18萬股民注意！00830分割時間表曝光　每張估2萬元甜甜價"
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "source": "HACKER NEWS",
+      "title": "สภาพอากาศ",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "61 pts / 17 comments",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "context": "High-engagement technology discussion"
+      "traffic": "500+",
+      "url": "https://today.line.me/th/v3/article/oqpvpv5?referral=Newscentral",
+      "context": "พยากรณ์อากาศประจำวันที่ 20 ตุลาคม 2569 กรุงเทพและปริมณฑล มีฝนฟ้าคะนอง ร้อยละ 60 ของพื้นที่ | สวพ.FM91"
     }
   ],
   "articles": [
     {
-      "topic": "PHP 8.2.35",
+      "topic": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「PHP 8.2.35」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「PHP 8.2.35」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,57 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "PHP 8.2.35",
-          "url": "https://github.com/php/php-src/releases/tag/php-8.2.35"
-        }
-      ]
-    },
-    {
-      "topic": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+          "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
           "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
         }
       ]
     },
     {
-      "topic": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "topic": "Today's PHP security release, and how we're strengthening security",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「PHP2Shell: AI uncovers critical RCE in PHP」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Today's PHP security release, and how we're strengthening security」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「PHP2Shell: AI uncovers critical RCE in PHP」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Today's PHP security release, and how we're strengthening security」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce"
+          "title": "Today's PHP security release, and how we're strengthening security",
+          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+        }
+      ]
+    },
+    {
+      "topic": "EA is shutting down BioWare",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「EA is shutting down BioWare」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「EA is shutting down BioWare」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "EA is shutting down BioWare",
+          "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
         }
       ]
     }
