@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-22T19:59:12+08:00",
+  "generated_at": "2026-10-23T01:14:59+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Claude Duet",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "427 pts / 387 comments",
-      "url": "https://claude.com/product/claude-duet",
+      "traffic": "544 pts / 416 comments",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Security Disclosure",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "490 pts / 287 comments",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "540 pts / 174 comments",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "No more icons in every menu by default",
-      "source": "HACKER NEWS",
+      "title": "外送",
+      "source": "GOOGLE TRENDS / TW",
       "score": 90,
-      "traffic": "352 pts / 212 comments",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Rust Style Guide",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "326 pts / 194 comments",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "220 pts / 160 comments",
-      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "281 pts / 89 comments",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "172 pts / 43 comments",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "context": "High-engagement technology discussion"
+      "traffic": "10000+",
+      "url": "https://fashion.ettoday.net/news/3259476",
+      "context": "薔琵颱風來襲北部10百貨宣布停業 連鎖3百貨明宣布"
     },
     {
       "title": "Jailbreaking the Switch 2",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 19 comments",
+      "score": 90,
+      "traffic": "496 pts / 181 comments",
       "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "title": "Quad9 (DNS Resolver) to Exit France",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "59 pts / 11 comments",
-      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "score": 88,
+      "traffic": "322 pts / 100 comments",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "title": "What Is Gridifcation",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "41 pts / 8 comments",
-      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "score": 88,
+      "traffic": "249 pts / 112 comments",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "艾琳娜·芮芭奇娜",
+      "title": "What's Getting Pwned",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "169 pts / 105 comments",
+      "url": "https://pwn.watch/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "125 pts / 74 comments",
+      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Arc Is Sunsetting",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "56 pts / 36 comments",
+      "url": "https://arc.net/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "75 pts / 34 comments",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "英雄聯盟世界大賽",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E7%8D%A8%EF%BC%8Fgen-canyon%E8%AE%9A%E3%80%8C%E5%8F%B0%E7%81%A3%E9%81%B8%E6%89%8B%E5%BE%88%E5%8E%B2%E5%AE%B3%E3%80%8D-%E5%9D%A6%E8%A8%80%E4%B8%96%E7%95%8C%E8%B3%BD%E7%8B%80%E6%85%8B%E5%83%857%E3%80%818%E6%88%90-053853935.html",
+      "context": "獨／GEN Canyon讚「台灣選手很厲害」 坦言世界賽狀態僅7、8成"
+    },
+    {
+      "title": "歐聯",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://www.nytimes.com/athletic/7696510/2026/10/19/maja-chwalinska-wuhan-open-tennis-rankings-system-rise/",
-      "context": "Why Maja Chwalińska’s Wuhan Open title explains the pitfalls of a tennis fairy tale - The Athletic"
+      "url": "https://tw.sports.yahoo.com/news/%E6%AD%90%E5%86%A0-%E6%9B%BC%E8%81%AF%E6%9C%89%E5%A4%A0%E6%85%98%E8%B8%A2%E8%BC%B8%E7%BE%A9%E7%94%B2%E7%A7%91%E8%8E%AB-%E5%90%84%E9%A0%85%E8%B3%BD%E4%BA%8B%E9%80%A3%E7%BA%8C7%E5%A0%B4%E4%B8%8D%E5%8B%9D-025000506.html",
+      "context": "歐冠》曼聯有夠慘踢輸義甲科莫 各項賽事連續7場不勝"
+    },
+    {
+      "title": "庫藏股",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%87%8D%E8%B3%87%E5%8F%B0%E8%82%A18%E5%8D%83%E5%84%84%E3%80%8C%E5%90%B8%E9%87%91%E6%80%AA%E7%8D%B8%E3%80%8D%E6%BC%A2%E6%B8%AC%E4%B8%8A%E6%AB%83%E4%B8%80%E5%80%8B%E6%9C%88%E5%B0%B1%E5%BA%AB%E8%97%8F%E8%82%A1%E8%87%AA%E6%95%91%EF%BC%81%E6%98%8E%E8%B5%B7%E8%B2%B7%E5%9B%9E%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A830%E8%90%AC%E8%82%A1-110008659.html",
+      "context": "凍資台股8千億「吸金怪獸」漢測上櫃一個月就庫藏股自救！明起買回自家股票30萬股"
     }
   ],
   "articles": [
     {
-      "topic": "Claude Duet",
+      "topic": "eMudhra to exit global SSL/TLS certificate business",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Claude Duet」開始升溫，我們真正該看的不是熱度",
+      "title": "當「eMudhra to exit global SSL/TLS certificate business」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Claude Duet」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「eMudhra to exit global SSL/TLS certificate business」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Claude Duet",
-          "url": "https://claude.com/product/claude-duet"
+          "title": "eMudhra to exit global SSL/TLS certificate business",
+          "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
         }
       ]
     },
     {
-      "topic": "Security Disclosure",
+      "topic": "外送",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Security Disclosure」開始升溫，我們真正該看的不是熱度",
+      "title": "當「外送」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Security Disclosure」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「外送」推到更高的注意力位置。薔琵颱風來襲北部10百貨宣布停業 連鎖3百貨明宣布。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,22 +166,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Security Disclosure",
-          "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "外送",
+          "url": "https://fashion.ettoday.net/news/3259476"
         }
       ]
     },
     {
-      "topic": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "topic": "Jailbreaking the Switch 2",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Jailbreaking the Switch 2」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Jailbreaking the Switch 2」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+          "title": "Jailbreaking the Switch 2",
+          "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
         }
       ]
     }
