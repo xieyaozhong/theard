@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-10-22T12:55:43+08:00",
+  "generated_at": "2026-10-22T19:59:12+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "Claude Duet",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "427 pts / 387 comments",
+      "url": "https://claude.com/product/claude-duet",
+      "context": "High-engagement technology discussion"
+    },
+    {
       "title": "Security Disclosure",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "377 pts / 216 comments",
+      "score": 91,
+      "traffic": "490 pts / 287 comments",
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "466 pts / 158 comments",
+      "score": 91,
+      "traffic": "540 pts / 174 comments",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "301 pts / 144 comments",
-      "url": "https://eliastaylor.com/noexploit/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Rust Style Guide",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "255 pts / 138 comments",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "mitmproxy adds --emudhra option",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "348 pts / 94 comments",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "No more icons in every menu by default",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "227 pts / 156 comments",
+      "score": 90,
+      "traffic": "352 pts / 212 comments",
       "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GitLab critical patch release",
+      "title": "Rust Style Guide",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "285 pts / 70 comments",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "score": 90,
+      "traffic": "326 pts / 194 comments",
+      "url": "https://google.github.io/styleguide/rustguide.html",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "好市多黑五",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%A5%BD%E5%B8%82%E5%A4%9A%E9%BB%91%E4%BA%94%E6%94%B9%E5%88%B6-%E9%BB%91%E9%91%BD%E5%8D%A1-%E6%8F%90%E6%97%A9%E9%80%B2%E5%A0%B4-%E6%9C%83%E5%93%A1%E7%9C%8B%E6%99%82%E9%96%93%E5%82%BB%E7%9C%BC-022600179.html",
-      "context": "好市多黑五改制！黑鑽卡「提早進場」 會員看時間傻眼"
-    },
-    {
-      "title": "台股",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E9%82%84%E6%B2%92%E7%99%BB%E9%99%B8-50%E8%90%AC%E6%95%A3%E6%88%B6%E5%85%88%E6%94%BE%E3%80%8C%E9%A2%B1%E9%A2%A8%E5%81%87%E3%80%8D%E9%80%80%E5%A0%B4-%E4%BA%BA%E6%B0%A3%E5%A4%A7%E6%B8%9B3%E5%88%86%E4%B9%8B1-025940972.html",
-      "context": "薔琵颱風還沒登陸 50萬散戶先放「颱風假」退場 人氣大減3分之1"
     },
     {
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "65 pts / 28 comments",
+      "score": 89,
+      "traffic": "220 pts / 160 comments",
       "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Chain of Thought for Humans",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "58 pts / 27 comments",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "score": 88,
+      "traffic": "281 pts / 89 comments",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Using LLM for confidence scoring is a bad idea",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "172 pts / 43 comments",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "82 pts / 19 comments",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "33 pts / 25 comments",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "traffic": "59 pts / 11 comments",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "41 pts / 8 comments",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "艾琳娜·芮芭奇娜",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.nytimes.com/athletic/7696510/2026/10/19/maja-chwalinska-wuhan-open-tennis-rankings-system-rise/",
+      "context": "Why Maja Chwalińska’s Wuhan Open title explains the pitfalls of a tennis fairy tale - The Athletic"
     }
   ],
   "articles": [
     {
-      "topic": "Security Disclosure",
+      "topic": "Claude Duet",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「Claude Duet」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Claude Duet」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Claude Duet",
+          "url": "https://claude.com/product/claude-duet"
+        }
+      ]
+    },
+    {
+      "topic": "Security Disclosure",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Security Disclosure」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -139,7 +175,7 @@
     {
       "topic": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
           "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
-        }
-      ]
-    },
-    {
-      "topic": "There isn't an easy exploit for this PHP vulnerability",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「There isn't an easy exploit for this PHP vulnerability」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「There isn't an easy exploit for this PHP vulnerability」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "There isn't an easy exploit for this PHP vulnerability",
-          "url": "https://eliastaylor.com/noexploit/"
         }
       ]
     }
