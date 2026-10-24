@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-25T00:00:23+08:00",
+  "generated_at": "2026-10-25T04:54:12+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1012 pts / 613 comments",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1006 pts / 632 comments",
-      "url": "https://blog.calif.io/p/iphone",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "416 pts / 141 comments",
-      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OBS Studio 33",
+      "title": "I don't understand quantum physics (2018)",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "333 pts / 108 comments",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I Don't Understand Quantum Physics (2018)",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "190 pts / 134 comments",
+      "traffic": "240 pts / 179 comments",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Twelve years of distributed SQLite",
+      "title": "No Signs of AI Payoff Outside the Tech Sector",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "299 pts / 44 comments",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "score": 88,
+      "traffic": "185 pts / 138 comments",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "200 pts / 137 comments",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "FreeDNS",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "143 pts / 70 comments",
-      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "traffic": "201 pts / 55 comments",
+      "url": "https://freedns.afraid.org/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Physicists trap a single antimatter particle for a month",
+      "title": "twitch",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.pokemon.com/us/news/tune-in-to-the-pokemon-night-out-livestream",
+      "context": "Tune in to the Pokémon Night Out Livestream"
+    },
+    {
+      "title": "Dream-1",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "174 pts / 58 comments",
-      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "score": 85,
+      "traffic": "99 pts / 54 comments",
+      "url": "https://dreamlabs.ai/research/dream-1/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Appreciating the beauty of all your body's scars and scratches",
+      "title": "Danish Government silently drops plan to dump MS Office",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "114 pts / 62 comments",
+      "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Goose Programming Language",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "51 pts / 32 comments",
-      "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "traffic": "84 pts / 30 comments",
+      "url": "https://aardappel.github.io/goose/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "比特幣",
+      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "74 pts / 35 comments",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "世界賽賽程",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en",
+      "context": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\""
     },
     {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "title": "切爾西 對 熱刺",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://today.line.me/tw/v3/article/RBK13jm",
+      "context": "英超熱刺2比0破切爾西 克服36年作客魔咒奪勝 | 民視新聞網"
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "43 pts / 24 comments",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "48 pts / 6 comments",
-      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "traffic": "69 pts / 15 comments",
+      "url": "https://de.numista.com/9866",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "topic": "I don't understand quantum physics (2018)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Kimi K3.1 Pro and K3.1 Pro Highspeed」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I don't understand quantum physics (2018)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Kimi K3.1 Pro and K3.1 Pro Highspeed」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I don't understand quantum physics (2018)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
+          "title": "I don't understand quantum physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
         }
       ]
     },
     {
-      "topic": "Today, we hacked what we'd set out to hack: the iPhone",
+      "topic": "No Signs of AI Payoff Outside the Tech Sector",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Today, we hacked what we'd set out to hack: the iPhone」開始升溫，我們真正該看的不是熱度",
+      "title": "當「No Signs of AI Payoff Outside the Tech Sector」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Today, we hacked what we'd set out to hack: the iPhone」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「No Signs of AI Payoff Outside the Tech Sector」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Today, we hacked what we'd set out to hack: the iPhone",
-          "url": "https://blog.calif.io/p/iphone"
+          "title": "No Signs of AI Payoff Outside the Tech Sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
         }
       ]
     },
     {
-      "topic": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "topic": "Roku developer repositories moved from GitHub to GitLab",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Around a dozen banking apps began specifically permitting GrapheneOS」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Roku developer repositories moved from GitHub to GitLab」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Around a dozen banking apps began specifically permitting GrapheneOS」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Roku developer repositories moved from GitHub to GitLab」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-          "url": "https://grapheneos.social/@GrapheneOS/117492375462459244"
+          "title": "Roku developer repositories moved from GitHub to GitLab",
+          "url": "https://blog.roku.com/developer/gitlab-move"
         }
       ]
     }
