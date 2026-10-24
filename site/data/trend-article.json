@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-25T04:54:12+08:00",
+  "generated_at": "2026-10-25T07:18:47+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "I don't understand quantum physics (2018)",
+      "title": "Show HN: Steal My Bitcoin",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "240 pts / 179 comments",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "No Signs of AI Payoff Outside the Tech Sector",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "185 pts / 138 comments",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "traffic": "320 pts / 160 comments",
+      "url": "https://stealmybitcoin.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Roku developer repositories moved from GitHub to GitLab",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "200 pts / 137 comments",
+      "score": 89,
+      "traffic": "232 pts / 155 comments",
       "url": "https://blog.roku.com/developer/gitlab-move",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "FreeDNS",
+      "title": "I don't understand quantum physics (2018)",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "201 pts / 55 comments",
-      "url": "https://freedns.afraid.org/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "twitch",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.pokemon.com/us/news/tune-in-to-the-pokemon-night-out-livestream",
-      "context": "Tune in to the Pokémon Night Out Livestream"
-    },
-    {
-      "title": "Dream-1",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "99 pts / 54 comments",
-      "url": "https://dreamlabs.ai/research/dream-1/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Danish Government silently drops plan to dump MS Office",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "114 pts / 62 comments",
-      "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+      "score": 89,
+      "traffic": "266 pts / 197 comments",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The Goose Programming Language",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "84 pts / 30 comments",
+      "score": 88,
+      "traffic": "166 pts / 129 comments",
       "url": "https://aardappel.github.io/goose/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+      "title": "FreeDNS",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "74 pts / 35 comments",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+      "score": 87,
+      "traffic": "229 pts / 60 comments",
+      "url": "https://freedns.afraid.org/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "世界賽賽程",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en",
-      "context": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\""
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "89 pts / 56 comments",
+      "url": "https://missileer.watch",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "切爾西 對 熱刺",
+      "title": "光復節",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://today.line.me/tw/v3/article/RBK13jm",
-      "context": "英超熱刺2比0破切爾西 克服36年作客魔咒奪勝 | 民視新聞網"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "69 pts / 15 comments",
+      "score": 83,
+      "traffic": "82 pts / 24 comments",
       "url": "https://de.numista.com/9866",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "台 股",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E9%9F%93%E8%82%A1%E5%B4%A9%E8%B7%8C40-%E5%8F%B0%E8%82%A1%E5%83%85%E8%B7%8C4-%E5%B0%88%E5%AE%B6%E6%96%B7%E8%A8%80-%E6%83%85%E6%B3%81%E5%BE%88%E6%98%8E%E9%A1%AF%E4%BA%86-071300752.html",
+      "context": "韓股崩跌40%「台股僅跌4%」！ 專家斷言：情況很明顯了"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "30 pts / 20 comments",
+      "url": "https://danluu.com/ambitious/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "42 pts / 8 comments",
+      "url": "https://www.speedcrunch.org/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "liga inggris",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.vietnam.vn/id/khac-tinh-khien-man-city-dut-mach-toan-thang-tai-ngoai-hang-anh",
+      "context": "'Musuh bebuyutan' yang mengakhiri rentetan kemenangan Man City di Liga Premier."
     }
   ],
   "articles": [
     {
-      "topic": "I don't understand quantum physics (2018)",
+      "topic": "Show HN: Steal My Bitcoin",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「I don't understand quantum physics (2018)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Show HN: Steal My Bitcoin」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I don't understand quantum physics (2018)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Show HN: Steal My Bitcoin」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,51 +131,15 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "I don't understand quantum physics (2018)",
-          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
-        }
-      ]
-    },
-    {
-      "topic": "No Signs of AI Payoff Outside the Tech Sector",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「No Signs of AI Payoff Outside the Tech Sector」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「No Signs of AI Payoff Outside the Tech Sector」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "No Signs of AI Payoff Outside the Tech Sector",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+          "title": "Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com/"
         }
       ]
     },
     {
       "topic": "Roku developer repositories moved from GitHub to GitLab",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Roku developer repositories moved from GitHub to GitLab」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Roku developer repositories moved from GitHub to GitLab",
           "url": "https://blog.roku.com/developer/gitlab-move"
+        }
+      ]
+    },
+    {
+      "topic": "I don't understand quantum physics (2018)",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「I don't understand quantum physics (2018)」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「I don't understand quantum physics (2018)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "I don't understand quantum physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
         }
       ]
     }
