@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-24T19:08:32+08:00",
+  "generated_at": "2026-10-25T00:00:23+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "927 pts / 550 comments",
+      "traffic": "1012 pts / 613 comments",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "context": "High-engagement technology discussion"
     },
@@ -14,88 +14,88 @@
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "902 pts / 589 comments",
+      "traffic": "1006 pts / 632 comments",
       "url": "https://blog.calif.io/p/iphone",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1393 pts / 236 comments",
-      "url": "https://edjefferson.com/localwiki/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Apple Music 404 Not Found",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "781 pts / 237 comments",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OBS Studio 33",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "173 pts / 53 comments",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Twelve years of distributed SQLite",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "218 pts / 32 comments",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "油價",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://news.ebc.net.tw/news/living/577324",
-      "context": "快訊／中油油價公布了！汽油、柴油價格一次看"
-    },
-    {
-      "title": "肯德基",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
-      "context": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S."
-    },
-    {
-      "title": "淹水",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5616924",
-      "context": "本土女星親姊遭洪水沖走身亡 颱風天留下遺憾成了永遠的痛"
-    },
-    {
-      "title": "How close can pure functional programming get to C?",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "134 pts / 19 comments",
-      "url": "https://rtfeldman.com/fp-vs-c",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "128 pts / 21 comments",
+      "score": 90,
+      "traffic": "416 pts / 141 comments",
       "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "title": "OBS Studio 33",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "104 pts / 30 comments",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "score": 89,
+      "traffic": "333 pts / 108 comments",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "190 pts / 134 comments",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "299 pts / 44 comments",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "143 pts / 70 comments",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "174 pts / 58 comments",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Appreciating the beauty of all your body's scars and scratches",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "51 pts / 32 comments",
+      "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "比特幣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "43 pts / 24 comments",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "48 pts / 6 comments",
+      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "topic": "Around a dozen banking apps began specifically permitting GrapheneOS",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Local Wikipedia: Wikipedia, but only for things a half hour walk from you」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Around a dozen banking apps began specifically permitting GrapheneOS」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Local Wikipedia: Wikipedia, but only for things a half hour walk from you」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Around a dozen banking apps began specifically permitting GrapheneOS」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-          "url": "https://edjefferson.com/localwiki/"
+          "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+          "url": "https://grapheneos.social/@GrapheneOS/117492375462459244"
         }
       ]
     }
