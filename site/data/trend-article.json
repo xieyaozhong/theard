@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-26T04:55:01+08:00",
+  "generated_at": "2026-10-26T07:18:32+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "286 pts / 140 comments",
+      "score": 90,
+      "traffic": "366 pts / 180 comments",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "267 pts / 130 comments",
+      "score": 90,
+      "traffic": "345 pts / 170 comments",
       "url": "https://talkweb.eu/openweb/4558/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "227 pts / 52 comments",
+      "score": 88,
+      "traffic": "323 pts / 82 comments",
       "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Dolly Parton's Imagination Library",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "194 pts / 31 comments",
+      "score": 87,
+      "traffic": "297 pts / 53 comments",
       "url": "https://imaginationlibrary.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "JetBrains Thinkrail",
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "97 pts / 56 comments",
-      "url": "https://github.com/JetBrains/thinkrail",
+      "score": 86,
+      "traffic": "150 pts / 58 comments",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "f1",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "55 pts / 69 comments",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "胡小禎",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/25/united-states-grand-prix-formula-one-live",
-      "context": "United States Grand Prix: Formula One – live"
+      "url": "https://stars.udn.com/star/story/10091/9836625?end",
+      "context": "金鐘61／小禎飆歌驚豔全場！網友狂敲碗：下一屆主持人"
     },
     {
-      "title": "巴塞隆納 對 皇家馬德里",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://today.line.me/tw/v3/article/3N1mnKk",
-      "context": "西甲國家德比前夕傳利空 皇家馬德里門將染流感缺陣 | 民視新聞網"
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "78 pts / 19 comments",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "西甲",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://bbs.hupu.com/643263591.html",
-      "context": "[流言板]马卡：凯恩疑似压倒姆巴佩获金球，穆帅加强中场以对抗巴萨"
+      "title": "Why I Am a Programmer",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "88 pts / 15 comments",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "context": "High-engagement technology discussion"
     },
     {
       "title": "Eunice is almost here",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "25 pts / 19 comments",
+      "score": 83,
+      "traffic": "50 pts / 43 comments",
       "url": "https://armincat.com/articles/eunice-is-almost-here",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "爵士 對 湖人",
+      "title": "速 克 達",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://sports.sina.cn/nba/other/2026-10-25/detail-iniwmxsn2972103.d.html?vt=4",
-      "context": "NBA彩经：爵士力拼湖人 雷霆击沉快船 76人拿下活塞"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "f1直播",
+      "title": "thứ hạng của man utd gặp bournemouth",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-united-states-gp.6GuFxNKHQ7TgdoH0Cc78TD",
-      "context": "What are the tyre strategy options for the United States GP?"
-    },
-    {
-      "title": "barcelona vs madrid",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://es-us.noticias.yahoo.com/deportes/equipaci%C3%B3n-barcelona-golf-delantera-192608102.html",
-      "context": "¿Por qué la equipación del Barcelona lleva 'GOLF' en la parte delantera?"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.24h.com.vn/bong-da/tin-moi-nhat-bong-da-sang-26-10-fan-mu-ung-ho-carrick-la-o-cau-thu-lanh-dao-c48a1805636.html",
+      "context": "Tin mới nhất bóng đá sáng 26/10: Fan MU ủng hộ Carrick, la ó cầu thủ & lãnh đạo"
     }
   ],
   "articles": [
