@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-25T12:48:47+08:00",
+  "generated_at": "2026-10-25T19:38:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "We should be more ambitious with the software we build",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "274 pts / 235 comments",
+      "score": 92,
+      "traffic": "465 pts / 410 comments",
       "url": "https://danluu.com/ambitious/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "251 pts / 261 comments",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The Goose Programming Language",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "304 pts / 186 comments",
+      "score": 91,
+      "traffic": "430 pts / 263 comments",
       "url": "https://aardappel.github.io/goose/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "147 pts / 98 comments",
-      "url": "https://missileer.watch",
+      "score": 88,
+      "traffic": "212 pts / 142 comments",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "拓元",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E5%BC%B7%E9%99%8D%E9%9B%A8%E4%B9%9F%E4%B8%8D%E6%80%95-%E6%96%B0%E7%AB%B9%E6%A3%92%E7%90%83%E5%A0%B4%E6%94%B9%E5%96%84%E6%96%B0%E9%9D%A2%E8%B2%8C-30%E5%88%86%E9%90%98%E5%85%A7%E5%BF%AB%E9%80%9F%E6%8E%92%E6%B0%B4-114500140.html",
-      "context": "薔琵颱風強降雨也不怕！新竹棒球場改善新面貌 30分鐘內快速排水"
-    },
-    {
-      "title": "Xbox Turns Down Netflix $500M Offer",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "63 pts / 66 comments",
-      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "score": 87,
+      "traffic": "194 pts / 64 comments",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "SpeedCrunch 1.1",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "103 pts / 13 comments",
+      "score": 85,
+      "traffic": "161 pts / 29 comments",
       "url": "https://www.speedcrunch.org/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "每股盈餘",
+      "title": "蘋果",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/9%E6%9C%88%E8%87%AA%E7%B5%90eps%E7%8B%82%E9%A3%864-42%E5%85%83-%E7%8E%BB%E7%BA%96%E5%B8%83%E5%A4%A7%E5%BB%A0-%E7%96%91%E5%8F%97%E5%82%B3%E8%A8%80%E5%BD%B1%E9%9F%BF%E6%8C%AB%E9%80%BE6-%E5%A4%96%E8%B3%87%E5%A4%A7%E7%A0%8D2%E8%90%AC%E5%BC%B5%E6%8F%90%E6%AC%BE63-123000088.html",
-      "context": "9月自結EPS狂飆4.42元！「玻纖布大廠」疑受傳言影響挫逾6% 外資大砍2萬張提款63.3億元"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
+      "context": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review"
     },
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "50 pts / 16 comments",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "score": 84,
+      "traffic": "73 pts / 55 comments",
+      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Small Programs and Languages",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "66 pts / 5 comments",
+      "score": 84,
+      "traffic": "126 pts / 17 comments",
       "url": "https://ratfactor.com/cards/pl-small",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Why Gopher in 2026?",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "46 pts / 13 comments",
+      "score": 84,
+      "traffic": "83 pts / 34 comments",
       "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "45 pts / 8 comments",
-      "url": "https://github.com/slee-persis/GVS5H",
-      "context": "High-engagement technology discussion"
+      "title": "李多慧",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%A4%9A%E6%85%A7%E9%97%96%E6%AD%A6%E5%B6%BA%E6%8B%8D%E7%89%87%E9%81%AD%E7%BD%B0%E6%9C%80%E9%AB%983000%E5%85%83-%E5%9C%98%E9%9A%8A%E9%81%93%E6%AD%89%E4%BA%86-%E5%B0%8D%E8%A6%8F%E5%AE%9A%E4%BA%86%E8%A7%A3%E4%B8%8D%E5%A4%A0-094206357.html",
+      "context": "李多慧闖武嶺拍片遭罰最高3000元！團隊道歉了：對規定了解不夠"
+    },
+    {
+      "title": "寧波公開賽",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured-2026-10-24/",
+      "context": "Typhoon Champi sweeps past Taiwan, leaving 1 dead, 500 injured"
+    },
+    {
+      "title": "失眠",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5618153",
+      "context": "褪黑激素助眠藏疑慮！研究：長期使用者心衰竭診斷高89％"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「America has lost 200k of jobs in media, film and the arts. How much is AI?」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「America has lost 200k of jobs in media, film and the arts. How much is AI?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
-        }
-      ]
-    },
-    {
       "topic": "The Goose Programming Language",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「The Goose Programming Language」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "The Goose Programming Language",
           "url": "https://aardappel.github.io/goose/"
+        }
+      ]
+    },
+    {
+      "topic": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+          "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order"
         }
       ]
     }
