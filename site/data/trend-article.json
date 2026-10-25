@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T19:38:42+08:00",
+  "generated_at": "2026-10-26T00:28:24+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "We should be more ambitious with the software we build",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "465 pts / 410 comments",
+      "score": 93,
+      "traffic": "589 pts / 582 comments",
       "url": "https://danluu.com/ambitious/",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": "The Goose Programming Language",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "430 pts / 263 comments",
+      "traffic": "509 pts / 310 comments",
       "url": "https://aardappel.github.io/goose/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "212 pts / 142 comments",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "score": 89,
+      "traffic": "252 pts / 160 comments",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "194 pts / 64 comments",
+      "score": 88,
+      "traffic": "281 pts / 95 comments",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "SpeedCrunch 1.1",
+      "title": "英超",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://bbs.hupu.com/643249841.html",
+      "context": "[流言板]卡里克：不认为这支曼联已失去管控，我仍然百分百相信他们"
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "161 pts / 29 comments",
-      "url": "https://www.speedcrunch.org/",
+      "traffic": "130 pts / 42 comments",
+      "url": "https://github.com/ihhub/fheroes2",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "蘋果",
+      "title": "How Japanese Dried Bonito Is Made",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "134 pts / 36 comments",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "阿雅",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
-      "context": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review"
+      "url": "https://tw.news.yahoo.com/%E9%98%BF%E9%9B%85%E6%BF%80%E5%96%8A-%E5%80%8B%E4%B8%AD%E5%9C%8B-%E9%82%84%E8%BD%89%E7%99%BC%E7%BF%92%E8%BF%91%E5%B9%B3%E9%80%99%E8%AB%87%E8%A9%B1%E8%A2%AB%E8%BD%9F-105624021.html",
+      "context": "阿雅激喊「一個中國」！還轉發習近平這談話被轟"
     },
     {
-      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
-      "source": "HACKER NEWS",
+      "title": "蔡康永",
+      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "73 pts / 55 comments",
-      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E8%94%A1%E5%BA%B7%E6%B0%B8%E5%BE%AE%E5%8D%9A%E5%B8%B3%E8%99%9F%E7%AA%81%E7%99%BC%E6%96%87-3%E9%BB%9E%E8%81%B2%E6%98%8E-%E6%88%91%E6%B2%92%E6%9C%89%E6%94%AF%E6%8C%81%E9%81%8E%E5%8F%B0%E7%8D%A8-144831515.html",
+      "context": "蔡康永微博帳號突發文 3點聲明：我沒有支持過台獨"
+    },
+    {
+      "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "80 pts / 21 comments",
+      "url": "https://twitter.com/freddier/status/2114042326758867453",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Small Programs and Languages",
+      "title": "Reverse engineer of PC-98 Touhou games retires",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "126 pts / 17 comments",
-      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 83,
+      "traffic": "48 pts / 33 comments",
+      "url": "https://rec98.nmlgc.net/blog/2026-10-05",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why Gopher in 2026?",
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "83 pts / 34 comments",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 82,
+      "traffic": "69 pts / 18 comments",
+      "url": "https://bigwhalehunting.com/workforce/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "李多慧",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E6%9D%8E%E5%A4%9A%E6%85%A7%E9%97%96%E6%AD%A6%E5%B6%BA%E6%8B%8D%E7%89%87%E9%81%AD%E7%BD%B0%E6%9C%80%E9%AB%983000%E5%85%83-%E5%9C%98%E9%9A%8A%E9%81%93%E6%AD%89%E4%BA%86-%E5%B0%8D%E8%A6%8F%E5%AE%9A%E4%BA%86%E8%A7%A3%E4%B8%8D%E5%A4%A0-094206357.html",
-      "context": "李多慧闖武嶺拍片遭罰最高3000元！團隊道歉了：對規定了解不夠"
-    },
-    {
-      "title": "寧波公開賽",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-leaving-1-dead-500-injured-2026-10-24/",
-      "context": "Typhoon Champi sweeps past Taiwan, leaving 1 dead, 500 injured"
-    },
-    {
-      "title": "失眠",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://health.ltn.com.tw/article/breakingnews/5618153",
-      "context": "褪黑激素助眠藏疑慮！研究：長期使用者心衰竭診斷高89％"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "topic": "Samsung running a TensorFlow lite model on 960x540 image to track you",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Samsung running a TensorFlow lite model on 960x540 image to track you」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Samsung running a TensorFlow lite model on 960x540 image to track you」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-          "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order"
+          "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+          "url": "https://twitter.com/mike64_t/status/2114150399406202896"
         }
       ]
     }
