@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-25T07:18:47+08:00",
+  "generated_at": "2026-10-25T12:48:47+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Show HN: Steal My Bitcoin",
+      "title": "We should be more ambitious with the software we build",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "320 pts / 160 comments",
-      "url": "https://stealmybitcoin.com/",
+      "score": 90,
+      "traffic": "274 pts / 235 comments",
+      "url": "https://danluu.com/ambitious/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "232 pts / 155 comments",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I don't understand quantum physics (2018)",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "266 pts / 197 comments",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 90,
+      "traffic": "251 pts / 261 comments",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The Goose Programming Language",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "166 pts / 129 comments",
+      "score": 89,
+      "traffic": "304 pts / 186 comments",
       "url": "https://aardappel.github.io/goose/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "FreeDNS",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "229 pts / 60 comments",
-      "url": "https://freedns.afraid.org/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "89 pts / 56 comments",
+      "score": 87,
+      "traffic": "147 pts / 98 comments",
       "url": "https://missileer.watch",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "光復節",
+      "title": "拓元",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E5%BC%B7%E9%99%8D%E9%9B%A8%E4%B9%9F%E4%B8%8D%E6%80%95-%E6%96%B0%E7%AB%B9%E6%A3%92%E7%90%83%E5%A0%B4%E6%94%B9%E5%96%84%E6%96%B0%E9%9D%A2%E8%B2%8C-30%E5%88%86%E9%90%98%E5%85%A7%E5%BF%AB%E9%80%9F%E6%8E%92%E6%B0%B4-114500140.html",
+      "context": "薔琵颱風強降雨也不怕！新竹棒球場改善新面貌 30分鐘內快速排水"
     },
     {
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "title": "Xbox Turns Down Netflix $500M Offer",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "82 pts / 24 comments",
-      "url": "https://de.numista.com/9866",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "台 股",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E9%9F%93%E8%82%A1%E5%B4%A9%E8%B7%8C40-%E5%8F%B0%E8%82%A1%E5%83%85%E8%B7%8C4-%E5%B0%88%E5%AE%B6%E6%96%B7%E8%A8%80-%E6%83%85%E6%B3%81%E5%BE%88%E6%98%8E%E9%A1%AF%E4%BA%86-071300752.html",
-      "context": "韓股崩跌40%「台股僅跌4%」！ 專家斷言：情況很明顯了"
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "30 pts / 20 comments",
-      "url": "https://danluu.com/ambitious/",
+      "score": 85,
+      "traffic": "63 pts / 66 comments",
+      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "SpeedCrunch 1.1",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "42 pts / 8 comments",
+      "score": 83,
+      "traffic": "103 pts / 13 comments",
       "url": "https://www.speedcrunch.org/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "liga inggris",
+      "title": "每股盈餘",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.vietnam.vn/id/khac-tinh-khien-man-city-dut-mach-toan-thang-tai-ngoai-hang-anh",
-      "context": "'Musuh bebuyutan' yang mengakhiri rentetan kemenangan Man City di Liga Premier."
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/9%E6%9C%88%E8%87%AA%E7%B5%90eps%E7%8B%82%E9%A3%864-42%E5%85%83-%E7%8E%BB%E7%BA%96%E5%B8%83%E5%A4%A7%E5%BB%A0-%E7%96%91%E5%8F%97%E5%82%B3%E8%A8%80%E5%BD%B1%E9%9F%BF%E6%8C%AB%E9%80%BE6-%E5%A4%96%E8%B3%87%E5%A4%A7%E7%A0%8D2%E8%90%AC%E5%BC%B5%E6%8F%90%E6%AC%BE63-123000088.html",
+      "context": "9月自結EPS狂飆4.42元！「玻纖布大廠」疑受傳言影響挫逾6% 外資大砍2萬張提款63.3億元"
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "50 pts / 16 comments",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "66 pts / 5 comments",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "46 pts / 13 comments",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "45 pts / 8 comments",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Show HN: Steal My Bitcoin",
+      "topic": "We should be more ambitious with the software we build",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Show HN: Steal My Bitcoin」開始升溫，我們真正該看的不是熱度",
+      "title": "當「We should be more ambitious with the software we build」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Show HN: Steal My Bitcoin」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「We should be more ambitious with the software we build」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Show HN: Steal My Bitcoin",
-          "url": "https://stealmybitcoin.com/"
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/"
         }
       ]
     },
     {
-      "topic": "Roku developer repositories moved from GitHub to GitLab",
+      "topic": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Roku developer repositories moved from GitHub to GitLab」開始升溫，我們真正該看的不是熱度",
+      "title": "當「America has lost 200k of jobs in media, film and the arts. How much is AI?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Roku developer repositories moved from GitHub to GitLab」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「America has lost 200k of jobs in media, film and the arts. How much is AI?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Roku developer repositories moved from GitHub to GitLab",
-          "url": "https://blog.roku.com/developer/gitlab-move"
+          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
         }
       ]
     },
     {
-      "topic": "I don't understand quantum physics (2018)",
+      "topic": "The Goose Programming Language",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「I don't understand quantum physics (2018)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「The Goose Programming Language」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I don't understand quantum physics (2018)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「The Goose Programming Language」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "I don't understand quantum physics (2018)",
-          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
+          "title": "The Goose Programming Language",
+          "url": "https://aardappel.github.io/goose/"
         }
       ]
     }
