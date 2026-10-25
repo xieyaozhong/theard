@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-26T00:28:24+08:00",
+  "generated_at": "2026-10-26T04:55:01+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "We should be more ambitious with the software we build",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "589 pts / 582 comments",
-      "url": "https://danluu.com/ambitious/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Goose Programming Language",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "509 pts / 310 comments",
-      "url": "https://aardappel.github.io/goose/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "252 pts / 160 comments",
-      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "traffic": "286 pts / 140 comments",
+      "url": "https://lynchlab.net/llm-skin-cancer",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "281 pts / 95 comments",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "traffic": "267 pts / 130 comments",
+      "url": "https://talkweb.eu/openweb/4558/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "英超",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://bbs.hupu.com/643249841.html",
-      "context": "[流言板]卡里克：不认为这支曼联已失去管控，我仍然百分百相信他们"
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "227 pts / 52 comments",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "title": "Dolly Parton's Imagination Library",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "194 pts / 31 comments",
+      "url": "https://imaginationlibrary.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "JetBrains Thinkrail",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "130 pts / 42 comments",
-      "url": "https://github.com/ihhub/fheroes2",
+      "traffic": "97 pts / 56 comments",
+      "url": "https://github.com/JetBrains/thinkrail",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How Japanese Dried Bonito Is Made",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "134 pts / 36 comments",
-      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "阿雅",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E9%98%BF%E9%9B%85%E6%BF%80%E5%96%8A-%E5%80%8B%E4%B8%AD%E5%9C%8B-%E9%82%84%E8%BD%89%E7%99%BC%E7%BF%92%E8%BF%91%E5%B9%B3%E9%80%99%E8%AB%87%E8%A9%B1%E8%A2%AB%E8%BD%9F-105624021.html",
-      "context": "阿雅激喊「一個中國」！還轉發習近平這談話被轟"
-    },
-    {
-      "title": "蔡康永",
+      "title": "f1",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E8%94%A1%E5%BA%B7%E6%B0%B8%E5%BE%AE%E5%8D%9A%E5%B8%B3%E8%99%9F%E7%AA%81%E7%99%BC%E6%96%87-3%E9%BB%9E%E8%81%B2%E6%98%8E-%E6%88%91%E6%B2%92%E6%9C%89%E6%94%AF%E6%8C%81%E9%81%8E%E5%8F%B0%E7%8D%A8-144831515.html",
-      "context": "蔡康永微博帳號突發文 3點聲明：我沒有支持過台獨"
+      "url": "https://www.theguardian.com/sport/live/2026/oct/25/united-states-grand-prix-formula-one-live",
+      "context": "United States Grand Prix: Formula One – live"
     },
     {
-      "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "80 pts / 21 comments",
-      "url": "https://twitter.com/freddier/status/2114042326758867453",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Reverse engineer of PC-98 Touhou games retires",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "48 pts / 33 comments",
-      "url": "https://rec98.nmlgc.net/blog/2026-10-05",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "source": "HACKER NEWS",
+      "title": "巴塞隆納 對 皇家馬德里",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "69 pts / 18 comments",
-      "url": "https://bigwhalehunting.com/workforce/",
+      "traffic": "500+",
+      "url": "https://today.line.me/tw/v3/article/3N1mnKk",
+      "context": "西甲國家德比前夕傳利空 皇家馬德里門將染流感缺陣 | 民視新聞網"
+    },
+    {
+      "title": "西甲",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://bbs.hupu.com/643263591.html",
+      "context": "[流言板]马卡：凯恩疑似压倒姆巴佩获金球，穆帅加强中场以对抗巴萨"
+    },
+    {
+      "title": "Eunice is almost here",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "25 pts / 19 comments",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "爵士 對 湖人",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://sports.sina.cn/nba/other/2026-10-25/detail-iniwmxsn2972103.d.html?vt=4",
+      "context": "NBA彩经：爵士力拼湖人 雷霆击沉快船 76人拿下活塞"
+    },
+    {
+      "title": "f1直播",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-united-states-gp.6GuFxNKHQ7TgdoH0Cc78TD",
+      "context": "What are the tyre strategy options for the United States GP?"
+    },
+    {
+      "title": "barcelona vs madrid",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://es-us.noticias.yahoo.com/deportes/equipaci%C3%B3n-barcelona-golf-delantera-192608102.html",
+      "context": "¿Por qué la equipación del Barcelona lleva 'GOLF' en la parte delantera?"
     }
   ],
   "articles": [
     {
-      "topic": "We should be more ambitious with the software we build",
+      "topic": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「We should be more ambitious with the software we build」開始升溫，我們真正該看的不是熱度",
+      "title": "當「A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「We should be more ambitious with the software we build」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "We should be more ambitious with the software we build",
-          "url": "https://danluu.com/ambitious/"
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer"
         }
       ]
     },
     {
-      "topic": "The Goose Programming Language",
+      "topic": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「The Goose Programming Language」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I refuse to accept a censored Internet. Join Me at FOSDEM 27」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The Goose Programming Language」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I refuse to accept a censored Internet. Join Me at FOSDEM 27」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The Goose Programming Language",
-          "url": "https://aardappel.github.io/goose/"
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "url": "https://talkweb.eu/openweb/4558/"
         }
       ]
     },
     {
-      "topic": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "topic": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Samsung running a TensorFlow lite model on 960x540 image to track you」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Samsung running a TensorFlow lite model on 960x540 image to track you」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-          "url": "https://twitter.com/mike64_t/status/2114150399406202896"
+          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+          "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
         }
       ]
     }
