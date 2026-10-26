@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-26T07:18:32+08:00",
+  "generated_at": "2026-10-26T12:53:51+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "366 pts / 180 comments",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "345 pts / 170 comments",
-      "url": "https://talkweb.eu/openweb/4558/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "323 pts / 82 comments",
-      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Dolly Parton's Imagination Library",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "297 pts / 53 comments",
+      "score": 89,
+      "traffic": "464 pts / 85 comments",
       "url": "https://imaginationlibrary.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "title": "Lula wins election after final votes tallied",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "150 pts / 58 comments",
-      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "score": 89,
+      "traffic": "230 pts / 224 comments",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "55 pts / 69 comments",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "胡小禎",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://stars.udn.com/star/story/10091/9836625?end",
-      "context": "金鐘61／小禎飆歌驚豔全場！網友狂敲碗：下一屆主持人"
     },
     {
       "title": "Overgrown, when plants invade your abandoned tabs",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "78 pts / 19 comments",
+      "score": 87,
+      "traffic": "203 pts / 61 comments",
       "url": "https://charliegerard.dev/blog/overgrown-extension/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why I Am a Programmer",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "88 pts / 15 comments",
-      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Eunice is almost here",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "50 pts / 43 comments",
-      "url": "https://armincat.com/articles/eunice-is-almost-here",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "速 克 達",
+      "title": "美國職棒",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 85,
+      "traffic": "2000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "thứ hạng của man utd gặp bournemouth",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "103 pts / 67 comments",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "83 pts / 42 comments",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Attention Is Not What You Need (2025)",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://www.24h.com.vn/bong-da/tin-moi-nhat-bong-da-sang-26-10-fan-mu-ung-ho-carrick-la-o-cau-thu-lanh-dao-c48a1805636.html",
-      "context": "Tin mới nhất bóng đá sáng 26/10: Fan MU ủng hộ Carrick, la ó cầu thủ & lãnh đạo"
+      "traffic": "57 pts / 22 comments",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "46 pts / 8 comments",
+      "url": "https://titleart.dvy.io/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: A Truly Modular Keyboard",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "41 pts / 10 comments",
+      "url": "https://github.com/notaroomba/keybytes",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "溫帶氣旋 (前為 薔琵)",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "林冠臣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.sports.yahoo.com/news/%E6%97%A5%E8%81%B7-%E8%BF%91%E5%85%A9%E5%B9%B4%E5%82%B7%E5%8B%A2%E5%8F%8D%E8%A6%86%E5%B0%8E%E8%87%B4%E5%87%BA%E8%B3%BD%E6%B8%9B%E5%B0%91-%E8%A5%BF%E6%AD%A6%E7%8D%8523%E6%AD%B2%E5%8F%B0%E7%81%A3%E9%87%8D%E7%A0%B2%E6%9E%97%E5%86%A0%E8%87%A3%E9%81%AD%E6%88%B0%E5%8A%9B%E5%A4%96-040813732.html",
+      "context": "日職》「近兩年傷勢反覆導致出賽減少…」西武獅23歲台灣重砲林冠臣遭戰力外"
+    },
+    {
+      "title": "香港快運",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "topic": "Dolly Parton's Imagination Library",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Dolly Parton's Imagination Library」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Dolly Parton's Imagination Library」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "url": "https://lynchlab.net/llm-skin-cancer"
+          "title": "Dolly Parton's Imagination Library",
+          "url": "https://imaginationlibrary.com/"
         }
       ]
     },
     {
-      "topic": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "topic": "Lula wins election after final votes tallied",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「I refuse to accept a censored Internet. Join Me at FOSDEM 27」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Lula wins election after final votes tallied」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「I refuse to accept a censored Internet. Join Me at FOSDEM 27」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Lula wins election after final votes tallied」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-          "url": "https://talkweb.eu/openweb/4558/"
+          "title": "Lula wins election after final votes tallied",
+          "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
         }
       ]
     },
     {
-      "topic": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "topic": "Overgrown, when plants invade your abandoned tabs",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Overgrown, when plants invade your abandoned tabs」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Overgrown, when plants invade your abandoned tabs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-          "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
+          "title": "Overgrown, when plants invade your abandoned tabs",
+          "url": "https://charliegerard.dev/blog/overgrown-extension/"
         }
       ]
     }
