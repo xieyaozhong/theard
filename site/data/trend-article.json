@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-26T12:53:51+08:00",
+  "generated_at": "2026-10-26T21:11:06+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Dolly Parton's Imagination Library",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "464 pts / 85 comments",
+      "score": 90,
+      "traffic": "586 pts / 99 comments",
       "url": "https://imaginationlibrary.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Lula wins election after final votes tallied",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "230 pts / 224 comments",
-      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Overgrown, when plants invade your abandoned tabs",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "203 pts / 61 comments",
-      "url": "https://charliegerard.dev/blog/overgrown-extension/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "美國職棒",
+      "title": "謝瓊煖",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.news.yahoo.com/%E9%87%91%E9%90%9861%EF%BC%8F%E6%A5%8A%E7%A5%90%E5%AF%A7%E6%8B%BF%E4%B8%8B%E6%88%B2%E5%8A%87%E7%AF%80%E7%9B%AE%E7%94%B7%E9%85%8D%E8%A7%92%E7%8D%8E%EF%BC%81-121616567.html",
+      "context": "金鐘61／楊祐寧拿下戲劇節目男配角獎！"
     },
     {
-      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "title": "Switzerland. Block by block. At 1:1 scale",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "103 pts / 67 comments",
-      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "F-Zero X on Nintendo 3DS",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "83 pts / 42 comments",
-      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Attention Is Not What You Need (2025)",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "57 pts / 22 comments",
-      "url": "https://arxiv.org/abs/2512.19428",
+      "score": 88,
+      "traffic": "259 pts / 110 comments",
+      "url": "https://blocks.manifold3d.ch/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: TitleArt – Make text like it's 1997",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "46 pts / 8 comments",
+      "score": 87,
+      "traffic": "292 pts / 51 comments",
       "url": "https://titleart.dvy.io/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "164 pts / 87 comments",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: A Truly Modular Keyboard",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "41 pts / 10 comments",
+      "score": 87,
+      "traffic": "200 pts / 67 comments",
       "url": "https://github.com/notaroomba/keybytes",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "溫帶氣旋 (前為 薔琵)",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "165 pts / 55 comments",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "林冠臣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.sports.yahoo.com/news/%E6%97%A5%E8%81%B7-%E8%BF%91%E5%85%A9%E5%B9%B4%E5%82%B7%E5%8B%A2%E5%8F%8D%E8%A6%86%E5%B0%8E%E8%87%B4%E5%87%BA%E8%B3%BD%E6%B8%9B%E5%B0%91-%E8%A5%BF%E6%AD%A6%E7%8D%8523%E6%AD%B2%E5%8F%B0%E7%81%A3%E9%87%8D%E7%A0%B2%E6%9E%97%E5%86%A0%E8%87%A3%E9%81%AD%E6%88%B0%E5%8A%9B%E5%A4%96-040813732.html",
-      "context": "日職》「近兩年傷勢反覆導致出賽減少…」西武獅23歲台灣重砲林冠臣遭戰力外"
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "178 pts / 66 comments",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "香港快運",
+      "title": "金鐘獎表演嘉賓",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.vogue.com.tw/article/2026-gba-61th-highlights",
+      "context": "2026金鐘獎｜金鐘61節目類亮點集結！陳漢典「愛的爆爆」、陳亞蘭三人頒獎笑料不斷、沈玉琳妙語連發再提「保母」老梗"
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "75 pts / 60 comments",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "巴西股市",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E5%B7%B4%E8%A5%BF%E7%B8%BD%E7%B5%B1%E7%9B%A7%E6%8B%89-%E5%8C%97%E4%BA%AC%E5%9C%A8%E7%BE%8E%E5%9C%8B%E5%BE%8C%E9%99%A2%E7%9A%84-%E8%80%81%E6%9C%8B%E5%8F%8B-%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%B4%8F%E5%BE%97%E5%A4%A7%E9%81%B8-101345258.html",
+      "context": "巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選"
+    },
+    {
+      "title": "伊朗",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%88%AD%E9%80%B2%E5%85%A5%E5%8D%B1%E9%9A%AA%E9%9A%8E%E6%AE%B5-%E7%B4%90%E6%99%82%E6%8F%AD3%E5%A4%A7%E5%BC%95%E7%88%86%E9%BB%9E-%E8%81%B2%E6%A7%8D%E9%9F%BF%E6%81%90%E5%A4%B1%E6%8E%A7-215624897.html",
+      "context": "美伊戰爭進入危險階段！紐時揭3大引爆點 一聲槍響恐失控"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Lula wins election after final votes tallied",
+      "topic": "謝瓊煖",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Lula wins election after final votes tallied」開始升溫，我們真正該看的不是熱度",
+      "title": "當「謝瓊煖」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Lula wins election after final votes tallied」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「謝瓊煖」推到更高的注意力位置。金鐘61／楊祐寧拿下戲劇節目男配角獎！。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,22 +166,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Lula wins election after final votes tallied",
-          "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "謝瓊煖",
+          "url": "https://tw.news.yahoo.com/%E9%87%91%E9%90%9861%EF%BC%8F%E6%A5%8A%E7%A5%90%E5%AF%A7%E6%8B%BF%E4%B8%8B%E6%88%B2%E5%8A%87%E7%AF%80%E7%9B%AE%E7%94%B7%E9%85%8D%E8%A7%92%E7%8D%8E%EF%BC%81-121616567.html"
         }
       ]
     },
     {
-      "topic": "Overgrown, when plants invade your abandoned tabs",
+      "topic": "Switzerland. Block by block. At 1:1 scale",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Overgrown, when plants invade your abandoned tabs」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Switzerland. Block by block. At 1:1 scale」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Overgrown, when plants invade your abandoned tabs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Switzerland. Block by block. At 1:1 scale」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Overgrown, when plants invade your abandoned tabs",
-          "url": "https://charliegerard.dev/blog/overgrown-extension/"
+          "title": "Switzerland. Block by block. At 1:1 scale",
+          "url": "https://blocks.manifold3d.ch/"
         }
       ]
     }
