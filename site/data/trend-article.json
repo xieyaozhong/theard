@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-26T21:11:06+08:00",
+  "generated_at": "2026-10-27T04:32:24+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Dolly Parton's Imagination Library",
+      "title": "Anthropic S-1",
+      "source": "HACKER NEWS",
+      "score": 96,
+      "traffic": "1295 pts / 1261 comments",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "GPT-6.1 Terra",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "586 pts / 99 comments",
-      "url": "https://imaginationlibrary.com/",
+      "traffic": "321 pts / 182 comments",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "謝瓊煖",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.news.yahoo.com/%E9%87%91%E9%90%9861%EF%BC%8F%E6%A5%8A%E7%A5%90%E5%AF%A7%E6%8B%BF%E4%B8%8B%E6%88%B2%E5%8A%87%E7%AF%80%E7%9B%AE%E7%94%B7%E9%85%8D%E8%A7%92%E7%8D%8E%EF%BC%81-121616567.html",
-      "context": "金鐘61／楊祐寧拿下戲劇節目男配角獎！"
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "425 pts / 57 comments",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Switzerland. Block by block. At 1:1 scale",
+      "title": "CSS-Tricks has a new owner",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "259 pts / 110 comments",
-      "url": "https://blocks.manifold3d.ch/",
+      "traffic": "285 pts / 63 comments",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "292 pts / 51 comments",
-      "url": "https://titleart.dvy.io/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "164 pts / 87 comments",
-      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: A Truly Modular Keyboard",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "200 pts / 67 comments",
-      "url": "https://github.com/notaroomba/keybytes",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "title": "Type Server Protocol",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "165 pts / 55 comments",
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "traffic": "120 pts / 77 comments",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "178 pts / 66 comments",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "金鐘獎表演嘉賓",
+      "title": "lcp",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://www.vogue.com.tw/article/2026-gba-61th-highlights",
-      "context": "2026金鐘獎｜金鐘61節目類亮點集結！陳漢典「愛的爆爆」、陳亞蘭三人頒獎笑料不斷、沈玉琳妙語連發再提「保母」老梗"
+      "url": "https://www.sheepesports.com/en/articles/tsw-eddie-vietnamese-teams-are-not-just-trying-to-win-the-lcp-anymore/en",
+      "context": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\""
     },
     {
-      "title": "Websites Should Be Printable",
+      "title": "Oldest GUI application that still runs on Windows 11",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "75 pts / 60 comments",
-      "url": "https://brennenputh.me/blog/printable-websites/",
+      "traffic": "124 pts / 53 comments",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "巴西股市",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E5%B7%B4%E8%A5%BF%E7%B8%BD%E7%B5%B1%E7%9B%A7%E6%8B%89-%E5%8C%97%E4%BA%AC%E5%9C%A8%E7%BE%8E%E5%9C%8B%E5%BE%8C%E9%99%A2%E7%9A%84-%E8%80%81%E6%9C%8B%E5%8F%8B-%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%B4%8F%E5%BE%97%E5%A4%A7%E9%81%B8-101345258.html",
-      "context": "巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選"
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "136 pts / 40 comments",
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "伊朗",
+      "title": "twitch",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%88%AD%E9%80%B2%E5%85%A5%E5%8D%B1%E9%9A%AA%E9%9A%8E%E6%AE%B5-%E7%B4%90%E6%99%82%E6%8F%AD3%E5%A4%A7%E5%BC%95%E7%88%86%E9%BB%9E-%E8%81%B2%E6%A7%8D%E9%9F%BF%E6%81%90%E5%A4%B1%E6%8E%A7-215624897.html",
-      "context": "美伊戰爭進入危險階段！紐時揭3大引爆點 一聲槍響恐失控"
+      "url": "https://www.goal.com/en-ca/originals/dele-alli-twitch-streaming-career-alternative-football-cause-concern/blt653fe25fa9d7e701",
+      "context": "Dele Alli's new Twitch career: Is forgotten ex-Tottenham star's pivot to livestreaming a viable alternative to football or cause for concern?"
+    },
+    {
+      "title": "Diamond Transistor",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "86 pts / 43 comments",
+      "url": "https://www.df.com/diamond-transistor",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Nietzschian Debugger",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "76 pts / 29 comments",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "99 pts / 11 comments",
+      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Dolly Parton's Imagination Library",
+      "topic": "Anthropic S-1",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Dolly Parton's Imagination Library」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Anthropic S-1」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Dolly Parton's Imagination Library」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Anthropic S-1」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,57 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Dolly Parton's Imagination Library",
-          "url": "https://imaginationlibrary.com/"
+          "title": "Anthropic S-1",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
         }
       ]
     },
     {
-      "topic": "謝瓊煖",
+      "topic": "GPT-6.1 Terra",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「謝瓊煖」開始升溫，我們真正該看的不是熱度",
+      "title": "當「GPT-6.1 Terra」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「謝瓊煖」推到更高的注意力位置。金鐘61／楊祐寧拿下戲劇節目男配角獎！。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "謝瓊煖",
-          "url": "https://tw.news.yahoo.com/%E9%87%91%E9%90%9861%EF%BC%8F%E6%A5%8A%E7%A5%90%E5%AF%A7%E6%8B%BF%E4%B8%8B%E6%88%B2%E5%8A%87%E7%AF%80%E7%9B%AE%E7%94%B7%E9%85%8D%E8%A7%92%E7%8D%8E%EF%BC%81-121616567.html"
-        }
-      ]
-    },
-    {
-      "topic": "Switzerland. Block by block. At 1:1 scale",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Switzerland. Block by block. At 1:1 scale」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Switzerland. Block by block. At 1:1 scale」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「GPT-6.1 Terra」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Switzerland. Block by block. At 1:1 scale",
-          "url": "https://blocks.manifold3d.ch/"
+          "title": "GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+        }
+      ]
+    },
+    {
+      "topic": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Sebastian Raschka's from-scratch video course on building reasoning models」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Sebastian Raschka's from-scratch video course on building reasoning models」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
         }
       ]
     }
