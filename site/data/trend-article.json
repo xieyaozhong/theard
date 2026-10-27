@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-27T17:05:06+08:00",
+  "generated_at": "2026-10-27T23:23:41+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "867 pts / 389 comments",
+      "score": 94,
+      "traffic": "1049 pts / 588 comments",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Solar power is becoming bigger than nuclear",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "293 pts / 436 comments",
-      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "title": "AI promised less work. I've never worked more",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "609 pts / 215 comments",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "traffic": "397 pts / 353 comments",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "title": "Python's experimental JIT to be removed",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "697 pts / 94 comments",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "score": 88,
+      "traffic": "204 pts / 117 comments",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Oldest GUI application that still runs on Windows 11",
+      "title": "Software may be getting worse, but it used to be horrible",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "409 pts / 235 comments",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "score": 88,
+      "traffic": "198 pts / 150 comments",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Type Server Protocol",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "240 pts / 157 comments",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "score": 87,
+      "traffic": "194 pts / 85 comments",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "CSS-Tricks has a new owner",
+      "title": "New iMac with M6",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "463 pts / 103 comments",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "score": 85,
+      "traffic": "91 pts / 72 comments",
+      "url": "https://www.apple.com/imac/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "94 pts / 76 comments",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "國巨",
+      "title": "豆腐 媽媽",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E9%82%84%E6%9C%89%E6%95%91-%E5%A4%A7%E6%91%A9%E9%87%8D%E7%94%B3%E8%B2%B7%E9%80%B2-%E6%9C%80%E6%96%B0%E7%9B%AE%E6%A8%99%E5%83%B9%E5%87%BA%E7%88%90-040400737.html",
-      "context": "國巨還有救？ 大摩重申買進 最新目標價出爐"
+      "url": "https://tw.news.yahoo.com/%E8%AC%9D%E7%93%8A%E7%85%96%E6%8B%8D%E3%80%8A%E8%B1%86%E8%85%90%E5%AA%BD%E5%AA%BD%E3%80%8B%E7%AA%81%E8%A2%AB%E5%96%8A%E5%8D%A1%EF%BC%81%E5%A5%AA%E9%87%91%E9%90%98%E5%A5%B3%E9%85%8D%E5%85%A8%E5%A0%B4%E9%BC%93%E6%8E%8C%E6%93%81%E6%8A%B1-045201759.html",
+      "context": "謝瓊煖拍《豆腐媽媽》突被喊卡！奪金鐘女配全場鼓掌擁抱"
     },
     {
-      "title": "飛機",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "I still teach OpenGL ES 3.0",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "52 pts / 32 comments",
-      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "traffic": "89 pts / 30 comments",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "title": "Giving chat feedback gives Anthropic your data",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "85 pts / 18 comments",
-      "url": "https://github.com/otya128/winevdm",
+      "score": 84,
+      "traffic": "79 pts / 40 comments",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "133 pts / 18 comments",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "50 pts / 13 comments",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "烤 雞",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.news.yahoo.com/%E8%80%81%E9%97%86%E8%AA%AA%E5%88%B0%E5%81%9A%E5%88%B0-%E8%B3%AD%E8%B4%8F%E9%A2%B1%E9%A2%A8%E5%81%87-%E8%B1%AA%E9%80%811900%E9%9A%BB%E7%83%A4%E9%9B%9E-%E7%99%BC%E6%94%BE%E6%99%82%E9%96%93%E5%9C%B0%E9%BB%9E%E6%9B%9D%E5%85%89-070500643.html",
+      "context": "老闆說到做到！賭贏颱風假「豪送1900隻烤雞」 發放時間地點曝光"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Solar power is becoming bigger than nuclear",
+      "topic": "AI promised less work. I've never worked more",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Solar power is becoming bigger than nuclear」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AI promised less work. I've never worked more」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Solar power is becoming bigger than nuclear」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AI promised less work. I've never worked more」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Solar power is becoming bigger than nuclear",
-          "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
+          "title": "AI promised less work. I've never worked more",
+          "url": "https://oioannou.com/blog/ai-promised-less-work/"
         }
       ]
     },
     {
-      "topic": "The Exponential Time Hypothesis Is False [pdf]",
+      "topic": "Python's experimental JIT to be removed",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「The Exponential Time Hypothesis Is False [pdf]」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Python's experimental JIT to be removed」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The Exponential Time Hypothesis Is False [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Python's experimental JIT to be removed」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The Exponential Time Hypothesis Is False [pdf]",
-          "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+          "title": "Python's experimental JIT to be removed",
+          "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"
         }
       ]
     }
