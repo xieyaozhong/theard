@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-28T13:49:09+08:00",
+  "generated_at": "2026-10-28T21:02:31+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Genie 4",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "815 pts / 490 comments",
+      "score": 94,
+      "traffic": "939 pts / 542 comments",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Ghostty 1.4",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "886 pts / 278 comments",
+      "score": 93,
+      "traffic": "1109 pts / 353 comments",
       "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "New 14‑inch MacBook Pro with M6",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "323 pts / 413 comments",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "248 pts / 125 comments",
-      "url": "https://tailscale.com/ssh-investigation-update",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "269 pts / 120 comments",
+      "score": 90,
+      "traffic": "400 pts / 152 comments",
       "url": "https://www.brangus.io/survival-llm",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "190 pts / 167 comments",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Git for the US Code",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "154 pts / 74 comments",
+      "score": 89,
+      "traffic": "319 pts / 171 comments",
       "url": "https://lexifina.com/blog/git-for-the-us-code",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "title": "Tailscale SSH: Investigation and remediation update",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "133 pts / 59 comments",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "score": 89,
+      "traffic": "316 pts / 168 comments",
+      "url": "https://tailscale.com/ssh-investigation-update",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "97 pts / 79 comments",
-      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "score": 87,
+      "traffic": "199 pts / 73 comments",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "152 pts / 24 comments",
+      "score": 87,
+      "traffic": "289 pts / 44 comments",
       "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "主審",
+      "title": "539開獎",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E5%A8%81%E5%8A%9B%E5%BD%A9%E9%A0%AD%E7%8D%8E%E8%A1%9D2-3%E5%84%84-3%E7%94%9F%E8%82%96%E8%B2%A1%E5%AF%8C%E7%9B%88%E9%96%80-%E9%88%94%E7%A5%A8%E5%A0%86%E6%88%90%E5%B1%B1-064138353.html",
+      "context": "威力彩頭獎衝2.3億！3生肖財富盈門「鈔票堆成山」"
+    },
+    {
+      "title": "Start Doing Graph Theory",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "188 pts / 26 comments",
+      "url": "https://vertex.degree/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "93 pts / 17 comments",
+      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "威 剛",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://news.livedoor.com/topics/detail/32672091/",
-      "context": "相手選手へ拍手をしたつもりが、主審は侮辱行為として退場処分に トルコリーグで1分間に2枚イエローをもらった事例が注目される (2026年10月27日掲載)"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Assembly Nights",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "39 pts / 9 comments",
-      "url": "https://ratfactor.com/assembly-nights",
-      "context": "High-engagement technology discussion"
+      "title": "高頻寬 記憶 體",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5621879",
+      "context": "晶片良率落後韓廠50％ 長鑫存儲硬著頭皮拚量產 市場冒冷汗"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "New 14‑inch MacBook Pro with M6",
+      "topic": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「New 14‑inch MacBook Pro with M6」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Survival LLM: AI assistant and emergency library that runs on your own computer」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「New 14‑inch MacBook Pro with M6」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Survival LLM: AI assistant and emergency library that runs on your own computer」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "New 14‑inch MacBook Pro with M6",
-          "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+          "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "url": "https://www.brangus.io/survival-llm"
         }
       ]
     }
