@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-28T06:19:07+08:00",
+  "generated_at": "2026-10-28T13:49:09+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Genie 4",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "593 pts / 369 comments",
+      "score": 93,
+      "traffic": "815 pts / 490 comments",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Ghostty 1.4",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "571 pts / 172 comments",
+      "score": 92,
+      "traffic": "886 pts / 278 comments",
       "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "New iMac with M6",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "277 pts / 329 comments",
-      "url": "https://www.apple.com/imac/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "今天天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://tw.news.yahoo.com/%E5%B0%88%E5%AE%B6%E6%9B%9D%E6%9C%AC%E5%91%A8%E5%A4%A9%E6%B0%A3%E8%AE%8A%E5%8C%96-%E7%85%99%E8%8A%B1%E9%A2%B1%E9%A2%A8%E5%A4%A7%E8%BF%B4%E8%BD%89%E7%9C%9F%E7%9B%B8%E8%A7%A3%E5%AF%86-012600400.html",
-      "context": "專家曝本周天氣變化 煙花颱風大迴轉真相解密"
-    },
-    {
       "title": "New 14‑inch MacBook Pro with M6",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "225 pts / 263 comments",
+      "score": 92,
+      "traffic": "323 pts / 413 comments",
       "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Python's experimental JIT to be removed",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "406 pts / 212 comments",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "46k",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
       "title": "Tailscale SSH: Investigation and remediation update",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "121 pts / 66 comments",
+      "score": 88,
+      "traffic": "248 pts / 125 comments",
       "url": "https://tailscale.com/ssh-investigation-update",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "103 pts / 65 comments",
+      "score": 88,
+      "traffic": "269 pts / 120 comments",
       "url": "https://www.brangus.io/survival-llm",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "142 pts / 37 comments",
-      "url": "https://cfsg.axiommath.ai/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Early progress on accelerating drug development with Claude",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "51 pts / 34 comments",
+      "score": 88,
+      "traffic": "190 pts / 167 comments",
       "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "費城半導體指數",
+      "title": "Git for the US Code",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "154 pts / 74 comments",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "133 pts / 59 comments",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "97 pts / 79 comments",
+      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "152 pts / 24 comments",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "主審",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://cmnews.com.tw/article/linyanting-ce47795a-d1dc-11f1-b585-079a482dc6ff",
-      "context": "費半重挫拖累00830跌破均線，年線支撐撐得住嗎？-林彥廷看盤室"
+      "url": "https://news.livedoor.com/topics/detail/32672091/",
+      "context": "相手選手へ拍手をしたつもりが、主審は侮辱行為として退場処分に トルコリーグで1分間に2枚イエローをもらった事例が注目される (2026年10月27日掲載)"
+    },
+    {
+      "title": "Assembly Nights",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "39 pts / 9 comments",
+      "url": "https://ratfactor.com/assembly-nights",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "New iMac with M6",
+      "topic": "New 14‑inch MacBook Pro with M6",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「New iMac with M6」開始升溫，我們真正該看的不是熱度",
+      "title": "當「New 14‑inch MacBook Pro with M6」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「New iMac with M6」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「New 14‑inch MacBook Pro with M6」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "New iMac with M6",
-          "url": "https://www.apple.com/imac/"
+          "title": "New 14‑inch MacBook Pro with M6",
+          "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
         }
       ]
     }
