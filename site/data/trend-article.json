@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-10-29T09:00:20+08:00",
+  "generated_at": "2026-10-29T18:04:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Gemini 4 Carbon",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "791 pts / 651 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "494 pts / 840 comments",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Why is this fingerprinting script creating bioweapons?",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "812 pts / 179 comments",
+      "score": 93,
+      "traffic": "1229 pts / 232 comments",
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "450 pts / 377 comments",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "CNC Stone Carving",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "398 pts / 116 comments",
+      "score": 90,
+      "traffic": "471 pts / 130 comments",
       "url": "https://carmelitegothic.com/cnc-stone-carving/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "海力士股價",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.cnyes.com/news/id/6639734",
-      "context": "SK海力士ADR狂飆13%！營益率衝破天花板達80% 看好記憶體缺貨至2030年"
-    },
-    {
-      "title": "爵士 對 馬刺",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.poundingtherock.com/spurs-game-previews/108974/game-preview-san-antonio-spurs-vs-utah-jazz",
-      "context": "Game Preview: San Antonio Spurs vs. Utah Jazz"
-    },
-    {
-      "title": "體育",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E6%97%A5%E6%9C%AC-%E4%B8%8D%E7%B5%A6dena-%E9%BB%9E%E5%B8%8C%E6%9C%9B-%E8%BB%9F%E9%8A%804-0%E6%A9%AB%E6%8E%83%E9%80%A3%E9%9C%B8-124000533.html",
-      "context": "日本一／不給DeNA一點希望！軟銀4：0橫掃連霸 徐若熙一球未投拿冠軍"
-    },
-    {
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "71 pts / 59 comments",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "score": 89,
+      "traffic": "465 pts / 97 comments",
+      "url": "https://divagr.com/blog/qwenputer",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The case of the 9 bit AES key",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "73 pts / 36 comments",
-      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "score": 89,
+      "traffic": "372 pts / 125 comments",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Health Update",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "77 pts / 6 comments",
+      "score": 87,
+      "traffic": "256 pts / 41 comments",
       "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Get Ready for Touch on Mac",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "18 pts / 28 comments",
-      "url": "https://developer.apple.com/touch-on-mac/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "57 pts / 5 comments",
+      "score": 87,
+      "traffic": "179 pts / 84 comments",
       "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "150 pts / 61 comments",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "許志豪",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5622575",
+      "context": "龍千玉夜市叫賣聲爆紅！重現「衝不破內褲」 驚人黑歷史曝光"
+    },
+    {
+      "title": "Zero click, silent, remote Android DoS",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "56 pts / 29 comments",
+      "url": "https://smsofdeath.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "欣興電子",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "國巨 法 說",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E6%B3%95%E8%AA%AA2%E3%80%8Bai%E7%87%9F%E6%94%B6%E5%8D%A0%E6%AF%94%E5%8D%87%E8%87%B3%E8%BF%912%E6%88%90%EF%BC%81%E8%B2%A1%E5%8B%99%E9%95%B7%E6%8F%AD%E3%80%8C%E6%B7%A1%E5%AD%A3%E4%B8%8D%E6%B7%A1%E3%80%8D%EF%BC%9A%E7%AC%AC%E5%9B%9B%E5%AD%A3%E4%BB%8D%E5%AD%A3%E5%A2%9E-090551357.html",
+      "context": "國巨法說2》AI營收占比升至近2成！財務長揭「淡季不淡」：第四季仍季增"
     }
   ],
   "articles": [
     {
-      "topic": "Gemini 4 Carbon",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Gemini 4 Carbon」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gemini 4 Carbon」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Gemini 4 Carbon",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
-        }
-      ]
-    },
-    {
-      "topic": "MacBook Pro with PROLED XDR Display and Touch",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「MacBook Pro with PROLED XDR Display and Touch」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「MacBook Pro with PROLED XDR Display and Touch」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "MacBook Pro with PROLED XDR Display and Touch",
-          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/"
-        }
-      ]
-    },
-    {
       "topic": "Why is this fingerprinting script creating bioweapons?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Why is this fingerprinting script creating bioweapons?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "Why is this fingerprinting script creating bioweapons?",
           "url": "https://nullpt.rs/fingerprinting-bioweapons"
+        }
+      ]
+    },
+    {
+      "topic": "StackOverflow now gets fewer than 1000 questions a month",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「StackOverflow now gets fewer than 1000 questions a month」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「StackOverflow now gets fewer than 1000 questions a month」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "StackOverflow now gets fewer than 1000 questions a month",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
+        }
+      ]
+    },
+    {
+      "topic": "CNC Stone Carving",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「CNC Stone Carving」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「CNC Stone Carving」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "CNC Stone Carving",
+          "url": "https://carmelitegothic.com/cnc-stone-carving/"
         }
       ]
     }
