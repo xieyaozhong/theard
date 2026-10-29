@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-10-29T04:19:36+08:00",
+  "generated_at": "2026-10-29T09:00:20+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Gemini 4 Carbon",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "559 pts / 471 comments",
+      "score": 94,
+      "traffic": "791 pts / 651 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "MacBook Pro with PROLED XDR Display and Touch",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "351 pts / 596 comments",
+      "score": 94,
+      "traffic": "494 pts / 840 comments",
       "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "title": "Why is this fingerprinting script creating bioweapons?",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "920 pts / 349 comments",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Start Doing Graph Theory",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "475 pts / 109 comments",
-      "url": "https://vertex.degree/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "326 pts / 163 comments",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "score": 92,
+      "traffic": "812 pts / 179 comments",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "CNC Stone Carving",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "305 pts / 103 comments",
+      "score": 89,
+      "traffic": "398 pts / 116 comments",
       "url": "https://carmelitegothic.com/cnc-stone-carving/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "270 pts / 52 comments",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "130 pts / 76 comments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AlpineBSD",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "117 pts / 99 comments",
-      "url": "https://wiki.alpinebsd.org",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Agent SDK",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "73 pts / 78 comments",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "英聯盃",
+      "title": "海力士股價",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://news.cnyes.com/news/id/6639734",
+      "context": "SK海力士ADR狂飆13%！營益率衝破天花板達80% 看好記憶體缺貨至2030年"
     },
     {
-      "title": "macbook",
+      "title": "爵士 對 馬刺",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
-      "context": "Apple Unveils Its First Touch-Screen MacBook Pro"
+      "url": "https://www.poundingtherock.com/spurs-game-previews/108974/game-preview-san-antonio-spurs-vs-utah-jazz",
+      "context": "Game Preview: San Antonio Spurs vs. Utah Jazz"
+    },
+    {
+      "title": "體育",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E6%97%A5%E6%9C%AC-%E4%B8%8D%E7%B5%A6dena-%E9%BB%9E%E5%B8%8C%E6%9C%9B-%E8%BB%9F%E9%8A%804-0%E6%A9%AB%E6%8E%83%E9%80%A3%E9%9C%B8-124000533.html",
+      "context": "日本一／不給DeNA一點希望！軟銀4：0橫掃連霸 徐若熙一球未投拿冠軍"
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "71 pts / 59 comments",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The case of the 9 bit AES key",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "73 pts / 36 comments",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A Health Update",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "77 pts / 6 comments",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Get Ready for Touch on Mac",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "18 pts / 28 comments",
+      "url": "https://developer.apple.com/touch-on-mac/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "57 pts / 5 comments",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Apple's git still trusts the compromised eMudhra certificates",
+      "topic": "Why is this fingerprinting script creating bioweapons?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Apple's git still trusts the compromised eMudhra certificates」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Why is this fingerprinting script creating bioweapons?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Apple's git still trusts the compromised eMudhra certificates」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Why is this fingerprinting script creating bioweapons?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Apple's git still trusts the compromised eMudhra certificates",
-          "url": "https://emudhra.we-have-a-problem.com/apple.html"
+          "title": "Why is this fingerprinting script creating bioweapons?",
+          "url": "https://nullpt.rs/fingerprinting-bioweapons"
         }
       ]
     }
