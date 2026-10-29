@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-29T18:04:08+08:00",
+  "generated_at": "2026-10-30T02:30:26+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1229 pts / 232 comments",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "title": "DoorDash to acquire Instacart",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "450 pts / 377 comments",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "traffic": "260 pts / 474 comments",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "CNC Stone Carving",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "741 pts / 196 comments",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Google Search is now less than half of Alphabet’s revenue",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "471 pts / 130 comments",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "traffic": "273 pts / 219 comments",
+      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "465 pts / 97 comments",
-      "url": "https://divagr.com/blog/qwenputer",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "372 pts / 125 comments",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A Health Update",
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "256 pts / 41 comments",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "traffic": "186 pts / 88 comments",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "179 pts / 84 comments",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "title": "H.264 Is Magic (2016)",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "150 pts / 61 comments",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "traffic": "144 pts / 72 comments",
+      "url": "https://sidbala.com/h-264-is-magic/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "許志豪",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5622575",
-      "context": "龍千玉夜市叫賣聲爆紅！重現「衝不破內褲」 驚人黑歷史曝光"
-    },
-    {
-      "title": "Zero click, silent, remote Android DoS",
+      "title": "LLM Voice",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "56 pts / 29 comments",
-      "url": "https://smsofdeath.com/",
+      "score": 86,
+      "traffic": "120 pts / 63 comments",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "欣興電子",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "89 pts / 45 comments",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "國巨 法 說",
+      "title": "新闻",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E6%B3%95%E8%AA%AA2%E3%80%8Bai%E7%87%9F%E6%94%B6%E5%8D%A0%E6%AF%94%E5%8D%87%E8%87%B3%E8%BF%912%E6%88%90%EF%BC%81%E8%B2%A1%E5%8B%99%E9%95%B7%E6%8F%AD%E3%80%8C%E6%B7%A1%E5%AD%A3%E4%B8%8D%E6%B7%A1%E3%80%8D%EF%BC%9A%E7%AC%AC%E5%9B%9B%E5%AD%A3%E4%BB%8D%E5%AD%A3%E5%A2%9E-090551357.html",
-      "context": "國巨法說2》AI營收占比升至近2成！財務長揭「淡季不淡」：第四季仍季增"
+      "url": "https://wallstreetcn.com/articles/3784791",
+      "context": "欧洲央行行长拉加德：通胀面临上行风险，没有看到第二轮效应"
+    },
+    {
+      "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "78 pts / 5 comments",
+      "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "70 pts / 7 comments",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Toxic experts (2017)",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "38 pts / 21 comments",
+      "url": "https://nedbatchelder.com/blog/201711/toxic_experts",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "38 pts / 9 comments",
+      "url": "https://github.com/theconsensuslabs/noalloc",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Why is this fingerprinting script creating bioweapons?",
+      "topic": "DoorDash to acquire Instacart",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Why is this fingerprinting script creating bioweapons?」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DoorDash to acquire Instacart」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Why is this fingerprinting script creating bioweapons?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DoorDash to acquire Instacart」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Why is this fingerprinting script creating bioweapons?",
-          "url": "https://nullpt.rs/fingerprinting-bioweapons"
+          "title": "DoorDash to acquire Instacart",
+          "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
         }
       ]
     },
     {
-      "topic": "StackOverflow now gets fewer than 1000 questions a month",
+      "topic": "We're releasing the weights of Mistral Large 4",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「StackOverflow now gets fewer than 1000 questions a month」開始升溫，我們真正該看的不是熱度",
+      "title": "當「We're releasing the weights of Mistral Large 4」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「StackOverflow now gets fewer than 1000 questions a month」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「We're releasing the weights of Mistral Large 4」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "StackOverflow now gets fewer than 1000 questions a month",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
+          "title": "We're releasing the weights of Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/"
         }
       ]
     },
     {
-      "topic": "CNC Stone Carving",
+      "topic": "Google Search is now less than half of Alphabet’s revenue",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「CNC Stone Carving」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Google Search is now less than half of Alphabet’s revenue」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「CNC Stone Carving」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Google Search is now less than half of Alphabet’s revenue」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "CNC Stone Carving",
-          "url": "https://carmelitegothic.com/cnc-stone-carving/"
+          "title": "Google Search is now less than half of Alphabet’s revenue",
+          "url": "https://www.kadoa.com/companies/insights/google-search-below-half"
         }
       ]
     }
