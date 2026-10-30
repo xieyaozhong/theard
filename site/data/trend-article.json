@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-30T18:07:16+08:00",
+  "generated_at": "2026-10-31T02:02:19+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1361 pts / 836 comments",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "score": 92,
+      "traffic": "454 pts / 371 comments",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1472 pts / 396 comments",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "H.264 Is Magic (2016)",
-      "source": "HACKER NEWS",
+      "title": "美股",
+      "source": "GOOGLE TRENDS / TW",
       "score": 90,
-      "traffic": "436 pts / 149 comments",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "context": "High-engagement technology discussion"
+      "traffic": "10000+",
+      "url": "https://news.cnyes.com/news/id/6640737",
+      "context": "從網路泡沫到金融危機 這項「幾乎沒錯過」的指標再讓市場戒備？"
     },
     {
-      "title": "Herdr has released native app",
+      "title": "AI isn't replacing SREs, it's deskilling them",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "205 pts / 126 comments",
-      "url": "https://github.com/herdrdev/herdr-app",
+      "score": 89,
+      "traffic": "261 pts / 196 comments",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "title": "Northflank Breached",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "292 pts / 100 comments",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "score": 87,
+      "traffic": "156 pts / 89 comments",
+      "url": "https://status.northflank.com",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "title": "US tech stocks see sharp falls over AI cost fears",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "212 pts / 15 comments",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "score": 86,
+      "traffic": "134 pts / 89 comments",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "佐佐木 朗 希",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "200 pts / 35 comments",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A Working Nintendo in ~1GB of Qwen Weights",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "64 pts / 56 comments",
+      "url": "https://github.com/dbreunig/nesformer",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The federated code forge",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "82 pts / 34 comments",
+      "url": "https://tangled.org/blog/forge/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "nasdaq",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+      "context": "Nasdaq plunges 3%, heads for worst day since June as tech stocks lead sell-off: Live updates"
     },
     {
-      "title": "預算",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "46 pts / 7 comments",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "vix",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.home.saxo/content/articles/options/up-a-fifth-still-the-cheapest-session---options-brief---28-october-2026-28102026",
+      "context": "Up a fifth, still the cheapest session - Options Brief - 28 October 2026"
     },
     {
-      "title": "Cuis: The Modern Smalltalk-80",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "119 pts / 16 comments",
-      "url": "https://cuis.st/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "141 pts / 12 comments",
-      "url": "https://github.com/da-luce/astroterm",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "129 pts / 16 comments",
-      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "46 pts / 35 comments",
-      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-      "context": "High-engagement technology discussion"
+      "title": "soxx",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110420918.html",
+      "context": "iShares PHLX SOX Semiconductor (SOXX) Adds AMD and INTC on Oct. 27"
     }
   ],
   "articles": [
     {
-      "topic": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "topic": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Binance-hacker-1029 – $5.6B stolen from Binance」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Backdoor in Claude Code for VS Code extension on the Cursor Marketplace」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Binance-hacker-1029 – $5.6B stolen from Binance」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Backdoor in Claude Code for VS Code extension on the Cursor Marketplace」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-          "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
         }
       ]
     },
     {
-      "topic": "We're releasing the weights of Mistral Large 4",
+      "topic": "美股",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「We're releasing the weights of Mistral Large 4」開始升溫，我們真正該看的不是熱度",
+      "title": "當「美股」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「We're releasing the weights of Mistral Large 4」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「美股」推到更高的注意力位置。從網路泡沫到金融危機 這項「幾乎沒錯過」的指標再讓市場戒備？。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,22 +166,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "We're releasing the weights of Mistral Large 4",
-          "url": "https://mistral.ai/news/mistral-large-4-oss/"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "美股",
+          "url": "https://news.cnyes.com/news/id/6640737"
         }
       ]
     },
     {
-      "topic": "H.264 Is Magic (2016)",
+      "topic": "AI isn't replacing SREs, it's deskilling them",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「H.264 Is Magic (2016)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AI isn't replacing SREs, it's deskilling them」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「H.264 Is Magic (2016)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AI isn't replacing SREs, it's deskilling them」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "H.264 Is Magic (2016)",
-          "url": "https://sidbala.com/h-264-is-magic/"
+          "title": "AI isn't replacing SREs, it's deskilling them",
+          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
         }
       ]
     }
