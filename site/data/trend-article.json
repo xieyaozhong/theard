@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-10-30T02:30:26+08:00",
+  "generated_at": "2026-10-30T09:05:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "DoorDash to acquire Instacart",
+      "title": "Patrick Stewart has died",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "260 pts / 474 comments",
-      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "score": 96,
+      "traffic": "2327 pts / 485 comments",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "We're releasing the weights of Mistral Large 4",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "741 pts / 196 comments",
+      "score": 93,
+      "traffic": "1178 pts / 337 comments",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "title": "DoorDash to acquire Instacart",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "273 pts / 219 comments",
-      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "score": 93,
+      "traffic": "413 pts / 594 comments",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "186 pts / 88 comments",
-      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "H.264 Is Magic (2016)",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "144 pts / 72 comments",
-      "url": "https://sidbala.com/h-264-is-magic/",
+      "score": 92,
+      "traffic": "652 pts / 396 comments",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "LLM Voice",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "120 pts / 63 comments",
+      "score": 90,
+      "traffic": "334 pts / 174 comments",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "title": "H.264 Is Magic (2016)",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "89 pts / 45 comments",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "score": 89,
+      "traffic": "323 pts / 122 comments",
+      "url": "https://sidbala.com/h-264-is-magic/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "新闻",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "138 pts / 54 comments",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "google",
       "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://finance.yahoo.com/markets/article/alphabet-heads-for-a-500-billion-drop-in-market-value-the-biggest-in-its-history-134824763.html",
+      "context": "Alphabet loses $482 billion in market value, the biggest drop in its history"
+    },
+    {
+      "title": "王偉忠蔡康永",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.upmedia.mg/tw/focus/comprehensive/272717",
+      "context": "蔡康永因同志酒吧遭搜出席沈伯洋活動 被中國抵制很難受但「不在乎身敗名裂」"
+    },
+    {
+      "title": "鵜鶘 對 國王",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E8%A2%AB%E7%81%B0%E7%86%8A%E6%8B%8B%E6%A3%84-%E6%A7%8D%E7%8E%8B%E5%90%90%E5%BF%83%E8%81%B2-%E6%9C%89%E9%8C%AF%E8%AA%8D%E4%BA%86%E4%BD%86%E5%88%A5%E5%85%A8%E6%80%AA%E6%88%91-023600354.html",
+      "context": "被灰熊拋棄！槍王吐心聲：有錯認了但別全怪我"
+    },
+    {
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "113 pts / 7 comments",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://wallstreetcn.com/articles/3784791",
-      "context": "欧洲央行行长拉加德：通胀面临上行风险，没有看到第二轮效应"
-    },
-    {
-      "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "78 pts / 5 comments",
-      "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "70 pts / 7 comments",
-      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Toxic experts (2017)",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "38 pts / 21 comments",
-      "url": "https://nedbatchelder.com/blog/201711/toxic_experts",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "38 pts / 9 comments",
-      "url": "https://github.com/theconsensuslabs/noalloc",
+      "traffic": "64 pts / 13 comments",
+      "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "DoorDash to acquire Instacart",
+      "topic": "Patrick Stewart has died",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「DoorDash to acquire Instacart」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Patrick Stewart has died」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「DoorDash to acquire Instacart」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Patrick Stewart has died」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,8 +131,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "DoorDash to acquire Instacart",
-          "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
+          "title": "Patrick Stewart has died",
+          "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Google Search is now less than half of Alphabet’s revenue",
+      "topic": "DoorDash to acquire Instacart",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Google Search is now less than half of Alphabet’s revenue」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DoorDash to acquire Instacart」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Google Search is now less than half of Alphabet’s revenue」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DoorDash to acquire Instacart」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Google Search is now less than half of Alphabet’s revenue",
-          "url": "https://www.kadoa.com/companies/insights/google-search-below-half"
+          "title": "DoorDash to acquire Instacart",
+          "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
         }
       ]
     }
