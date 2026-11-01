@@ -1,109 +1,181 @@
 {
-  "generated_at": "2026-11-01T03:19:51+08:00",
+  "generated_at": "2026-11-01T08:10:22+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "553 pts / 202 comments",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "278 pts / 138 comments",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "context": "High-engagement technology discussion"
+    },
     {
       "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "249 pts / 151 comments",
+      "traffic": "294 pts / 172 comments",
       "url": "https://piefed.world/post/1503394",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "264 pts / 119 comments",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Casio Watches of the 1980s",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "142 pts / 66 comments",
-      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Simple circuits can create complex behaviors",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "149 pts / 44 comments",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Jepsen: ParticleDB 1.1.4",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "88 pts / 43 comments",
+      "score": 87,
+      "traffic": "178 pts / 95 comments",
       "url": "https://jepsen.io/analyses/particledb-1.1.4",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "爵士 對 拓荒者",
+      "title": "違規停車",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "馬刺 對 灰狼",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B111-wembanyama%E8%83%BD%E5%90%A6%E7%AA%81%E7%A0%B4%E7%8B%BC%E7%BE%A4-%E6%8C%81%E7%BA%8C%E5%B8%B6%E9%A0%98%E9%A6%AC%E5%88%BA%E5%89%8D%E9%80%B2%EF%BC%9F-090236248.html",
+      "context": "NBA運彩分析》11/1 Wembanyama能否突破狼群 持續帶領馬刺前進？"
+    },
+    {
+      "title": "股災",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "It's the Memory Latency, Stupid",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "105 pts / 34 comments",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "53 pts / 33 comments",
+      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Duty of a Scholar",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "78 pts / 27 comments",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "公鹿 對 騎士",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.blazersedge.com/gameday-coverage/117777/portland-trail-blazers-utah-jazz-preview-time-tv-schedule-streaming-latest-injury-report",
-      "context": "Blazers Head to Utah to Take on Jazz in an Early Game"
+      "url": "https://sports.yahoo.com/articles/milwaukee-bucks-vs-cleveland-cavaliers-222956635.html",
+      "context": "Milwaukee Bucks vs Cleveland Cavaliers Injury Report and Game Preview"
     },
     {
-      "title": "拜仁慕尼黑 對 多特蒙德",
+      "title": "台 股",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://bbs.hupu.com/643509271.html",
-      "context": "[流言板]剑南春首发-拜仁vs多特：凯恩PK吉拉西，基米希、恩梅查出战"
-    },
-    {
-      "title": "信用卡",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5625204",
-      "context": "信用卡準時繳清就沒事？專家驚爆1隱藏地雷 很多人不知道"
-    },
-    {
-      "title": "man city vs brighton",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.bbc.com/sport/football/live/c6x2v4k8e0y9t",
-      "context": "Manchester City vs Brighton & Hove Albion: Premier League preview, team news, stats & head-to-head"
-    },
-    {
-      "title": "曼城",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://bbs.hupu.com/643508078.html",
-      "context": "半场：曼城0-1布莱顿，阿亚里破门，恩迪亚耶屡造险"
-    },
-    {
-      "title": "熱刺 對 水晶宮",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.bbc.com/sport/football/live/c9gkv231djj2t",
-      "context": "Tottenham Hotspur vs Crystal Palace: Premier League preview, team news, stats & head-to-head"
-    },
-    {
-      "title": "金智媛",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.koreastardaily.com/tc/news/164475",
-      "context": "【多圖】《Doctor X》金智媛美貌太犯規！白色洋裝搭黑西裝外套，俐落短髮襯出優雅氣質"
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%9A%B4%E8%B7%8C1156%E9%BB%9E-%E9%83%AD%E5%93%B2%E6%A6%AE%E9%80%86%E5%8B%A2%E5%96%8A-%E5%8D%83%E9%BB%9E%E5%8F%8D%E6%94%BB-%E5%B9%B4%E5%BA%95%E6%B2%92%E8%A1%9D5%E8%90%AC%E9%BB%9E%E7%A5%AD%E5%87%BA%E8%90%AC%E4%BB%BD%E9%9B%9E%E6%8E%92%E7%8F%8D%E5%A5%B6-035500863.html",
+      "context": "台股暴跌1156點！郭哲榮逆勢喊「千點反攻」 年底沒衝5萬點祭出萬份雞排珍奶"
     }
   ],
   "articles": [
     {
-      "topic": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "topic": "HackerTube: YouTube built from videos recommended by HN",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「HackerTube: YouTube built from videos recommended by HN」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「HackerTube: YouTube built from videos recommended by HN」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/"
+        }
+      ]
+    },
+    {
+      "topic": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+        }
+      ]
+    },
+    {
+      "topic": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Molly (Signal fork) has not been updated since 3 months and is vulnerable」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -133,78 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
           "url": "https://piefed.world/post/1503394"
-        }
-      ]
-    },
-    {
-      "topic": "Do the math: How we took over ChatGPT accounts",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Do the math: How we took over ChatGPT accounts」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Do the math: How we took over ChatGPT accounts」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Do the math: How we took over ChatGPT accounts",
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
-        }
-      ]
-    },
-    {
-      "topic": "Casio Watches of the 1980s",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Casio Watches of the 1980s」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Casio Watches of the 1980s」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Casio Watches of the 1980s",
-          "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/"
         }
       ]
     }
