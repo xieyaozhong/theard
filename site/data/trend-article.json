@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-02T19:17:49+08:00",
+  "generated_at": "2026-11-03T05:44:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "2606 pts / 573 comments",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "title": "Astra can read and write weights to improve Qwen",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "1426 pts / 238 comments",
-      "url": "https://hackerbooks.org",
+      "traffic": "1223 pts / 380 comments",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "title": "WTF Ubuntu?",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "422 pts / 553 comments",
-      "url": "https://news.ycombinator.com/item?id=50328896",
+      "score": 94,
+      "traffic": "1138 pts / 543 comments",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "501 pts / 313 comments",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "217 pts / 70 comments",
-      "url": "https://wikihack.netlify.app",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "135 pts / 61 comments",
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "勞動 部 勞動 基金 運用 局",
+      "title": "台積電",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.ctee.com.tw/news/20261101700514-430401",
-      "context": "勞退自提6％越早越好？專家試算打破迷思：這族群55歲後更划算- 理財"
-    },
-    {
-      "title": "鴻海",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "score": 92,
+      "traffic": "20000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "Nibnib: Image compression with extreme decompression speed",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "397 pts / 237 comments",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "US boy names that became girl names and vice versa",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "200 pts / 220 comments",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "If you love a website, back it up",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "288 pts / 67 comments",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "133 pts / 113 comments",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "美股新聞",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5627048",
+      "context": "美股期指大幅上漲 美媒：本週可迎來爆炸性成長"
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "152 pts / 25 comments",
-      "url": "https://github.com/raphlinus/nibnib",
+      "traffic": "94 pts / 63 comments",
+      "url": "https://momentic.ai/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "134 pts / 15 comments",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "score": 85,
+      "traffic": "162 pts / 31 comments",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Bones may release proteins that slow aging and extend life span",
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "117 pts / 26 comments",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "score": 85,
+      "traffic": "92 pts / 54 comments",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Trigger.dev customer environment variables exposed",
-      "source": "HACKER NEWS",
+      "title": "amd 股價",
+      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "96 pts / 40 comments",
-      "url": "https://trigger.dev/blog/security-incident-nov-2026",
-      "context": "High-engagement technology discussion"
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E7%9B%A4%E5%89%8D-ai%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85%E8%8B%B1%E7%89%B9%E7%88%BE%E6%9A%B4%E8%B7%8C-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E8%B7%8C867%E9%BB%9E-%E9%96%8B%E7%9B%A4%E6%81%90%E8%BF%8E%E7%A9%BA%E9%A0%AD%E6%AE%BA%E7%9B%A4-221700524.html",
+      "context": "【盤前】AI神話破滅英特爾暴跌！台指期夜盤跌867點 開盤恐迎空頭殺盤"
     }
   ],
   "articles": [
     {
-      "topic": "HackerTube: YouTube built from videos recommended by HN",
+      "topic": "Astra can read and write weights to improve Qwen",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「HackerTube: YouTube built from videos recommended by HN」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Astra can read and write weights to improve Qwen」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「HackerTube: YouTube built from videos recommended by HN」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Astra can read and write weights to improve Qwen」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "HackerTube: YouTube built from videos recommended by HN",
-          "url": "https://karpathy.bearblog.dev/hacker-tube/"
+          "title": "Astra can read and write weights to improve Qwen",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/"
         }
       ]
     },
     {
-      "topic": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "topic": "WTF Ubuntu?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Show HN: HackerBooks – HackerTube, but for books mentioned on HN」開始升溫，我們真正該看的不是熱度",
+      "title": "當「WTF Ubuntu?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Show HN: HackerBooks – HackerTube, but for books mentioned on HN」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「WTF Ubuntu?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-          "url": "https://hackerbooks.org"
+          "title": "WTF Ubuntu?",
+          "url": "https://chalmovsky.com/posts/wtf-ubuntu"
         }
       ]
     },
     {
-      "topic": "Ask HN: Which TV do you recommend for privacy?",
+      "topic": "台積電",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Ask HN: Which TV do you recommend for privacy?」開始升溫，我們真正該看的不是熱度",
+      "title": "當「台積電」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Ask HN: Which TV do you recommend for privacy?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「台積電」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Ask HN: Which TV do you recommend for privacy?",
-          "url": "https://news.ycombinator.com/item?id=50328896"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "台積電",
+          "url": "https://trends.google.com/trending?geo=TW"
         }
       ]
     }
