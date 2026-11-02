@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-11-02T03:43:32+08:00",
+  "generated_at": "2026-11-02T08:47:44+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1966 pts / 492 comments",
+      "score": 96,
+      "traffic": "2252 pts / 538 comments",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "692 pts / 190 comments",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "449 pts / 121 comments",
+      "score": 92,
+      "traffic": "874 pts / 171 comments",
       "url": "https://hackerbooks.org",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "343 pts / 118 comments",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Patrick Stewart taught us what good men do with power",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "184 pts / 131 comments",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "254 pts / 95 comments",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Bidirectional charging during grid outages",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "54 pts / 69 comments",
-      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "利物浦 對 兵工廠",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B112-%E5%85%B5%E5%B7%A5%E5%BB%A07%E5%8B%9D%E9%A0%98%E8%B7%91-%E5%88%A9%E7%89%A9%E6%B5%A6%E4%B8%BB%E5%A0%B4%E8%BF%8E%E6%A6%9C%E9%A6%96%E5%A4%A7%E6%88%B0-075955276.html",
-      "context": "足球運彩分析》11/2 兵工廠7勝領跑 利物浦主場迎榜首大戰"
-    },
-    {
       "title": "Mathematics has changed. Let's act like it",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "54 pts / 59 comments",
+      "score": 89,
+      "traffic": "212 pts / 229 comments",
       "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "84 pts / 43 comments",
-      "url": "https://arxiv.org/abs/2610.39302",
+      "score": 88,
+      "traffic": "111 pts / 194 comments",
+      "url": "https://news.ycombinator.com/item?id=50328896",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Copper – A minimal low-level programming language with OOP and generics",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "71 pts / 33 comments",
+      "score": 86,
+      "traffic": "121 pts / 72 comments",
       "url": "https://tibleiz.net/copper/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "title": "韓國股市",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.cmoney.tw/forum/article/187304152",
+      "context": "當年看了都想學~ https://www.youtube.c... - 股市爆料同學會"
+    },
+    {
+      "title": "日經指數",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5626195",
+      "context": "亞股血流不止！韓股跌近2％ 日經跌近600點"
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "91 pts / 15 comments",
-      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "score": 85,
+      "traffic": "148 pts / 38 comments",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "日本股市",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.ctee.com.tw/news/20261102700261-439901",
+      "context": "AI產業續發酵日股基金可期- 日報"
+    },
+    {
+      "title": "氣溫",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E9%9B%A8%E8%B6%8A%E6%99%9A%E8%B6%8A%E5%A4%A7-%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E4%BB%8A%E5%8D%88%E5%BE%8C%E5%8D%97%E4%B8%8B-%E9%80%B1%E4%BA%94%E7%AC%AC2%E6%B3%A2%E5%BD%B1%E9%9F%BF%E6%9B%B4%E4%B9%85-232128137.html",
+      "context": "雨越晚越大！東北季風今午後南下 週五第2波影響更久"
+    },
+    {
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "87 pts / 10 comments",
+      "url": "https://github.com/raphlinus/nibnib",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "68 pts / 12 comments",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「An Italian farmer found some unknown seeds in his attic and planted them」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「An Italian farmer found some unknown seeds in his attic and planted them」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
-        }
-      ]
-    },
-    {
       "topic": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Show HN: HackerBooks – HackerTube, but for books mentioned on HN」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
           "url": "https://hackerbooks.org"
+        }
+      ]
+    },
+    {
+      "topic": "Mathematics has changed. Let's act like it",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Mathematics has changed. Let's act like it」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Mathematics has changed. Let's act like it」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Mathematics has changed. Let's act like it",
+          "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
         }
       ]
     }
