@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-04T01:06:34+08:00",
+  "generated_at": "2026-11-04T07:26:52+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "650 pts / 147 comments",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 93,
+      "traffic": "932 pts / 303 comments",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "地震",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://www.cwa.gov.tw/V8/C/E/EQ/EQ115075-1101-162007.html",
-      "context": "第 075 號顯著有感地震報告"
     },
     {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "165 pts / 41 comments",
+      "score": 91,
+      "traffic": "554 pts / 219 comments",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "宜蘭縣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://udn.com/news/story/7266/9855570",
+      "context": "晚間23時22分宜蘭近海規模4.5地震 南澳最大震度4級"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "437 pts / 139 comments",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "299 pts / 120 comments",
+      "url": "https://neufangled.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "170 pts / 70 comments",
+      "score": 89,
+      "traffic": "351 pts / 137 comments",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "115 pts / 84 comments",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "score": 88,
+      "traffic": "185 pts / 119 comments",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "費半指數",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E6%80%A5%E5%BD%88600%E9%BB%9E-%E5%B0%88%E5%AE%B6%E6%9B%9D1%E9%97%9C%E9%8D%B5-%E5%8F%B0%E8%82%A1%E6%9C%89%E5%A5%BD%E6%88%B2%E7%9C%8B%E4%BA%86-143500072.html",
-      "context": "台指期夜盤急彈600點！專家曝1關鍵：台股有好戲看了"
-    },
-    {
-      "title": "地震速報",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.data.jma.go.jp/eew/data/nc/fc_hist/2026/11/20261102020128/index.html",
-      "context": "緊急地震速報（予報）の内容"
-    },
-    {
-      "title": "武 界 落石",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E5%8D%97%E6%8A%95%E6%AD%A6%E7%95%8C%E7%80%91%E5%B8%83%E9%A9%9A%E5%82%B3%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%BA%BA%EF%BC%8152%E6%AD%B2%E5%A5%B3%E5%B1%B1%E5%8F%8B%E9%A0%AD%E8%87%89%E9%87%8D%E5%89%B5%E3%80%8C%E7%9C%BC%E7%90%83%E6%8E%89%E8%90%BD%E3%80%8D-%E6%90%9C%E6%95%91%E9%9A%8A%E6%80%A5%E6%90%B6%E6%95%91-085632103.html",
-      "context": "南投武界瀑布驚傳落石砸人！52歲女山友頭臉重創「眼球掉落」 搜救隊急搶救"
-    },
-    {
-      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "77 pts / 51 comments",
-      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "traffic": "124 pts / 12 comments",
+      "url": "https://arxiv.org/abs/2605.29713",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "90 pts / 31 comments",
-      "url": "https://news.ycombinator.com/item?id=50352757",
+      "traffic": "108 pts / 26 comments",
+      "url": "https://hackertv.org",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Mac at Any Scale",
+      "title": "macOS 27 does not support CoreStorage volumes",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "78 pts / 22 comments",
-      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "score": 84,
+      "traffic": "76 pts / 42 comments",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "費城半導體",
+      "title": "thứ hạng của man utd gặp as roma",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-as-roma-tra-gia-sai-lam-cup-c1-c48a1808154.html",
+      "context": "Video bóng đá MU - AS Roma: Ngược dòng cảm xúc, Cunha chói sáng (Cúp C1)"
+    },
+    {
+      "title": "休假",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/7335/9855322",
+      "context": "她休假爬山沒訊號「5小時沒回訊息」竟遭開除火大曬9百張加班截圖提告| 翻牆來尋奇| 兩岸"
     }
   ],
   "articles": [
     {
-      "topic": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "topic": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「The 'Astra can read and write weights to improve Qwen' post is misleading」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Postman silently auto-installs AI plugins and attempts to share all API data」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The 'Astra can read and write weights to improve Qwen' post is misleading」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Postman silently auto-installs AI plugins and attempts to share all API data」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,51 +131,15 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-          "url": "https://honnibal.dev/blog/astra-read-write-misleading"
-        }
-      ]
-    },
-    {
-      "topic": "地震",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「地震」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「地震」推到更高的注意力位置。第 075 號顯著有感地震報告。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "地震",
-          "url": "https://www.cwa.gov.tw/V8/C/E/EQ/EQ115075-1101-162007.html"
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
         }
       ]
     },
     {
       "topic": "Jailbreaking my car's navigation system just so I can change the time",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Jailbreaking my car's navigation system just so I can change the time」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Jailbreaking my car's navigation system just so I can change the time",
           "url": "https://blog.nns.ee/2026/11/02/renault-hack/"
+        }
+      ]
+    },
+    {
+      "topic": "宜蘭縣",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「宜蘭縣」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「宜蘭縣」推到更高的注意力位置。晚間23時22分宜蘭近海規模4.5地震 南澳最大震度4級。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "GOOGLE TRENDS / TW",
+          "title": "宜蘭縣",
+          "url": "https://udn.com/news/story/7266/9855570"
         }
       ]
     }
