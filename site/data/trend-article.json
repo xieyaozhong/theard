@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-11-05T01:18:11+08:00",
+  "generated_at": "2026-11-05T07:44:03+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "635 pts / 409 comments",
+      "score": 94,
+      "traffic": "1011 pts / 607 comments",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "title": "Residential proxies detected on White House network",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "428 pts / 193 comments",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "299 pts / 179 comments",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "436 pts / 119 comments",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "費半",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "173 pts / 99 comments",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "198 pts / 103 comments",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "費城半導體",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "101 pts / 26 comments",
-      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "114 pts / 34 comments",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Evergreen: A Provably Safe Systems Language",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "46 pts / 27 comments",
-      "url": "https://evergreenlang.net",
+      "traffic": "488 pts / 143 comments",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Kimi K3.1 Pro model weights are out",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "90 pts / 10 comments",
+      "score": 88,
+      "traffic": "318 pts / 85 comments",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "192 pts / 67 comments",
+      "url": "https://www.ricursive.com/ripple",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A new Go API for JSON",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "196 pts / 83 comments",
+      "url": "https://go.dev/blog/jsonv2",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Conductor is joining Meta",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "78 pts / 127 comments",
+      "url": "https://www.conductor.build/announcement",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "163 pts / 83 comments",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Insects don't swarm at LED lights",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "140 pts / 81 comments",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "酪 梨",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://fashion.ettoday.net/news/3266477",
+      "context": "麥當勞酪梨滿福堡多100大卡！營養師曝早餐、午餐這樣搭更享瘦"
+    },
+    {
+      "title": "散戶",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%B7%8C%E6%88%90%E5%BB%A2%E5%8D%8A-%E9%80%99%E9%A1%86-%E6%9C%AA%E7%88%86%E5%BD%88%E6%88%90%E9%9A%B1%E6%82%A3-%E6%95%A3%E6%88%B6%E5%87%B9%E5%96%AE%E6%8C%AB%E5%92%A7%E7%AD%89-212000086.html",
+      "context": "台股跌成廢半！「這顆」未爆彈成隱患 散戶凹單挫咧等"
+    },
+    {
+      "title": "活塞 對 76人",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://bbs.hupu.com/643624560.html",
+      "context": "[流言板]76人官方分享詹姆斯面对镜头展示微笑的登机照片"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "78 pts / 37 comments",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
       "context": "High-engagement technology discussion"
     }
   ],
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "topic": "Residential proxies detected on White House network",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Residential proxies detected on White House network」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Residential proxies detected on White House network」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+          "title": "Residential proxies detected on White House network",
+          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
         }
       ]
     },
     {
-      "topic": "North Korean fake job interview led to $6.3B Binance heist",
+      "topic": "Kimi K3.1 Pro model weights are out",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「North Korean fake job interview led to $6.3B Binance heist」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Kimi K3.1 Pro model weights are out」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「North Korean fake job interview led to $6.3B Binance heist」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Kimi K3.1 Pro model weights are out」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "North Korean fake job interview led to $6.3B Binance heist",
-          "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+          "title": "Kimi K3.1 Pro model weights are out",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
         }
       ]
     }
