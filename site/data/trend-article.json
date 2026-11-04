@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-04T14:32:35+08:00",
+  "generated_at": "2026-11-05T01:18:11+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "台 股",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "635 pts / 409 comments",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "428 pts / 193 comments",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "299 pts / 179 comments",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "436 pts / 119 comments",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "費半",
       "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://finance.ettoday.net/news/3266266",
-      "context": "台股大V反轉收盤　郭哲榮「5000萬抄底0050」獲利破百萬"
-    },
-    {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "722 pts / 295 comments",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "499 pts / 174 comments",
-      "url": "https://neufangled.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "435 pts / 182 comments",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "383 pts / 210 comments",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "C++26 Disapproved",
-      "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "210 pts / 104 comments",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "context": "High-engagement technology discussion"
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "270 pts / 54 comments",
-      "url": "https://hackertv.org",
+      "traffic": "173 pts / 99 comments",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Internals of PostgreSQL",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "223 pts / 13 comments",
-      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 87,
+      "traffic": "198 pts / 103 comments",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "162 pts / 26 comments",
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Jelly Sheet",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "88 pts / 17 comments",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Giant canyon on Mars is still tectonically active",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "64 pts / 5 comments",
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "mark teixeira",
+      "title": "費城半導體",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.espn.com/mlb/story/_/id/50376245/former-mlb-star-mark-teixeira-wins-us-house-seat-texas",
-      "context": "Former MLB star Mark Teixeira wins U.S. House seat in Texas"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "101 pts / 26 comments",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "114 pts / 34 comments",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Evergreen: A Provably Safe Systems Language",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "46 pts / 27 comments",
+      "url": "https://evergreenlang.net",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "90 pts / 10 comments",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "台 股",
+      "topic": "AI is forcing us to pay off 40 years of technical debt",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「台 股」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AI is forcing us to pay off 40 years of technical debt」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「台 股」推到更高的注意力位置。台股大V反轉收盤　郭哲榮「5000萬抄底0050」獲利破百萬。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AI is forcing us to pay off 40 years of technical debt」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "台 股",
-          "url": "https://finance.ettoday.net/news/3266266"
+          "source": "HACKER NEWS",
+          "title": "AI is forcing us to pay off 40 years of technical debt",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
         }
       ]
     },
     {
-      "topic": "Jailbreaking my car's navigation system just so I can change the time",
+      "topic": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Jailbreaking my car's navigation system just so I can change the time」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Jailbreaking my car's navigation system just so I can change the time」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Jailbreaking my car's navigation system just so I can change the time",
-          "url": "https://blog.nns.ee/2026/11/02/renault-hack/"
+          "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
         }
       ]
     },
     {
-      "topic": "Stringman, an $800 open-source room scale gripper robot",
+      "topic": "North Korean fake job interview led to $6.3B Binance heist",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Stringman, an $800 open-source room scale gripper robot」開始升溫，我們真正該看的不是熱度",
+      "title": "當「North Korean fake job interview led to $6.3B Binance heist」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Stringman, an $800 open-source room scale gripper robot」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「North Korean fake job interview led to $6.3B Binance heist」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Stringman, an $800 open-source room scale gripper robot",
-          "url": "https://neufangled.com/"
+          "title": "North Korean fake job interview led to $6.3B Binance heist",
+          "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
         }
       ]
     }
