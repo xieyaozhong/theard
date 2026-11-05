@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-05T14:54:45+08:00",
+  "generated_at": "2026-11-06T01:26:45+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Residential proxies detected on White House network",
+      "title": "sshole",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "911 pts / 276 comments",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "score": 94,
+      "traffic": "1357 pts / 366 comments",
+      "url": "https://sshhole.com",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Kimi K3.1 Pro model weights are out",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "474 pts / 134 comments",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 86,
+      "traffic": "238 pts / 19 comments",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A thousand fewer paths to root",
+      "title": "MCP Explained",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "266 pts / 161 comments",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "score": 86,
+      "traffic": "145 pts / 72 comments",
+      "url": "https://mcp-explained.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A new Go API for JSON",
+      "title": "Download your favourite YouTube videos",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "278 pts / 126 comments",
-      "url": "https://go.dev/blog/jsonv2",
+      "score": 85,
+      "traffic": "121 pts / 60 comments",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Images 2.6",
+      "title": "Motorola Signature 27 with GrapheneOS support",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "227 pts / 147 comments",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "189 pts / 120 comments",
-      "url": "https://www.spacex.com/starfall",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "274 pts / 99 comments",
-      "url": "https://www.ricursive.com/ripple",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Insects don't swarm at LED lights",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "225 pts / 119 comments",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "2327",
-      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "1000+",
+      "traffic": "101 pts / 31 comments",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "157 pts / 7 comments",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "85 pts / 18 comments",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "比特幣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "暫停交易",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.storm.mg/article/11178723",
-      "context": "富采今起停止交易！現金減資33.79億元「每股退還4.58元」，新股何時恢復買賣？ | 下班經濟學 | 財經"
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "44 pts / 19 comments",
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "王威晨",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.ebc.net.tw/news/sport/579191",
-      "context": "中職／本季第一人！中信兄弟隊長王威晨行使FA"
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "46 pts / 7 comments",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "2344",
+      "title": "ai禁令",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://news.cnyes.com/news/id/6649036",
+      "context": "民主黨擬推「超級AI禁令」 比照核武級別罰則 違規恐判20年或公司死刑"
+    },
+    {
+      "title": "南機場夜市",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Residential proxies detected on White House network",
+      "topic": "sshole",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Residential proxies detected on White House network」開始升溫，我們真正該看的不是熱度",
+      "title": "當「sshole」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Residential proxies detected on White House network」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「sshole」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Residential proxies detected on White House network",
-          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+          "title": "sshole",
+          "url": "https://sshhole.com"
         }
       ]
     },
     {
-      "topic": "Kimi K3.1 Pro model weights are out",
+      "topic": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Kimi K3.1 Pro model weights are out」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Alpine Linux Security Advisory: OpenSSH-server password authentication bypass」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Kimi K3.1 Pro model weights are out」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Alpine Linux Security Advisory: OpenSSH-server password authentication bypass」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Kimi K3.1 Pro model weights are out",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+          "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+          "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
         }
       ]
     },
     {
-      "topic": "A thousand fewer paths to root",
+      "topic": "MCP Explained",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「A thousand fewer paths to root」開始升溫，我們真正該看的不是熱度",
+      "title": "當「MCP Explained」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A thousand fewer paths to root」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「MCP Explained」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A thousand fewer paths to root",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+          "title": "MCP Explained",
+          "url": "https://mcp-explained.com/"
         }
       ]
     }
