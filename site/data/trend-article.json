@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-06T01:26:45+08:00",
+  "generated_at": "2026-11-06T07:40:11+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "sshole",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1357 pts / 366 comments",
+      "score": 96,
+      "traffic": "2216 pts / 557 comments",
       "url": "https://sshhole.com",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "238 pts / 19 comments",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "MCP Explained",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "145 pts / 72 comments",
-      "url": "https://mcp-explained.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Download your favourite YouTube videos",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "121 pts / 60 comments",
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Motorola Signature 27 with GrapheneOS support",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "101 pts / 31 comments",
+      "score": 91,
+      "traffic": "372 pts / 278 comments",
       "url": "https://motorolanews.com/motorola-signature-27-2/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "title": "Search for everyone",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "157 pts / 7 comments",
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "score": 90,
+      "traffic": "401 pts / 205 comments",
+      "url": "https://kagi.com/changelog#11820",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "549 pts / 110 comments",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Goodbye from Salon",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "340 pts / 119 comments",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "233 pts / 62 comments",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Window Sweaters",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "215 pts / 76 comments",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "203 pts / 53 comments",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Hackintosh Reborn",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "160 pts / 72 comments",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "September in Servo: <progress>, rounded rectangles, and more",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "85 pts / 18 comments",
+      "score": 86,
+      "traffic": "171 pts / 42 comments",
       "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "比特幣",
+      "title": "命理 師",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "The Lisp curse, now coming to your ecosystem",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "44 pts / 19 comments",
-      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "My psychophysics as a bilateral cochlear implant user",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "46 pts / 7 comments",
-      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "ai禁令",
+      "title": "mu",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://news.cnyes.com/news/id/6649036",
-      "context": "民主黨擬推「超級AI禁令」 比照核武級別罰則 違規恐判20年或公司死刑"
-    },
-    {
-      "title": "南機場夜市",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://seekingalpha.com/article/4963288-micron-buy-the-panic-before-the-market-wakes-up",
+      "context": "Micron: Buy The Panic Before The Market Wakes Up (NASDAQ:MU)"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "topic": "Motorola Signature 27 with GrapheneOS support",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Alpine Linux Security Advisory: OpenSSH-server password authentication bypass」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Motorola Signature 27 with GrapheneOS support」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Alpine Linux Security Advisory: OpenSSH-server password authentication bypass」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Motorola Signature 27 with GrapheneOS support」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-          "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"
+          "title": "Motorola Signature 27 with GrapheneOS support",
+          "url": "https://motorolanews.com/motorola-signature-27-2/"
         }
       ]
     },
     {
-      "topic": "MCP Explained",
+      "topic": "Search for everyone",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「MCP Explained」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Search for everyone」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「MCP Explained」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Search for everyone」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "MCP Explained",
-          "url": "https://mcp-explained.com/"
+          "title": "Search for everyone",
+          "url": "https://kagi.com/changelog#11820"
         }
       ]
     }
