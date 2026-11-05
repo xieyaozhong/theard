@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-11-05T07:44:03+08:00",
+  "generated_at": "2026-11-05T14:54:45+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1011 pts / 607 comments",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Residential proxies detected on White House network",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "488 pts / 143 comments",
+      "score": 92,
+      "traffic": "911 pts / 276 comments",
       "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Kimi K3.1 Pro model weights are out",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "318 pts / 85 comments",
+      "score": 90,
+      "traffic": "474 pts / 134 comments",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "title": "A thousand fewer paths to root",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "192 pts / 67 comments",
-      "url": "https://www.ricursive.com/ripple",
+      "score": 89,
+      "traffic": "266 pts / 161 comments",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A new Go API for JSON",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "196 pts / 83 comments",
+      "score": 89,
+      "traffic": "278 pts / 126 comments",
       "url": "https://go.dev/blog/jsonv2",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Conductor is joining Meta",
+      "title": "Images 2.6",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "78 pts / 127 comments",
-      "url": "https://www.conductor.build/announcement",
+      "score": 88,
+      "traffic": "227 pts / 147 comments",
+      "url": "https://openai.com/index/introducing-images-2-6/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Progress on provable inference for large language models",
+      "title": "Starfall – Affordable, routine access to microgravity",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "163 pts / 83 comments",
-      "url": "https://www.anthropic.com/research/provable-inference",
+      "score": 88,
+      "traffic": "189 pts / 120 comments",
+      "url": "https://www.spacex.com/starfall",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "274 pts / 99 comments",
+      "url": "https://www.ricursive.com/ripple",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Insects don't swarm at LED lights",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "140 pts / 81 comments",
+      "score": 88,
+      "traffic": "225 pts / 119 comments",
       "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "酪 梨",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://fashion.ettoday.net/news/3266477",
-      "context": "麥當勞酪梨滿福堡多100大卡！營養師曝早餐、午餐這樣搭更享瘦"
-    },
-    {
-      "title": "散戶",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%B7%8C%E6%88%90%E5%BB%A2%E5%8D%8A-%E9%80%99%E9%A1%86-%E6%9C%AA%E7%88%86%E5%BD%88%E6%88%90%E9%9A%B1%E6%82%A3-%E6%95%A3%E6%88%B6%E5%87%B9%E5%96%AE%E6%8C%AB%E5%92%A7%E7%AD%89-212000086.html",
-      "context": "台股跌成廢半！「這顆」未爆彈成隱患 散戶凹單挫咧等"
-    },
-    {
-      "title": "活塞 對 76人",
+      "title": "2327",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://bbs.hupu.com/643624560.html",
-      "context": "[流言板]76人官方分享詹姆斯面对镜头展示微笑的登机照片"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "source": "HACKER NEWS",
+      "title": "暫停交易",
+      "source": "GOOGLE TRENDS / TW",
       "score": 84,
-      "traffic": "78 pts / 37 comments",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "context": "High-engagement technology discussion"
+      "traffic": "1000+",
+      "url": "https://www.storm.mg/article/11178723",
+      "context": "富采今起停止交易！現金減資33.79億元「每股退還4.58元」，新股何時恢復買賣？ | 下班經濟學 | 財經"
+    },
+    {
+      "title": "王威晨",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.ebc.net.tw/news/sport/579191",
+      "context": "中職／本季第一人！中信兄弟隊長王威晨行使FA"
+    },
+    {
+      "title": "2344",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "AI is forcing us to pay off 40 years of technical debt",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「AI is forcing us to pay off 40 years of technical debt」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AI is forcing us to pay off 40 years of technical debt」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
-        }
-      ]
-    },
-    {
       "topic": "Residential proxies detected on White House network",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Residential proxies detected on White House network」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -175,7 +139,7 @@
     {
       "topic": "Kimi K3.1 Pro model weights are out",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Kimi K3.1 Pro model weights are out」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Kimi K3.1 Pro model weights are out",
           "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+        }
+      ]
+    },
+    {
+      "topic": "A thousand fewer paths to root",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「A thousand fewer paths to root」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「A thousand fewer paths to root」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
         }
       ]
     }
