@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-11-06T14:54:21+08:00",
+  "generated_at": "2026-11-07T00:47:56+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "sshole",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "2552 pts / 622 comments",
-      "url": "https://sshhole.com",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Claude Code sends your email address to websites",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "882 pts / 292 comments",
+      "score": 94,
+      "traffic": "1457 pts / 453 comments",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "MS Paint Remote Code Execution Vulnerability",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "454 pts / 173 comments",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "score": 91,
+      "traffic": "507 pts / 309 comments",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Hackintosh Reborn",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "506 pts / 202 comments",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "RIP Cybertruck",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "282 pts / 138 comments",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "traffic": "183 pts / 237 comments",
+      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Window Sweaters",
+      "title": "美股指數",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "296 pts / 93 comments",
-      "url": "https://github.com/saragordic/window-sweaters",
+      "traffic": "185 pts / 143 comments",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Inkling 2 Small",
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "161 pts / 55 comments",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "traffic": "199 pts / 53 comments",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "89 pts / 49 comments",
-      "url": "https://github.com/rivet-dev/rivet",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "92 pts / 16 comments",
-      "url": "https://firenook.dev/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "魏哲家",
+      "title": "短 今",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%A4%A7%E8%B7%8C%E3%80%81%E5%A4%96%E8%B3%87%E4%B9%9F%E8%99%A7%E5%A4%A7%E4%BA%86%EF%BC%81%E5%B8%82%E5%80%BC1%E5%80%8B%E6%9C%88%E8%92%B8%E7%99%BC10%E5%85%86%E5%85%83-%E6%98%AF%E9%AD%8F%E5%93%B2%E5%AE%B6%E7%9A%842100%E5%80%8D-033920583.html",
-      "context": "台積電大跌、外資也虧大了！市值1個月蒸發10兆元 是魏哲家的2100倍"
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5631837",
+      "context": "短今慘遭廠商「封殺」 合作多年突被切割 崩潰內幕曝光"
     },
     {
-      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "title": "Deus Ex",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "55 pts / 17 comments",
-      "url": "https://github.com/dsx-ai-factory/nvke",
+      "score": 85,
+      "traffic": "103 pts / 48 comments",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Pwn.college",
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "83 pts / 9 comments",
-      "url": "https://pwn.college/",
+      "score": 85,
+      "traffic": "117 pts / 41 comments",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "38 pts / 20 comments",
-      "url": "https://github.com/matthewmrichter/mooftcp",
-      "context": "High-engagement technology discussion"
+      "title": "nasdaq",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk",
+      "context": "AI stocks set for rebound after $2.5 trillion wipe out"
+    },
+    {
+      "title": "toyz 篠崎泫",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/toyz%E5%87%BA%E7%8D%84%E8%BF%94%E6%B8%AF%E9%A6%96%E9%9C%B2%E9%9D%A2%EF%BC%81%E7%AF%A0%E5%B4%8E%E6%B3%AB%E8%87%AA%E7%88%86%E6%8E%8C%E6%8F%A1%E7%94%B7%E5%8F%8B%E6%89%80%E6%9C%89%E5%B8%B3%E5%AF%86%E3%80%8C%E8%AD%A6%E5%91%8A%E7%A7%81%E8%A8%8A%E5%A5%B3%E7%94%9F%E3%80%8D-132951702.html",
+      "context": "Toyz出獄返港首露面！篠崎泫自爆掌握男友所有帳密「警告私訊女生」"
     }
   ],
   "articles": [
     {
-      "topic": "sshole",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「sshole」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「sshole」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "sshole",
-          "url": "https://sshhole.com"
-        }
-      ]
-    },
-    {
       "topic": "Claude Code sends your email address to websites",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Claude Code sends your email address to websites」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "MS Paint Remote Code Execution Vulnerability",
+      "topic": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「MS Paint Remote Code Execution Vulnerability」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「MS Paint Remote Code Execution Vulnerability」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "MS Paint Remote Code Execution Vulnerability",
-          "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
+          "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+          "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105"
+        }
+      ]
+    },
+    {
+      "topic": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Blender's UI and Runtime: Much Faster Than GPUI」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Blender's UI and Runtime: Much Faster Than GPUI」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+          "url": "https://github.com/ppmpreetham/BUI"
         }
       ]
     }
