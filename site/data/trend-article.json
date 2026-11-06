@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-06T07:40:11+08:00",
+  "generated_at": "2026-11-06T14:54:21+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "sshole",
       "source": "HACKER NEWS",
       "score": 96,
-      "traffic": "2216 pts / 557 comments",
+      "traffic": "2552 pts / 622 comments",
       "url": "https://sshhole.com",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "372 pts / 278 comments",
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Search for everyone",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "401 pts / 205 comments",
-      "url": "https://kagi.com/changelog#11820",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "549 pts / 110 comments",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Goodbye from Salon",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "340 pts / 119 comments",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "233 pts / 62 comments",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Window Sweaters",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "215 pts / 76 comments",
-      "url": "https://github.com/saragordic/window-sweaters",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Claude Code sends your email address to websites",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "203 pts / 53 comments",
+      "score": 92,
+      "traffic": "882 pts / 292 comments",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "454 pts / 173 comments",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "The Hackintosh Reborn",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "160 pts / 72 comments",
+      "score": 89,
+      "traffic": "282 pts / 138 comments",
       "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "title": "Window Sweaters",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "171 pts / 42 comments",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "score": 88,
+      "traffic": "296 pts / 93 comments",
+      "url": "https://github.com/saragordic/window-sweaters",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "命理 師",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Inkling 2 Small",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "161 pts / 55 comments",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "mu",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "1000+",
-      "url": "https://seekingalpha.com/article/4963288-micron-buy-the-panic-before-the-market-wakes-up",
-      "context": "Micron: Buy The Panic Before The Market Wakes Up (NASDAQ:MU)"
+      "traffic": "89 pts / 49 comments",
+      "url": "https://github.com/rivet-dev/rivet",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "92 pts / 16 comments",
+      "url": "https://firenook.dev/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "魏哲家",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%A4%A7%E8%B7%8C%E3%80%81%E5%A4%96%E8%B3%87%E4%B9%9F%E8%99%A7%E5%A4%A7%E4%BA%86%EF%BC%81%E5%B8%82%E5%80%BC1%E5%80%8B%E6%9C%88%E8%92%B8%E7%99%BC10%E5%85%86%E5%85%83-%E6%98%AF%E9%AD%8F%E5%93%B2%E5%AE%B6%E7%9A%842100%E5%80%8D-033920583.html",
+      "context": "台積電大跌、外資也虧大了！市值1個月蒸發10兆元 是魏哲家的2100倍"
+    },
+    {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "55 pts / 17 comments",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Pwn.college",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "83 pts / 9 comments",
+      "url": "https://pwn.college/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "38 pts / 20 comments",
+      "url": "https://github.com/matthewmrichter/mooftcp",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Motorola Signature 27 with GrapheneOS support",
+      "topic": "Claude Code sends your email address to websites",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Motorola Signature 27 with GrapheneOS support」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Claude Code sends your email address to websites」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Motorola Signature 27 with GrapheneOS support」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Claude Code sends your email address to websites」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Motorola Signature 27 with GrapheneOS support",
-          "url": "https://motorolanews.com/motorola-signature-27-2/"
+          "title": "Claude Code sends your email address to websites",
+          "url": "https://github.com/anthropics/claude-code/issues/107757"
         }
       ]
     },
     {
-      "topic": "Search for everyone",
+      "topic": "MS Paint Remote Code Execution Vulnerability",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Search for everyone」開始升溫，我們真正該看的不是熱度",
+      "title": "當「MS Paint Remote Code Execution Vulnerability」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Search for everyone」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「MS Paint Remote Code Execution Vulnerability」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Search for everyone",
-          "url": "https://kagi.com/changelog#11820"
+          "title": "MS Paint Remote Code Execution Vulnerability",
+          "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844"
         }
       ]
     }
