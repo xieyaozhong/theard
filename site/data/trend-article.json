@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-07T07:13:43+08:00",
+  "generated_at": "2026-11-07T14:05:25+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Tesla to wind down Cybertruck production",
       "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "766 pts / 1592 comments",
+      "score": 97,
+      "traffic": "940 pts / 1801 comments",
       "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "671 pts / 270 comments",
-      "url": "https://github.com/ppmpreetham/BUI",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "248 pts / 201 comments",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "美股",
+      "title": "股利",
       "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.stock.yahoo.com/news/ai%E8%82%A1%E8%B7%8C%E5%A4%A0%E4%BA%86%E5%97%8E-%E7%BE%8E%E8%82%A1%E4%B8%8B%E5%91%A8%E5%85%A9%E5%A4%A7%E8%80%83%E9%A9%97-cpi%E7%9C%8B%E5%8D%87%E6%81%AF-coreweave%E7%9C%8B%E8%B3%87%E9%87%91-200004497.html",
-      "context": "AI股跌夠了嗎？美股下周兩大考驗：CPI看升息、CoreWeave看資金"
-    },
-    {
-      "title": "台積電adr",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
+      "score": 90,
+      "traffic": "10000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "240 pts / 54 comments",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "score": 90,
+      "traffic": "309 pts / 254 comments",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "AI is dramatically accelerating AI research",
+      "title": "Libghostty 1.0",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "128 pts / 82 comments",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "score": 89,
+      "traffic": "444 pts / 71 comments",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "409 pts / 91 comments",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "128 pts / 65 comments",
+      "score": 88,
+      "traffic": "205 pts / 104 comments",
       "url": "https://pwn.ai/blog/firecracker-escape",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "First steps in bare-metal programming using UEFI",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "159 pts / 29 comments",
-      "url": "https://kevinboone.me/efitest_index.html",
+      "score": 84,
+      "traffic": "78 pts / 36 comments",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+      "title": "黃樂",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://udn.com/news/story/6813/9863231",
+      "context": "紐時：黃樂是中國國安部間諜 接近黃仁勳試圖促美供應最先進晶片"
+    },
+    {
+      "title": "lakers vs trail blazers",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://sports.yahoo.com/articles/luka-doncics-remarkable-scoring-streak-120355790.html",
+      "context": "Luka Doncic's remarkable scoring streak gives Lakers a new challenge"
+    },
+    {
+      "title": "What do the next 4000 emoji look like?",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "81 pts / 61 comments",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+      "score": 81,
+      "traffic": "33 pts / 21 comments",
+      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "vix指數",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5631187",
-      "context": "散戶逃命潮來了！買盤罕見集體退場 創2020年3月疫情以來新高"
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "60 pts / 4 comments",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "投資",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Notes on San Marino",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "38 pts / 10 comments",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "topic": "股利",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Blender's UI and Runtime: Much Faster Than GPUI」開始升溫，我們真正該看的不是熱度",
+      "title": "當「股利」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Blender's UI and Runtime: Much Faster Than GPUI」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「股利」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -166,9 +166,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-          "url": "https://github.com/ppmpreetham/BUI"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "股利",
+          "url": "https://trends.google.com/trending?geo=TW"
         }
       ]
     },
