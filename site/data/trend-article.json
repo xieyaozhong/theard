@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-09T01:56:58+08:00",
+  "generated_at": "2026-11-09T06:11:14+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Goodbye Claude, hello Pi",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "568 pts / 354 comments",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "507 pts / 369 comments",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What I run on my $10 USD OpenStick homelab",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "705 pts / 126 comments",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "143 pts / 148 comments",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "traffic": "466 pts / 290 comments",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "221 pts / 65 comments",
+      "score": 89,
+      "traffic": "321 pts / 120 comments",
       "url": "https://github.com/synchopate/llama-modchip",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "17 pts / 158 comments",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "128 pts / 110 comments",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Writing as a thinking tool",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "123 pts / 37 comments",
+      "score": 87,
+      "traffic": "236 pts / 74 comments",
       "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "title": "股票",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.news.yahoo.com/%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E7%AC%AC10%E6%AC%A1%E9%80%B2%E5%A0%B4%E6%95%91%E5%B8%82-%E5%88%A5%E6%80%A5%E8%91%97%E6%8A%84%E5%BA%95-%E5%91%A8%E4%BB%A3%E9%81%8B%E6%8F%AD%E8%AD%B7%E7%9B%A4%E9%81%B8%E8%82%A1%E5%AF%86%E7%A2%BC-193300260.html",
+      "context": "國安基金第10次進場救市！別急著抄底：周代運揭護盤選股密碼"
+    },
+    {
+      "title": "Declarative Dragging",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "127 pts / 48 comments",
-      "url": "https://clj.rs/",
+      "traffic": "190 pts / 20 comments",
+      "url": "https://declarative-dragging.github.io/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "曼聯 對 阿斯頓維拉",
+      "title": "股災",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E8%B7%8C%E5%85%A5%E9%99%8D%E7%B4%9A%E5%8D%80-%E5%89%8D9%E6%88%B0%E5%83%851%E5%8B%9D%E9%99%B7%E4%BF%9D%E7%B4%9A%E5%8D%B1%E6%A9%9F-034255544.html",
-      "context": "英超》曼聯跌入降級區 前9戰僅1勝陷保級危機"
-    },
-    {
-      "title": "Porting Android 16 to my blind mother's keypad phone",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "92 pts / 32 comments",
-      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "又一村事件",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E7%8E%8B%E9%B4%BB%E8%96%87%E5%90%A6%E8%AA%8D%E5%B0%8D%E5%8F%88-%E6%9D%91%E8%AC%9B-%E5%86%8D%E5%A4%A7%E8%81%B2-%E9%BB%9E-%E5%8F%8D%E6%93%8A%E8%AC%9D%E9%87%91%E6%B2%B3-154700667.html",
-      "context": "王鴻薇否認對又一村講「再大聲一點」！反擊謝金河：你幻聽了嗎"
-    },
-    {
-      "title": "愛爾達",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "蔣友柏",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.setn.com/news/1935420",
-      "context": "跟進嗎？沈伯洋鬆口想邀蔣友柏　蔣萬安：尊重"
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "104 pts / 34 comments",
+      "url": "https://duxlabs.dev/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "120 pts / 23 comments",
+      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A Little Snitch for Windows",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "71 pts / 33 comments",
+      "url": "https://packethound.app/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "74 pts / 32 comments",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Goodbye Claude, hello Pi",
+      "topic": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Goodbye Claude, hello Pi」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Goldman Sachs is pulling Claude Code from its bankers and traders」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Goodbye Claude, hello Pi」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Goldman Sachs is pulling Claude Code from its bankers and traders」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Goodbye Claude, hello Pi",
-          "url": "https://caleb.software/posts/claude-to-pi.html"
+          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
         }
       ]
     },
     {
-      "topic": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "topic": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip"
         }
       ]
     },
     {
-      "topic": "What I run on my $10 USD OpenStick homelab",
+      "topic": "Ask HN: What are you working on? (November 2026)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「What I run on my $10 USD OpenStick homelab」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Ask HN: What are you working on? (November 2026)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「What I run on my $10 USD OpenStick homelab」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Ask HN: What are you working on? (November 2026)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "What I run on my $10 USD OpenStick homelab",
-          "url": "https://blog.bosscher.ch/posts/openstick/"
+          "title": "Ask HN: What are you working on? (November 2026)",
+          "url": "https://news.ycombinator.com/item?id=50417407"
         }
       ]
     }
