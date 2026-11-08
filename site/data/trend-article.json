@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-08T08:42:13+08:00",
+  "generated_at": "2026-11-08T18:28:33+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Need for Speed Underground 2 online in the browser",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "789 pts / 224 comments",
+      "score": 93,
+      "traffic": "996 pts / 250 comments",
       "url": "https://nfsu2.xyz/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "348 pts / 201 comments",
-      "url": "https://hunch.net/?p=13764006",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "332 pts / 224 comments",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "309 pts / 76 comments",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "134 pts / 96 comments",
+      "score": 91,
+      "traffic": "398 pts / 273 comments",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "title": "Goodbye Claude, Hello Pi",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "184 pts / 55 comments",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "score": 90,
+      "traffic": "320 pts / 192 comments",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "title": "What I run on my $10 USD OpenStick homelab",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "185 pts / 39 comments",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GitHub New pull request overview page in public preview",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "33 pts / 23 comments",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "52 pts / 11 comments",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "score": 90,
+      "traffic": "589 pts / 110 comments",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Making any integer with four 2s (2025)",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "41 pts / 8 comments",
+      "score": 85,
+      "traffic": "146 pts / 33 comments",
       "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "曾峻岳",
+      "title": "亞冠賽名單",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5633241",
-      "context": "MLB》富邦悍將守護神挑戰大聯盟！ 曾峻岳跨出第一步"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%9A%8A%E6%9C%80%E7%B5%8228%E4%BA%BA%E5%90%8D%E5%96%AE%E6%8F%AD%E6%9B%89-%E6%9D%8E%E6%AC%A3%E7%A9%8E-%E5%BC%B5%E7%9A%93%E5%B4%B4%E7%AD%895%E4%BA%BA%E9%81%AD%E5%89%B2%E6%84%9B-092200903.html",
+      "context": "亞冠賽／台灣隊最終28人名單揭曉 李欣穎、張皓崴等5人遭割愛"
     },
     {
-      "title": "老鷹 對 籃網",
+      "title": "黃立成",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/6%E5%B0%8F%E6%99%82%E7%88%86%E5%80%898%E6%AC%A1-%E9%BA%BB%E5%90%89%E5%A4%A7%E5%93%A5%E5%B8%B3%E6%88%B6%E6%9B%BE%E5%89%A91-5%E7%BE%8E%E5%85%83-54%E6%AD%B2%E7%94%9F%E6%97%A5%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-072731182.html",
+      "context": "6小時爆倉8次！麻吉大哥帳戶曾剩1.5美元 54歲生日近況曝光"
+    },
+    {
+      "title": "GitHub Down Again?",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "42 pts / 27 comments",
+      "url": "https://github.com/torvalds/linux",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "52 pts / 21 comments",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "58 pts / 4 comments",
+      "url": "https://clj.rs/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "50 pts / 8 comments",
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "屏東聖誕節",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://udn.com/news/story/7002/9864033",
-      "context": "NBA／楊恩重返老鷹主場遭噓聲伺候 坦言心情複雜：不知道該如何形容"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "The end of Microsoft Research's AI Frontiers group",
+      "topic": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「The end of Microsoft Research's AI Frontiers group」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The end of Microsoft Research's AI Frontiers group」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The end of Microsoft Research's AI Frontiers group",
-          "url": "https://hunch.net/?p=13764006"
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
         }
       ]
     },
     {
-      "topic": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "topic": "Goodbye Claude, Hello Pi",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Apple’s grey list: Words and phrases your iPhone won’t help you spell」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Goodbye Claude, Hello Pi」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Apple’s grey list: Words and phrases your iPhone won’t help you spell」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Goodbye Claude, Hello Pi」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+          "title": "Goodbye Claude, Hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html"
         }
       ]
     }
