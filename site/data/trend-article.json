@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-09T14:43:46+08:00",
+  "generated_at": "2026-11-10T03:52:02+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "title": "Fold Epic Paper Airplanes",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "518 pts / 557 comments",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "score": 91,
+      "traffic": "659 pts / 119 comments",
+      "url": "https://www.foldableflight.com",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "加權指數",
+      "title": "交通部中央氣象署",
       "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E3%80%81%E9%99%90%E7%A9%BA%E4%BB%A4%E9%9B%99%E7%AE%AD%E9%BD%8A%E7%99%BC%EF%BC%81%E5%8D%83%E9%87%91%E8%82%A1%E7%B5%95%E5%9C%B0%E5%A4%A7%E5%8F%8D%E6%94%BB-%E5%A4%A7%E7%AB%8B%E5%85%89%E8%81%AF%E7%99%BC%E7%A7%9113%E6%AA%94%E4%BA%AE%E7%87%88%E6%BC%B2%E5%81%9C-031605500.html",
-      "context": "國安基金、限空令雙箭齊發！千金股絕地大反攻 大立光聯發科13檔亮燈漲停"
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "188 pts / 631 comments",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Outlook.com is rejecting email from domains without DMARC",
-      "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "343 pts / 257 comments",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "371 pts / 99 comments",
-      "url": "https://ketchup3d.github.io/app/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "I'm not convinced the AI bubble exists",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "155 pts / 211 comments",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Declarative Dragging",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "461 pts / 61 comments",
-      "url": "https://declarative-dragging.github.io/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "RIP, Harvest",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "279 pts / 83 comments",
-      "url": "https://aphyr.com/posts/427-rip-harvest",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Unlocking any car from X brand in most of the world",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "215 pts / 75 comments",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "248 pts / 78 comments",
-      "url": "https://duxlabs.dev/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "2344",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "traffic": "10000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "Chimera Vocal Synth",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "321 pts / 178 comments",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "367 pts / 151 comments",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Too many men suffering in silence, national health report finds (Canada)",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "226 pts / 190 comments",
+      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "168 pts / 80 comments",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "168 pts / 23 comments",
-      "url": "https://chimera-vocal-synth.vercel.app/",
+      "traffic": "102 pts / 47 comments",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "中信兄弟",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E5%A4%A7%E6%88%B0%E5%85%84%E5%BC%9F%E7%A5%A8%E6%88%BF%E9%96%8B%E7%B4%85%E7%9B%A4-%E5%8F%B0%E7%81%A3%E9%9A%8A%E5%85%AC%E5%B8%83%E8%A7%80%E7%9C%BE%E4%BA%BA%E6%95%B8-065215827.html",
+      "context": "亞冠賽》大戰兄弟票房開紅盤！ 台灣隊公布觀眾人數"
+    },
+    {
+      "title": "gta6",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+      "context": "Grand Theft Auto VI Pre-Load Begins on November 10"
+    },
+    {
+      "title": "費城半導體",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "40 pts / 10 comments",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "27 pts / 13 comments",
+      "url": "https://meowdisplay.app/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "topic": "Fold Epic Paper Airplanes",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Nvidia CEO Jensen Huang's letter to staff about affair」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Fold Epic Paper Airplanes」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nvidia CEO Jensen Huang's letter to staff about affair」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Fold Epic Paper Airplanes」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-          "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+          "title": "Fold Epic Paper Airplanes",
+          "url": "https://www.foldableflight.com"
         }
       ]
     },
     {
-      "topic": "加權指數",
+      "topic": "交通部中央氣象署",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「加權指數」開始升溫，我們真正該看的不是熱度",
+      "title": "當「交通部中央氣象署」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「加權指數」推到更高的注意力位置。國安基金、限空令雙箭齊發！千金股絕地大反攻 大立光聯發科13檔亮燈漲停。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「交通部中央氣象署」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "加權指數",
-          "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E3%80%81%E9%99%90%E7%A9%BA%E4%BB%A4%E9%9B%99%E7%AE%AD%E9%BD%8A%E7%99%BC%EF%BC%81%E5%8D%83%E9%87%91%E8%82%A1%E7%B5%95%E5%9C%B0%E5%A4%A7%E5%8F%8D%E6%94%BB-%E5%A4%A7%E7%AB%8B%E5%85%89%E8%81%AF%E7%99%BC%E7%A7%9113%E6%AA%94%E4%BA%AE%E7%87%88%E6%BC%B2%E5%81%9C-031605500.html"
+          "title": "交通部中央氣象署",
+          "url": "https://trends.google.com/trending?geo=TW"
         }
       ]
     },
     {
-      "topic": "Ask HN: What are you working on? (November 2026)",
+      "topic": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Ask HN: What are you working on? (November 2026)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Ask HN: What are you working on? (November 2026)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Ask HN: What are you working on? (November 2026)",
-          "url": "https://news.ycombinator.com/item?id=50417407"
+          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
         }
       ]
     }
