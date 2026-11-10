@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-10T22:57:38+08:00",
+  "generated_at": "2026-11-11T05:19:14+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "明天的天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 96,
-      "traffic": "100000+",
-      "url": "https://tw.news.yahoo.com/%E6%98%8E%E5%A4%A9%E5%A4%A9%E6%B0%A3%E6%B8%85%E6%99%A8%E4%BD%8E%E6%BA%AB17%E2%84%83-%E6%A1%83%E5%9C%92%E4%BB%A5%E5%8C%97%E5%8F%8A%E6%9D%B1%E5%8D%8A%E9%83%A8%E9%99%A3%E9%9B%A8-%E5%91%A8%E5%9B%9B%E6%B0%A3%E6%BA%AB%E5%9B%9E%E5%8D%87%E5%91%A8%E6%9C%AB%E9%AB%98%E6%BA%AB30%E2%84%83-104311518.html",
-      "context": "明天天氣清晨低溫17℃ 桃園以北及東半部陣雨 周四氣溫回升周末高溫30℃"
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "738 pts / 894 comments",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "680 pts / 345 comments",
-      "url": "https://postalpro.usps.com/zcb",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "title": ".name Grandfathered",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "476 pts / 173 comments",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "traffic": "516 pts / 99 comments",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "491 pts / 176 comments",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AlphaProof Code",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "262 pts / 99 comments",
+      "score": 90,
+      "traffic": "531 pts / 168 comments",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Your TV can see through walls",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "207 pts / 85 comments",
-      "url": "https://maurycyz.com/projects/fading/",
+      "traffic": "185 pts / 81 comments",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ableton Live 13",
+      "title": "Val Town is winding down",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "211 pts / 53 comments",
+      "url": "https://blog.val.town/winding-down",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "93 pts / 99 comments",
-      "url": "https://www.ableton.com/en/live/",
+      "traffic": "160 pts / 45 comments",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "黃 樂 照片",
+      "title": "普發一萬",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%8F%AD%E9%BB%83%E6%A8%82%E7%9B%B4%E5%B1%AC%E4%B8%AD%E5%85%B1%E5%9C%8B%E5%AE%89%E9%83%A8-%E7%9C%9F%E5%AF%A6%E8%BA%AB%E5%88%86-%E6%99%B6%E7%89%87%E7%B5%84-%E7%B2%BE%E9%8A%B3%E5%A5%B3%E7%89%B9%E5%B7%A5-%E6%BB%B2%E9%80%8F%E5%B0%8D%E8%B1%A1%E4%B8%8D%E5%8F%AA%E9%BB%83%E4%BB%81%E5%8B%B3-080000245.html",
-      "context": "美揭黃樂直屬中共國安部！真實身分「晶片組」精銳女特工 滲透對象不只黃仁勳"
+      "url": "https://www.storm.mg/lifestyle/11180013",
+      "context": "全國普發一萬要來了！入帳時間、「ATM/郵局領現時程曝」，7地區加碼最高再領10000元"
     },
     {
-      "title": "台灣積體電路製造股份有限公司",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://tw.stock.yahoo.com/news/325%E8%90%AC%E8%82%A1%E6%B0%91%E5%97%A8%E7%BF%BB-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8B%8D%E6%9D%BF%E5%AD%A3%E9%85%8D9%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-%E9%80%99%E5%A4%A9%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5-%E5%8F%A6%E7%A0%B8329%E5%84%84%E5%85%A5%E8%82%A1openai-anthropic-140000601.html",
-      "context": "325萬股民嗨翻！台積電拍板季配9元創新高「這天最後買進日」 另砸329億入股OpenAI、Anthropic"
-    },
-    {
-      "title": "weather tomorrow",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-3rd-odi-1539439/match-report",
-      "context": "India hold on to series lead after washout as New Zealand's winning streak ends"
-    },
-    {
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "98 pts / 72 comments",
-      "url": "https://connect.queenslibrary.org/",
+      "traffic": "127 pts / 44 comments",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "title": "What objective is reasoning solving?",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "88 pts / 48 comments",
-      "url": "https://github.com/HolyArrs/HolyArrs",
+      "score": 81,
+      "traffic": "47 pts / 17 comments",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "鄭朝方",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "年金",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.storm.mg/article/11179098",
+      "context": "觀點投書：國民年金領不到5000元，是誰的問題？ | 徐文路 | 評論"
+    },
+    {
+      "title": "老農津貼",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "明天的天氣",
+      "topic": ".name Grandfathered",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「明天的天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「.name Grandfathered」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「明天的天氣」推到更高的注意力位置。明天天氣清晨低溫17℃ 桃園以北及東半部陣雨 周四氣溫回升周末高溫30℃。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「.name Grandfathered」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "明天的天氣",
-          "url": "https://tw.news.yahoo.com/%E6%98%8E%E5%A4%A9%E5%A4%A9%E6%B0%A3%E6%B8%85%E6%99%A8%E4%BD%8E%E6%BA%AB17%E2%84%83-%E6%A1%83%E5%9C%92%E4%BB%A5%E5%8C%97%E5%8F%8A%E6%9D%B1%E5%8D%8A%E9%83%A8%E9%99%A3%E9%9B%A8-%E5%91%A8%E5%9B%9B%E6%B0%A3%E6%BA%AB%E5%9B%9E%E5%8D%87%E5%91%A8%E6%9C%AB%E9%AB%98%E6%BA%AB30%E2%84%83-104311518.html"
+          "source": "HACKER NEWS",
+          "title": ".name Grandfathered",
+          "url": "https://neil.fraser.name/news/2026/11/10/"
         }
       ]
     },
     {
-      "topic": "Claude Fable 5.2 and Mythos 5.2",
+      "topic": "Smart home devices should work without the internet",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Claude Fable 5.2 and Mythos 5.2」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Smart home devices should work without the internet」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Claude Fable 5.2 and Mythos 5.2」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Smart home devices should work without the internet」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Claude Fable 5.2 and Mythos 5.2",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+          "title": "Smart home devices should work without the internet",
+          "url": "https://docodethatmatters.com/home-automation-overnight-success/"
         }
       ]
     },
     {
-      "topic": "USPS now offers official ZIP Code boundary polygons",
+      "topic": "AlphaProof Code",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「USPS now offers official ZIP Code boundary polygons」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AlphaProof Code」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「USPS now offers official ZIP Code boundary polygons」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AlphaProof Code」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "USPS now offers official ZIP Code boundary polygons",
-          "url": "https://postalpro.usps.com/zcb"
+          "title": "AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
         }
       ]
     }
