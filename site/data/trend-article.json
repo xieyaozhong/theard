@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-11T14:34:08+08:00",
+  "generated_at": "2026-11-12T01:12:50+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Smart home devices should work without the internet",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "842 pts / 300 comments",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "traffic": "704 pts / 261 comments",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Scion is back and is going to sell a kei truck in America",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "431 pts / 291 comments",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "score": 88,
+      "traffic": "207 pts / 106 comments",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": ".name Grandfathered",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "762 pts / 169 comments",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Starlink Mini 2",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "361 pts / 369 comments",
-      "url": "https://starlink.com/mini-2",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "358 pts / 213 comments",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "141 pts / 103 comments",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Six Math Essentials",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "203 pts / 37 comments",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "traffic": "166 pts / 60 comments",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "title": "黑色 星期五",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.cardu.com.tw/epoint/detail.php?66426",
+      "context": "2026 好市多黑色購物節》首次連辦14天，優惠商品搶先看！(持續更新)"
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "159 pts / 27 comments",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "We need more goat sacrifices",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "95 pts / 57 comments",
+      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "景 碩",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://wantrich.chinatimes.com/news/20261111900001-420101",
+      "context": "ABF三雄欣興、南電、景碩重演2022年劇本？外資上修明年獲利，為何反手賣超- 上市櫃"
+    },
+    {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "93 pts / 34 comments",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "118 pts / 21 comments",
+      "url": "https://av.github.io/safe-sand/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Pharo in the Browser with WebAssembly",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "75 pts / 25 comments",
-      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "traffic": "81 pts / 18 comments",
+      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A great old-timey game-programming hack (2013)",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "95 pts / 14 comments",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "記憶 體",
+      "title": "士官",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://udn.com/news/story/10930/9872408",
+      "context": "國軍留才變留不住人才？外島士官滿6年輪調 馬文君憂掀退伍潮"
     },
     {
-      "title": "威秀",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/bts%E9%AB%98%E9%9B%84%E5%A0%B4%E7%9B%B4%E6%92%AD%E7%A7%92%E6%AE%BA-%E6%80%A5%E5%8A%A0%E9%96%8B18%E5%BD%B1%E5%9F%8E%E9%80%BE%E8%90%AC%E5%B8%AD-032446642.html",
-      "context": "BTS高雄場直播秒殺 急加開18影城逾萬席"
-    },
-    {
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "53 pts / 28 comments",
-      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "score": 81,
+      "traffic": "44 pts / 13 comments",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Smart home devices should work without the internet",
+      "topic": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Smart home devices should work without the internet」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Smart home devices should work without the internet」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Smart home devices should work without the internet",
-          "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+          "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "url": "https://pietromiotti.com/latest/maya-site/?maya"
         }
       ]
     },
     {
-      "topic": "Scion is back and is going to sell a kei truck in America",
+      "topic": "I asked every TV manufacturer 17 questions about how they spy on you",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Scion is back and is going to sell a kei truck in America」開始升溫，我們真正該看的不是熱度",
+      "title": "當「I asked every TV manufacturer 17 questions about how they spy on you」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Scion is back and is going to sell a kei truck in America」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「I asked every TV manufacturer 17 questions about how they spy on you」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Scion is back and is going to sell a kei truck in America",
-          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+          "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+          "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions"
         }
       ]
     },
     {
-      "topic": ".name Grandfathered",
+      "topic": "Using voltage glitching to unleash the A100 in my mining card",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「.name Grandfathered」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Using voltage glitching to unleash the A100 in my mining card」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「.name Grandfathered」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Using voltage glitching to unleash the A100 in my mining card」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": ".name Grandfathered",
-          "url": "https://neil.fraser.name/news/2026/11/10/"
+          "title": "Using voltage glitching to unleash the A100 in my mining card",
+          "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/"
         }
       ]
     }
