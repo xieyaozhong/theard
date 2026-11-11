@@ -1,145 +1,109 @@
 {
-  "generated_at": "2026-11-11T05:19:14+08:00",
+  "generated_at": "2026-11-11T14:34:08+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": ".name Grandfathered",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "516 pts / 99 comments",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "context": "High-engagement technology discussion"
-    },
-    {
       "title": "Smart home devices should work without the internet",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "491 pts / 176 comments",
+      "score": 92,
+      "traffic": "842 pts / 300 comments",
       "url": "https://docodethatmatters.com/home-automation-overnight-success/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "AlphaProof Code",
+      "title": "Scion is back and is going to sell a kei truck in America",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "531 pts / 168 comments",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "score": 91,
+      "traffic": "431 pts / 291 comments",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": ".name Grandfathered",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "762 pts / 169 comments",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Starlink Mini 2",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "361 pts / 369 comments",
+      "url": "https://starlink.com/mini-2",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "185 pts / 81 comments",
+      "score": 90,
+      "traffic": "358 pts / 213 comments",
       "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Val Town is winding down",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "211 pts / 53 comments",
-      "url": "https://blog.val.town/winding-down",
+      "traffic": "141 pts / 103 comments",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "title": "Six Math Essentials",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "160 pts / 45 comments",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "traffic": "203 pts / 37 comments",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "普發一萬",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://www.storm.mg/lifestyle/11180013",
-      "context": "全國普發一萬要來了！入帳時間、「ATM/郵局領現時程曝」，7地區加碼最高再領10000元"
-    },
-    {
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "127 pts / 44 comments",
-      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "score": 83,
+      "traffic": "75 pts / 25 comments",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "What objective is reasoning solving?",
+      "title": "A great old-timey game-programming hack (2013)",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "47 pts / 17 comments",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "score": 83,
+      "traffic": "95 pts / 14 comments",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "鄭朝方",
+      "title": "記憶 體",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "年金",
+      "title": "威秀",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.storm.mg/article/11179098",
-      "context": "觀點投書：國民年金領不到5000元，是誰的問題？ | 徐文路 | 評論"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/bts%E9%AB%98%E9%9B%84%E5%A0%B4%E7%9B%B4%E6%92%AD%E7%A7%92%E6%AE%BA-%E6%80%A5%E5%8A%A0%E9%96%8B18%E5%BD%B1%E5%9F%8E%E9%80%BE%E8%90%AC%E5%B8%AD-032446642.html",
+      "context": "BTS高雄場直播秒殺 急加開18影城逾萬席"
     },
     {
-      "title": "老農津貼",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "53 pts / 28 comments",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": ".name Grandfathered",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「.name Grandfathered」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「.name Grandfathered」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": ".name Grandfathered",
-          "url": "https://neil.fraser.name/news/2026/11/10/"
-        }
-      ]
-    },
-    {
       "topic": "Smart home devices should work without the internet",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Smart home devices should work without the internet」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -173,15 +137,15 @@
       ]
     },
     {
-      "topic": "AlphaProof Code",
+      "topic": "Scion is back and is going to sell a kei truck in America",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「AlphaProof Code」開始升溫，我們真正該看的不是熱度",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「Scion is back and is going to sell a kei truck in America」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AlphaProof Code」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Scion is back and is going to sell a kei truck in America」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "AlphaProof Code",
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+          "title": "Scion is back and is going to sell a kei truck in America",
+          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
+        }
+      ]
+    },
+    {
+      "topic": ".name Grandfathered",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「.name Grandfathered」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「.name Grandfathered」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": ".name Grandfathered",
+          "url": "https://neil.fraser.name/news/2026/11/10/"
         }
       ]
     }
