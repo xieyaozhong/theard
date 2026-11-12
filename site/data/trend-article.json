@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-12T19:23:41+08:00",
+  "generated_at": "2026-11-13T03:59:18+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Nvidia is preparing to oust Jensen Huang",
+      "title": "Jensen Huang resigns",
       "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1065 pts / 1425 comments",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "score": 98,
+      "traffic": "2117 pts / 2135 comments",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tim Peters has died",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1241 pts / 136 comments",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AWS emulator",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "866 pts / 236 comments",
-      "url": "https://github.com/aws/aws-emulator",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "499 pts / 239 comments",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Gemini Decisions API",
+      "title": "Gemini 4 Hydrogen",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "444 pts / 138 comments",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "traffic": "296 pts / 193 comments",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "454 pts / 58 comments",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "context": "High-engagement technology discussion"
+      "title": "威力 彩",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.stock.yahoo.com/news/316%E5%84%84%E5%A8%81%E5%8A%9B%E5%BD%A9%E7%8D%8E%E8%90%BD%E9%AB%98%E9%9B%84%EF%BC%81%E5%B0%8F%E7%8B%97%E9%97%96%E5%BA%97%E6%B1%AA%E6%B1%AA%E5%8F%AB-%E5%BD%A9%E5%88%B8%E8%A1%8C%E9%96%8B%E5%87%BA%E9%A0%AD%E7%8D%8E-140628018.html",
+      "context": "3.16億威力彩獎落高雄！小狗闖店汪汪叫 彩券行開出頭獎"
     },
     {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "title": "Ask HN: Microsoft/Azure Outage?",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "228 pts / 109 comments",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "traffic": "245 pts / 119 comments",
+      "url": "https://news.ycombinator.com/item?id=50471668",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Jane Street: Socratic Tutor",
+      "title": "Rust 1.100.0",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "268 pts / 64 comments",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "traffic": "266 pts / 55 comments",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A live tree of systemd jobs on the boot console",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "195 pts / 65 comments",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Outlook is down, and so is Microsoft's status page",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "187 pts / 56 comments",
+      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "171 pts / 65 comments",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "108 pts / 33 comments",
-      "url": "https://codeberg.org/wvhulle/bootvine",
+      "traffic": "90 pts / 29 comments",
+      "url": "https://github.com/simpsoka/zigzag",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "公職",
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "142 pts / 1 comments",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "outlook",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.nbcchicago.com/news/local/is-microsoft-outlook-down-company-investigates-error-reports-from-users/4015769/",
+      "context": "Is Microsoft Outlook down? Company investigates error reports from users"
     },
     {
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "50 pts / 21 comments",
-      "url": "https://www.getlazarus.org/forums/topic/17/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "彭金隆",
+      "title": "twitch",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://money.udn.com/money/story/10869/9872201?from=edn_newestlist_rank",
-      "context": "經濟部長：今年經濟成長率至少創39年新高 可望見證50年來最好成績"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://kazimagazine.com/news/elgato-twitch-streaming-kit",
+      "context": "Elgato and Twitch Announce a Console Streaming Kit"
     }
   ],
   "articles": [
     {
-      "topic": "Nvidia is preparing to oust Jensen Huang",
+      "topic": "Jensen Huang resigns",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Nvidia is preparing to oust Jensen Huang」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Jensen Huang resigns」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nvidia is preparing to oust Jensen Huang」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Jensen Huang resigns」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Nvidia is preparing to oust Jensen Huang",
-          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+          "title": "Jensen Huang resigns",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
         }
       ]
     },
     {
-      "topic": "Tim Peters has died",
+      "topic": "Gemini 4 Hydrogen",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Tim Peters has died」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Gemini 4 Hydrogen」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Tim Peters has died」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Gemini 4 Hydrogen」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Tim Peters has died",
-          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
         }
       ]
     },
     {
-      "topic": "AWS emulator",
+      "topic": "威力 彩",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「AWS emulator」開始升溫，我們真正該看的不是熱度",
+      "title": "當「威力 彩」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「AWS emulator」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「威力 彩」推到更高的注意力位置。3.16億威力彩獎落高雄！小狗闖店汪汪叫 彩券行開出頭獎。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "AWS emulator",
-          "url": "https://github.com/aws/aws-emulator"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "威力 彩",
+          "url": "https://tw.stock.yahoo.com/news/316%E5%84%84%E5%A8%81%E5%8A%9B%E5%BD%A9%E7%8D%8E%E8%90%BD%E9%AB%98%E9%9B%84%EF%BC%81%E5%B0%8F%E7%8B%97%E9%97%96%E5%BA%97%E6%B1%AA%E6%B1%AA%E5%8F%AB-%E5%BD%A9%E5%88%B8%E8%A1%8C%E9%96%8B%E5%87%BA%E9%A0%AD%E7%8D%8E-140628018.html"
         }
       ]
     }
