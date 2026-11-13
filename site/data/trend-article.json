@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-13T03:59:18+08:00",
+  "generated_at": "2026-11-13T09:52:21+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Jensen Huang resigns",
       "source": "HACKER NEWS",
-      "score": 98,
-      "traffic": "2117 pts / 2135 comments",
+      "score": 99,
+      "traffic": "2957 pts / 2795 comments",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Gemini 4 Hydrogen",
+      "title": "聯發科",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%8E%BB%E8%81%B7%E5%88%A9%E7%A9%BA%E5%87%BA%E7%9B%A1-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE1200%E9%BB%9E%E7%AA%81%E7%A0%B444300%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B250%E5%85%83-011658715.html",
+      "context": "黃仁勳去職利空出盡 台股早盤漲逾1200點突破44300點 台積電漲50元"
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "512 pts / 467 comments",
+      "url": "https://status.cloud.microsoft/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Rust 1.100",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "296 pts / 193 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "traffic": "423 pts / 172 comments",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "威力 彩",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.stock.yahoo.com/news/316%E5%84%84%E5%A8%81%E5%8A%9B%E5%BD%A9%E7%8D%8E%E8%90%BD%E9%AB%98%E9%9B%84%EF%BC%81%E5%B0%8F%E7%8B%97%E9%97%96%E5%BA%97%E6%B1%AA%E6%B1%AA%E5%8F%AB-%E5%BD%A9%E5%88%B8%E8%A1%8C%E9%96%8B%E5%87%BA%E9%A0%AD%E7%8D%8E-140628018.html",
-      "context": "3.16億威力彩獎落高雄！小狗闖店汪汪叫 彩券行開出頭獎"
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "342 pts / 138 comments",
+      "url": "https://github.com/simpsoka/zigzag",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ask HN: Microsoft/Azure Outage?",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "245 pts / 119 comments",
-      "url": "https://news.ycombinator.com/item?id=50471668",
+      "traffic": "304 pts / 72 comments",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Rust 1.100.0",
+      "title": "I'm making LLMs work on small and old devices",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "279 pts / 95 comments",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "266 pts / 55 comments",
-      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "traffic": "200 pts / 94 comments",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "195 pts / 65 comments",
+      "traffic": "239 pts / 82 comments",
       "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Outlook is down, and so is Microsoft's status page",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "187 pts / 56 comments",
-      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+      "traffic": "96 pts / 88 comments",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "I'm making LLMs work on small and old devices",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "171 pts / 65 comments",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "title": "Foundation Models framework",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "90 pts / 29 comments",
-      "url": "https://github.com/simpsoka/zigzag",
+      "traffic": "128 pts / 16 comments",
+      "url": "https://developer.apple.com/foundation-models-framework/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "142 pts / 1 comments",
-      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "score": 84,
+      "traffic": "145 pts / 20 comments",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "outlook",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.nbcchicago.com/news/local/is-microsoft-outlook-down-company-investigates-error-reports-from-users/4015769/",
-      "context": "Is Microsoft Outlook down? Company investigates error reports from users"
-    },
-    {
-      "title": "twitch",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://kazimagazine.com/news/elgato-twitch-streaming-kit",
-      "context": "Elgato and Twitch Announce a Console Streaming Kit"
     }
   ],
   "articles": [
@@ -137,51 +137,15 @@
       ]
     },
     {
-      "topic": "Gemini 4 Hydrogen",
+      "topic": "聯發科",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Gemini 4 Hydrogen」開始升溫，我們真正該看的不是熱度",
+      "title": "當「聯發科」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gemini 4 Hydrogen」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Gemini 4 Hydrogen",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
-        }
-      ]
-    },
-    {
-      "topic": "威力 彩",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「威力 彩」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「威力 彩」推到更高的注意力位置。3.16億威力彩獎落高雄！小狗闖店汪汪叫 彩券行開出頭獎。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「聯發科」推到更高的注意力位置。黃仁勳去職利空出盡 台股早盤漲逾1200點突破44300點 台積電漲50元。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "GOOGLE TRENDS / TW",
-          "title": "威力 彩",
-          "url": "https://tw.stock.yahoo.com/news/316%E5%84%84%E5%A8%81%E5%8A%9B%E5%BD%A9%E7%8D%8E%E8%90%BD%E9%AB%98%E9%9B%84%EF%BC%81%E5%B0%8F%E7%8B%97%E9%97%96%E5%BA%97%E6%B1%AA%E6%B1%AA%E5%8F%AB-%E5%BD%A9%E5%88%B8%E8%A1%8C%E9%96%8B%E5%87%BA%E9%A0%AD%E7%8D%8E-140628018.html"
+          "title": "聯發科",
+          "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%8E%BB%E8%81%B7%E5%88%A9%E7%A9%BA%E5%87%BA%E7%9B%A1-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE1200%E9%BB%9E%E7%AA%81%E7%A0%B444300%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B250%E5%85%83-011658715.html"
+        }
+      ]
+    },
+    {
+      "topic": "Service degradation on Microsoft 365",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Service degradation on Microsoft 365」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Service degradation on Microsoft 365」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Service degradation on Microsoft 365",
+          "url": "https://status.cloud.microsoft/"
         }
       ]
     }
