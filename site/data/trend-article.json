@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-14T09:28:15+08:00",
+  "generated_at": "2026-11-14T18:33:31+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "FAA issues national ground stop",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1291 pts / 782 comments",
+      "score": 96,
+      "traffic": "1546 pts / 1173 comments",
       "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "672 pts / 199 comments",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "score": 92,
+      "traffic": "588 pts / 343 comments",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "447 pts / 308 comments",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "traffic": "301 pts / 357 comments",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "FM-1 Workbench",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "179 pts / 105 comments",
+      "score": 89,
+      "traffic": "238 pts / 158 comments",
       "url": "https://open.m-vave.com/fm1-workbench",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "186 pts / 45 comments",
-      "url": "https://orcasairband.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "214 pts / 35 comments",
-      "url": "https://haddyalchaer.com/jepa",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "軍公教",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "棒球",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E5%8F%B0%E9%9F%93%E5%A4%A7%E6%88%B0%E4%BB%8A%E6%99%9A%E7%99%BB%E5%A0%B4-%E9%87%91%E5%80%92%E6%B0%B8-%E6%89%93%E4%BA%86%E6%89%8D%E7%9F%A5%E9%81%93-004420435.html",
-      "context": "亞冠賽》台韓大戰今晚登場！ 金倒永：打了才知道"
-    },
-    {
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "125 pts / 19 comments",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Terminal borders that don't cost a cell",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "55 pts / 32 comments",
+      "score": 88,
+      "traffic": "261 pts / 115 comments",
       "url": "https://www.joshka.net/cell-borders/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "title": "Ggml v1.0.0",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "95 pts / 20 comments",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "score": 87,
+      "traffic": "268 pts / 43 comments",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "title": "What happened to 3Com?",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "54 pts / 10 comments",
-      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "score": 86,
+      "traffic": "144 pts / 74 comments",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "204 pts / 36 comments",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "147 pts / 44 comments",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "148 pts / 21 comments",
+      "url": "https://grounds.top/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Monkey Island: all 13 versions side by side",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "125 pts / 25 comments",
+      "url": "https://monkeyisland.pages.dev/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "64 pts / 32 comments",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "FAA issues national ground stop",
+      "topic": "FAA issues national ground stop – lifted 4.5 hours later",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「FAA issues national ground stop」開始升溫，我們真正該看的不是熱度",
+      "title": "當「FAA issues national ground stop – lifted 4.5 hours later」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「FAA issues national ground stop」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「FAA issues national ground stop – lifted 4.5 hours later」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "FAA issues national ground stop",
+          "title": "FAA issues national ground stop – lifted 4.5 hours later",
           "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
         }
       ]
     },
     {
-      "topic": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "topic": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Reverse engineering my Coway air purifier to ditch the cloud」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Reverse engineering my Coway air purifier to ditch the cloud」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+          "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
         }
       ]
     },
     {
-      "topic": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "topic": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Doomsday: Friday, 13 November, A.D. 2026 (1960)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Jonathan Blow – If AI solved coding, why is my software still the same? [video]」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Doomsday: Friday, 13 November, A.D. 2026 (1960)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Jonathan Blow – If AI solved coding, why is my software still the same? [video]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
+          "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
         }
       ]
     }
