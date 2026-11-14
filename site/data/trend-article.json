@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-14T03:47:11+08:00",
+  "generated_at": "2026-11-14T09:28:15+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "title": "FAA issues national ground stop",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "383 pts / 267 comments",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "score": 95,
+      "traffic": "1291 pts / 782 comments",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "556 pts / 157 comments",
+      "score": 91,
+      "traffic": "672 pts / 199 comments",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "交通 堵塞",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://tw.news.yahoo.com/%E5%9C%8B%E9%81%931%E8%99%9F%E7%B4%AB%E7%88%86%E8%AE%8A%E5%81%9C%E8%BB%8A%E5%A0%B4-%E8%B7%AF%E5%A1%9E%E5%88%B0%E5%8F%B0%E5%8C%97-%E6%B0%91%E7%9C%BE%E5%93%80%E8%99%9F-%E5%8B%95%E4%B8%8D%E4%BA%86-124446970.html",
-      "context": "國道1號紫爆變停車場！一路塞到台北 民眾哀號：動不了"
-    },
-    {
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "180 pts / 42 comments",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "score": 91,
+      "traffic": "447 pts / 308 comments",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A technical vision for the Haskell ecosystem",
+      "title": "FM-1 Workbench",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "134 pts / 54 comments",
-      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "score": 87,
+      "traffic": "179 pts / 105 comments",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "186 pts / 45 comments",
+      "url": "https://orcasairband.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "After 600 experiments, here's what I discovered about JEPA world models",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "108 pts / 23 comments",
+      "score": 86,
+      "traffic": "214 pts / 35 comments",
       "url": "https://haddyalchaer.com/jepa",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "title": "軍公教",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "棒球",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E5%8F%B0%E9%9F%93%E5%A4%A7%E6%88%B0%E4%BB%8A%E6%99%9A%E7%99%BB%E5%A0%B4-%E9%87%91%E5%80%92%E6%B0%B8-%E6%89%93%E4%BA%86%E6%89%8D%E7%9F%A5%E9%81%93-004420435.html",
+      "context": "亞冠賽》台韓大戰今晚登場！ 金倒永：打了才知道"
+    },
+    {
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "85 pts / 36 comments",
-      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "traffic": "125 pts / 19 comments",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "title": "Terminal borders that don't cost a cell",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "100 pts / 24 comments",
-      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "score": 83,
+      "traffic": "55 pts / 32 comments",
+      "url": "https://www.joshka.net/cell-borders/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "雷暴",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60410216/%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%A5%B5%E5%9C%B0%E6%B8%A6%E6%97%8B%E5%88%86%E8%A3%82%E5%86%B7%E7%A9%BA%E6%B0%A3%E5%8D%97%E4%B8%8B-%E4%B8%8B%E5%91%A8%E8%83%BD%E5%90%A6%E7%A0%B4%E5%85%A5%E7%A7%8B%E6%9C%80%E6%B6%BC%E4%BB%8D%E6%9C%89%E5%BE%85%E8%A7%80%E5%AF%9F",
-      "context": "天文台︰極地渦旋分裂冷空氣南下 下周能否破入秋最涼仍有待觀察"
-    },
-    {
-      "title": "徐翔聖",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E5%8F%B0%E7%81%A32%E5%AE%89%E9%81%AD%E5%AE%8C%E5%B0%81-%E9%AB%98%E5%BF%97%E7%B6%B1%E8%AA%8D%E9%87%91%E4%B8%B8%E5%A4%A2%E6%96%97%E9%80%99%E9%BB%9E%E5%A4%AA%E9%AB%98%E7%AB%AF-%E8%AE%93%E6%88%91%E5%80%91%E8%BC%83%E5%90%83%E5%8A%9B-143900419.html",
-      "context": "亞冠賽／台灣2安遭完封！高志綱認金丸夢斗這點太高端：讓我們較吃力.."
-    },
-    {
-      "title": "東發號",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://udn.com/news/story/124652/9877750",
-      "context": "拿手機狂拍！大批市民綁「安可」飄帶衝饒河夜市 親揭力挺蔣萬安原因"
-    },
-    {
-      "title": "The avalanche that hit math is coming for AI development",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "37 pts / 30 comments",
-      "url": "https://www.dwarkesh.com/p/rsi",
+      "score": 83,
+      "traffic": "95 pts / 20 comments",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "54 pts / 10 comments",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "topic": "FAA issues national ground stop",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Doomsday: Friday, 13 November, A.D. 2026 (1960)」開始升溫，我們真正該看的不是熱度",
+      "title": "當「FAA issues national ground stop」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Doomsday: Friday, 13 November, A.D. 2026 (1960)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「FAA issues national ground stop」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,8 +131,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
+          "title": "FAA issues national ground stop",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
         }
       ]
     },
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "交通 堵塞",
+      "topic": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「交通 堵塞」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Doomsday: Friday, 13 November, A.D. 2026 (1960)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「交通 堵塞」推到更高的注意力位置。國道1號紫爆變停車場！一路塞到台北 民眾哀號：動不了。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Doomsday: Friday, 13 November, A.D. 2026 (1960)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "交通 堵塞",
-          "url": "https://tw.news.yahoo.com/%E5%9C%8B%E9%81%931%E8%99%9F%E7%B4%AB%E7%88%86%E8%AE%8A%E5%81%9C%E8%BB%8A%E5%A0%B4-%E8%B7%AF%E5%A1%9E%E5%88%B0%E5%8F%B0%E5%8C%97-%E6%B0%91%E7%9C%BE%E5%93%80%E8%99%9F-%E5%8B%95%E4%B8%8D%E4%BA%86-124446970.html"
+          "source": "HACKER NEWS",
+          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
         }
       ]
     }
