@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-15T14:40:35+08:00",
+  "generated_at": "2026-11-16T00:24:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "SpaceX catches the Starship to end Flight 15",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1027 pts / 688 comments",
+      "score": 96,
+      "traffic": "1456 pts / 986 comments",
       "url": "https://www.spacex.com/launches/starship-flight-15",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Lovable apps expose passport details and more than 200K private messages",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "750 pts / 299 comments",
+      "score": 93,
+      "traffic": "938 pts / 359 comments",
       "url": "https://www.crissyfield.de/research/lovable-en/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "分析 師",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "406 pts / 201 comments",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A family tree of software job titles",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "272 pts / 132 comments",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "traffic": "363 pts / 152 comments",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "KDE: The documentary [video]",
+      "title": "All AI-generated code should be Open Source",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "433 pts / 94 comments",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "score": 88,
+      "traffic": "221 pts / 145 comments",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "173 pts / 75 comments",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "traffic": "169 pts / 88 comments",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "175 pts / 46 comments",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "traffic": "136 pts / 89 comments",
+      "url": "https://space.stackexchange.com/questions/37775",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "車票",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "72 pts / 22 comments",
+      "url": "https://prog21.dadgum.com/116.html",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "林得恩",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://news.ebc.net.tw/news/living/580738",
-      "context": "高雄大雨狂炸！專家揭「已達短時豪雨門檻」：深秋罕見"
-    },
-    {
-      "title": "張凌赫",
+      "title": "金價",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.storm.mg/lifestyle/11181553",
-      "context": "張凌赫井柏然輸了！最帥現偶陸劇男演員TOP10冠軍是他：濃顏男神天花板、 成熟氣場魅力強大"
+      "url": "https://stock.ltn.com.tw/article/bagn1djytcck",
+      "context": "抄底再等等？華爾街6成看空黃金 最慘恐跌至3200美元"
     },
     {
-      "title": "資料中心",
+      "title": "亞歷山大·茲維列夫",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.atptour.com/en/news/zverev-jodar-nitto-atp-finals-2026-sunday",
+      "context": "Zverev withstands Jodar test, ignites Nitto ATP Finals charge"
+    },
+    {
+      "title": "蔡文誠",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.sports.yahoo.com/news/%E5%BE%9E%E7%B4%A0%E4%BA%BA%E6%8B%9A%E6%88%90%E4%B8%83%E5%86%A0%E6%9C%AC%E5%9C%9F%E6%B4%8B%E5%B0%87-%E8%94%A1%E6%96%87%E8%AA%A0%E5%BC%95%E9%80%80%E5%8B%89%E5%BE%8C%E8%BC%A9-%E8%82%AF%E5%8A%AA%E5%8A%9B%E5%B0%B1%E6%9C%83%E5%87%BA%E9%A0%AD-140800930.html",
+      "context": "從素人拚成七冠本土洋將 蔡文誠引退勉後輩：肯努力就會出頭"
+    },
+    {
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "87 pts / 1 comments",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "What thousands of conversations look like inside a language model",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "57 pts / 18 comments",
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "分析 師",
+      "topic": "Court denies motion to dismiss DRAM price fixing case",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「分析 師」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Court denies motion to dismiss DRAM price fixing case」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「分析 師」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Court denies motion to dismiss DRAM price fixing case」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "分析 師",
-          "url": "https://trends.google.com/trending?geo=TW"
+          "source": "HACKER NEWS",
+          "title": "Court denies motion to dismiss DRAM price fixing case",
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
         }
       ]
     }
