@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-11-15T06:29:45+08:00",
+  "generated_at": "2026-11-15T14:40:35+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "source": "HACKER NEWS",
+      "score": 94,
+      "traffic": "1027 pts / 688 comments",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "context": "High-engagement technology discussion"
+    },
+    {
       "title": "Lovable apps expose passport details and more than 200K private messages",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "512 pts / 187 comments",
+      "score": 92,
+      "traffic": "750 pts / 299 comments",
       "url": "https://www.crissyfield.de/research/lovable-en/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why get an expensive Pi when I have an old phone?",
+      "title": "分析 師",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 90,
+      "traffic": "10000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "473 pts / 269 comments",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "score": 90,
+      "traffic": "406 pts / 201 comments",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "SpaceX Catches the Starship to end Flight 15",
+      "title": "A family tree of software job titles",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "313 pts / 163 comments",
-      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "traffic": "272 pts / 132 comments",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "KDE: The documentary [video]",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "328 pts / 71 comments",
+      "score": 89,
+      "traffic": "433 pts / 94 comments",
       "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "177 pts / 81 comments",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "traffic": "173 pts / 75 comments",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A Family Tree of Software Job Titles",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "144 pts / 63 comments",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "traffic": "175 pts / 46 comments",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "134 pts / 61 comments",
-      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "輝達",
+      "title": "車票",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "score": 84,
+      "traffic": "1000+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "140 pts / 33 comments",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "thời tiết",
+      "title": "林得恩",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-15112026-bac-bo-va-trung-bo-ngay-mai-nang-tro-lai-nam-bo-chieu-toi-co-mua-post1002693.html",
-      "context": "Dự báo thời tiết 15/11/2026: Bắc Bộ, Trung Bộ hửng nắng"
+      "url": "https://news.ebc.net.tw/news/living/580738",
+      "context": "高雄大雨狂炸！專家揭「已達短時豪雨門檻」：深秋罕見"
     },
     {
-      "title": "a",
+      "title": "張凌赫",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.cnn.com/2026/11/14/us/live-news/us-ground-stop-flights",
-      "context": "Live updates: Key questions still unanswered as air travel slowly gets on track"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.storm.mg/lifestyle/11181553",
+      "context": "張凌赫井柏然輸了！最帥現偶陸劇男演員TOP10冠軍是他：濃顏男神天花板、 成熟氣場魅力強大"
     },
     {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "122 pts / 7 comments",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "context": "High-engagement technology discussion"
+      "title": "資料中心",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Lovable apps expose passport details and more than 200K private messages",
+      "topic": "SpaceX catches the Starship to end Flight 15",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「SpaceX catches the Starship to end Flight 15」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「SpaceX catches the Starship to end Flight 15」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://www.spacex.com/launches/starship-flight-15"
+        }
+      ]
+    },
+    {
+      "topic": "Lovable apps expose passport details and more than 200K private messages",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Lovable apps expose passport details and more than 200K private messages」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -137,51 +173,15 @@
       ]
     },
     {
-      "topic": "Why get an expensive Pi when I have an old phone?",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Why get an expensive Pi when I have an old phone?」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Why get an expensive Pi when I have an old phone?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Why get an expensive Pi when I have an old phone?",
-          "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
-        }
-      ]
-    },
-    {
-      "topic": "SpaceX Catches the Starship to end Flight 15",
+      "topic": "分析 師",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「SpaceX Catches the Starship to end Flight 15」開始升溫，我們真正該看的不是熱度",
+      "title": "當「分析 師」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「SpaceX Catches the Starship to end Flight 15」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「分析 師」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -202,9 +202,9 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "SpaceX Catches the Starship to end Flight 15",
-          "url": "https://x.com/i/broadcasts/2brajgZlOKRMka"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "分析 師",
+          "url": "https://trends.google.com/trending?geo=TW"
         }
       ]
     }
