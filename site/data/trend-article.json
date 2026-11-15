@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-16T00:24:27+08:00",
+  "generated_at": "2026-11-16T06:53:24+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "1456 pts / 986 comments",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "context": "High-engagement technology discussion"
+      "title": "天氣",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://udn.com/news/story/7266/9880248",
+      "context": "入秋最強冷空氣！低溫下探13度 是否達標「大陸冷氣團」看台北數據"
     },
     {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "title": "The MacBook Pro's OLED PWM problem",
       "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "938 pts / 359 comments",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "363 pts / 152 comments",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "All AI-generated code should be Open Source",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "221 pts / 145 comments",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "169 pts / 88 comments",
+      "score": 90,
+      "traffic": "374 pts / 202 comments",
       "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "136 pts / 89 comments",
-      "url": "https://space.stackexchange.com/questions/37775",
+      "score": 89,
+      "traffic": "280 pts / 148 comments",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "275 pts / 140 comments",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "72 pts / 22 comments",
+      "score": 87,
+      "traffic": "178 pts / 89 comments",
       "url": "https://prog21.dadgum.com/116.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "金價",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://stock.ltn.com.tw/article/bagn1djytcck",
-      "context": "抄底再等等？華爾街6成看空黃金 最慘恐跌至3200美元"
-    },
-    {
-      "title": "亞歷山大·茲維列夫",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.atptour.com/en/news/zverev-jodar-nitto-atp-finals-2026-sunday",
-      "context": "Zverev withstands Jodar test, ignites Nitto ATP Finals charge"
-    },
-    {
-      "title": "蔡文誠",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.sports.yahoo.com/news/%E5%BE%9E%E7%B4%A0%E4%BA%BA%E6%8B%9A%E6%88%90%E4%B8%83%E5%86%A0%E6%9C%AC%E5%9C%9F%E6%B4%8B%E5%B0%87-%E8%94%A1%E6%96%87%E8%AA%A0%E5%BC%95%E9%80%80%E5%8B%89%E5%BE%8C%E8%BC%A9-%E8%82%AF%E5%8A%AA%E5%8A%9B%E5%B0%B1%E6%9C%83%E5%87%BA%E9%A0%AD-140800930.html",
-      "context": "從素人拚成七冠本土洋將 蔡文誠引退勉後輩：肯努力就會出頭"
-    },
-    {
-      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "87 pts / 1 comments",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "score": 86,
+      "traffic": "117 pts / 87 comments",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "What thousands of conversations look like inside a language model",
+      "title": "A short explainer on how El Niño works [video]",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "130 pts / 41 comments",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "股利",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://today.line.me/tw/v3/article/kEpVv2M",
+      "context": "三井住友上修獲利至1.9兆日圓 拉高AI資料中心融資標準 | 優分析"
+    },
+    {
+      "title": "thời tiết",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://vnexpress.net/mien-bac-don-khong-khi-lanh-chuyen-ret-giua-tuan-toi-5144835.html",
+      "context": "Miền Bắc đón không khí lạnh, chuyển rét giữa tuần tới"
+    },
+    {
+      "title": "weather",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.bostonglobe.com/2026/11/11/metro/boston-weekend-forecast-new-england/",
+      "context": "Weekend brings a break in the unsettled weather"
+    },
+    {
+      "title": "Your Agent Will Pick the Hackable One",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "57 pts / 18 comments",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "traffic": "49 pts / 29 comments",
+      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "66 pts / 15 comments",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "SpaceX catches the Starship to end Flight 15",
+      "topic": "天氣",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「SpaceX catches the Starship to end Flight 15」開始升溫，我們真正該看的不是熱度",
+      "title": "當「天氣」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「SpaceX catches the Starship to end Flight 15」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「天氣」推到更高的注意力位置。入秋最強冷空氣！低溫下探13度 是否達標「大陸冷氣團」看台北數據。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "SpaceX catches the Starship to end Flight 15",
-          "url": "https://www.spacex.com/launches/starship-flight-15"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "天氣",
+          "url": "https://udn.com/news/story/7266/9880248"
         }
       ]
     },
     {
-      "topic": "Lovable apps expose passport details and more than 200K private messages",
+      "topic": "The MacBook Pro's OLED PWM problem",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Lovable apps expose passport details and more than 200K private messages」開始升溫，我們真正該看的不是熱度",
+      "title": "當「The MacBook Pro's OLED PWM problem」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Lovable apps expose passport details and more than 200K private messages」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「The MacBook Pro's OLED PWM problem」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Lovable apps expose passport details and more than 200K private messages",
-          "url": "https://www.crissyfield.de/research/lovable-en/"
+          "title": "The MacBook Pro's OLED PWM problem",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
         }
       ]
     },
     {
-      "topic": "Court denies motion to dismiss DRAM price fixing case",
+      "topic": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Court denies motion to dismiss DRAM price fixing case」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Court denies motion to dismiss DRAM price fixing case」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Court denies motion to dismiss DRAM price fixing case",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
+          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
         }
       ]
     }
