@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-16T06:53:24+08:00",
+  "generated_at": "2026-11-16T14:38:34+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "天氣",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://udn.com/news/story/7266/9880248",
-      "context": "入秋最強冷空氣！低溫下探13度 是否達標「大陸冷氣團」看台北數據"
-    },
-    {
-      "title": "The MacBook Pro's OLED PWM problem",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "374 pts / 202 comments",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "title": "Qwen4-Max",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "280 pts / 148 comments",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "traffic": "343 pts / 117 comments",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "title": "What's Next for Nvidia?",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "275 pts / 140 comments",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "traffic": "187 pts / 245 comments",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "title": "Old Bitly links are being hijacked",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "246 pts / 131 comments",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "178 pts / 89 comments",
-      "url": "https://prog21.dadgum.com/116.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "117 pts / 87 comments",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "A short explainer on how El Niño works [video]",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "130 pts / 41 comments",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "股利",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://today.line.me/tw/v3/article/kEpVv2M",
-      "context": "三井住友上修獲利至1.9兆日圓 拉高AI資料中心融資標準 | 優分析"
-    },
-    {
-      "title": "thời tiết",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://vnexpress.net/mien-bac-don-khong-khi-lanh-chuyen-ret-giua-tuan-toi-5144835.html",
-      "context": "Miền Bắc đón không khí lạnh, chuyển rét giữa tuần tới"
-    },
-    {
-      "title": "weather",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.bostonglobe.com/2026/11/11/metro/boston-weekend-forecast-new-england/",
-      "context": "Weekend brings a break in the unsettled weather"
-    },
-    {
-      "title": "Your Agent Will Pick the Hackable One",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "49 pts / 29 comments",
-      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "traffic": "246 pts / 61 comments",
+      "url": "https://iter.ca/post/ubo-uxss/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
       "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "66 pts / 15 comments",
+      "score": 87,
+      "traffic": "267 pts / 51 comments",
       "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "A short explainer on how El Niño works [video]",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "216 pts / 93 comments",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "加權指數",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "1802",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "Preserving 30 years of Salon journalism",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "133 pts / 37 comments",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "3037",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "3714",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E5%AF%8C%E9%87%87%E6%B8%9B%E8%B3%87%E5%BE%A9%E7%89%8C%E9%A6%96%E6%97%A5%E9%81%87%E5%8D%83%E9%BB%9E%E6%AE%BA%E7%9B%A4-%E6%AF%8F%E8%82%A1%E9%80%80%E9%82%844-58%E5%85%83-%E7%9B%A4%E4%B8%AD%E6%85%98%E8%B7%8C9-012827590.html",
+      "context": "富采減資復牌首日遇千點殺盤！每股退還4.58元 盤中一度亮「綠燈」"
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "112 pts / 27 comments",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
       "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "天氣",
+      "topic": "Qwen4-Max",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「天氣」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Qwen4-Max」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「天氣」推到更高的注意力位置。入秋最強冷空氣！低溫下探13度 是否達標「大陸冷氣團」看台北數據。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Qwen4-Max」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "天氣",
-          "url": "https://udn.com/news/story/7266/9880248"
+          "source": "HACKER NEWS",
+          "title": "Qwen4-Max",
+          "url": "https://qwen.ai/blog?id=qwen4-max"
         }
       ]
     },
     {
-      "topic": "The MacBook Pro's OLED PWM problem",
+      "topic": "What's Next for Nvidia?",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「The MacBook Pro's OLED PWM problem」開始升溫，我們真正該看的不是熱度",
+      "title": "當「What's Next for Nvidia?」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The MacBook Pro's OLED PWM problem」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「What's Next for Nvidia?」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The MacBook Pro's OLED PWM problem",
-          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+          "title": "What's Next for Nvidia?",
+          "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
         }
       ]
     },
     {
-      "topic": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "topic": "Old Bitly links are being hijacked",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Old Bitly links are being hijacked」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Old Bitly links are being hijacked」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+          "title": "Old Bitly links are being hijacked",
+          "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
         }
       ]
     }
