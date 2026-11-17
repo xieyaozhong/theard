@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-17T11:56:30+08:00",
+  "generated_at": "2026-11-18T00:07:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "909 pts / 144 comments",
+      "score": 95,
+      "traffic": "2001 pts / 272 comments",
       "url": "https://www.cs.cmu.edu/learn/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "332 pts / 201 comments",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "score": 92,
+      "traffic": "626 pts / 319 comments",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "BugMeNot has closed",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "382 pts / 192 comments",
-      "url": "https://www.bugmenot.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Frame – 31.5\" color ePaper display",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "334 pts / 236 comments",
-      "url": "https://trmnl.com/blog/introducing-frame",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "334 pts / 77 comments",
-      "url": "https://burntsushi.net/jiff/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "161 pts / 83 comments",
+      "score": 91,
+      "traffic": "530 pts / 210 comments",
       "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "OpenCode Browse",
+      "title": "We don't need more apps. We need better open source",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "155 pts / 70 comments",
-      "url": "https://opencode.ai/product/browse",
+      "score": 87,
+      "traffic": "184 pts / 93 comments",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Chemistry is Actually Geometry",
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "144 pts / 68 comments",
-      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "traffic": "156 pts / 57 comments",
+      "url": "https://visualbasic.world/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "賴瑞隆",
+      "title": "gta6",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+      "context": "Pre-Load Grand Theft Auto VI Now"
+    },
+    {
+      "title": "Loopholes Are for Assholes",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "101 pts / 55 comments",
+      "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "欣 興 電子",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B0%81%E9%97%9C%E6%B0%91%E8%AA%BF-%E6%9F%AF%E5%BF%97%E6%81%A946-1-%E9%A0%98%E5%85%88%E8%B3%B4%E7%91%9E%E9%9A%86-%E4%B8%AD%E9%96%93%E9%81%B8%E6%B0%91%E5%B7%AE%E5%BE%88%E5%A4%A7-025714320.html",
-      "context": "高雄封關民調：柯志恩46.1%領先賴瑞隆 中間選民差很大！"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "title": "Rows vs. Columns: How different are they, really?",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "89 pts / 35 comments",
+      "url": "https://spiraldb.com/blog/rows-vs-columns",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Pentagon fails 9th financial audit in a row",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "88 pts / 21 comments",
-      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "traffic": "59 pts / 33 comments",
+      "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Running coding agents without handing them my credentials",
-      "source": "HACKER NEWS",
+      "title": "史考特·貝森特",
+      "source": "GOOGLE TRENDS / TW",
       "score": 82,
-      "traffic": "51 pts / 20 comments",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
-      "context": "High-engagement technology discussion"
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "27 pts / 13 comments",
-      "url": "https://support.apple.com/en-us/149699",
-      "context": "High-engagement technology discussion"
+      "title": "英雄 聯盟",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/2027%E3%80%8A%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%E3%80%8Blck%E8%BD%89%E6%9C%83%E6%9C%9F%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A10%E6%94%AF%E6%88%B0%E9%9A%8A%E6%9C%80%E6%96%B0%E9%99%A3%E5%AE%B9%E3%80%81%E9%81%B8%E6%89%8B%E5%8E%BB%E5%90%91%E3%80%81fa%E5%90%8D%E5%96%AE%E4%B8%80%E6%AC%A1%E7%9C%8B-015609140.html",
+      "context": "2027《英雄聯盟》LCK轉會期懶人包：10支戰隊最新陣容、選手去向、FA名單一次看"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "topic": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use」開始升溫，我們真正該看的不是熱度",
+      "title": "當「New Evidence Shows School Phone Bans Are Gradually Improving Test Scores」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「New Evidence Shows School Phone Bans Are Gradually Improving Test Scores」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+          "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+          "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
         }
       ]
     },
     {
-      "topic": "BugMeNot has closed",
+      "topic": "Optimizely compromised, served malware on Zoom, GitLab",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「BugMeNot has closed」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Optimizely compromised, served malware on Zoom, GitLab」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「BugMeNot has closed」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Optimizely compromised, served malware on Zoom, GitLab」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "BugMeNot has closed",
-          "url": "https://www.bugmenot.com/"
+          "title": "Optimizely compromised, served malware on Zoom, GitLab",
+          "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
         }
       ]
     }
