@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-18T19:50:36+08:00",
+  "generated_at": "2026-11-19T04:37:17+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Highly classified US national security communications network goes down",
-      "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "593 pts / 679 comments",
-      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "title": "Unauthenticated remote code execution in Nginx",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "964 pts / 246 comments",
-      "url": "https://calif.io/java4shell/",
+      "traffic": "738 pts / 308 comments",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "425 pts / 311 comments",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "634 pts / 221 comments",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "558 pts / 249 comments",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "ID.me terms required for IRS sign-in",
+      "title": "Seven new models at scalable price-performance",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "371 pts / 166 comments",
-      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "traffic": "318 pts / 204 comments",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "470 pts / 157 comments",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "378 pts / 139 comments",
+      "url": "https://www.inside-db.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "340 pts / 73 comments",
-      "url": "https://github.com/microsoft/onnxruntime",
+      "traffic": "186 pts / 142 comments",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Archive Team is archiving the Apple Support Community",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "source": "HACKER NEWS",
       "score": 87,
-      "traffic": "201 pts / 72 comments",
-      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "traffic": "179 pts / 92 comments",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Codeberg.org Not Reachable",
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "143 pts / 90 comments",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Genie 4 is now available",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "133 pts / 68 comments",
-      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "traffic": "99 pts / 76 comments",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Why is Gemini 4 Carbon taking so long?",
+      "title": "gta6 售價",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://gnn.gamer.com.tw/detail.php?sn=315247",
+      "context": "《俠盜獵車手6》一手試玩報導進入堪稱完美的虛擬世界體驗亡命鴛鴦的刺激人生《Grand Theft Auto VI》"
+    },
+    {
+      "title": "anthropic",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "context": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "110 pts / 54 comments",
-      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "score": 83,
+      "traffic": "73 pts / 26 comments",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "內 壢 車站",
+      "title": "黃敏珊",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://udn.com/news/story/7266/9886312",
-      "context": "內壢站驚傳民眾侵入路線「感電」 台鐵緊急成立應變小組 雙向列車延誤"
-    },
-    {
-      "title": "金融危機",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://jp.beincrypto.com/peter-schiff-ai-subprime-financial-crisis/",
-      "context": "ピーター・シフ氏が次の金融危機の原因を指摘 ビットコインではない"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5643135",
+      "context": "輝達「公主」黃敏珊多不好惹？《紐時》全爆了、內部強勢作風全曝光"
     }
   ],
   "articles": [
     {
-      "topic": "Highly classified US national security communications network goes down",
+      "topic": "Unauthenticated remote code execution in Nginx",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Highly classified US national security communications network goes down」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Unauthenticated remote code execution in Nginx」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Highly classified US national security communications network goes down」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Unauthenticated remote code execution in Nginx」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Highly classified US national security communications network goes down",
-          "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+          "title": "Unauthenticated remote code execution in Nginx",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
         }
       ]
     },
     {
-      "topic": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "topic": "Seven new models at scalable price-performance",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Java4Shell: RCE in OpenJDK when processing Base64」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Seven new models at scalable price-performance」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Java4Shell: RCE in OpenJDK when processing Base64」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Seven new models at scalable price-performance」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-          "url": "https://calif.io/java4shell/"
+          "title": "Seven new models at scalable price-performance",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
         }
       ]
     },
     {
-      "topic": "Google's AI answers reducing search traffic by 40%",
+      "topic": "DNS resolvers are the wrong place to fight piracy",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Google's AI answers reducing search traffic by 40%」開始升溫，我們真正該看的不是熱度",
+      "title": "當「DNS resolvers are the wrong place to fight piracy」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Google's AI answers reducing search traffic by 40%」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「DNS resolvers are the wrong place to fight piracy」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Google's AI answers reducing search traffic by 40%",
-          "url": "https://revscope.co/blog/search-seo-geo-2026/"
+          "title": "DNS resolvers are the wrong place to fight piracy",
+          "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
         }
       ]
     }
