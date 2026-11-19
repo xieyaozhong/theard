@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-19T19:46:49+08:00",
+  "generated_at": "2026-11-20T04:42:42+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Unauthenticated remote code execution in Nginx",
-      "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1410 pts / 606 comments",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Gemini 4 Neon",
+      "title": "Anthropic hits $2T in Nasdaq debut",
       "source": "HACKER NEWS",
       "score": 94,
-      "traffic": "862 pts / 684 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "traffic": "550 pts / 882 comments",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "title": "Garage Door Spam",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "622 pts / 261 comments",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "311 pts / 142 comments",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "281 pts / 96 comments",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "traffic": "243 pts / 90 comments",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "title": "Someone reported java4shell bug in September 2026",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "266 pts / 72 comments",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "173 pts / 157 comments",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "172 pts / 66 comments",
-      "url": "https://verialabs.com/ruby2shell/",
+      "traffic": "135 pts / 63 comments",
+      "url": "https://cornholenews.news",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "SSD prices will start going down the second half of next year",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "171 pts / 42 comments",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "道瓊工業指數",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E4%BA%AE%E7%9C%BC%E6%95%91%E4%B8%8D%E4%BA%86%E5%85%A8%E6%9D%91-%E7%BE%8E%E8%82%A1%E9%81%93%E7%93%8A%E4%B8%8B%E8%B7%8C561%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%BC%B20-38-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E9%87%8D%E8%BF%944%E8%90%AC%E9%BB%9E%E5%8F%88%E5%90%90%E5%9B%9E-231500131.html",
+      "context": "輝達財報亮眼救不了全村！美股道瓊下跌561點台積電ADR漲0.38%、台指期夜盤重返4萬點又吐回"
+    },
+    {
+      "title": "amd",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "context": "AMD dives on short-seller report of alleged China exposure"
+    },
+    {
+      "title": "Pancreatic cancer halted by virus injection in three patients",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "95 pts / 65 comments",
-      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "traffic": "174 pts / 17 comments",
+      "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "185 pts / 24 comments",
-      "url": "https://kapteko.com/15-million-webservers/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "蔡詩萍",
+      "title": "李來希",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://art.ltn.com.tw/article/breakingnews/5646611",
-      "context": "要蔡詩萍道歉！ 故宮怒駁AI生成圖誤導故宮設太陽光電"
-    },
-    {
-      "title": "What's New in PHP 8.6",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "80 pts / 39 comments",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Do not buy RAM, compress",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "50 pts / 33 comments",
-      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "副署",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646627",
-      "context": "周萬來：老農津貼若硬改成每月1.5萬 涉預算法、釋字264號"
-    },
-    {
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "source": "HACKER NEWS",
-      "score": 82,
-      "traffic": "76 pts / 10 comments",
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The first ping from Tonga (1997)",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "44 pts / 6 comments",
-      "url": "https://colo.to/firstping.html",
-      "context": "High-engagement technology discussion"
+      "url": "https://www.rti.org.tw/news?uid=3&pid=1052436",
+      "context": "藍委批政院不副署 周萬來引釋字520號：立院有參與政策選項"
     }
   ],
   "articles": [
     {
-      "topic": "Unauthenticated remote code execution in Nginx",
+      "topic": "Anthropic hits $2T in Nasdaq debut",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Unauthenticated remote code execution in Nginx」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Anthropic hits $2T in Nasdaq debut」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Unauthenticated remote code execution in Nginx」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Anthropic hits $2T in Nasdaq debut」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Unauthenticated remote code execution in Nginx",
-          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+          "title": "Anthropic hits $2T in Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
         }
       ]
     },
     {
-      "topic": "Gemini 4 Neon",
+      "topic": "Garage Door Spam",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Gemini 4 Neon」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Garage Door Spam」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Gemini 4 Neon」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Garage Door Spam」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Gemini 4 Neon",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+          "title": "Garage Door Spam",
+          "url": "https://blog.harrison.page/garage-door-spam/"
         }
       ]
     },
     {
-      "topic": "Multiple vulnerabilities in Regexp and String case conversion",
+      "topic": "UK government forced to admit it issued Apple a secret encryption order",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Multiple vulnerabilities in Regexp and String case conversion」開始升溫，我們真正該看的不是熱度",
+      "title": "當「UK government forced to admit it issued Apple a secret encryption order」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Multiple vulnerabilities in Regexp and String case conversion」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「UK government forced to admit it issued Apple a secret encryption order」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Multiple vulnerabilities in Regexp and String case conversion",
-          "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
+          "title": "UK government forced to admit it issued Apple a secret encryption order",
+          "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
         }
       ]
     }
