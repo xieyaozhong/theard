@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-19T04:37:17+08:00",
+  "generated_at": "2026-11-19T10:36:29+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Unauthenticated remote code execution in Nginx",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "738 pts / 308 comments",
+      "score": 94,
+      "traffic": "1167 pts / 514 comments",
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Gemini 4 Neon",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "494 pts / 454 comments",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Seven new models at scalable price-performance",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "318 pts / 204 comments",
+      "score": 91,
+      "traffic": "458 pts / 321 comments",
       "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DNS resolvers are the wrong place to fight piracy",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "470 pts / 157 comments",
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Inside Deutsche Bank",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "378 pts / 139 comments",
+      "score": 91,
+      "traffic": "567 pts / 190 comments",
       "url": "https://www.inside-db.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "title": "DNS resolvers are the wrong place to fight piracy",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "186 pts / 142 comments",
-      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "score": 91,
+      "traffic": "610 pts / 224 comments",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "179 pts / 92 comments",
+      "score": 90,
+      "traffic": "372 pts / 165 comments",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "title": "Anthropic prices initial public offering",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "143 pts / 90 comments",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "score": 84,
+      "traffic": "83 pts / 42 comments",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Genie 4 is now available",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "99 pts / 76 comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "gta6 售價",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://gnn.gamer.com.tw/detail.php?sn=315247",
-      "context": "《俠盜獵車手6》一手試玩報導進入堪稱完美的虛擬世界體驗亡命鴛鴦的刺激人生《Grand Theft Auto VI》"
-    },
-    {
-      "title": "anthropic",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "context": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "73 pts / 26 comments",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "traffic": "89 pts / 28 comments",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "黃敏珊",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "92 pts / 19 comments",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "46 pts / 39 comments",
+      "url": "https://claudia.gallery/fable/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "湖人 對 爵士",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5643135",
-      "context": "輝達「公主」黃敏珊多不好惹？《紐時》全爆了、內部強勢作風全曝光"
+      "url": "https://sports.sina.cn/nba/other/2026-11-19/detail-inizfcqp4447478.d.html?vt=4",
+      "context": "湖人背靠背迎战爵士 东契奇继续打&凯斯勒复出 里夫斯仍缺席"
+    },
+    {
+      "title": "台幣匯率",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://www.ctee.com.tw/news/20261119700059-439901",
+      "context": "央行年底升息壓力再＋1！Fed鷹派、美元走強夾擊新台幣33元保衛戰還未完- 日報"
     }
   ],
   "articles": [
@@ -137,9 +137,45 @@
       ]
     },
     {
-      "topic": "Seven new models at scalable price-performance",
+      "topic": "Gemini 4 Neon",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
+      "title": "當「Gemini 4 Neon」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Gemini 4 Neon」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        }
+      ]
+    },
+    {
+      "topic": "Seven new models at scalable price-performance",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
       "title": "當「Seven new models at scalable price-performance」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -169,42 +205,6 @@
           "source": "HACKER NEWS",
           "title": "Seven new models at scalable price-performance",
           "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
-        }
-      ]
-    },
-    {
-      "topic": "DNS resolvers are the wrong place to fight piracy",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「DNS resolvers are the wrong place to fight piracy」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「DNS resolvers are the wrong place to fight piracy」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "DNS resolvers are the wrong place to fight piracy",
-          "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
         }
       ]
     }
