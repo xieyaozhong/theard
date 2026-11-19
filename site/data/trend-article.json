@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-19T10:36:29+08:00",
+  "generated_at": "2026-11-19T19:46:49+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Unauthenticated remote code execution in Nginx",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1167 pts / 514 comments",
+      "score": 95,
+      "traffic": "1410 pts / 606 comments",
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Gemini 4 Neon",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "494 pts / 454 comments",
+      "score": 94,
+      "traffic": "862 pts / 684 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Seven new models at scalable price-performance",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "458 pts / 321 comments",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Inside Deutsche Bank",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "567 pts / 190 comments",
-      "url": "https://www.inside-db.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "DNS resolvers are the wrong place to fight piracy",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "610 pts / 224 comments",
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "372 pts / 165 comments",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "83 pts / 42 comments",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "89 pts / 28 comments",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Multiple vulnerabilities in Regexp and String case conversion",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "92 pts / 19 comments",
+      "score": 88,
+      "traffic": "281 pts / 96 comments",
       "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
       "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "46 pts / 39 comments",
-      "url": "https://claudia.gallery/fable/",
+      "score": 86,
+      "traffic": "172 pts / 66 comments",
+      "url": "https://verialabs.com/ruby2shell/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "湖人 對 爵士",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://sports.sina.cn/nba/other/2026-11-19/detail-inizfcqp4447478.d.html?vt=4",
-      "context": "湖人背靠背迎战爵士 东契奇继续打&凯斯勒复出 里夫斯仍缺席"
+      "title": "SSD prices will start going down the second half of next year",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "95 pts / 65 comments",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "台幣匯率",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "185 pts / 24 comments",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "蔡詩萍",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://art.ltn.com.tw/article/breakingnews/5646611",
+      "context": "要蔡詩萍道歉！ 故宮怒駁AI生成圖誤導故宮設太陽光電"
+    },
+    {
+      "title": "What's New in PHP 8.6",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "80 pts / 39 comments",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Do not buy RAM, compress",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "50 pts / 33 comments",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "副署",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.ctee.com.tw/news/20261119700059-439901",
-      "context": "央行年底升息壓力再＋1！Fed鷹派、美元走強夾擊新台幣33元保衛戰還未完- 日報"
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646627",
+      "context": "周萬來：老農津貼若硬改成每月1.5萬 涉預算法、釋字264號"
+    },
+    {
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "source": "HACKER NEWS",
+      "score": 82,
+      "traffic": "76 pts / 10 comments",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The first ping from Tonga (1997)",
+      "source": "HACKER NEWS",
+      "score": 80,
+      "traffic": "44 pts / 6 comments",
+      "url": "https://colo.to/firstping.html",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Seven new models at scalable price-performance",
+      "topic": "Multiple vulnerabilities in Regexp and String case conversion",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Seven new models at scalable price-performance」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Multiple vulnerabilities in Regexp and String case conversion」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Seven new models at scalable price-performance」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Multiple vulnerabilities in Regexp and String case conversion」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Seven new models at scalable price-performance",
-          "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+          "title": "Multiple vulnerabilities in Regexp and String case conversion",
+          "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"
         }
       ]
     }
