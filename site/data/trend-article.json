@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T19:14:04+08:00",
+  "generated_at": "2026-11-22T03:21:59+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "source": "HACKER NEWS",
-      "score": 98,
-      "traffic": "2666 pts / 1844 comments",
+      "score": 99,
+      "traffic": "2831 pts / 2004 comments",
       "url": "https://alpo.ge/remark.pdf",
       "context": "High-engagement technology discussion"
     },
@@ -14,89 +14,89 @@
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "source": "HACKER NEWS",
       "score": 97,
-      "traffic": "2123 pts / 981 comments",
+      "traffic": "2328 pts / 1116 comments",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Inkling 2 Mini",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "1036 pts / 194 comments",
+      "score": 93,
+      "traffic": "1271 pts / 258 comments",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "We promoted developers into architects without informing them",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "source": "HACKER NEWS",
+      "score": 92,
+      "traffic": "520 pts / 411 comments",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Detonating a pile of lead azide",
       "source": "HACKER NEWS",
       "score": 91,
-      "traffic": "446 pts / 247 comments",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "traffic": "386 pts / 247 comments",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "source": "HACKER NEWS",
       "score": 90,
-      "traffic": "454 pts / 187 comments",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "traffic": "532 pts / 173 comments",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "title": "My monitor was cutting my download speed by 75%",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "225 pts / 175 comments",
-      "url": "https://news.ycombinator.com/item?id=50583761",
+      "traffic": "327 pts / 164 comments",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Language Models Can Rewrite Their Own Weights",
+      "title": "RCE in Gnupg",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "416 pts / 123 comments",
-      "url": "https://arxiv.org/abs/2611.21885",
+      "score": 86,
+      "traffic": "187 pts / 63 comments",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "269 pts / 70 comments",
-      "url": "https://ninlive.com/",
-      "context": "High-engagement technology discussion"
+      "title": "76人 對 公鹿",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://tw.sports.yahoo.com/video/%E7%90%83%E5%93%A1%E5%B7%B2%E7%B6%93%E8%A6%81%E9%80%B2%E5%A0%B4%E4%BA%86-%E5%85%AC%E7%89%9B%E5%90%89%E7%A5%A5%E7%89%A9%E9%82%84%E5%9C%A8%E6%89%93%E9%9B%BB%E5%8B%95-033018402.html",
+      "context": "球員已經要進場了 公牛吉祥物還在打電動!!"
     },
     {
-      "title": "中油",
+      "title": "貝森特",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%B2%B9%E5%AE%A3%E5%B8%83%E4%BA%86-%E4%B8%8B%E9%80%B1%E6%9C%80%E6%96%B0%E6%B2%B9%E5%83%B9%E6%9B%9D%E5%85%89-%E6%94%BF%E5%BA%9C%E8%A3%9C%E8%B2%BC%E9%87%91%E9%A1%8D%E9%A9%9A%E5%82%B3-%E9%A3%86%E7%A0%B4350%E5%84%84-092649585.html",
-      "context": "中油宣布了！下週最新油價曝光 政府補貼金額驚傳「飆破350億」"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "106 pts / 32 comments",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "ClawDOS – An AI coding agent for DOS",
+      "title": "I'm quite pleased by the tech architecture of my art website",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "74 pts / 21 comments",
-      "url": "http://ricapar.net/ClawDOS/",
+      "traffic": "90 pts / 16 comments",
+      "url": "https://klauria.tech/klauria-art/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "涂善妮",
+      "title": "mama 2026 得獎名單",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://stars.udn.com/star/story/10088/9893377",
-      "context": "獨／涂善妮60歲生日後竟過這種生活！垃圾圍家、淹水求助無門"
+      "url": "https://tw.news.yahoo.com/bts%E5%A5%AAmama%E5%B9%B4%E5%BA%A6%E8%97%9D%E4%BA%BA-%E5%97%A8%E5%96%8A-%E6%88%91%E5%80%91%E5%9C%A8%E9%AB%98%E9%9B%84-%E5%91%8A%E7%99%BDarmy%E5%BD%B1%E7%89%87%E7%86%B1%E9%A8%B0%E9%A8%B0%E4%BE%86%E5%9B%89-003132926.html",
+      "context": "BTS奪MAMA年度藝人！嗨喊：我們在高雄 告白ARMY影片熱騰騰來囉"
     }
   ],
   "articles": [
