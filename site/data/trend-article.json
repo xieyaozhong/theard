@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-21T04:26:58+08:00",
+  "generated_at": "2026-11-21T10:22:43+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "source": "HACKER NEWS",
-      "score": 97,
-      "traffic": "2008 pts / 1350 comments",
+      "score": 98,
+      "traffic": "2387 pts / 1612 comments",
       "url": "https://alpo.ge/remark.pdf",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "697 pts / 317 comments",
+      "score": 95,
+      "traffic": "1602 pts / 728 comments",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "555 pts / 297 comments",
-      "url": "https://architectlabs.com/blog/frostbite",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "If you can't explain something in simple terms, you don't understand it (2017)",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "534 pts / 268 comments",
+      "score": 92,
+      "traffic": "631 pts / 294 comments",
       "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Signal Is Serious About Protecting Your Privacy",
+      "title": "Inkling 2 Mini",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "375 pts / 235 comments",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "247 pts / 90 comments",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "189 pts / 64 comments",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "美股新聞",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://udn.com/news/story/7255/9892170",
-      "context": "美國AI巨頭不給力 台指期夜盤上半場再呈破底走勢"
-    },
-    {
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "162 pts / 37 comments",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "score": 91,
+      "traffic": "704 pts / 116 comments",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "We promoted developers into architects without informing them",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "100 pts / 53 comments",
+      "score": 90,
+      "traffic": "313 pts / 188 comments",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "道瓊",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "351 pts / 142 comments",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "343 pts / 112 comments",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "貴金屬",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.stock.yahoo.com/news/%E8%B2%B4%E9%87%91%E5%B1%AC%E7%9B%A4%E5%BE%8C-%E9%BB%83%E9%87%91%E5%B4%A9%E8%B7%8C%E8%87%B314%E5%80%8B%E6%9C%88%E4%BD%8E%E9%BB%9E-%E5%96%AE%E9%80%B1%E9%87%8D%E6%8C%AB9-4-%E5%89%B58%E5%80%8B%E6%9C%88%E6%9C%80%E6%85%98%E7%B4%80%E9%8C%84-214730381.html",
+      "context": "〈貴金屬盤後〉黃金崩跌至14個月低點！單週重挫9.4%創8個月最慘紀錄 白銀、鉑金同步走弱"
+    },
+    {
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "260 pts / 82 comments",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "股災",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "137 pts / 27 comments",
+      "url": "https://ninlive.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "川 普 黃仁勳",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%82%A1%E5%83%B9%E6%81%90%E6%9A%B4%E8%B7%8C%E8%87%B3100%E7%BE%8E%E5%85%83-%E6%A9%9F%E6%A7%8B%E6%8F%90%E5%87%BA%E7%9C%8B%E7%A9%BA%E7%9A%84%E4%B8%BB%E8%A6%81%E7%90%86%E7%94%B1-072002061.html",
-      "context": "輝達股價恐暴跌至100美元？機構提出看空的主要理由"
-    },
-    {
-      "title": "Vibecoding an inference chip",
-      "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "47 pts / 13 comments",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "context": "High-engagement technology discussion"
+      "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%85%AC%E9%96%8B%E5%96%8A%E8%A9%B1%E8%BC%9D%E9%81%94%E8%AE%93%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E9%8D%8B-%E6%87%89%E7%B5%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%A9%9F%E6%9C%83-211002756.html",
+      "context": "川普公開喊話輝達讓黃仁勳回鍋：「應給第二次機會」"
     }
   ],
   "articles": [
@@ -173,15 +173,15 @@
       ]
     },
     {
-      "topic": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "topic": "If you can't explain something in simple terms, you don't understand it (2017)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Frostbite: A new CPU architecture discovered, designed and verified by AI」開始升溫，我們真正該看的不是熱度",
+      "title": "當「If you can't explain something in simple terms, you don't understand it (2017)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Frostbite: A new CPU architecture discovered, designed and verified by AI」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「If you can't explain something in simple terms, you don't understand it (2017)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-          "url": "https://architectlabs.com/blog/frostbite"
+          "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+          "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it"
         }
       ]
     }
