@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-22T09:22:26+08:00",
+  "generated_at": "2026-11-22T19:32:44+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Lean verification of the Riemann Hypothesis",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "822 pts / 664 comments",
+      "score": 95,
+      "traffic": "1055 pts / 878 comments",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "source": "HACKER NEWS",
+      "score": 93,
+      "traffic": "1049 pts / 224 comments",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "745 pts / 239 comments",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "traffic": "560 pts / 346 comments",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Detonating a pile of lead azide",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "515 pts / 345 comments",
+      "traffic": "623 pts / 391 comments",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "My monitor was cutting my download speed by 75%",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "482 pts / 231 comments",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "583 pts / 140 comments",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "349 pts / 91 comments",
+      "score": 90,
+      "traffic": "477 pts / 119 comments",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "288 pts / 94 comments",
+      "url": "https://stulle.app/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Getting the mind to steer the body to steer you",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "143 pts / 52 comments",
+      "score": 88,
+      "traffic": "289 pts / 98 comments",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "PostgreSQL Extensions in Go",
+      "title": "Data Processing Incidents on Inference Providers",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "117 pts / 20 comments",
-      "url": "https://jespino.github.io/gopgext/",
+      "score": 86,
+      "traffic": "167 pts / 66 comments",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "尼克 對 拓荒者",
+      "title": "沙央",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC63%E6%98%9F%E5%85%89-%E7%B1%B3%E5%A9%AD%E6%B3%95%E7%88%BE%E9%81%93%E6%80%9D%E7%9B%9B%E8%A3%9D%E6%AD%A5%E7%B4%85%E6%AF%AF-%E5%9C%96-103600800.html",
+      "context": "金馬63星光 米婭法爾道思盛裝步紅毯 (圖)"
+    },
+    {
+      "title": "劉嘉玲",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://www.blazersedge.com/gameday-threads-2/118738/portland-trail-blazers-new-york-knicks-discussion-time-tv-injury-report",
-      "context": "Trail Blazers vs. Knicks Discussion Served Hot Here!"
+      "url": "https://woman.tvbs.com.tw/fashion/68650",
+      "context": "金馬63／金馬獎紅毯最美女星！舒淇黑色薄紗、劉嘉玲披肩禮服氣勢十足，葉舒華美成公主喊：多拍一點"
     },
     {
-      "title": "Advice for the next 100 Rust GUIs",
+      "title": "Show HN: The Riemann Proof Handbook",
       "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "78 pts / 7 comments",
-      "url": "https://linebender.org/blog/next-100-guis/",
+      "traffic": "55 pts / 24 comments",
+      "url": "https://github.com/tamnd/riemann-handbook",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "50 pts / 5 comments",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "灰狼 對 灰熊",
+      "title": "line today",
       "source": "GOOGLE TRENDS / TW",
       "score": 79,
       "traffic": "200+",
-      "url": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1122-%E7%81%B0%E7%86%8A%E5%AE%A2%E5%A0%B48%E9%80%A3%E5%8B%9D%E6%9C%AA%E5%98%97%E6%95%97%E7%B8%BE%E6%B0%A3%E5%8B%A2%E6%97%BA-%E7%81%B0%E7%8B%BC%E5%87%8D%E7%B5%90%E5%B0%8D%E6%89%8B%E5%BC%B7%E6%82%8D%E6%94%BB%E5%8B%A2%E6%8C%91%E6%88%B0%E5%A4%A7-084428819.html",
-      "context": "NBA運彩分析》11/22 灰熊客場8連勝未嘗敗績氣勢旺 灰狼凍結對手強悍攻勢挑戰大"
+      "url": "https://www.kswo.com/2026/11/22/salvation-army-angel-tree-brings-christmas-gifts-lawton-children/",
+      "context": "Salvation Army Angel Tree brings Christmas gifts to Lawton children"
     }
   ],
   "articles": [
@@ -137,15 +137,15 @@
       ]
     },
     {
-      "topic": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "topic": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Brazil's tax authority open-sources its tax calculator on GitHub under MIT」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Brazil's tax authority open-sources its tax calculator on GitHub under MIT」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
         }
       ]
     },
     {
-      "topic": "Detonating a pile of lead azide",
+      "topic": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Detonating a pile of lead azide」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Toyota, Nissan, and Honda to standardize parts to lower costs」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Detonating a pile of lead azide」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Toyota, Nissan, and Honda to standardize parts to lower costs」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Detonating a pile of lead azide",
-          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
         }
       ]
     }
