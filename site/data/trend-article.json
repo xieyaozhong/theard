@@ -1,181 +1,109 @@
 {
-  "generated_at": "2026-11-23T09:47:03+08:00",
+  "generated_at": "2026-11-23T20:57:27+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
-    {
-      "title": "台股",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 95,
-      "traffic": "50000+",
-      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E9%BB%91%E7%BF%BB%E7%B4%85-%E8%81%AF%E9%9B%BB%E6%BC%B2%E5%81%9C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B235%E5%85%83-012026135.html",
-      "context": "台股早盤黑翻紅！聯電漲停、台積電漲35元"
-    },
-    {
-      "title": "0050",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 92,
-      "traffic": "20000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
     {
       "title": "Perplexity and Intelligence",
       "source": "HACKER NEWS",
       "score": 92,
-      "traffic": "482 pts / 334 comments",
+      "traffic": "618 pts / 407 comments",
       "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "source": "HACKER NEWS",
-      "score": 89,
-      "traffic": "351 pts / 157 comments",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "221 pts / 77 comments",
+      "score": 91,
+      "traffic": "576 pts / 239 comments",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "149 pts / 117 comments",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "score": 91,
+      "traffic": "542 pts / 291 comments",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A miniature San Francisco with live buses, planes and boats",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "143 pts / 55 comments",
-      "url": "https://smallsf.com/",
+      "score": 90,
+      "traffic": "629 pts / 111 comments",
+      "url": "https://spelunkr.tv",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "0056",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "407 pts / 188 comments",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Masullo on the Riemann Hypothesis",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "254 pts / 233 comments",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "273 pts / 117 comments",
+      "url": "https://z.ai/blog/glm-5.4",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Yes, 17M lines of Lean is a lot",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "143 pts / 166 comments",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "277 pts / 91 comments",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "儲蓄",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
+      "score": 82,
+      "traffic": "500+",
       "url": "https://trends.google.com/trending?geo=TW",
       "context": ""
     },
     {
-      "title": "台達電股價",
+      "title": "果園",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E9%81%94%E9%9B%BB%E8%B7%8C%E5%88%B0900%E5%85%83-%E5%A4%A7%E6%91%A9-%E8%B6%85%E7%8B%82%E7%9B%AE%E6%A8%99%E5%83%B9-%E6%9B%9D%E5%85%89-2%E7%8E%8B%E7%89%8C%E9%82%84%E6%B2%92%E7%99%BC%E9%85%B5-090400890.html",
-      "context": "台達電跌到900元！ 大摩「超狂目標價」曝光 2王牌還沒發酵"
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "國巨股價",
+      "title": "沈伯洋直播",
       "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.stock.yahoo.com/news/%E8%A6%8B%E6%9C%8B%E5%8F%8B%E8%B2%B7%E5%9C%8B%E5%B7%A8-%E7%A7%92%E6%94%BE%E6%A3%84%E5%90%B5%E6%9E%B6-%E7%B6%B2%E7%AC%91-%E4%BB%87%E4%BA%BA%E9%83%BD%E9%87%8B%E6%87%B7-092128577.html",
-      "context": "見朋友買國巨「秒放棄吵架」！網笑：仇人都釋懷"
-    },
-    {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "83 pts / 33 comments",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "友達",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://news.yahoo.co.jp/pickup/6603579",
-      "context": "西野七瀬、理想は友達のような夫婦「すごく良いなと思う」 夫は山田裕貴"
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://www.cna.com.tw/news/aloc/202611230209.aspx",
+      "context": "選戰倒數衝刺陸空沈伯洋啟動傳統車掃和網路直播| 地方"
     }
   ],
   "articles": [
     {
-      "topic": "台股",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「台股」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「台股」推到更高的注意力位置。台股早盤黑翻紅！聯電漲停、台積電漲35元。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "台股",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E9%BB%91%E7%BF%BB%E7%B4%85-%E8%81%AF%E9%9B%BB%E6%BC%B2%E5%81%9C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B235%E5%85%83-012026135.html"
-        }
-      ]
-    },
-    {
-      "topic": "0050",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「0050」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「0050」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "0050",
-          "url": "https://trends.google.com/trending?geo=TW"
-        }
-      ]
-    },
-    {
       "topic": "Perplexity and Intelligence",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "STRUCTURE × BEHAVIOR",
       "title": "當「Perplexity and Intelligence」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +133,78 @@
           "source": "HACKER NEWS",
           "title": "Perplexity and Intelligence",
           "url": "https://openai.com/index/perplexity-and-intelligence/"
+        }
+      ]
+    },
+    {
+      "topic": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
+      "title": "當「A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+        }
+      ]
+    },
+    {
+      "topic": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
         }
       ]
     }
