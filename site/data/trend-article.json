@@ -1,81 +1,89 @@
 {
-  "generated_at": "2026-11-23T20:57:27+08:00",
+  "generated_at": "2026-11-24T10:15:45+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Perplexity and Intelligence",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
       "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "618 pts / 407 comments",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "score": 99,
+      "traffic": "2141 pts / 3175 comments",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "576 pts / 239 comments",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "score": 95,
+      "traffic": "1190 pts / 666 comments",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "title": "Ladybird is now in alpha",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "542 pts / 291 comments",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "score": 94,
+      "traffic": "1462 pts / 337 comments",
+      "url": "https://ladybird.org/posts/alpha/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "629 pts / 111 comments",
-      "url": "https://spelunkr.tv",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "407 pts / 188 comments",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Masullo on the Riemann Hypothesis",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "254 pts / 233 comments",
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "273 pts / 117 comments",
+      "score": 93,
+      "traffic": "1063 pts / 347 comments",
       "url": "https://z.ai/blog/glm-5.4",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Yes, 17M lines of Lean is a lot",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "143 pts / 166 comments",
-      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "score": 92,
+      "traffic": "852 pts / 199 comments",
+      "url": "https://arm.jonpalmisc.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "277 pts / 91 comments",
-      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "traffic": "213 pts / 114 comments",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "儲蓄",
+      "title": "00878",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 85,
+      "traffic": "2000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "source": "HACKER NEWS",
+      "score": 85,
+      "traffic": "132 pts / 40 comments",
+      "url": "https://github.com/zed-industries/gpui",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "113 pts / 27 comments",
+      "url": "https://www.bored.com/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "128 pts / 29 comments",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "00929",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
@@ -83,33 +91,25 @@
       "context": ""
     },
     {
-      "title": "果園",
+      "title": "川湖股價",
       "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
-    },
-    {
-      "title": "沈伯洋直播",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://www.cna.com.tw/news/aloc/202611230209.aspx",
-      "context": "選戰倒數衝刺陸空沈伯洋啟動傳統車掃和網路直播| 地方"
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://news.cnyes.com/news/id/6669495",
+      "context": "〈熱門股〉川湖股價拉回修正仍獲外資承接 前3季狂賺逾23個股本"
     }
   ],
   "articles": [
     {
-      "topic": "Perplexity and Intelligence",
+      "topic": "Nvidia Reinstates Jensen Huang as CEO",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Perplexity and Intelligence」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Nvidia Reinstates Jensen Huang as CEO」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Perplexity and Intelligence」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Nvidia Reinstates Jensen Huang as CEO」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Perplexity and Intelligence",
-          "url": "https://openai.com/index/perplexity-and-intelligence/"
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
         }
       ]
     },
     {
-      "topic": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "topic": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Dario is hyping the dangers so OSS models are illegal and he stays in control」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Dario is hyping the dangers so OSS models are illegal and he stays in control」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+          "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+          "url": "https://twitter.com/ylecun/status/2124550037912920090"
         }
       ]
     },
     {
-      "topic": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "topic": "Ladybird is now in alpha",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Ladybird is now in alpha」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Ladybird is now in alpha」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
+          "title": "Ladybird is now in alpha",
+          "url": "https://ladybird.org/posts/alpha/"
         }
       ]
     }
