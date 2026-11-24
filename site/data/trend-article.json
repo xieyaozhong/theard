@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-24T21:50:30+08:00",
+  "generated_at": "2026-11-25T07:55:39+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "source": "HACKER NEWS",
-      "score": 99,
-      "traffic": "2678 pts / 3540 comments",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Ladybird is now in alpha",
-      "source": "HACKER NEWS",
-      "score": 96,
-      "traffic": "2150 pts / 522 comments",
-      "url": "https://ladybird.org/posts/alpha/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "548 pts / 300 comments",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "349 pts / 204 comments",
-      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "2035 Came Early",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "443 pts / 173 comments",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "143 pts / 80 comments",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "thời tiết ngày mai",
+      "title": "輝達",
       "source": "GOOGLE TRENDS / TW",
-      "score": 85,
-      "traffic": "2000+",
-      "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-25112026-khong-khi-lanh-tang-cuong-bac-bo-troi-ret-trung-bo-co-mua-lon-dien-rong-post1005169.html",
-      "context": "Dự báo thời tiết 25/11: Bắc Bộ rét, Trung Bộ mưa lớn"
+      "score": 92,
+      "traffic": "20000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "LLM agents work for their parent companies, not for you",
+      "title": "Ternary Bonsai 2.5 27B",
       "source": "HACKER NEWS",
-      "score": 85,
-      "traffic": "129 pts / 37 comments",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "score": 88,
+      "traffic": "275 pts / 92 comments",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "cuaca besok",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "249 pts / 115 comments",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "The Spray Bottle",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "326 pts / 93 comments",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Jetty Pro",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "249 pts / 114 comments",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "英雄聯盟",
       "source": "GOOGLE TRENDS / TW",
       "score": 84,
       "traffic": "1000+",
-      "url": "https://momsmoney.kontan.co.id/news/ada-potensi-udara-kabur-simak-prakiraan-cuaca-sulawesi-selatan-rabu-2511",
-      "context": "Ada Potensi Udara Kabur, Simak Prakiraan Cuaca Sulawesi Selatan Rabu (25/11)"
+      "url": "https://gnn.gamer.com.tw/detail.php?sn=315507",
+      "context": "《英雄聯盟》LCK 戰隊 Gen.G 宣布 2027 賽季新陣容Siwoo、Sharvel 與 Cloud 披上戰袍《League of Legends》"
     },
     {
-      "title": "Who in Washington owns and trades Nvidia stock",
+      "title": "交割",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "89 pts / 32 comments",
-      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+      "traffic": "118 pts / 25 comments",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "關稅",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000775753_JRV6RZOP6TLSO421KHM4P",
-      "context": "301條款調查年底出爐 美國貿易代表點名稀土牽動中美貿易休戰"
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "source": "HACKER NEWS",
+      "score": 84,
+      "traffic": "92 pts / 35 comments",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "元大台灣50反1爆鉅額違約交割的最新消息與原因",
-      "source": "GOOGLE TRENDS / TW",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "54 pts / 31 comments",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Gödel Enigma",
+      "source": "HACKER NEWS",
       "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.stock.yahoo.com/news/%E9%9F%AD%E8%8F%9C%E7%BF%BB%E8%BB%8A%E6%BD%AE1%EF%BC%81%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B2%E5%89%8D%E8%B2%B70050%E5%8F%8D1-%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2%E8%BF%914%E5%8D%83%E8%90%AC%E5%85%83-104658511.html",
-      "context": "韭菜翻車潮+1！台股暴漲前買0050反1 違約交割近4千萬元"
+      "traffic": "61 pts / 22 comments",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "source": "HACKER NEWS",
+      "score": 81,
+      "traffic": "64 pts / 8 comments",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "context": "High-engagement technology discussion"
     }
   ],
   "articles": [
     {
-      "topic": "Nvidia Reinstates Jensen Huang as CEO",
+      "topic": "輝達",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Nvidia Reinstates Jensen Huang as CEO」開始升溫，我們真正該看的不是熱度",
+      "title": "當「輝達」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Nvidia Reinstates Jensen Huang as CEO」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「輝達」推到更高的注意力位置。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -130,22 +130,22 @@
       ],
       "sources": [
         {
-          "source": "HACKER NEWS",
-          "title": "Nvidia Reinstates Jensen Huang as CEO",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+          "source": "GOOGLE TRENDS / TW",
+          "title": "輝達",
+          "url": "https://trends.google.com/trending?geo=TW"
         }
       ]
     },
     {
-      "topic": "Ladybird is now in alpha",
+      "topic": "Ternary Bonsai 2.5 27B",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Ladybird is now in alpha」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Ternary Bonsai 2.5 27B」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Ladybird is now in alpha」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Ternary Bonsai 2.5 27B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Ladybird is now in alpha",
-          "url": "https://ladybird.org/posts/alpha/"
+          "title": "Ternary Bonsai 2.5 27B",
+          "url": "https://prismml.com/news/bonsai-2-5-27b"
         }
       ]
     },
     {
-      "topic": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "topic": "Active intrusion campaign against Check Point security management servers",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Stalwart is now a drop-in replacement for Microsoft Exchange」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Active intrusion campaign against Check Point security management servers」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Stalwart is now a drop-in replacement for Microsoft Exchange」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Active intrusion campaign against Check Point security management servers」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-          "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
+          "title": "Active intrusion campaign against Check Point security management servers",
+          "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
         }
       ]
     }
