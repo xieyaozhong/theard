@@ -1,102 +1,102 @@
 {
-  "generated_at": "2026-11-24T10:15:45+08:00",
+  "generated_at": "2026-11-24T21:50:30+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
       "title": "Nvidia Reinstates Jensen Huang as CEO",
       "source": "HACKER NEWS",
       "score": 99,
-      "traffic": "2141 pts / 3175 comments",
+      "traffic": "2678 pts / 3540 comments",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-      "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1190 pts / 666 comments",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Ladybird is now in alpha",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "1462 pts / 337 comments",
+      "score": 96,
+      "traffic": "2150 pts / 522 comments",
       "url": "https://ladybird.org/posts/alpha/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "source": "HACKER NEWS",
-      "score": 93,
-      "traffic": "1063 pts / 347 comments",
-      "url": "https://z.ai/blog/glm-5.4",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "852 pts / 199 comments",
-      "url": "https://arm.jonpalmisc.com/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "213 pts / 114 comments",
+      "score": 92,
+      "traffic": "548 pts / 300 comments",
       "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "00878",
+      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "349 pts / 204 comments",
+      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "2035 Came Early",
+      "source": "HACKER NEWS",
+      "score": 90,
+      "traffic": "443 pts / 173 comments",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "source": "HACKER NEWS",
+      "score": 86,
+      "traffic": "143 pts / 80 comments",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "thời tiết ngày mai",
       "source": "GOOGLE TRENDS / TW",
       "score": 85,
       "traffic": "2000+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-25112026-khong-khi-lanh-tang-cuong-bac-bo-troi-ret-trung-bo-co-mua-lon-dien-rong-post1005169.html",
+      "context": "Dự báo thời tiết 25/11: Bắc Bộ rét, Trung Bộ mưa lớn"
     },
     {
-      "title": "GPUI is getting its own repository",
+      "title": "LLM agents work for their parent companies, not for you",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "132 pts / 40 comments",
-      "url": "https://github.com/zed-industries/gpui",
+      "traffic": "129 pts / 37 comments",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "title": "cuaca besok",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://momsmoney.kontan.co.id/news/ada-potensi-udara-kabur-simak-prakiraan-cuaca-sulawesi-selatan-rabu-2511",
+      "context": "Ada Potensi Udara Kabur, Simak Prakiraan Cuaca Sulawesi Selatan Rabu (25/11)"
+    },
+    {
+      "title": "Who in Washington owns and trades Nvidia stock",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "113 pts / 27 comments",
-      "url": "https://www.bored.com/",
+      "traffic": "89 pts / 32 comments",
+      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "128 pts / 29 comments",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "00929",
+      "title": "關稅",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://trends.google.com/trending?geo=TW",
-      "context": ""
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000775753_JRV6RZOP6TLSO421KHM4P",
+      "context": "301條款調查年底出爐 美國貿易代表點名稀土牽動中美貿易休戰"
     },
     {
-      "title": "川湖股價",
+      "title": "元大台灣50反1爆鉅額違約交割的最新消息與原因",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://news.cnyes.com/news/id/6669495",
-      "context": "〈熱門股〉川湖股價拉回修正仍獲外資承接 前3季狂賺逾23個股本"
+      "url": "https://tw.stock.yahoo.com/news/%E9%9F%AD%E8%8F%9C%E7%BF%BB%E8%BB%8A%E6%BD%AE1%EF%BC%81%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B2%E5%89%8D%E8%B2%B70050%E5%8F%8D1-%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2%E8%BF%914%E5%8D%83%E8%90%AC%E5%85%83-104658511.html",
+      "context": "韭菜翻車潮+1！台股暴漲前買0050反1 違約交割近4千萬元"
     }
   ],
   "articles": [
@@ -137,45 +137,9 @@
       ]
     },
     {
-      "topic": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Dario is hyping the dangers so OSS models are illegal and he stays in control」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Dario is hyping the dangers so OSS models are illegal and he stays in control」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-          "url": "https://twitter.com/ylecun/status/2124550037912920090"
-        }
-      ]
-    },
-    {
       "topic": "Ladybird is now in alpha",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Ladybird is now in alpha」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -205,6 +169,42 @@
           "source": "HACKER NEWS",
           "title": "Ladybird is now in alpha",
           "url": "https://ladybird.org/posts/alpha/"
+        }
+      ]
+    },
+    {
+      "topic": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Stalwart is now a drop-in replacement for Microsoft Exchange」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Stalwart is now a drop-in replacement for Microsoft Exchange」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+          "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
         }
       ]
     }
