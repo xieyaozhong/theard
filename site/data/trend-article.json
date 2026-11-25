@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-25T16:43:10+08:00",
+  "generated_at": "2026-11-26T03:21:17+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
       "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "565 pts / 275 comments",
+      "score": 94,
+      "traffic": "928 pts / 524 comments",
       "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "高盛",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 90,
-      "traffic": "10000+",
-      "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A4%B1%E6%A5%AD%E6%9C%9F%E9%96%93%E5%9C%A8%E5%B9%B9%E5%98%9B-%E7%BE%8E%E7%B6%B2%E7%B4%85%E6%9B%9D%E4%BB%96%E6%8F%90-%E8%B6%85%E7%86%B1%E8%A1%80%E8%A8%88%E7%95%AB-%E5%BE%8C%E6%82%94%E6%9C%AA%E9%A6%AC%E4%B8%8A%E7%AD%94%E6%87%89-044500716.html",
-      "context": "黃仁勳失業期間在幹嘛？美網紅曝他提「超熱血計畫」 後悔未馬上答應"
-    },
-    {
-      "title": "Ternary Bonsai 2.5 27B",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "437 pts / 137 comments",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "score": 91,
+      "traffic": "351 pts / 266 comments",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "310 pts / 33 comments",
+      "score": 91,
+      "traffic": "755 pts / 120 comments",
       "url": "https://buttons.joshwcomeau.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "title": "1Password Security Incident",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "201 pts / 76 comments",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "score": 90,
+      "traffic": "411 pts / 180 comments",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "252 pts / 76 comments",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "score": 89,
+      "traffic": "263 pts / 156 comments",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "title": "高鐵",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://www.cna.com.tw/news/aloc/202611250190.aspx",
+      "context": "籲檢調嚴查嚴辦陳其邁：境外勢力介入台灣選舉要不得| 地方"
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "146 pts / 53 comments",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "score": 88,
+      "traffic": "327 pts / 84 comments",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "223 pts / 39 comments",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "score": 85,
+      "traffic": "121 pts / 59 comments",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "94 pts / 37 comments",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "traffic": "99 pts / 36 comments",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "source": "HACKER NEWS",
-      "score": 83,
-      "traffic": "89 pts / 20 comments",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "程予希",
+      "title": "曾聖凱",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5653000",
-      "context": "爆床戲誤觸敏感帶險停拍！程予希同台李程彬「零互動」 林心如親上火線回應"
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     },
     {
-      "title": "Taking over US Treasury subdomains for $3 each",
+      "title": "Predicting LoRA size for any dataset",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "65 pts / 11 comments",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "traffic": "65 pts / 6 comments",
+      "url": "https://engram.com/blog/lora-size",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "屍速禁區",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://tw.news.yahoo.com/%E6%9A%B4%E9%9B%AA-%E6%8B%BF%E4%B8%8B%E9%9F%93%E5%9C%8B%E9%A6%96%E9%80%B1%E6%9C%AB%E7%A5%A8%E6%88%BF%E5%86%A0%E8%BB%8D-%E5%85%B7%E6%95%99%E7%85%A5%E6%88%B2%E8%A3%A1%E6%88%B2%E5%A4%96%E6%84%9B%E9%BB%8F%E5%89%8D%E8%BC%A9%E9%87%91%E5%80%AB%E5%A5%AD-101045238.html",
+      "context": "《暴雪》拿下韓國首週末票房冠軍 具教煥戲裡戲外愛黏前輩金倫奭"
     }
   ],
   "articles": [
     {
-      "topic": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "topic": "The matrix multiplication exponent is nine fourths [pdf]",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Matrix Multiplication is Θ(n^2.25) [pdf]」開始升溫，我們真正該看的不是熱度",
+      "title": "當「The matrix multiplication exponent is nine fourths [pdf]」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Matrix Multiplication is Θ(n^2.25) [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「The matrix multiplication exponent is nine fourths [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,57 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "title": "The matrix multiplication exponent is nine fourths [pdf]",
           "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
         }
       ]
     },
     {
-      "topic": "高盛",
+      "topic": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「高盛」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Google releases Cogentic papers on integer factorization, discrete logs and more」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「高盛」推到更高的注意力位置。黃仁勳失業期間在幹嘛？美網紅曝他提「超熱血計畫」 後悔未馬上答應。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "GOOGLE TRENDS / TW",
-          "title": "高盛",
-          "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A4%B1%E6%A5%AD%E6%9C%9F%E9%96%93%E5%9C%A8%E5%B9%B9%E5%98%9B-%E7%BE%8E%E7%B6%B2%E7%B4%85%E6%9B%9D%E4%BB%96%E6%8F%90-%E8%B6%85%E7%86%B1%E8%A1%80%E8%A8%88%E7%95%AB-%E5%BE%8C%E6%82%94%E6%9C%AA%E9%A6%AC%E4%B8%8A%E7%AD%94%E6%87%89-044500716.html"
-        }
-      ]
-    },
-    {
-      "topic": "Ternary Bonsai 2.5 27B",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Ternary Bonsai 2.5 27B」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Ternary Bonsai 2.5 27B」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Google releases Cogentic papers on integer factorization, discrete logs and more」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +167,44 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Ternary Bonsai 2.5 27B",
-          "url": "https://prismml.com/news/bonsai-2-5-27b"
+          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
+        }
+      ]
+    },
+    {
+      "topic": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "SYSTEM × SECOND ORDER",
+      "title": "當「Button Sounds – collection of professionally-recorded button clicks and presses」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「Button Sounds – collection of professionally-recorded button clicks and presses」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+          "url": "https://buttons.joshwcomeau.com/"
         }
       ]
     }
