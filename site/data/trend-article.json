@@ -1,81 +1,89 @@
 {
-  "generated_at": "2026-11-26T03:21:17+08:00",
+  "generated_at": "2026-11-26T11:36:14+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "source": "HACKER NEWS",
-      "score": 94,
-      "traffic": "928 pts / 524 comments",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "351 pts / 266 comments",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "source": "HACKER NEWS",
-      "score": 91,
-      "traffic": "755 pts / 120 comments",
-      "url": "https://buttons.joshwcomeau.com/",
+      "score": 95,
+      "traffic": "1015 pts / 865 comments",
+      "url": "https://scottaaronson.blog/?p=10379",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "1Password Security Incident",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "411 pts / 180 comments",
+      "score": 94,
+      "traffic": "1235 pts / 520 comments",
       "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "263 pts / 156 comments",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "traffic": "323 pts / 152 comments",
+      "url": "https://github.com/lsernau/grh-lean",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "高鐵",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 88,
-      "traffic": "5000+",
-      "url": "https://www.cna.com.tw/news/aloc/202611250190.aspx",
-      "context": "籲檢調嚴查嚴辦陳其邁：境外勢力介入台灣選舉要不得| 地方"
     },
     {
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "327 pts / 84 comments",
+      "score": 89,
+      "traffic": "449 pts / 111 comments",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "source": "HACKER NEWS",
+      "score": 89,
+      "traffic": "242 pts / 195 comments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "勇士 對 國王",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 88,
+      "traffic": "5000+",
+      "url": "https://tw.sports.yahoo.com/news/nba-%E9%80%9941%E6%AD%B2-%E8%A9%B9%E5%A7%86%E6%96%AF%E7%B9%B325%E5%88%86%E5%A4%A7%E4%B8%89%E5%85%83%E9%82%84%E5%AF%AB-%E5%A0%86%E7%B4%80%E9%8C%84-%E5%8A%A9%E4%B8%83%E5%85%AD%E4%BA%BA%E6%BE%86%E7%86%84%E7%86%B1%E7%81%AB-011225732.html",
+      "context": "NBA》這41歲？詹姆斯繳25分大三元還寫一堆紀錄 助七六人澆熄熱火"
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "source": "HACKER NEWS",
+      "score": 88,
+      "traffic": "275 pts / 80 comments",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "171 pts / 83 comments",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
       "source": "HACKER NEWS",
       "score": 85,
-      "traffic": "121 pts / 59 comments",
-      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "traffic": "127 pts / 57 comments",
+      "url": "https://news.ycombinator.com/item?id=50649864",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
       "source": "HACKER NEWS",
       "score": 84,
-      "traffic": "99 pts / 36 comments",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "traffic": "99 pts / 32 comments",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "曾聖凱",
+      "title": "拓荒者 對 馬刺",
       "source": "GOOGLE TRENDS / TW",
       "score": 82,
       "traffic": "500+",
@@ -83,33 +91,25 @@
       "context": ""
     },
     {
-      "title": "Predicting LoRA size for any dataset",
+      "title": "Bare Metal Qwen",
       "source": "HACKER NEWS",
-      "score": 81,
-      "traffic": "65 pts / 6 comments",
-      "url": "https://engram.com/blog/lora-size",
+      "score": 82,
+      "traffic": "79 pts / 16 comments",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "屍速禁區",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 79,
-      "traffic": "200+",
-      "url": "https://tw.news.yahoo.com/%E6%9A%B4%E9%9B%AA-%E6%8B%BF%E4%B8%8B%E9%9F%93%E5%9C%8B%E9%A6%96%E9%80%B1%E6%9C%AB%E7%A5%A8%E6%88%BF%E5%86%A0%E8%BB%8D-%E5%85%B7%E6%95%99%E7%85%A5%E6%88%B2%E8%A3%A1%E6%88%B2%E5%A4%96%E6%84%9B%E9%BB%8F%E5%89%8D%E8%BC%A9%E9%87%91%E5%80%AB%E5%A5%AD-101045238.html",
-      "context": "《暴雪》拿下韓國首週末票房冠軍 具教煥戲裡戲外愛黏前輩金倫奭"
     }
   ],
   "articles": [
     {
-      "topic": "The matrix multiplication exponent is nine fourths [pdf]",
+      "topic": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「The matrix multiplication exponent is nine fourths [pdf]」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The matrix multiplication exponent is nine fourths [pdf]」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The matrix multiplication exponent is nine fourths [pdf]",
-          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "url": "https://scottaaronson.blog/?p=10379"
         }
       ]
     },
     {
-      "topic": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "topic": "1Password Security Incident",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「Google releases Cogentic papers on integer factorization, discrete logs and more」開始升溫，我們真正該看的不是熱度",
+      "title": "當「1Password Security Incident」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Google releases Cogentic papers on integer factorization, discrete logs and more」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「1Password Security Incident」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
+          "title": "1Password Security Incident",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
         }
       ]
     },
     {
-      "topic": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "topic": "Much shorter version of GRH Lean verification from Anthropic",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「Button Sounds – collection of professionally-recorded button clicks and presses」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Much shorter version of GRH Lean verification from Anthropic」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Button Sounds – collection of professionally-recorded button clicks and presses」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Much shorter version of GRH Lean verification from Anthropic」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-          "url": "https://buttons.joshwcomeau.com/"
+          "title": "Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://github.com/lsernau/grh-lean"
         }
       ]
     }
