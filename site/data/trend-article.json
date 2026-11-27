@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-11-27T00:58:58+08:00",
+  "generated_at": "2026-11-27T09:45:41+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "source": "HACKER NEWS",
-      "score": 97,
-      "traffic": "1838 pts / 1686 comments",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "score": 91,
+      "traffic": "268 pts / 335 comments",
+      "url": "https://github.com/antonpictures/youtube-punisher",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "1Password Security Incident",
+      "title": "Intel One Mono font (2023)",
       "source": "HACKER NEWS",
-      "score": 95,
-      "traffic": "1586 pts / 687 comments",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "source": "HACKER NEWS",
-      "score": 92,
-      "traffic": "537 pts / 459 comments",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "Intel One Mono font",
-      "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "321 pts / 192 comments",
+      "score": 91,
+      "traffic": "466 pts / 238 comments",
       "url": "https://github.com/intel/intel-one-mono",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "title": "AI made self-hosting fun again",
       "source": "HACKER NEWS",
       "score": 89,
-      "traffic": "309 pts / 130 comments",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "traffic": "302 pts / 157 comments",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Tell HN: Happy Thanksgiving",
+      "title": "AMD-specific fork of llama.cpp",
       "source": "HACKER NEWS",
       "score": 88,
-      "traffic": "317 pts / 89 comments",
-      "url": "https://news.ycombinator.com/item?id=50655664",
+      "traffic": "284 pts / 71 comments",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "197 pts / 41 comments",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "score": 87,
+      "traffic": "233 pts / 48 comments",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "source": "HACKER NEWS",
+      "score": 87,
+      "traffic": "211 pts / 93 comments",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "Rvoip: VoIP stack in Rust",
       "source": "HACKER NEWS",
       "score": 83,
-      "traffic": "59 pts / 37 comments",
-      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "traffic": "86 pts / 17 comments",
+      "url": "https://github.com/eisenzopf/rvoip",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "吳崢",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://tw.news.yahoo.com/%E5%BC%B5%E7%B6%AD%E5%80%A9%E5%90%88%E9%AB%94%E5%90%B3%E5%B4%A2%E5%B1%95%E9%96%8B%E8%BB%8A%E6%8E%83-%E5%87%BA%E9%9D%A2%E9%97%A2%E8%AC%A0%E5%9C%B0%E6%96%B9-%E9%85%8D%E7%A5%A8%E5%82%B3%E8%A8%80-151011627.html",
-      "context": "張維倩合體吳崢展開車掃 出面闢謠地方「配票傳言」"
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "74 pts / 36 comments",
+      "url": "https://olumino.app",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "蔣友青",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.setn.com/news/1945430",
-      "context": "投票日剩2天！蔣友青「人在中國河北」被問回台投票嗎？4字表態了"
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "source": "HACKER NEWS",
+      "score": 83,
+      "traffic": "86 pts / 18 comments",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "context": "High-engagement technology discussion"
     },
     {
-      "title": "Kagi Watch",
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "23 pts / 29 comments",
-      "url": "https://kagi.com/watch",
+      "traffic": "57 pts / 10 comments",
+      "url": "https://bui.preetham.top/charts/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Curiosity Is No Solo Act",
+      "title": "George Whitesides, 1939-2026",
       "source": "HACKER NEWS",
       "score": 81,
-      "traffic": "55 pts / 14 comments",
-      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "traffic": "63 pts / 7 comments",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "低軌衛星概念股",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 79,
+      "traffic": "200+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
     }
   ],
   "articles": [
     {
-      "topic": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "topic": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
-      "title": "當「Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening」開始升溫，我們真正該看的不是熱度",
+      "title": "當「YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -131,21 +131,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-          "url": "https://scottaaronson.blog/?p=10379"
+          "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+          "url": "https://github.com/antonpictures/youtube-punisher"
         }
       ]
     },
     {
-      "topic": "1Password Security Incident",
+      "topic": "Intel One Mono font (2023)",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "TECH × ECONOMICS",
-      "title": "當「1Password Security Incident」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Intel One Mono font (2023)」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「1Password Security Incident」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Intel One Mono font (2023)」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -167,21 +167,21 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "1Password Security Incident",
-          "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
+          "title": "Intel One Mono font (2023)",
+          "url": "https://github.com/intel/intel-one-mono"
         }
       ]
     },
     {
-      "topic": "The New York Times warns photographers not to update Photoshop over AI features",
+      "topic": "AI made self-hosting fun again",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「The New York Times warns photographers not to update Photoshop over AI features」開始升溫，我們真正該看的不是熱度",
+      "title": "當「AI made self-hosting fun again」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「The New York Times warns photographers not to update Photoshop over AI features」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「AI made self-hosting fun again」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "The New York Times warns photographers not to update Photoshop over AI features",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting"
         }
       ]
     }
