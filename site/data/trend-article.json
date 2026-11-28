@@ -1,109 +1,145 @@
 {
-  "generated_at": "2026-11-28T07:29:37+08:00",
+  "generated_at": "2026-11-28T15:55:56+08:00",
   "mode": "LOCAL / AUTO SIGNAL SYNTHESIS",
   "signals": [
     {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "source": "HACKER NEWS",
+      "score": 91,
+      "traffic": "421 pts / 260 comments",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "context": "High-engagement technology discussion"
+    },
+    {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "380 pts / 199 comments",
+      "score": 91,
+      "traffic": "504 pts / 260 comments",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "Michael Nielsen took down his book on neural nets",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "source": "HACKER NEWS",
-      "score": 90,
-      "traffic": "310 pts / 195 comments",
-      "url": "https://neuralnetworksanddeeplearning.com/",
-      "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "221 pts / 152 comments",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "score": 89,
+      "traffic": "327 pts / 134 comments",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
       "source": "HACKER NEWS",
-      "score": 88,
-      "traffic": "314 pts / 106 comments",
+      "score": 89,
+      "traffic": "367 pts / 124 comments",
       "url": "https://bouncemarket.minhanhday.com/",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "title": "The Balatro Timeline",
       "source": "HACKER NEWS",
-      "score": 87,
-      "traffic": "195 pts / 102 comments",
-      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "score": 88,
+      "traffic": "285 pts / 63 comments",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
       "context": "High-engagement technology discussion"
     },
     {
       "title": "Convex skills send the user's app idea to a remote server without telling them",
       "source": "HACKER NEWS",
-      "score": 86,
-      "traffic": "201 pts / 57 comments",
+      "score": 88,
+      "traffic": "289 pts / 92 comments",
       "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "First images of the impact of DART asteroid deflection experiment",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
       "source": "HACKER NEWS",
       "score": 86,
-      "traffic": "178 pts / 54 comments",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "traffic": "194 pts / 32 comments",
+      "url": "https://unkernel.dev",
       "context": "High-engagement technology discussion"
-    },
-    {
-      "title": "生肖",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 84,
-      "traffic": "1000+",
-      "url": "https://tw.news.yahoo.com/%E8%B2%A1%E9%81%8B%E6%93%8B%E4%B8%8D%E4%BD%8F-2027%E5%B9%B4%E6%9C%80%E6%97%BA-3%E7%94%9F%E8%82%96-%E7%AC%AC-%E5%90%8D%E8%B2%B4%E4%BA%BA%E9%80%81%E4%B8%8A%E9%96%80-104300660.html",
-      "context": "財運擋不住！2027年最旺「3生肖」 第一名貴人送上門"
     },
     {
       "title": "Citroën Hydraulic System",
       "source": "HACKER NEWS",
-      "score": 84,
-      "traffic": "112 pts / 38 comments",
+      "score": 86,
+      "traffic": "180 pts / 57 comments",
       "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
       "context": "High-engagement technology discussion"
     },
     {
-      "title": "退休",
+      "title": "高雄投票率",
       "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.cardu.com.tw/news/detail.php?66874",
-      "context": "勞退金勞保給付不一樣 採一次領月領想清楚"
+      "score": 84,
+      "traffic": "1000+",
+      "url": "https://www.mirrormedia.mg/story/20261128edi033",
+      "context": "「一長一短」都白色！他怕亮票投錯票匭好懊惱 選委會：依然算數"
     },
     {
-      "title": "年金",
-      "source": "GOOGLE TRENDS / TW",
-      "score": 82,
-      "traffic": "500+",
-      "url": "https://www.ctee.com.tw/news/20261126701367-430104",
-      "context": "明天刷存摺！勞保局4項給付同日入帳 勞保年金能領多少、勞退為何按季發？"
-    },
-    {
-      "title": "The AT&T Unix PC (3B1) VM",
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
       "source": "HACKER NEWS",
-      "score": 80,
-      "traffic": "46 pts / 7 comments",
-      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "score": 83,
+      "traffic": "80 pts / 18 comments",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
       "context": "High-engagement technology discussion"
+    },
+    {
+      "title": "coco 買 一 送 一",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://trends.google.com/trending?geo=TW",
+      "context": ""
+    },
+    {
+      "title": "胡瓜",
+      "source": "GOOGLE TRENDS / TW",
+      "score": 82,
+      "traffic": "500+",
+      "url": "https://tw.news.yahoo.com/%E4%B9%9D%E5%90%88-%E9%81%B8%E8%88%89-%E6%8E%A7%E6%9D%BE%E5%8B%A4%E8%B7%AF-%E5%A4%A9%E5%A4%A9%E5%83%8F%E5%81%9C%E8%BB%8A%E5%A0%B4-%E6%81%90%E8%BB%8A%E7%A6%8D-071000545.html",
+      "context": "九合一選舉／控松勤路「天天像停車場」恐車禍！胡瓜投票喊話新市長解決"
     }
   ],
   "articles": [
     {
-      "topic": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "topic": "GPT 6.2 Astra Solves a Historical Mystery",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "STRUCTURE × BEHAVIOR",
+      "title": "當「GPT 6.2 Astra Solves a Historical Mystery」開始升溫，我們真正該看的不是熱度",
+      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
+      "sections": [
+        {
+          "label": "01 / WHAT CHANGED",
+          "text": "目前的公開訊號把「GPT 6.2 Astra Solves a Historical Mystery」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+        },
+        {
+          "label": "02 / UNDER THE SURFACE",
+          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
+        },
+        {
+          "label": "03 / SECOND ORDER",
+          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
+        },
+        {
+          "label": "04 / COUNTERPOINT",
+          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
+        },
+        {
+          "label": "05 / THE QUESTION",
+          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
+        }
+      ],
+      "sources": [
+        {
+          "source": "HACKER NEWS",
+          "title": "GPT 6.2 Astra Solves a Historical Mystery",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+        }
+      ]
+    },
+    {
+      "topic": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "mode": "LOCAL / SIGNAL SYNTHESIS",
+      "angle": "TECH × ECONOMICS",
       "title": "當「Credit card skimming scripts using WebRTC found on popular shopping sites」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
@@ -137,51 +173,15 @@
       ]
     },
     {
-      "topic": "Michael Nielsen took down his book on neural nets",
-      "mode": "LOCAL / SIGNAL SYNTHESIS",
-      "angle": "TECH × ECONOMICS",
-      "title": "當「Michael Nielsen took down his book on neural nets」開始升溫，我們真正該看的不是熱度",
-      "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
-      "sections": [
-        {
-          "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「Michael Nielsen took down his book on neural nets」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
-        },
-        {
-          "label": "02 / UNDER THE SURFACE",
-          "text": "快速擴散的主題背後，通常至少有一項結構正在鬆動：成本下降、工具變得普及、規則重新配置、信任轉移，或新的入口讓原本無法參與的人進場。判斷趨勢最重要的不是預測搜尋量，而是辨認這項結構改變是否具有持續性。"
-        },
-        {
-          "label": "03 / SECOND ORDER",
-          "text": "第一層影響通常很直觀，例如更多使用、更多討論或更多投資；第二層才是長期差異真正發生的地方。平台會調整規則，工作角色會重新拆分，品牌與資本會改變分配方式，甚至原本不屬於這個市場的人也會進場。"
-        },
-        {
-          "label": "04 / COUNTERPOINT",
-          "text": "熱門也會製造錯覺。媒體集中報導、單一事件或社群情緒，都可能讓短期聲量看起來像長期需求。因此一個有用的反證問題是：如果明天熱搜消失，哪些行為、成本或制度變化仍然會留下？"
-        },
-        {
-          "label": "05 / THE QUESTION",
-          "text": "與其問這是不是下一個風口，更值得問的是：如果這個訊號代表的結構真的成立，六個月後人們會停止做哪件事，又會開始把什麼視為理所當然？"
-        }
-      ],
-      "sources": [
-        {
-          "source": "HACKER NEWS",
-          "title": "Michael Nielsen took down his book on neural nets",
-          "url": "https://neuralnetworksanddeeplearning.com/"
-        }
-      ]
-    },
-    {
-      "topic": "GPT 6.2 Astra Solves a Historical Mystery",
+      "topic": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "mode": "LOCAL / SIGNAL SYNTHESIS",
       "angle": "SYSTEM × SECOND ORDER",
-      "title": "當「GPT 6.2 Astra Solves a Historical Mystery」開始升溫，我們真正該看的不是熱度",
+      "title": "當「Google's DeepCrossAttention achieves comparable model quality up to 3x faster」開始升溫，我們真正該看的不是熱度",
       "dek": "熱門只告訴我們注意力正在移動；深度判斷要追的是成本、權力、行為與制度，究竟哪一個已經開始改變。",
       "sections": [
         {
           "label": "01 / WHAT CHANGED",
-          "text": "目前的公開訊號把「GPT 6.2 Astra Solves a Historical Mystery」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
+          "text": "目前的公開訊號把「Google's DeepCrossAttention achieves comparable model quality up to 3x faster」推到更高的注意力位置。High-engagement technology discussion。但單一熱門事件本身並不足以構成趨勢，真正值得追的是它是否開始改變人們的選擇、組織的資源配置，或原本被視為固定不變的工作流程。"
         },
         {
           "label": "02 / UNDER THE SURFACE",
@@ -203,8 +203,8 @@
       "sources": [
         {
           "source": "HACKER NEWS",
-          "title": "GPT 6.2 Astra Solves a Historical Mystery",
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
         }
       ]
     }
